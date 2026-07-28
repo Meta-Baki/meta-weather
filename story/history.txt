@@ -1,31 +1,31 @@
-<h2 style="color:#60a5fa;">🌤️ META Meteorologiya Mərkəzi – 28 iyul üçün hava proqnozu</h2>
+<h2 style="color:#60a5fa;">🌤️ META Meteorologiya Mərkəzi – 29 iyul üçün hava proqnozu</h2>
 
 <p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>, 
 <span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından 
-28 iyul tarixi üçün gözlənilən hava şəraiti barədə məlumatı təqdim edirəm.</p>
+29 iyul tarixi üçün gözlənilən hava şəraiti barədə məlumatı təqdim edirəm.</p>
 
 <p>Bakıda və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">hava əsasən açıq və yağmursuz keçəcək.</span> 
-Günün ikinci yarısında <span style="color:#f97316;font-weight:bold;">güclü şimal-qərb küləyi</span> əsəcək, daha sonra külək mülayim şimal-şərq küləyi ilə əvəz olunacaq.</p>
+Gün ərzində <span style="color:#f97316;font-weight:bold;">şimal-qərb küləyi</span> əsəcək.</p>
 
-<p><span style="color:#3b82f6;font-weight:bold;font-size:22px;">Hava isti, lakin küləkli keçəcək.</span> 
-Havanın temperaturu paytaxt və Abşeronda gecə <span style="color:#f97316;font-weight:bold;">22–25°C</span>, 
-gündüz isə <span style="color:#22c55e;font-weight:bold;font-size:22px;">29–33°C</span> təşkil edəcək.</p>
+<p><span style="color:#3b82f6;font-weight:bold;font-size:22px;">Hava isti və əsasən günəşli olacaq.</span> 
+Havanın temperaturu paytaxt və Abşeronda gecə <span style="color:#f97316;font-weight:bold;">23–25°C</span>, 
+gündüz isə <span style="color:#ef4444;font-weight:bold;font-size:22px;">31–36°C</span> təşkil edəcək.</p>
 
 <p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">759 mm civə sütunu</span> olacaq. 
-Nisbi rütubət gecə <span style="color:#60a5fa;font-weight:bold;">70–75%</span>, gündüz isə 
-<span style="color:#60a5fa;font-weight:bold;">50–60%</span> təşkil edəcək.</p>
+Nisbi rütubət gecə <span style="color:#60a5fa;font-weight:bold;">70–80%</span>, gündüz isə 
+<span style="color:#60a5fa;font-weight:bold;">40–50%</span> təşkil edəcək.</p>
 
-<p>Azərbaycanın rayonlarında hava əsasən <span style="color:#22c55e;font-weight:bold;">açıq və yağmursuz</span> olacaq. 
-Bəzi dağlıq ərazilərdə duman müşahidə oluna bilər. Qərb küləyi arabir güclü əsəcək.</p>
+<p>Azərbaycanın rayonlarında <span style="color:#22c55e;font-weight:bold;">yağıntı əsasən gözlənilmir.</span> 
+Bəzi dağlıq ərazilərdə duman müşahidə oluna bilər. Qərb küləyi mülayim əsəcək.</p>
 
 <p>Rayonlarda havanın temperaturu gecə <span style="color:#f97316;font-weight:bold;">22–27°C</span>, 
 gündüz isə <span style="color:#ef4444;font-weight:bold;">35–39°C</span>, bəzi yerlərdə 
-<span style="color:#dc2626;font-weight:bold;">40–41°C</span> isti olacaq. 
+<span style="color:#dc2626;font-weight:bold;">40°C</span> isti olacaq. 
 Dağlıq ərazilərdə gecə <span style="color:#60a5fa;font-weight:bold;">15–20°C</span>, 
 gündüz isə <span style="color:#22c55e;font-weight:bold;">25–30°C</span> isti gözlənilir.</p>
 
 <p style="color:#f97316;font-size:20px;font-weight:bold;">
-💨 Xəbərdarlıq: Bakıda və Abşeron yarımadasında günün ikinci yarısında güclü şimal-qərb küləyi gözlənilir. Açıq ərazilərdə, yüksək binaların yaxınlığında və dəniz sahilində ehtiyatlı olmaq tövsiyə olunur.
+⚠️ Xəbərdarlıq: İsti hava şəraiti davam edəcək. Günorta saatlarında uzun müddət birbaşa günəş altında qalmaqdan çəkinmək və kifayət qədər maye qəbul etmək tövsiyə olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
