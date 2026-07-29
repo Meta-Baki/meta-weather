@@ -1,0 +1,24 @@
+{
+  "name": "META Meteoroloji Elan Təxmini Abşeron",
+  "short_name": "META Weather",
+  "description": "Bakı və Abşeron üçün hava proqnozu və meteoroloji məlumatlar",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07133a",
+  "theme_color": "#07133a",
+  "orientation": "portrait",
+  "lang": "az",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
