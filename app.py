@@ -456,6 +456,11 @@ Sitemap: https://meta-baki1.onrender.com/sitemap.xml
     )
 
 
+@app.route("/sitemap.xml")
+def sitemap():
+    return send_from_directory(".", "sitemap.xml")
+
+
 # ---------------- RUN ----------------
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
