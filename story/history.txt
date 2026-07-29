@@ -1,31 +1,32 @@
-<h2 style="color:#60a5fa;">🌤️ META Meteorologiya Mərkəzi – 29 iyul üçün hava proqnozu</h2>
+<h2 style="color:#60a5fa;">🌤️ META Meteorologiya Mərkəzi – 30 iyul üçün hava proqnozu</h2>
 
-<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>, 
-<span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından 
-29 iyul tarixi üçün gözlənilən hava şəraiti barədə məlumatı təqdim edirəm.</p>
+<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>,
+<span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından
+30 iyul tarixi üçün gözlənilən hava şəraiti barədə məlumatı təqdim edirəm.</p>
 
-<p>Bakıda və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">hava əsasən açıq və yağmursuz keçəcək.</span> 
-Gün ərzində <span style="color:#f97316;font-weight:bold;">şimal-qərb küləyi</span> əsəcək.</p>
+<p>Bakıda və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">hava əsasən açıq və yağmursuz keçəcək.</span>
+Gün ərzində <span style="color:#f97316;font-weight:bold;">mülayim şimal-qərb küləyi</span> əsəcək, arabir güclənəcəyi gözlənilir.</p>
 
-<p><span style="color:#3b82f6;font-weight:bold;font-size:22px;">Hava isti və əsasən günəşli olacaq.</span> 
-Havanın temperaturu paytaxt və Abşeronda gecə <span style="color:#f97316;font-weight:bold;">23–25°C</span>, 
-gündüz isə <span style="color:#ef4444;font-weight:bold;font-size:22px;">31–36°C</span> təşkil edəcək.</p>
+<p><span style="color:#3b82f6;font-weight:bold;font-size:22px;">Hava əvvəlki günlərlə müqayisədə bir qədər sərin keçəcək.</span>
+Havanın temperaturu paytaxt və Abşeronda gecə <span style="color:#f97316;font-weight:bold;">24–26°C</span>,
+gündüz isə <span style="color:#22c55e;font-weight:bold;font-size:22px;">29–33°C</span> təşkil edəcək.</p>
 
-<p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">759 mm civə sütunu</span> olacaq. 
-Nisbi rütubət gecə <span style="color:#60a5fa;font-weight:bold;">70–80%</span>, gündüz isə 
-<span style="color:#60a5fa;font-weight:bold;">40–50%</span> təşkil edəcək.</p>
+<p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">761 mm civə sütunu</span> olacaq.
+Nisbi rütubət gecə <span style="color:#60a5fa;font-weight:bold;">60–70%</span>, gündüz isə
+<span style="color:#60a5fa;font-weight:bold;">50–55%</span> təşkil edəcək.</p>
 
-<p>Azərbaycanın rayonlarında <span style="color:#22c55e;font-weight:bold;">yağıntı əsasən gözlənilmir.</span> 
-Bəzi dağlıq ərazilərdə duman müşahidə oluna bilər. Qərb küləyi mülayim əsəcək.</p>
+<p>Azərbaycanın rayonlarında hava əsasən yağmursuz keçəcək. Lakin bəzi dağlıq və dağətəyi rayonlarda
+<span style="color:#3b82f6;font-weight:bold;">arabir yağış</span>,
+yerli leysan xarakterli və intensiv yağıntılar, <span style="color:#a855f7;font-weight:bold;">şimşək və dolu</span>
+gözlənilir. Dağlıq ərazilərdə duman müşahidə olunacaq. Şərq küləyi arabir güclənəcək.</p>
 
-<p>Rayonlarda havanın temperaturu gecə <span style="color:#f97316;font-weight:bold;">22–27°C</span>, 
-gündüz isə <span style="color:#ef4444;font-weight:bold;">35–39°C</span>, bəzi yerlərdə 
-<span style="color:#dc2626;font-weight:bold;">40°C</span> isti olacaq. 
-Dağlıq ərazilərdə gecə <span style="color:#60a5fa;font-weight:bold;">15–20°C</span>, 
-gündüz isə <span style="color:#22c55e;font-weight:bold;">25–30°C</span> isti gözlənilir.</p>
+<p>Rayonlarda havanın temperaturu gecə <span style="color:#f97316;font-weight:bold;">21–26°C</span>,
+gündüz isə <span style="color:#ef4444;font-weight:bold;">35–39°C</span> təşkil edəcək.
+Dağlıq ərazilərdə gecə <span style="color:#60a5fa;font-weight:bold;">15–20°C</span>,
+gündüz isə <span style="color:#22c55e;font-weight:bold;">23–28°C</span> isti gözlənilir.</p>
 
 <p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ Xəbərdarlıq: İsti hava şəraiti davam edəcək. Günorta saatlarında uzun müddət birbaşa günəş altında qalmaqdan çəkinmək və kifayət qədər maye qəbul etmək tövsiyə olunur.
+⛈️ Xəbərdarlıq: Dağlıq və dağətəyi rayonlarda qısamüddətli leysan yağışları, şimşək və dolu ehtimalı var. Həmin ərazilərdə yaşayan və səfər edən vətəndaşlara ehtiyatlı olmaları tövsiyə olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
