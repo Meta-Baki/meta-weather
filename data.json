@@ -1,10 +1,10 @@
 {
-  "temp": 15.5,
-  "humidity": 75.0,
-  "pressure": 1006.0,
-  "wind_ms": 0.56,
-  "wind_gust_ms": 0.56,
-  "wind_dir": 270,
+  "temp": 28.5,
+  "humidity": 62.0,
+  "pressure": 995.0,
+  "wind_ms": 4.0,
+  "wind_gust_ms": 9.0,
+  "wind_dir": 180,
   "rain_1h": 0.0,
-  "rain_24h": 7.0
+  "rain_24h": 0.0
 }
