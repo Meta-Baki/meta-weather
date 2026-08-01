@@ -1,27 +1,27 @@
-<h2 style="color:#60a5fa;">🌤️ META Meteorologiya Mərkəzi – 1 avqust üçün hava proqnozu</h2>
+<h2 style="color:#60a5fa;">🌤️ META Meteorologiya Mərkəzi – 2 avqust üçün hava proqnozu</h2>
 
 <p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>,
 <span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından
-1 avqust tarixi üçün gözlənilən hava şəraiti barədə məlumatı təqdim edirəm.</p>
+2 avqust tarixi üçün gözlənilən hava şəraiti barədə məlumatı təqdim edirəm.</p>
 
 <p>Bakıda və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">hava əsasən açıq və yağmursuz keçəcək.</span>
-Səhər və günün birinci yarısında <span style="color:#f97316;font-weight:bold;">şimal-qərb küləyi</span> əsəcək, günorta saatlarından etibarən isə <span style="color:#3b82f6;font-weight:bold;">şimal-şərq küləyi</span> ilə əvəz olunacaq.</p>
+Gün ərzində <span style="color:#f97316;font-weight:bold;">mülayim şimal-qərb küləyi</span> üstünlük təşkil edəcək.</p>
 
-<p><span style="color:#3b82f6;font-weight:bold;font-size:22px;">Küləyin orta sürəti təxminən 5–10 m/s (18–36 km/saat), arabir 12–15 m/s (43–54 km/saat) güclənə bilər.</span></p>
+<p><span style="color:#3b82f6;font-weight:bold;font-size:22px;">Küləyin orta sürəti təxminən 5–9 m/s (18–32 km/saat), arabir 10–12 m/s (36–43 km/saat) güclənə bilər.</span></p>
 
 <p><span style="color:#ef4444;font-weight:bold;font-size:22px;">Hava isti və günəşli keçəcək.</span>
-Havanın temperaturu paytaxt və Abşeronda gecə <span style="color:#f97316;font-weight:bold;">22–25°C</span>,
-gündüz isə <span style="color:#ef4444;font-weight:bold;font-size:22px;">31–36°C</span> təşkil edəcək.</p>
+Havanın temperaturu paytaxt və Abşeronda gecə <span style="color:#f97316;font-weight:bold;">23–26°C</span>,
+gündüz isə <span style="color:#ef4444;font-weight:bold;font-size:22px;">29–34°C</span> təşkil edəcək.</p>
 
-<p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">769 mm civə sütunu (təxminən 1025 hPa)</span> olacaq.
+<p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">760 mm civə sütunu (təxminən 1013 hPa)</span> olacaq.
 Nisbi rütubət gecə <span style="color:#60a5fa;font-weight:bold;">70–75%</span>, gündüz isə
-<span style="color:#60a5fa;font-weight:bold;">50–55%</span> təşkil edəcək.</p>
+<span style="color:#60a5fa;font-weight:bold;">45–50%</span> təşkil edəcək.</p>
 
 <p>Azərbaycanın bəzi dağlıq rayonlarında günün ikinci yarısında
-<span style="color:#3b82f6;font-weight:bold;">qısamüddətli yağış və şimşək</span> ehtimalı var.
-Gecə və səhər saatlarında dağlıq ərazilərdə duman müşahidə olunacaq.
-Şərq küləyi əsasən <span style="color:#f97316;font-weight:bold;">4–9 m/s (14–32 km/saat)</span>,
-arabir <span style="color:#ef4444;font-weight:bold;">12 m/s (43 km/saat)</span>-dək güclənə bilər.</p>
+<span style="color:#3b82f6;font-weight:bold;">qısamüddətli yağış və şimşək</span> ehtimal olunur.
+Gecə və səhər saatlarında dağlıq ərazilərdə duman müşahidə ediləcək.
+Şərq küləyi əsasən <span style="color:#f97316;font-weight:bold;">4–8 m/s (14–29 km/saat)</span>,
+arabir <span style="color:#ef4444;font-weight:bold;">10–12 m/s (36–43 km/saat)</span>-dək güclənə bilər.</p>
 
 <p>Rayonlarda havanın temperaturu gecə <span style="color:#f97316;font-weight:bold;">22–26°C</span>,
 gündüz isə <span style="color:#ef4444;font-weight:bold;">34–39°C</span> təşkil edəcək.
@@ -29,7 +29,7 @@ Dağlıq ərazilərdə gecə <span style="color:#60a5fa;font-weight:bold;">15–
 gündüz isə <span style="color:#22c55e;font-weight:bold;">23–28°C</span> isti gözlənilir.</p>
 
 <p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ Xəbərdarlıq: Günorta saatlarında isti hava şəraiti davam edəcək. Dağlıq rayonlarda isə günün ikinci yarısında qısamüddətli yağış və şimşək ehtimalı var. Açıq havada uzun müddət qalan şəxslərə günəşdən qorunmaq və kifayət qədər maye qəbul etmək tövsiyə olunur.
+⚠️ Xəbərdarlıq: Günorta saatlarında isti hava şəraiti davam edəcək. Bəzi dağlıq rayonlarda qısamüddətli yağış və şimşək ehtimalı var. Açıq havada uzun müddət qalan şəxslərə günəşdən qorunmaq və kifayət qədər maye qəbul etmək tövsiyə olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
