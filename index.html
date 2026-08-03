@@ -613,6 +613,10 @@ td:last-child {
         📰 Məlumat
     </button>
 
+    <button onclick="openSection('spaceSection')">
+        ☀️ Günəş və kosmos
+    </button>
+
 </div>
 
 <!-- HOME -->
@@ -892,6 +896,31 @@ td:last-child {
     </div>
 
     <div id="historyContent" style="
+        text-align:left;
+        line-height:1.9;
+        font-size:20px;
+        background:rgba(15,23,42,0.25);
+        padding:25px;
+        border-radius:18px;
+        position:relative;
+    ">
+        Yüklənir...
+    </div>
+
+</div>
+
+<div class="box section" id="spaceSection" style="margin-top:-40px;">
+
+    <h1>☀️ Günəş və kosmos</h1>
+
+    <div style="
+        margin-bottom:70px;
+        opacity:0.8;
+    ">
+        Günəş aktivliyi, geomaqnit qasırğaları, zəlzələlər və digər təbiət hadisələri.
+    </div>
+
+    <div id="spaceContent" style="
         text-align:left;
         line-height:1.9;
         font-size:20px;
@@ -2207,6 +2236,26 @@ async function loadHistory(){
     }
 }
 
+async function loadSpace() {
+
+    try {
+
+        const r = await fetch("/space_content");
+        const d = await r.json();
+
+        document.getElementById("spaceContent").innerHTML = `
+            <img src="${d.image}" style="width:100%;max-width:500px;border-radius:15px;margin-bottom:20px;">
+            ${d.text}
+        `;
+
+    } catch {
+
+        document.getElementById("spaceContent").innerHTML =
+            "❌ Məlumat tapılmadı.";
+
+    }
+}
+
 window.onload = function () {
 
     loadStation();
@@ -2216,6 +2265,7 @@ window.onload = function () {
     initMap();
     loadMiniChart();
     loadHistory();
+    loadSpace();
 
     setInterval(loadMiniChart, 60000);
 
