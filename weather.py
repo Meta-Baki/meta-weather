@@ -9,9 +9,9 @@ from colorama import init, Fore
 init(autoreset=True)
 
 # --- DEVICE ---
-DEVICE_ID = "bff26141d68abf0be9jwr7"
-IP = "192.168.100.191"
-LOCAL_KEY = "Yp1G+gWm9.rW+54Y"
+DEVICE_ID = "bfc40bfc3420fff932jxad"
+IP = "192.168.1.68"
+LOCAL_KEY = "<K5T~H+=imu:9*pH"
 VERSION = 3.5
 
 # --- WEATHER UNDERGROUND ---
@@ -278,12 +278,12 @@ while True:
 
         if current_hour in report_hours and last_report_hour != current_hour:
             with open(log_3h, "a", encoding="utf-8") as f:
-                f.write("\n=== ОТЧЁТ ===\n")
+                f.write("\n|=== ОТЧЁТ ===\n")
                 f.write(log_line)
             last_report_hour = current_hour
 
         try:
-            requests.post("https://meta-baki-az.onrender.com/update", json={
+            requests.post("https://meta-baki1.onrender.com/update", json={
                 "temp": temp_out,
                 "humidity": humidity_out,
                 "pressure": pressure,
