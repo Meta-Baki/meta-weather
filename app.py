@@ -440,15 +440,15 @@ def space_content():
     text = ""
 
     try:
-        with open("story/space.txt", "r", encoding="utf-8") as f:
+        with open("story/space/space.txt", "r", encoding="utf-8") as f:
             text = f.read()
     except:
         text = "Məlumat tapılmadı."
 
-    image_path = "/story/space.jpg"
+    image_path = "/story/space/space.jpg"
 
-    if os.path.exists("story/space.png"):
-        image_path = "/story/space.png"
+    if os.path.exists("story/space/space.png"):
+        image_path = "/story/space/space.png"
 
     return jsonify({
         "text": text,
