@@ -434,6 +434,28 @@ def history_content():
     return jsonify({"text": text, "image": image_path})
 
 
+@app.route("/space_content")
+def space_content():
+
+    text = ""
+
+    try:
+        with open("story/space.txt", "r", encoding="utf-8") as f:
+            text = f.read()
+    except:
+        text = "Məlumat tapılmadı."
+
+    image_path = "/story/space.jpg"
+
+    if os.path.exists("story/space.png"):
+        image_path = "/story/space.png"
+
+    return jsonify({
+        "text": text,
+        "image": image_path
+    })
+
+
 @app.route('/story/<path:filename>')
 def story_files(filename):
     return send_from_directory('story', filename)
