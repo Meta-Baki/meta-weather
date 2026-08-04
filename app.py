@@ -456,6 +456,28 @@ def space_content():
     })
 
 
+@app.route("/meta_content")
+def meta_content():
+
+    text = ""
+
+    try:
+        with open("story/meta/meta.txt", "r", encoding="utf-8") as f:
+            text = f.read()
+    except:
+        text = "Məlumat tapılmadı."
+
+    image_path = "/story/meta/meta.jpg"
+
+    if os.path.exists("story/meta/meta.png"):
+        image_path = "/story/meta/meta.png"
+
+    return jsonify({
+        "text": text,
+        "image": image_path
+    })
+
+
 @app.route('/story/<path:filename>')
 def story_files(filename):
     return send_from_directory('story', filename)
