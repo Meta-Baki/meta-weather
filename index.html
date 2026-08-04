@@ -613,6 +613,10 @@ td:last-child {
         ☀️ Günəş və kosmos
     </button>
 
+    <button onclick="openSection('metaSection')">
+        📰 META xəbər
+    </button>
+
     <button onclick="openSection('helpSection')">
         📰 Məlumat
     </button>
@@ -921,6 +925,31 @@ td:last-child {
     </div>
 
     <div id="spaceContent" style="
+        text-align:left;
+        line-height:1.9;
+        font-size:20px;
+        background:rgba(15,23,42,0.25);
+        padding:25px;
+        border-radius:18px;
+        position:relative;
+    ">
+        Yüklənir...
+    </div>
+
+</div>
+
+<div class="box section" id="metaSection" style="margin-top:-40px;">
+
+    <h1>📰 META xəbər</h1>
+
+    <div style="
+        margin-bottom:70px;
+        opacity:0.8;
+    ">
+        META platforması haqqında son xəbərlər və yeniliklər.
+    </div>
+
+    <div id="metaContent" style="
         text-align:left;
         line-height:1.9;
         font-size:20px;
@@ -2256,6 +2285,26 @@ async function loadSpace() {
     }
 }
 
+async function loadMeta() {
+
+    try {
+
+        const r = await fetch("/meta_content");
+        const d = await r.json();
+
+        document.getElementById("metaContent").innerHTML = `
+            <img src="${d.image}" style="width:100%;max-width:500px;border-radius:15px;margin-bottom:20px;">
+            ${d.text}
+        `;
+
+    } catch {
+
+        document.getElementById("metaContent").innerHTML =
+            "❌ Məlumat tapılmadı.";
+
+    }
+}
+
 window.onload = function () {
 
     loadStation();
@@ -2266,6 +2315,7 @@ window.onload = function () {
     loadMiniChart();
     loadHistory();
     loadSpace();
+    loadMeta();
 
     setInterval(loadMiniChart, 60000);
 
