@@ -54,3 +54,7 @@ Böyükşor qəsəbəsinin bəzi ərazilərində elektrik enerjisinin verilişi
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
 ✍️ Mənbə: "Azərişıq" ASC
 </p>
+
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">
+👨‍💼 Müəllif: Peşəkar meteoroloq Edelman Əliyev
+</p>
