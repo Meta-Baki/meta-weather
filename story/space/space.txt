@@ -1,45 +1,74 @@
-<h2 style="color:#a855f7;">🧲 META Meteorologiya Mərkəzi – 3–9 avqust 2026-cı il üçün maqnit qasırğası proqnozu</h2>
+<h2 style="color:#f59e0b;">☀️ META Meteorologiya Mərkəzi – 4–10 avqust üçün Günəş aktivliyi proqnozu</h2>
 
 <p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>,
 <span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından
-3–9 avqust tarixləri üçün gözlənilən geomaqnit aktivliyi barədə məlumatı təqdim edirəm.</p>
+4–10 avqust tarixləri üçün gözlənilən Günəş və geomaqnit aktivliyi barədə məlumatı təqdim edirəm.</p>
 
-<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">Həftənin ilk yarısında geomaqnit vəziyyəti sakit olacaq.</span>
-Lakin həftəsonuna yaxın Günəş aktivliyi artacaq və <span style="color:#ef4444;font-weight:bold;">9 avqustda zəif maqnit qasırğası (G1)</span> müşahidə oluna bilər.</p>
+<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">Həftənin ilk yarısında Günəş aktivliyi aşağı səviyyədə olacaq.</span>
+Lakin həftənin ikinci yarısından etibarən geomaqnit aktivliyi tədricən artacaq və <span style="color:#ef4444;font-weight:bold;">9–10 avqust tarixlərində maqnit qasırğası ehtimalı yüksələcək.</span></p>
 
 <h3 style="color:#60a5fa;">📅 Günlər üzrə proqnoz</h3>
 
-<p><b>3 avqust, Bazar ertəsi</b><br>
-🟢 Kp: <b>2</b> – Geomaqnit sahəsi tam sakit olacaq.</p>
+<table style="width:100%;border-collapse:collapse;">
+<tr style="background:#1e293b;color:#fff;">
+<th style="padding:8px;border:1px solid #374151;">Tarix</th>
+<th style="padding:8px;border:1px solid #374151;">Kp</th>
+<th style="padding:8px;border:1px solid #374151;">Vəziyyət</th>
+</tr>
 
-<p><b>4 avqust, Çərşənbə axşamı</b><br>
-🟢 Kp: <b>2</b> – Gün ərzində sabit və sakit geomaqnit şəraiti gözlənilir.</p>
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">4 avqust</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">2</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟢 Sakit geomaqnit vəziyyəti</td>
+</tr>
 
-<p><b>5 avqust, Çərşənbə</b><br>
-🟢🟡 Kp: <b>2–3</b> – Cüzi dəyişikliklər mümkündür, lakin maqnit qasırğası gözlənilmir.</p>
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">5 avqust</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">2–3</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟢 Kiçik dəyişikliklər mümkündür</td>
+</tr>
 
-<p><b>6 avqust, Cümə axşamı</b><br>
-🟡 Kp: <b>3</b> – Geomaqnit sahəsi bir qədər qeyri-sabit olacaq.</p>
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">6 avqust</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#eab308;font-weight:bold;">3</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟡 Qeyri-sabit geomaqnit fon</td>
+</tr>
 
-<p><b>7 avqust, Cümə</b><br>
-🟠 Kp: <b>4</b> – Aktiv geomaqnit şəraiti. Meteohəssas insanlarda yüngül narahatlıq yarana bilər.</p>
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">7 avqust</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">4</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟠 Aktiv maqnitosfer</td>
+</tr>
 
-<p><b>8 avqust, Şənbə</b><br>
-🟠 Kp: <b>4</b> – Aktiv maqnitosfer davam edəcək, lakin hələ maqnit qasırğası səviyyəsinə çatmayacaq.</p>
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">8 avqust</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">4</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟠 Aktiv maqnitosfer davam edəcək</td>
+</tr>
 
-<p><b>9 avqust, Bazar</b><br>
-🔴 Kp: <b>5 (G1)</b> – Zəif maqnit qasırğası ehtimal olunur.</p>
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">9 avqust</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#ef4444;font-weight:bold;">5 (G1)</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🔴 Zəif maqnit qasırğası ehtimalı</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">10 avqust</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#dc2626;font-weight:bold;">6–7 (G2–G3)</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🔴 Güclü geomaqnit aktivliyi ehtimal olunur</td>
+</tr>
+</table>
 
 <p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Xəbərdarlıq: Meteohəssas insanlar, ürək-damar xəstəliklərindən əziyyət çəkənlər və yaşlı şəxslər 7–9 avqust tarixlərində səhhətlərinə daha diqqətli yanaşmalıdırlar.
+⚠️ Xəbərdarlıq: 7 avqustdan etibarən Günəş aktivliyi artmağa başlayacaq. 9–10 avqust tarixlərində meteohəssas insanlar, ürək-damar xəstəlikləri olanlar və yaşlı şəxslər səhhətlərinə daha diqqətli yanaşmalıdırlar.
 </p>
 
 <p style="color:#a855f7;font-size:20px;font-weight:bold;">
-🌞 İlkin proqnozlara əsasən, geomaqnit aktivliyinin ən güclü mərhələsi 10 avqust ətrafında gözlənilir. Həmin gün Kp indeksinin 7-yə (G3 – güclü maqnit qasırğası) yüksəlməsi ehtimal edilir.
+🌞 10 avqust tarixində Kp indeksinin 6–7 (G2–G3) səviyyəsinə yüksəlməsi ehtimal olunur. Bu, radioəlaqə və peyk sistemlərində kiçik pozuntular yarada, qütb enliklərində isə qütb parıltılarının müşahidə olunma ehtimalını artıra bilər.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Günəş aktivliyini və geomaqnit vəziyyəti fasiləsiz izləyərək yeni məlumatları operativ şəkildə paylaşacaq.
+📡 META Meteorologiya Mərkəzi Günəş aktivliyini və geomaqnit vəziyyəti fasiləsiz izləyərək proqnoz dəyişəcəyi təqdirdə operativ məlumat təqdim edəcək.
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
