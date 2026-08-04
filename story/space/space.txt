@@ -1,1 +1,47 @@
-Bu panel tezliklə əlçatan olacaq.
+<h2 style="color:#a855f7;">🧲 META Meteorologiya Mərkəzi – 3–9 avqust 2026-cı il üçün maqnit qasırğası proqnozu</h2>
+
+<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>,
+<span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından
+3–9 avqust tarixləri üçün gözlənilən geomaqnit aktivliyi barədə məlumatı təqdim edirəm.</p>
+
+<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">Həftənin ilk yarısında geomaqnit vəziyyəti sakit olacaq.</span>
+Lakin həftəsonuna yaxın Günəş aktivliyi artacaq və <span style="color:#ef4444;font-weight:bold;">9 avqustda zəif maqnit qasırğası (G1)</span> müşahidə oluna bilər.</p>
+
+<h3 style="color:#60a5fa;">📅 Günlər üzrə proqnoz</h3>
+
+<p><b>3 avqust, Bazar ertəsi</b><br>
+🟢 Kp: <b>2</b> – Geomaqnit sahəsi tam sakit olacaq.</p>
+
+<p><b>4 avqust, Çərşənbə axşamı</b><br>
+🟢 Kp: <b>2</b> – Gün ərzində sabit və sakit geomaqnit şəraiti gözlənilir.</p>
+
+<p><b>5 avqust, Çərşənbə</b><br>
+🟢🟡 Kp: <b>2–3</b> – Cüzi dəyişikliklər mümkündür, lakin maqnit qasırğası gözlənilmir.</p>
+
+<p><b>6 avqust, Cümə axşamı</b><br>
+🟡 Kp: <b>3</b> – Geomaqnit sahəsi bir qədər qeyri-sabit olacaq.</p>
+
+<p><b>7 avqust, Cümə</b><br>
+🟠 Kp: <b>4</b> – Aktiv geomaqnit şəraiti. Meteohəssas insanlarda yüngül narahatlıq yarana bilər.</p>
+
+<p><b>8 avqust, Şənbə</b><br>
+🟠 Kp: <b>4</b> – Aktiv maqnitosfer davam edəcək, lakin hələ maqnit qasırğası səviyyəsinə çatmayacaq.</p>
+
+<p><b>9 avqust, Bazar</b><br>
+🔴 Kp: <b>5 (G1)</b> – Zəif maqnit qasırğası ehtimal olunur.</p>
+
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+⚠️ Xəbərdarlıq: Meteohəssas insanlar, ürək-damar xəstəliklərindən əziyyət çəkənlər və yaşlı şəxslər 7–9 avqust tarixlərində səhhətlərinə daha diqqətli yanaşmalıdırlar.
+</p>
+
+<p style="color:#a855f7;font-size:20px;font-weight:bold;">
+🌞 İlkin proqnozlara əsasən, geomaqnit aktivliyinin ən güclü mərhələsi 10 avqust ətrafında gözlənilir. Həmin gün Kp indeksinin 7-yə (G3 – güclü maqnit qasırğası) yüksəlməsi ehtimal edilir.
+</p>
+
+<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
+📡 META Meteorologiya Mərkəzi Günəş aktivliyini və geomaqnit vəziyyəti fasiləsiz izləyərək yeni məlumatları operativ şəkildə paylaşacaq.
+</p>
+
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">
+👨‍💼 Müəllif: Peşəkar meteoroloq Edelman Əliyev
+</p>
