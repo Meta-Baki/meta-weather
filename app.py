@@ -437,45 +437,73 @@ def history_content():
 @app.route("/space_content")
 def space_content():
 
-    text = ""
+    folder = "story/space"
+    news = []
 
     try:
-        with open("story/space/space.txt", "r", encoding="utf-8") as f:
-            text = f.read()
+        files = sorted(
+            [f for f in os.listdir(folder) if f.endswith(".txt")]
+        )
+
+        for file in files:
+
+            name = os.path.splitext(file)[0]
+
+            image = None
+
+            if os.path.exists(f"{folder}/{name}.jpg"):
+                image = f"/story/space/{name}.jpg"
+            elif os.path.exists(f"{folder}/{name}.png"):
+                image = f"/story/space/{name}.png"
+
+            with open(f"{folder}/{file}", "r", encoding="utf-8") as f:
+                text = f.read()
+
+            news.append({
+                "text": text,
+                "image": image
+            })
+
     except:
-        text = "Məlumat tapılmadı."
+        pass
 
-    image_path = "/story/space/space.jpg"
-
-    if os.path.exists("story/space/space.png"):
-        image_path = "/story/space/space.png"
-
-    return jsonify({
-        "text": text,
-        "image": image_path
-    })
+    return jsonify(news)
 
 
 @app.route("/meta_content")
 def meta_content():
 
-    text = ""
+    folder = "story/meta"
+    news = []
 
     try:
-        with open("story/meta/meta.txt", "r", encoding="utf-8") as f:
-            text = f.read()
+        files = sorted(
+            [f for f in os.listdir(folder) if f.endswith(".txt")]
+        )
+
+        for file in files:
+
+            name = os.path.splitext(file)[0]
+
+            image = None
+
+            if os.path.exists(f"{folder}/{name}.jpg"):
+                image = f"/story/meta/{name}.jpg"
+            elif os.path.exists(f"{folder}/{name}.png"):
+                image = f"/story/meta/{name}.png"
+
+            with open(f"{folder}/{file}", "r", encoding="utf-8") as f:
+                text = f.read()
+
+            news.append({
+                "text": text,
+                "image": image
+            })
+
     except:
-        text = "Məlumat tapılmadı."
+        pass
 
-    image_path = "/story/meta/meta.jpg"
-
-    if os.path.exists("story/meta/meta.png"):
-        image_path = "/story/meta/meta.png"
-
-    return jsonify({
-        "text": text,
-        "image": image_path
-    })
+    return jsonify(news)
 
 
 @app.route('/story/<path:filename>')
