@@ -15,3 +15,7 @@
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
 📡 META dünya iqtisadiyyatı, meteorologiya və digər mühüm hadisələri operativ şəkildə izləyərək sizə ən son məlumatları təqdim edir.
 </p>
+
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">
+👨‍💼 Müəllif: Peşəkar meteoroloq Edelman Əliyev
+</p>
