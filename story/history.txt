@@ -1,35 +1,36 @@
-<h2 style="color:#60a5fa;">🌤️ META Meteorologiya Mərkəzi – 5 avqust üçün hava proqnozu</h2>
+<h2 style="color:#60a5fa;">🌦️ META Meteorologiya Mərkəzi – 6 avqust üçün hava proqnozu</h2>
 
 <p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>,
 <span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından
-5 avqust tarixi üçün gözlənilən hava şəraiti barədə məlumatı təqdim edirəm.</p>
+6 avqust tarixi üçün gözlənilən hava şəraiti barədə məlumatı təqdim edirəm.</p>
 
-<p>Bakıda və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">hava əsasən açıq və yağmursuz keçəcək.</span>
-Günün böyük hissəsində <span style="color:#3b82f6;font-weight:bold;">şimal-şərq küləyi</span> üstünlük təşkil edəcək, axşam saatlarında isə <span style="color:#f97316;font-weight:bold;">mülayim şimal-qərb küləyi</span> ilə əvəz olunacaq.</p>
+<p>Bakıda və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">hava əsasən yağmursuz keçəcək.</span>
+Lakin <span style="color:#3b82f6;font-weight:bold;">səhər saatlarında bəzi ərazilərdə qısamüddətli zəif yağış ehtimalı var.</span>
+Gün ərzində <span style="color:#f97316;font-weight:bold;">mülayim şimal-qərb küləyi</span> əsəcək və arabir güclənəcək.</p>
 
-<p><span style="color:#3b82f6;font-weight:bold;font-size:22px;">Küləyin orta sürəti təxminən 4–8 m/s (14–29 km/saat), arabir 10–12 m/s (36–43 km/saat) güclənə bilər.</span></p>
+<p><span style="color:#3b82f6;font-weight:bold;font-size:22px;">Küləyin orta sürəti təxminən 5–9 m/s (18–32 km/saat), arabir 10–14 m/s (36–50 km/saat) güclənə bilər.</span></p>
 
-<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">Hava isti və günəşli keçəcək.</span>
+<p><span style="color:#ef4444;font-weight:bold;font-size:22px;">Hava əvvəlki günlərlə müqayisədə bir qədər sərin keçəcək.</span>
 Havanın temperaturu paytaxt və Abşeronda gecə <span style="color:#f97316;font-weight:bold;">22–25°C</span>,
-gündüz isə <span style="color:#ef4444;font-weight:bold;font-size:22px;">31–36°C</span> təşkil edəcək.</p>
+gündüz isə <span style="color:#22c55e;font-weight:bold;font-size:22px;">29–32°C</span> təşkil edəcək.</p>
 
 <p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">759 mm civə sütunu (təxminən 1012 hPa)</span> olacaq.
 Nisbi rütubət gecə <span style="color:#60a5fa;font-weight:bold;">70–75%</span>, gündüz isə
-<span style="color:#60a5fa;font-weight:bold;">40–50%</span> təşkil edəcək.</p>
+<span style="color:#60a5fa;font-weight:bold;">50–55%</span> təşkil edəcək.</p>
 
-<p>Azərbaycanın bəzi dağlıq rayonlarında günün ikinci yarısında
+<p>Azərbaycanın bəzi dağlıq və dağətəyi rayonlarında günün ikinci yarısında
 <span style="color:#3b82f6;font-weight:bold;">qısamüddətli yağış və şimşək</span> ehtimal olunur.
 Gecə və səhər saatlarında dağlıq ərazilərdə duman müşahidə ediləcək.
 Mülayim şərq küləyi əsasən <span style="color:#f97316;font-weight:bold;">4–8 m/s (14–29 km/saat)</span>,
 arabir <span style="color:#ef4444;font-weight:bold;">10–12 m/s (36–43 km/saat)</span>-dək güclənə bilər.</p>
 
-<p>Rayonlarda havanın temperaturu gecə <span style="color:#f97316;font-weight:bold;">21–26°C</span>,
+<p>Rayonlarda havanın temperaturu gecə <span style="color:#f97316;font-weight:bold;">20–25°C</span>,
 gündüz isə <span style="color:#ef4444;font-weight:bold;">34–39°C</span> təşkil edəcək.
 Dağlıq ərazilərdə gecə <span style="color:#60a5fa;font-weight:bold;">15–20°C</span>,
-gündüz isə <span style="color:#22c55e;font-weight:bold;">25–30°C</span> isti gözlənilir.</p>
+gündüz isə <span style="color:#22c55e;font-weight:bold;">24–29°C</span> isti gözlənilir.</p>
 
 <p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ Xəbərdarlıq: Günorta saatlarında isti hava şəraiti davam edəcək. Bəzi dağlıq rayonlarda qısamüddətli yağış və şimşək ehtimalı var. Günəş şüalarının daha güclü olduğu saatlarda açıq havada uzun müddət qalmamaq, bol maye qəbul etmək və mümkün qədər kölgədə qalmaq tövsiyə olunur.
+⚠️ Xəbərdarlıq: Səhər saatlarında Bakının bəzi ərazilərində qısamüddətli zəif yağış müşahidə oluna bilər. Gün ərzində şimal-qərb küləyi arabir güclənəcəyindən açıq ərazilərdə ehtiyatlı olmaq tövsiyə olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
