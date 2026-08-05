@@ -2270,12 +2270,37 @@ async function loadSpace() {
     try {
 
         const r = await fetch("/space_content");
-        const d = await r.json();
+        const posts = await r.json();
 
-        document.getElementById("spaceContent").innerHTML = `
-            <img src="${d.image}" style="width:100%;max-width:500px;border-radius:15px;margin-bottom:20px;">
-            ${d.text}
-        `;
+        let html = "";
+
+        posts.forEach(post => {
+
+            html += `
+            <div style="margin-bottom:50px;">
+
+                <img
+                    src="${post.image}"
+                    style="
+                        width:100%;
+                        max-width:500px;
+                        border-radius:15px;
+                        margin-bottom:20px;
+                    ">
+
+                <div style="
+                    line-height:1.7;
+                    text-align:left;
+                ">
+                    ${post.text}
+                </div>
+
+            </div>
+            `;
+
+        });
+
+        document.getElementById("spaceContent").innerHTML = html;
 
     } catch {
 
@@ -2283,6 +2308,7 @@ async function loadSpace() {
             "❌ Məlumat tapılmadı.";
 
     }
+
 }
 
 async function loadMeta() {
@@ -2290,12 +2316,37 @@ async function loadMeta() {
     try {
 
         const r = await fetch("/meta_content");
-        const d = await r.json();
+        const posts = await r.json();
 
-        document.getElementById("metaContent").innerHTML = `
-            <img src="${d.image}" style="width:100%;max-width:500px;border-radius:15px;margin-bottom:20px;">
-            ${d.text}
-        `;
+        let html = "";
+
+        posts.forEach(post => {
+
+            html += `
+            <div style="margin-bottom:50px;">
+
+                <img
+                    src="${post.image}"
+                    style="
+                        width:100%;
+                        max-width:500px;
+                        border-radius:15px;
+                        margin-bottom:20px;
+                    ">
+
+                <div style="
+                    line-height:1.7;
+                    text-align:left;
+                ">
+                    ${post.text}
+                </div>
+
+            </div>
+            `;
+
+        });
+
+        document.getElementById("metaContent").innerHTML = html;
 
     } catch {
 
@@ -2303,6 +2354,7 @@ async function loadMeta() {
             "❌ Məlumat tapılmadı.";
 
     }
+
 }
 
 window.onload = function () {
