@@ -1,74 +1,74 @@
-<h2 style="color:#f59e0b;">☀️ META Meteorologiya Mərkəzi – 4–10 avqust üçün Günəş aktivliyi proqnozu</h2>
+<h2 style="color:#f59e0b;">☀️ META Günəş və Kosmos – 6–12 avqust 2026-cı il üçün Günəş aktivliyi proqnozu</h2>
 
-<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>,
-<span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından
-4–10 avqust tarixləri üçün gözlənilən Günəş və geomaqnit aktivliyi barədə məlumatı təqdim edirəm.</p>
+<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>, <span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından qarşıdakı həftə üçün Günəş aktivliyi və geomaqnit vəziyyəti barədə məlumatı təqdim edirəm.</p>
 
-<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">Həftənin ilk yarısında Günəş aktivliyi aşağı səviyyədə olacaq.</span>
-Lakin həftənin ikinci yarısından etibarən geomaqnit aktivliyi tədricən artacaq və <span style="color:#ef4444;font-weight:bold;">9–10 avqust tarixlərində maqnit qasırğası ehtimalı yüksələcək.</span></p>
+<p>Həftənin ilk günlərində geomaqnit vəziyyət əsasən sabit olacaq. Lakin həftənin sonuna doğru Günəş aktivliyinin artması nəticəsində maqnitosferdə narahatlıq gözlənilir. <span style="color:#ef4444;font-weight:bold;">9 avqust tarixində zəif (G1) maqnit qasırğası ehtimalı mövcuddur.</span></p>
 
-<h3 style="color:#60a5fa;">📅 Günlər üzrə proqnoz</h3>
-
-<table style="width:100%;border-collapse:collapse;">
-<tr style="background:#1e293b;color:#fff;">
-<th style="padding:8px;border:1px solid #374151;">Tarix</th>
-<th style="padding:8px;border:1px solid #374151;">Kp</th>
-<th style="padding:8px;border:1px solid #374151;">Vəziyyət</th>
+<table style="width:100%;border-collapse:collapse;text-align:center;">
+<tr style="background:#1e3a8a;color:white;">
+<th style="padding:10px;border:1px solid #ccc;">Tarix</th>
+<th style="padding:10px;border:1px solid #ccc;">Kp indeksi</th>
+<th style="padding:10px;border:1px solid #ccc;">Vəziyyət</th>
 </tr>
 
 <tr>
-<td style="padding:8px;border:1px solid #d1d5db;">4 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">2</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟢 Sakit geomaqnit vəziyyəti</td>
+<td style="border:1px solid #ccc;padding:8px;">6 avqust</td>
+<td style="border:1px solid #ccc;">🟢 3</td>
+<td style="border:1px solid #ccc;">Zəif geomaqnit aktivliyi</td>
+</tr>
+
+<tr style="background:#f9fafb;">
+<td style="border:1px solid #ccc;padding:8px;">7 avqust</td>
+<td style="border:1px solid #ccc;">🟡 4</td>
+<td style="border:1px solid #ccc;">Aktiv maqnitosfer</td>
 </tr>
 
 <tr>
-<td style="padding:8px;border:1px solid #d1d5db;">5 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">2–3</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟢 Kiçik dəyişikliklər mümkündür</td>
+<td style="border:1px solid #ccc;padding:8px;">8 avqust</td>
+<td style="border:1px solid #ccc;">🟡 4</td>
+<td style="border:1px solid #ccc;">Aktiv maqnitosfer</td>
+</tr>
+
+<tr style="background:#f9fafb;">
+<td style="border:1px solid #ccc;padding:8px;">9 avqust</td>
+<td style="border:1px solid #ccc;">🟠 5 (G1)</td>
+<td style="border:1px solid #ccc;">Zəif maqnit qasırğası</td>
 </tr>
 
 <tr>
-<td style="padding:8px;border:1px solid #d1d5db;">6 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#eab308;font-weight:bold;">3</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟡 Qeyri-sabit geomaqnit fon</td>
+<td style="border:1px solid #ccc;padding:8px;">10 avqust</td>
+<td style="border:1px solid #ccc;">🔴 7 (G3)</td>
+<td style="border:1px solid #ccc;">Güclü maqnit qasırğası ehtimalı</td>
+</tr>
+
+<tr style="background:#f9fafb;">
+<td style="border:1px solid #ccc;padding:8px;">11 avqust</td>
+<td style="border:1px solid #ccc;">🟡 4</td>
+<td style="border:1px solid #ccc;">Aktiv maqnitosfer</td>
 </tr>
 
 <tr>
-<td style="padding:8px;border:1px solid #d1d5db;">7 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">4</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟠 Aktiv maqnitosfer</td>
+<td style="border:1px solid #ccc;padding:8px;">12 avqust</td>
+<td style="border:1px solid #ccc;">🟢 3</td>
+<td style="border:1px solid #ccc;">Vəziyyət tədricən sabitləşir</td>
 </tr>
 
-<tr>
-<td style="padding:8px;border:1px solid #d1d5db;">8 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">4</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟠 Aktiv maqnitosfer davam edəcək</td>
-</tr>
-
-<tr>
-<td style="padding:8px;border:1px solid #d1d5db;">9 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#ef4444;font-weight:bold;">5 (G1)</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🔴 Zəif maqnit qasırğası ehtimalı</td>
-</tr>
-
-<tr>
-<td style="padding:8px;border:1px solid #d1d5db;">10 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#dc2626;font-weight:bold;">6–7 (G2–G3)</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🔴 Güclü geomaqnit aktivliyi ehtimal olunur</td>
-</tr>
 </table>
 
-<p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Xəbərdarlıq: 7 avqustdan etibarən Günəş aktivliyi artmağa başlayacaq. 9–10 avqust tarixlərində meteohəssas insanlar, ürək-damar xəstəlikləri olanlar və yaşlı şəxslər səhhətlərinə daha diqqətli yanaşmalıdırlar.
-</p>
-
-<p style="color:#a855f7;font-size:20px;font-weight:bold;">
-🌞 10 avqust tarixində Kp indeksinin 6–7 (G2–G3) səviyyəsinə yüksəlməsi ehtimal olunur. Bu, radioəlaqə və peyk sistemlərində kiçik pozuntular yarada, qütb enliklərində isə qütb parıltılarının müşahidə olunma ehtimalını artıra bilər.
+<p style="color:#f97316;font-size:20px;font-weight:bold;">
+⚠️ Xəbərdarlıq: 9–10 avqust tarixlərində meteohəssas insanlar baş ağrısı, halsızlıq və arterial təzyiqdə dəyişiklik hiss edə bilərlər. Bu günlərdə kifayət qədər su qəbul etmək, ağır fiziki yüklənmədən uzaq durmaq və istirahət etmək tövsiyə olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Günəş aktivliyini və geomaqnit vəziyyəti fasiləsiz izləyərək proqnoz dəyişəcəyi təqdirdə operativ məlumat təqdim edəcək.
+📡 META Günəş və Kosmos bölməsi Günəş aktivliyini və geomaqnit vəziyyətini fasiləsiz izləyərək yeni məlumatları operativ şəkildə paylaşır.
+</p>
+
+<p style="color:#25D366;font-size:20px;font-weight:bold;">
+📲 WhatsApp kanalımıza qoşulun və Günəş aktivliyi, hava proqnozları və mühüm xəbərləri ilk siz əldə edin.
+<br><br>
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
+➡️ META WhatsApp Kanalı
+</a>
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
