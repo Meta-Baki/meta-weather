@@ -1,23 +1,23 @@
-<h2 style="color:#60a5fa;">🌤️ META Meteorologiya Mərkəzi – 7 avqust üçün hava proqnozu</h2>
+<h2 style="color:#60a5fa;">🌤️ META Meteorologiya Mərkəzi – 8 avqust üçün hava proqnozu</h2>
 
-<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>, <span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından 7 avqust tarixi üçün gözlənilən hava şəraiti barədə məlumatı təqdim edirəm.</p>
+<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>, <span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından 8 avqust tarixi üçün gözlənilən hava şəraiti barədə məlumatı təqdim edirəm.</p>
 
-<p>Bakıda və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">hava əsasən yağmursuz keçəcək.</span> Gün ərzində arabir güclənən <span style="color:#3b82f6;font-weight:bold;">şimal-qərb küləyi</span> əsəcək, günortadan sonra isə küləyin istiqaməti <span style="color:#3b82f6;font-weight:bold;">şimal-şərqə</span> dəyişəcək.</p>
+<p>Bakıda və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">hava əsasən yağmursuz keçəcək.</span> Günün birinci yarısında <span style="color:#3b82f6;font-weight:bold;">şimal-qərb küləyi</span> əsəcək, günortadan sonra isə küləyin istiqaməti <span style="color:#3b82f6;font-weight:bold;">cənub-şərqə</span> dəyişəcək.</p>
 
-<p><span style="color:#3b82f6;font-weight:bold;font-size:22px;">Hava şəraiti yay mövsümünə uyğun sabit olacaq.</span> Havanın temperaturu gecə <span style="color:#f97316;font-weight:bold;">22–25°C</span>, gündüz isə <span style="color:#22c55e;font-weight:bold;font-size:22px;">30–34°C</span> təşkil edəcək.</p>
+<p><span style="color:#3b82f6;font-weight:bold;font-size:22px;">Yay havası davam edəcək.</span> Havanın temperaturu gecə <span style="color:#f97316;font-weight:bold;">22–25°C</span>, gündüz isə <span style="color:#22c55e;font-weight:bold;font-size:22px;">31–36°C</span> təşkil edəcək.</p>
 
-<p>💨 <span style="color:#38bdf8;font-weight:bold;">Külək:</span> Şimal-qərb küləyi <span style="color:#3b82f6;font-weight:bold;">6–11 m/s (22–40 km/saat)</span>, arabir <span style="color:#ef4444;font-weight:bold;">15–20 m/s (54–72 km/saat)</span> güclənəcək. Günün ikinci yarısında şimal-şərq küləyi üstünlük təşkil edəcək.</p>
+<p>💨 <span style="color:#38bdf8;font-weight:bold;">Külək:</span> Şimal-qərb və sonradan cənub-şərq istiqamətli <span style="color:#3b82f6;font-weight:bold;">5–10 m/s (18–36 km/saat)</span>, arabir <span style="color:#ef4444;font-weight:bold;">13–18 m/s (47–65 km/saat)</span> güclənə bilər.</p>
 
-<p>🌡 <span style="color:#38bdf8;font-weight:bold;">Atmosfer təzyiqi:</span> <span style="color:#38bdf8;font-weight:bold;">759 mm civə sütunu (təxminən 1012 hPa)</span>.</p>
+<p>🌡 <span style="color:#38bdf8;font-weight:bold;">Atmosfer təzyiqi:</span> <span style="color:#38bdf8;font-weight:bold;">758 mm civə sütunu (təxminən 1011 hPa)</span>.</p>
 
 <p>💧 <span style="color:#60a5fa;font-weight:bold;">Nisbi rütubət:</span> gecə <span style="color:#60a5fa;font-weight:bold;">70–80%</span>, gündüz <span style="color:#60a5fa;font-weight:bold;">50–55%</span>.</p>
 
-<p>Azərbaycanın rayonlarında hava əsasən yağmursuz olacaq. Lakin günün ikinci yarısında bəzi dağlıq rayonlarda <span style="color:#3b82f6;font-weight:bold;">qısamüddətli leysan xarakterli yağış və şimşək</span> ehtimalı var. Gecə və səhər bəzi dağlıq ərazilərdə duman müşahidə olunacaq. Mülayim şərq küləyi əsəcək.</p>
+<p>Azərbaycanın bəzi dağlıq rayonlarında günün ikinci yarısında <span style="color:#3b82f6;font-weight:bold;">qısamüddətli yağış və şimşək</span> ehtimalı var. Gecə və səhər saatlarında dağlıq ərazilərdə duman müşahidə olunacaq. Mülayim şərq küləyi əsəcək.</p>
 
-<p>Rayonlarda havanın temperaturu gecə <span style="color:#f97316;font-weight:bold;">22–26°C</span>, gündüz <span style="color:#ef4444;font-weight:bold;">34–39°C</span>, dağlıq ərazilərdə gecə <span style="color:#60a5fa;font-weight:bold;">15–20°C</span>, gündüz isə <span style="color:#22c55e;font-weight:bold;">23–28°C</span> olacaq.</p>
+<p>Rayonlarda havanın temperaturu gecə <span style="color:#f97316;font-weight:bold;">22–27°C</span>, gündüz <span style="color:#ef4444;font-weight:bold;">34–39°C</span>, dağlıq ərazilərdə gecə <span style="color:#60a5fa;font-weight:bold;">14–19°C</span>, gündüz isə <span style="color:#22c55e;font-weight:bold;">23–28°C</span> olacaq.</p>
 
 <p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ Xəbərdarlıq: Gün ərzində güclənən şimal-qərb küləyi səbəbindən açıq ərazilərdə və dəniz sahillərində ehtiyatlı olmaq tövsiyə olunur. Dağlıq rayonlarda günün ikinci yarısında qısamüddətli leysan və şimşək ehtimalı nəzərə alınmalıdır.
+⚠️ Xəbərdarlıq: Günün ikinci yarısında küləyin istiqaməti dəyişəcək. Dağlıq rayonlarda qısamüddətli yağış və şimşək ehtimalı nəzərə alınmalıdır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
