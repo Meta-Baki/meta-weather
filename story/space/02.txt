@@ -1,25 +1,22 @@
-<h2 style="color:#8b5cf6;">☄️ META Astronomiya – Perseid meteor axını Bakıda müşahidə olunacaq</h2>
+<h2 style="color:#8b5cf6;">🪐 META Astronomiya – Avqust ayında Saturn müşahidəsi üçün əlverişli dövr başlayır</h2>
 
-<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>, <span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından avqust ayının ən maraqlı astronomik hadisələrindən biri haqqında məlumatı təqdim edirəm.</p>
+<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>,
+<span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından astronomiya həvəskarları üçün maraqlı məlumatı təqdim edirəm.</p>
 
-<p><span style="color:#8b5cf6;font-weight:bold;font-size:20px;">Perseid meteor axını avqust ayı ərzində Azərbaycandan, o cümlədən Bakı və Abşeron yarımadasından müşahidə edilə bilər.</span> Ən yüksək aktivliyin <span style="color:#ef4444;font-weight:bold;">11–13 avqust</span> tarixlərində qeydə alınacağı gözlənilir.</p>
+<p><span style="color:#8b5cf6;font-weight:bold;font-size:20px;">Avqust ayının ikinci yarısında Saturn gecə səmasında daha parlaq görünəcək.</span> Planet gecə yarısından sonra cənub-şərq üfüqündə yüksələrək müşahidə üçün əlverişli vəziyyətə gələcək.</p>
 
-<p>Əlverişli hava şəraiti olduğu halda saat <span style="color:#3b82f6;font-weight:bold;">22:30-dan sonra</span> səhərə qədər səmada çoxsaylı "axan ulduzlar" görünə bilər. Maksimum aktivlik gecə yarısından sonra və sübhə yaxın saatlarda müşahidə olunur.</p>
+<p>🔭 Kiçik teleskop və ya güclü durbin vasitəsilə Saturnun məşhur halqalarını müşahidə etmək mümkündür. Açıq hava şəraitində planet adi gözlə də sarımtıl parlaq nöqtə kimi görünəcək.</p>
 
-<p>Perseid meteor axını zamanı ideal şəraitdə saat ərzində <span style="color:#f97316;font-weight:bold;">60–100 meteor</span> müşahidə etmək mümkündür. Meteorlar Yer atmosferinə daxil olan kiçik kosmik hissəciklərin yanması nəticəsində yaranır.</p>
+<p>🌌 Müşahidə üçün ən uyğun vaxt <span style="color:#22c55e;font-weight:bold;">23:30–05:00</span> arası hesab olunur. Şəhər işıqlarından uzaq ərazilərdə görüntü daha aydın olacaq.</p>
 
-<p>Bakıda müşahidə üçün şəhərin güclü işıqlandırılmayan ərazilərinə və ya Abşeron yarımadasının şəhərdən uzaq hissələrinə getmək tövsiyə olunur. Açıq səma və buludsuz hava müşahidə imkanlarını əhəmiyyətli dərəcədə artıracaq.</p>
-
-<p style="color:#f97316;font-size:20px;font-weight:bold;">
-🔭 Tövsiyə: Teleskopa ehtiyac yoxdur. Meteor axını adi gözlə daha rahat müşahidə edilir. Gözlərin qaranlığa uyğunlaşması üçün ən azı 20–30 dəqiqə gözləmək məsləhətdir.
-</p>
+<p>🛰 Saturn Günəş sisteminin ikinci ən böyük planetidir və onun ətrafında hazırda məlum olan <span style="color:#f97316;font-weight:bold;">140-dan çox peyk</span> dövr edir.</p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Astronomiya bölməsi səma hadisələrini, meteor axınlarını, Günəş və Ay hadisələrini operativ şəkildə izləyərək sizə təqdim etməyə davam edir.
+📡 META Meteorologiya Mərkəzi Günəş sistemi və astronomiya sahəsində baş verən maraqlı hadisələri izləyərək operativ məlumatlar təqdim etməyə davam edəcək.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 WhatsApp kanalımıza qoşulun və astronomiya xəbərləri, hava proqnozları və mühüm məlumatları ilk siz əldə edin.
+📲 Astronomiya xəbərləri, Günəş aktivliyi və hava proqnozlarını ilk öyrənmək üçün WhatsApp kanalımıza qoşulun.
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
