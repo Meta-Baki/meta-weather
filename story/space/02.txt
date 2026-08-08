@@ -1,18 +1,66 @@
-<h2 style="color:#8b5cf6;">🪐 META Astronomiya – Avqust ayında Saturn müşahidəsi üçün əlverişli dövr başlayır</h2>
+<h2 style="color:#8b5cf6;">☄️ META Astronomiya – 13 avqustda Perseid meteor axınının maksimumu müşahidə olunacaq</h2>
 
 <p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>,
-<span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından astronomiya həvəskarları üçün maraqlı məlumatı təqdim edirəm.</p>
+<span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından
+13 avqust gecəsi müşahidə olunacaq maraqlı astronomik hadisə – <span style="color:#8b5cf6;font-weight:bold;">Perseid meteor axını</span> barədə məlumatı təqdim edirəm.</p>
 
-<p><span style="color:#8b5cf6;font-weight:bold;font-size:20px;">Avqust ayının ikinci yarısında Saturn gecə səmasında daha parlaq görünəcək.</span> Planet gecə yarısından sonra cənub-şərq üfüqündə yüksələrək müşahidə üçün əlverişli vəziyyətə gələcək.</p>
+<p><span style="color:#a855f7;font-weight:bold;font-size:20px;">13 avqust 2026-cı il gecəsi Perseid meteor axını maksimum aktivlik mərhələsinə çatacaq.</span> Bu zaman Yer kürəsi 109P/Swift–Tuttle kometasının geridə qoyduğu toz və kiçik hissəciklər axınından keçəcək.</p>
 
-<p>🔭 Kiçik teleskop və ya güclü durbin vasitəsilə Saturnun məşhur halqalarını müşahidə etmək mümkündür. Açıq hava şəraitində planet adi gözlə də sarımtıl parlaq nöqtə kimi görünəcək.</p>
+<p>☄️ Atmosferə daxil olan bu hissəciklər çox yüksək sürətlə hərəkət edərək atmosferin yuxarı qatlarında yanır və göydə parlaq işıq izləri yaradır. Məhz bu hadisə gündəlik dildə “axan ulduzlar” adlandırılır.</p>
 
-<p>🌌 Müşahidə üçün ən uyğun vaxt <span style="color:#22c55e;font-weight:bold;">23:30–05:00</span> arası hesab olunur. Şəhər işıqlarından uzaq ərazilərdə görüntü daha aydın olacaq.</p>
+<h3 style="color:#60a5fa;">🌠 Perseidlər haqqında əsas məlumatlar</h3>
 
-<p>🛰 Saturn Günəş sisteminin ikinci ən böyük planetidir və onun ətrafında hazırda məlum olan <span style="color:#f97316;font-weight:bold;">140-dan çox peyk</span> dövr edir.</p>
+<table style="width:100%;border-collapse:collapse;">
+<tr style="background:#1e293b;color:#fff;">
+<th style="padding:8px;border:1px solid #374151;">Göstərici</th>
+<th style="padding:8px;border:1px solid #374151;">Məlumat</th>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">📅 Maksimum tarix</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#a855f7;font-weight:bold;">13 avqust 2026</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">☄️ Meteor axını</td>
+<td style="padding:8px;border:1px solid #d1d5db;">Perseidlər</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">🌌 Mənbə</td>
+<td style="padding:8px;border:1px solid #d1d5db;">109P/Swift–Tuttle kometası</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">💫 Maksimum aktivlik</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">İdeal şəraitdə təxminən 92 meteor/saat</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">🚀 Hissəciklərin sürəti</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#ef4444;font-weight:bold;">Təxminən 60 km/s</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">🔭 Müşahidə üsulu</td>
+<td style="padding:8px;border:1px solid #d1d5db;">Adi gözlə müşahidə etmək mümkündür</td>
+</tr>
+</table>
+
+<p style="color:#22c55e;font-size:20px;font-weight:bold;">
+🔭 Müşahidə üçün tövsiyə: Şəhər işıqlarından uzaq, açıq səma olan ərazi seçmək məsləhətdir. Teleskop və ya xüsusi avadanlıq tələb olunmur. Gecənin ikinci yarısında və səhərə yaxın daha çox meteor görmək mümkündür.
+</p>
+
+<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
+⚠️ Vacib qeyd: 13 avqustda Yerə böyük meteorların düşməsi gözlənilmir. Söhbət atmosferə daxil olaraq yanan kiçik kosmik hissəciklərdən gedir. Onların yaratdığı parlaq izlər “meteor” adlanır və əksəriyyəti Yer səthinə çatmır.
+</p>
+
+<p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
+🌌 Perseidlər ilin ən məşhur və müşahidəsi ən rahat meteor axınlarından biridir. Açıq hava şəraiti müşahidə imkanlarını əhəmiyyətli dərəcədə artıracaq.
+</p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Günəş sistemi və astronomiya sahəsində baş verən maraqlı hadisələri izləyərək operativ məlumatlar təqdim etməyə davam edəcək.
+📡 META Meteorologiya Mərkəzi astronomik hadisələri, Günəş aktivliyini və kosmik hava şəraitini izləyərək ən maraqlı məlumatları operativ şəkildə təqdim edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
