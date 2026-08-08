@@ -1,71 +1,78 @@
-<h2 style="color:#f59e0b;">☀️ META Astronomiya – 8–14 avqust üçün Günəş və kosmos proqnozu</h2>
+<h2 style="color:#f59e0b;">☀️ META Meteorologiya Mərkəzi – 8–14 avqust üçün Günəş aktivliyi proqnozu</h2>
 
 <p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>,
 <span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından
-8–14 avqust tarixləri üçün Günəş aktivliyi və kosmik hadisələr barədə məlumatı təqdim edirəm.</p>
+8–14 avqust tarixləri üçün gözlənilən Günəş və geomaqnit aktivliyi barədə məlumatı təqdim edirəm.</p>
 
-<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">Həftə ərzində Günəş aktivliyi yüksək olaraq qalacaq.</span>
-<span style="color:#ef4444;font-weight:bold;">9–10 avqust tarixlərində maqnit qasırğası ehtimalı yüksəkdir.</span>
-Eyni zamanda Perseid meteor axını maksimum aktivlik mərhələsinə yaxınlaşır.</p>
+<p><span style="color:#f59e0b;font-weight:bold;font-size:20px;">Həftənin əvvəlində geomaqnit aktivliyinin yüksəlmiş səviyyədə qalması gözlənilir.</span>
+Sonrakı günlərdə vəziyyətin tədricən sabitləşməsi ehtimal olunur. Günəş aktivliyində baş verə biləcək yeni püskürmələr geomaqnit vəziyyətinə təsir göstərə bilər.</p>
 
-<h3 style="color:#60a5fa;">📅 Günlər üzrə Günəş və kosmos proqnozu</h3>
+<h3 style="color:#60a5fa;">📅 Günlər üzrə proqnoz</h3>
 
 <table style="width:100%;border-collapse:collapse;">
 <tr style="background:#1e293b;color:#fff;">
 <th style="padding:8px;border:1px solid #374151;">Tarix</th>
 <th style="padding:8px;border:1px solid #374151;">Kp</th>
-<th style="padding:8px;border:1px solid #374151;">Günəş və kosmos</th>
+<th style="padding:8px;border:1px solid #374151;">Vəziyyət</th>
 </tr>
 
 <tr>
 <td style="padding:8px;border:1px solid #d1d5db;">8 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">4</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟠 Aktiv maqnitosfer. Perseid meteor axını davam edir.</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">3–4</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟠 Aktiv geomaqnit fon</td>
 </tr>
 
 <tr>
 <td style="padding:8px;border:1px solid #d1d5db;">9 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#ef4444;font-weight:bold;">5 (G1)</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🔴 Zəif maqnit qasırğası ehtimalı. Meteor müşahidəsi əlverişlidir.</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#ef4444;font-weight:bold;">4–5</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟠🔴 Geomaqnit aktivliyin artması mümkündür</td>
 </tr>
 
 <tr>
 <td style="padding:8px;border:1px solid #d1d5db;">10 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#dc2626;font-weight:bold;">6–7 (G2–G3)</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🔴 Güclü geomaqnit aktivliyi. Perseid axını pik mərhələyə yaxınlaşır.</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#ef4444;font-weight:bold;">4–6</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🔴 Maqnit qasırğası ehtimalı</td>
 </tr>
 
 <tr>
 <td style="padding:8px;border:1px solid #d1d5db;">11 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">4</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟠 Aktiv maqnitosfer. Perseid axını maksimuma yaxın.</td>
+<td style="padding:8px;border:1px solid #f1d5db;color:#f97316;font-weight:bold;">3–5</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟠 Aktiv geomaqnit vəziyyəti</td>
 </tr>
 
 <tr>
 <td style="padding:8px;border:1px solid #d1d5db;">12 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#eab308;font-weight:bold;">3</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🌠 Perseid meteor axınının maksimumu. Saatda 80–100 meteor müşahidə oluna bilər.</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#eab308;font-weight:bold;">2–4</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟡 Aktivlik tədricən azalacaq</td>
 </tr>
 
 <tr>
 <td style="padding:8px;border:1px solid #d1d5db;">13 avqust</td>
 <td style="padding:8px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">2–3</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟢 Geomaqnit vəziyyəti sabitləşir. Meteor axını davam edir.</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟢 Əsasən sakit geomaqnit fon</td>
 </tr>
 
 <tr>
 <td style="padding:8px;border:1px solid #d1d5db;">14 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">2</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟢 Sakit geomaqnit fon. Perseid axınının aktivliyi tədricən azalır.</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">2–3</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟢 Sakit və ya zəif aktiv geomaqnit vəziyyət</td>
 </tr>
 </table>
 
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+⚠️ Xəbərdarlıq: 9–11 avqust tarixlərində geomaqnit aktivliyin yüksəlməsi ehtimalı olduğundan kosmik hava şəraiti daha diqqətlə izləniləcək.
+</p>
+
+<p style="color:#a855f7;font-size:20px;font-weight:bold;">
+🌞 Günəşdə yeni güclü alışmalar və tac kütlə atılmaları baş verərsə, Yerə yaxın kosmik hava şəraiti proqnozlaşdırılandan daha aktiv ola bilər.
+</p>
+
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Günəş aktivliyi və kosmik hadisələri fasiləsiz izləyərək yeni məlumatları operativ şəkildə təqdim edəcək.
+📡 META Meteorologiya Mərkəzi Günəş aktivliyini və geomaqnit vəziyyəti fasiləsiz izləyərək proqnoz dəyişəcəyi təqdirdə operativ məlumat təqdim edəcək.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Günəş aktivliyi, astronomiya xəbərləri və hava proqnozlarını ilk öyrənmək üçün WhatsApp kanalımıza qoşulun.
+📲 Günəş aktivliyi, kosmos xəbərləri və hava proqnozlarını ilk öyrənmək üçün WhatsApp kanalımıza qoşulun.
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
