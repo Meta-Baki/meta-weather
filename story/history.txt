@@ -1,36 +1,40 @@
-<div style="display:flex;justify-content:space-between;align-items:center;gap:15px;flex-wrap:wrap;">
-    <h2 style="color:#ef4444;margin:0;">
-        🌡️ Azərbaycanda güclü isti hava – temperatur 41°C-yə yüksələcək
-    </h2>
+<h2 style="color:#60a5fa;">🌤️ META Meteorologiya Mərkəzi – 8 avqust üçün hava proqnozu</h2>
 
-    <span style="color:#94a3b8;font-size:15px;font-weight:bold;white-space:nowrap;">
-        🕒 15:50 · 8 avqust 2026
-    </span>
-</div>
+<p style="text-align:right;color:#94a3b8;font-size:14px;font-weight:bold;">
+🕐 Əlavə olunub: 8 avqust 2026, saat 15:30
+</p>
 
-<p>Sabah Bakıda və Abşeron yarımadasında, eləcə də Mərkəzi Aran və Naxçıvan Muxtar Respublikasında <span style="color:#ef4444;font-weight:bold;font-size:20px;">güclü isti hava</span> gözlənilir. Havanın maksimal temperaturu <span style="color:#dc2626;font-weight:bold;font-size:22px;">35–40°C</span>, bəzi yerlərdə isə <span style="color:#b91c1c;font-weight:bold;font-size:22px;">41°C</span> təşkil edəcək.</p>
+<p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>, <span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından 8 avqust tarixi üçün gözlənilən hava şəraiti barədə məlumatı təqdim edirəm.</p>
 
-<p>🌞 Bakıda və Abşeron yarımadasında hava əsasən günəşli olacaq. Mülayim cənub-şərq küləyi əsəcək. Temperatur gecə <span style="color:#f97316;font-weight:bold;">22–26°C</span>, gündüz isə <span style="color:#ef4444;font-weight:bold;">34–39°C</span> olacaq.</p>
+<p>Bakıda və Abşeron yarımadasında <span style="color:#22c55e;font-weight:bold;font-size:20px;">hava əsasən açıq və yağmursuz keçəcək.</span> Şimal-qərb küləyi gün ərzində cənub-şərq küləyi ilə əvəzlənəcək.</p>
 
-<p>🌡️ Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">756 mm civə sütunu (təxminən 1008 hPa)</span>, nisbi rütubət isə gündüz <span style="color:#60a5fa;font-weight:bold;">45–50%</span> təşkil edəcək.</p>
+<p><span style="color:#3b82f6;font-weight:bold;font-size:22px;">Gün ərzində isti və əsasən günəşli hava şəraiti hökm sürəcək.</span> Havanın temperaturu gecə <span style="color:#f97316;font-weight:bold;">22–25°C</span>, gündüz isə <span style="color:#ef4444;font-weight:bold;font-size:22px;">31–36°C</span> təşkil edəcək.</p>
 
-<p>⛰️ Azərbaycanın rayonlarında hava əsasən yağmursuz keçəcək. Gecə temperatur <span style="color:#f97316;font-weight:bold;">22–27°C</span>, gündüz isə <span style="color:#ef4444;font-weight:bold;">35–39°C</span>, bəzi yerlərdə <span style="color:#dc2626;font-weight:bold;">40°C</span> olacaq.</p>
+<p>💨 <span style="color:#60a5fa;font-weight:bold;">Külək:</span> şimal-qərb istiqamətli külək gün ərzində cənub-şərq küləyi ilə əvəzlənəcək. Küləyin sürəti təxminən <span style="color:#22c55e;font-weight:bold;">3–8 m/s</span> (<span style="color:#22c55e;font-weight:bold;">11–29 km/saat</span>) olacaq.</p>
 
-<p>⛈️ Günün ikinci yarısında, əsasən dağlıq rayonlardan başlayaraq bəzi ərazilərdə lokal yağış, şimşək və dolu ehtimalı var. Dağlıq ərazilərdə gecə <span style="color:#60a5fa;font-weight:bold;">15–20°C</span>, gündüz isə <span style="color:#22c55e;font-weight:bold;">25–33°C</span> isti olacaq.</p>
+<p>🌡️ <span style="color:#f97316;font-weight:bold;">Temperatur:</span> gecə <span style="color:#f97316;font-weight:bold;">22–25°C</span>, gündüz <span style="color:#ef4444;font-weight:bold;">31–36°C</span>.</p>
 
-<p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Xəbərdarlıq: Güclü isti hava səbəbindən günün ən isti saatlarında açıq havada uzun müddət qalmaqdan çəkinmək və kifayət qədər maye qəbul etmək tövsiyə olunur.
+<p>Atmosfer təzyiqi <span style="color:#38bdf8;font-weight:bold;">758 mm civə sütunu</span>, yəni təxminən <span style="color:#38bdf8;font-weight:bold;">1011 hPa</span> təşkil edəcək. Nisbi rütubət gecə <span style="color:#60a5fa;font-weight:bold;">70–80%</span>, gündüz isə <span style="color:#60a5fa;font-weight:bold;">50–55%</span> olacaq.</p>
+
+<p>🌦️ Azərbaycanın bəzi dağlıq rayonlarında gündüz saatlarında <span style="color:#3b82f6;font-weight:bold;">qısamüddətli yağış və şimşək</span> ehtimalı var. Gecə və səhər saatlarında dağlıq ərazilərdə duman müşahidə oluna bilər. Rayonlarda mülayim şərq küləyi əsəcək.</p>
+
+<p>Rayonlarda havanın temperaturu gecə <span style="color:#f97316;font-weight:bold;">22–27°C</span>, gündüz isə <span style="color:#ef4444;font-weight:bold;">34–39°C</span> olacaq.</p>
+
+<p>🏔️ Dağlıq ərazilərdə gecə temperaturu <span style="color:#60a5fa;font-weight:bold;">14–19°C</span>, gündüz isə <span style="color:#22c55e;font-weight:bold;">23–28°C</span> təşkil edəcək.</p>
+
+<p style="color:#f97316;font-size:20px;font-weight:bold;">
+⚠️ Xəbərdarlıq: Gün ərzində yüksək temperatur gözlənildiyindən xüsusilə günorta saatlarında birbaşa günəş altında uzun müddət qalmaq tövsiyə olunmur. Dağlıq rayonlarda isə qısamüddətli leysan və şimşək ehtimalı nəzərə alınmalıdır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava şəraitini fasiləsiz izləyir və proqnozda dəyişiklik olduqda məlumatları operativ şəkildə yeniləyir.
+📡 META Meteorologiya Mərkəzi hava şəraitini fasiləsiz izləyərək ən son meteoroloji məlumatları operativ şəkildə təqdim edir.
 </p>
 
-<p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ən son hava proqnozlarını və xəbərdarlıqları WhatsApp kanalımızdan izləyin.
+<p style="color:#22c55e;font-size:20px;font-weight:bold;">
+📲 Ən son hava xəbərləri və proqnozlar üçün WhatsApp kanalımıza qoşulun:
 <br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#22c55e;font-weight:bold;text-decoration:none;">
+➡️ META Meteorologiya Mərkəzi – WhatsApp kanalı
 </a>
 </p>
 
