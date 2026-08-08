@@ -1,19 +1,23 @@
-<h2 style="color:#3b82f6;">🤖 Azərbaycanda süni intellekt texnologiyalarının tətbiqi genişləndiriləcək</h2>
+<h2 style="color:#0ea5e9;">🌊 Xəzər dənizində ekoloji monitorinq gücləndirilir</h2>
 
-<p>Azərbaycanda dövlət xidmətləri, nəqliyyat, logistika və şəhər idarəçiliyində <span style="color:#8b5cf6;font-weight:bold;">süni intellekt (AI)</span> texnologiyalarının tətbiqinin genişləndirilməsi istiqamətində işlər davam edir.</p>
+<p>Azərbaycanın Xəzər dənizində ekoloji vəziyyətin öyrənilməsi və dəniz ekosistemlərinin qorunması istiqamətində monitorinq işləri davam etdirilir.</p>
 
-<p>Rəqəmsal inkişaf proqramı çərçivəsində ağıllı şəhər həlləri, nəqliyyat axınının avtomatik idarə olunması, dövlət xidmətlərinin optimallaşdırılması və məlumatların daha sürətli emalı üçün yeni layihələr həyata keçirilir.</p>
+<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">Mütəxəssislər suyun keyfiyyətini və dəniz mühitinin vəziyyətini mütəmadi olaraq qiymətləndirirlər.</span> Monitorinq zamanı müxtəlif dərinliklərdən su nümunələri götürülür, onların fiziki-kimyəvi göstəriciləri araşdırılır və mümkün çirklənmə mənbələri qiymətləndirilir.</p>
 
-<p>🤖 Süni intellekt sistemlərinin tətbiqi yol hərəkətinin təhlükəsizliyinin artırılmasına, ictimai nəqliyyatda xidmət keyfiyyətinin yüksəldilməsinə və vətəndaşlara göstərilən elektron xidmətlərin daha sürətli işləməsinə imkan verəcək.</p>
+<p>🔬 Müasir ölçmə cihazlarından istifadə etməklə suyun müxtəlif göstəriciləri müəyyənləşdirilir. Əldə olunan məlumatlar Xəzər dənizinin ekoloji vəziyyətinin daha dəqiq qiymətləndirilməsi və qoruyucu tədbirlərin planlaşdırılması üçün mühüm əhəmiyyət daşıyır.</p>
 
-<p>📊 Mütəxəssislərin fikrincə, rəqəmsal texnologiyalar və AI həlləri yaxın illərdə Azərbaycanın iqtisadi inkişafında və dövlət idarəçiliyində mühüm rol oynayacaq.</p>
+<p>🐟 Xəzər dənizinin ekoloji monitorinqi yalnız suyun keyfiyyətinin yoxlanılması ilə məhdudlaşmır. Dəniz canlılarının, biomüxtəlifliyin və sahilyanı ekosistemlərin vəziyyətinin müşahidəsi də mühüm istiqamətlərdəndir.</p>
+
+<p style="color:#0ea5e9;font-size:20px;font-weight:bold;">
+🌍 Xəzərin ekoloji vəziyyətinin qorunması həm Azərbaycan, həm də bütövlükdə region üçün mühüm əhəmiyyət daşıyır.
+</p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📰 META xəbər bölməsində Azərbaycan və dünyada baş verən ən mühüm hadisələr operativ şəkildə təqdim olunur.
+📡 META Meteorologiya Mərkəzi ətraf mühit, iqlim, hava və təbiətdə baş verən mühüm dəyişiklikləri izləyərək məlumatları operativ şəkildə təqdim edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ən son xəbərləri ilk öyrənmək üçün WhatsApp kanalımıza qoşulun.
+📲 Ən son xəbərləri öyrənmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
