@@ -1,78 +1,60 @@
-<h2 style="color:#f59e0b;">☀️ META Meteorologiya Mərkəzi – 8–14 avqust üçün Günəş aktivliyi proqnozu</h2>
+<h2 style="color:#f59e0b;">☀️ META Meteorologiya Mərkəzi – Günəş və geomaqnit aktivliyi</h2>
+
+<p><span style="color:#60a5fa;font-weight:bold;">📅 Yenilənmə tarixi: 9 avqust 2026</span></p>
+
+<p style="text-align:right;color:#94a3b8;font-size:14px;">
+🕐 Əlavə olunma tarixi və vaxtı: 9 avqust 2026, Bakı vaxtı
+</p>
 
 <p>Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>,
-<span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından
-8–14 avqust tarixləri üçün gözlənilən Günəş və geomaqnit aktivliyi barədə məlumatı təqdim edirəm.</p>
+<span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından Günəş və geomaqnit aktivliyinin son vəziyyəti barədə məlumatı təqdim edirəm.</p>
 
-<p><span style="color:#f59e0b;font-weight:bold;font-size:20px;">Həftənin əvvəlində geomaqnit aktivliyinin yüksəlmiş səviyyədə qalması gözlənilir.</span>
-Sonrakı günlərdə vəziyyətin tədricən sabitləşməsi ehtimal olunur. Günəş aktivliyində baş verə biləcək yeni püskürmələr geomaqnit vəziyyətinə təsir göstərə bilər.</p>
+<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">🌞 Hazırda Günəş aktivliyi əsasən aşağı səviyyədə qiymətləndirilir.</span> NOAA Space Weather Prediction Center məlumatlarına əsasən, yaxın dövr üçün əsas ssenari sakit və aşağı səviyyəli Günəş aktivliyidir. Bununla belə, ayrı-ayrı aktivlik artımları mümkündür.</p>
 
-<h3 style="color:#60a5fa;">📅 Günlər üzrə proqnoz</h3>
+<h3 style="color:#60a5fa;">📅 Yaxın günlər üçün geomaqnit vəziyyət</h3>
 
 <table style="width:100%;border-collapse:collapse;">
 <tr style="background:#1e293b;color:#fff;">
 <th style="padding:8px;border:1px solid #374151;">Tarix</th>
-<th style="padding:8px;border:1px solid #374151;">Kp</th>
-<th style="padding:8px;border:1px solid #374151;">Vəziyyət</th>
-</tr>
-
-<tr>
-<td style="padding:8px;border:1px solid #d1d5db;">8 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">3–4</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟠 Aktiv geomaqnit fon</td>
+<th style="padding:8px;border:1px solid #374151;">Gözlənilən vəziyyət</th>
+<th style="padding:8px;border:1px solid #374151;">Qiymətləndirmə</th>
 </tr>
 
 <tr>
 <td style="padding:8px;border:1px solid #d1d5db;">9 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#ef4444;font-weight:bold;">4–5</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟠🔴 Geomaqnit aktivliyin artması mümkündür</td>
+<td style="padding:8px;border:1px solid #d1d5db;">Geomaqnit aktivlik əsasən sakit</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">🟢 Aşağı</td>
 </tr>
 
 <tr>
 <td style="padding:8px;border:1px solid #d1d5db;">10 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#ef4444;font-weight:bold;">4–6</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🔴 Maqnit qasırğası ehtimalı</td>
+<td style="padding:8px;border:1px solid #d1d5db;">Aşağı səviyyəli aktivlik, dəyişiklik ehtimalı qalır</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">🟢 Aşağı</td>
 </tr>
 
 <tr>
 <td style="padding:8px;border:1px solid #d1d5db;">11 avqust</td>
-<td style="padding:8px;border:1px solid #f1d5db;color:#f97316;font-weight:bold;">3–5</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟠 Aktiv geomaqnit vəziyyəti</td>
-</tr>
-
-<tr>
-<td style="padding:8px;border:1px solid #d1d5db;">12 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#eab308;font-weight:bold;">2–4</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟡 Aktivlik tədricən azalacaq</td>
-</tr>
-
-<tr>
-<td style="padding:8px;border:1px solid #d1d5db;">13 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">2–3</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟢 Əsasən sakit geomaqnit fon</td>
-</tr>
-
-<tr>
-<td style="padding:8px;border:1px solid #d1d5db;">14 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">2–3</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟢 Sakit və ya zəif aktiv geomaqnit vəziyyət</td>
+<td style="padding:8px;border:1px solid #d1d5db;">Əsasən sakit geomaqnit fon</td>
+<td style="padding:8px;border:1px solid #22c55e;font-weight:bold;">🟢 Sakit</td>
 </tr>
 </table>
 
-<p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Xəbərdarlıq: 9–11 avqust tarixlərində geomaqnit aktivliyin yüksəlməsi ehtimalı olduğundan kosmik hava şəraiti daha diqqətlə izləniləcək.
+<p><span style="color:#38bdf8;font-weight:bold;">📊 Kp indeksi</span> geomaqnit aktivliyi qiymətləndirmək üçün istifadə olunur və 0-dan 9-a qədər dəyişir. NOAA təsnifatında <span style="font-weight:bold;">Kp=5</span> artıq G1 səviyyəli zəif geomaqnit qasırğasına uyğun gəlir. Hazırkı rəsmi proqnozda güclü G2–G3 səviyyəli hadisə təsdiqlənmir.</p>
+
+<p style="color:#f97316;font-size:20px;font-weight:bold;">
+⚠️ Qeyd: Günəş aktivliyi sürətlə dəyişə bilər. Yeni tac kütlə atılması (CME) baş verərsə, geomaqnit proqnoz sonradan dəyişdirilə bilər.
 </p>
 
 <p style="color:#a855f7;font-size:20px;font-weight:bold;">
-🌞 Günəşdə yeni güclü alışmalar və tac kütlə atılmaları baş verərsə, Yerə yaxın kosmik hava şəraiti proqnozlaşdırılandan daha aktiv ola bilər.
+🌌 Geomaqnit aktivlik artdıqda peyk rabitəsi, radioəlaqə, naviqasiya sistemləri və yüksək enliklərdə qütb parıltıları kimi hadisələrə təsir göstərə bilər.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Günəş aktivliyini və geomaqnit vəziyyəti fasiləsiz izləyərək proqnoz dəyişəcəyi təqdirdə operativ məlumat təqdim edəcək.
+📡 META Meteorologiya Mərkəzi Günəş aktivliyini və geomaqnit vəziyyəti izləyir və yeni məlumatlar əldə olunduqda proqnozu yeniləyəcək.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Günəş aktivliyi, kosmos xəbərləri və hava proqnozlarını ilk öyrənmək üçün WhatsApp kanalımıza qoşulun.
+📲 Ən son məlumatları əldə etmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
