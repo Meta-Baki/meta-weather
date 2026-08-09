@@ -1,27 +1,31 @@
-<h2 style="color:#22c55e;">🌱 Azərbaycanda yaşıllaşdırma və ekoloji layihələr genişləndirilir</h2>
+<h2 style="color:#f59e0b;">🏛️ Tarixi abidələrin rəqəmsal xəritələşdirilməsi geniş imkanlar yaradır</h2>
 
-<p>Azərbaycanda ətraf mühitin qorunması, yaşıllıq sahələrinin artırılması və ekosistemlərin bərpası istiqamətində müxtəlif layihələrin həyata keçirilməsi davam etdirilir.</p>
+<p style="text-align:right;color:#94a3b8;font-size:14px;">
+🕐 Əlavə olunub: 9 avqust 2026, 16:27 — Bakı vaxtı
+</p>
 
-<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">Yaşıllaşdırma işləri şəhərlərin ekoloji vəziyyətinin yaxşılaşdırılması ilə yanaşı, iqlim dəyişikliklərinə uyğunlaşma baxımından da mühüm əhəmiyyət daşıyır.</span></p>
+<p>Tarixi və mədəni irsin qorunmasında rəqəmsal texnologiyaların imkanlarından istifadə getdikcə daha böyük əhəmiyyət daşıyır. 3D skanlaşdırma, dron çəkilişləri və rəqəmsal xəritələşdirmə tarixi abidələrin dəqiq elektron modellərinin yaradılmasına imkan verir.</p>
 
-<p>🌳 Ağac və kol bitkilərinin əkilməsi, meşələrin və deqradasiyaya uğramış ərazilərin bərpası, biomüxtəlifliyin qorunması ekoloji layihələrin əsas istiqamətləri sırasındadır.</p>
+<p><span style="color:#f59e0b;font-weight:bold;font-size:20px;">🏛️ Rəqəmsal modellər abidələrin mövcud vəziyyətinin sənədləşdirilməsi və gələcəkdə bərpa işlərinin aparılması üçün mühüm məlumat bazası yarada bilər.</span></p>
 
-<p>🏙️ Şəhər ərazilərində yaşıllıqların artırılması havanın keyfiyyətinə, mikroiqlimə və insanların yaşayış mühitinə müsbət təsir göstərə bilər. Eyni zamanda iqlimə davamlı bitki növlərinin seçilməsi uzunmüddətli yaşıllaşdırma üçün xüsusi əhəmiyyət daşıyır.</p>
+<p>🚁 Dronlardan istifadə etməklə abidələrin yüksək keyfiyyətli havadan görüntüləri əldə edilir. Bu məlumatlar daha sonra xüsusi proqramlarla emal edilərək üçölçülü modellərə çevrilə bilər.</p>
 
-<p>🌍 Azərbaycanın ekoloji siyasətində təbiətin qorunması, iqlim fəaliyyətinin gücləndirilməsi və dayanıqlı inkişaf məsələləri də mühüm yer tutur.</p>
+<p>📐 3D skanlaşdırma isə binaların ölçülərini və memarlıq detallarını yüksək dəqiqliklə rəqəmsal formada qorumağa imkan verir.</p>
+
+<p>🇦🇿 Azərbaycanda İçərişəhərin tarixi abidələrinin rəqəmsal sənədləşdirilməsi istiqamətində də layihələr həyata keçirilib. Məsələn, Qız qalası “World Heritage 3D Scanning” proqramı çərçivəsində rəqəmsal şəkildə sənədləşdirilib. :contentReference[oaicite:1]{index=1}</p>
 
 <p style="color:#16a34a;font-size:20px;font-weight:bold;">
-🌿 Daha çox yaşıllıq – daha sağlam və iqlimə davamlı şəhər mühiti deməkdir.
+🌍 Rəqəmsal irs gələcək nəsillər üçün tarixi abidələr haqqında məlumatların qorunmasına kömək edən müasir vasitələrdən biridir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanda ekoloji və təbiət hadisələri ilə bağlı mühüm məlumatları izləyərək operativ şəkildə təqdim edir.
+📡 META Meteorologiya Mərkəzi elm, texnologiya, tarix və Azərbaycanla bağlı maraqlı məlumatları təqdim edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ən son xəbərləri öyrənmək üçün WhatsApp kanalımıza qoşulun:
+📲 Ən son xəbərləri əldə etmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
