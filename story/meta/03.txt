@@ -1,25 +1,27 @@
-<h2 style="color:#22c55e;">🏦 Azərbaycanda bank xidmətlərində süni intellektin rolu artır</h2>
+<h2 style="color:#60a5fa;">👨‍👩‍👧 Azərbaycanda əhalinin gəlirləri 9,8% artıb</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 9 avqust 2026, 16:27 — Bakı vaxtı
+🕐 Əlavə olunub: 10 avqust 2026, 18:00 — Bakı vaxtı
 </p>
 
-<p>Azərbaycanda bank sektorunda rəqəmsal texnologiyaların və süni intellekt əsaslı xidmətlərin tətbiqi genişlənir. Yeni sistemlər müştərilərin gündəlik bank əməliyyatlarını daha sürətli və rahat şəkildə həyata keçirməsinə imkan yaradır.</p>
+<p>2026-cı ilin yanvar–iyul aylarında Azərbaycanda əhalinin nominal gəlirləri artıb.</p>
 
-<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">🤖 Süni intellekt əsaslı köməkçilər müştərilərin suallarını cavablandıra, bank məhsulları barədə məlumat verə və bəzi gündəlik əməliyyatların həyata keçirilməsinə kömək edə bilər.</span></p>
+<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">📈 Əhalinin nominal gəlirləri illik müqayisədə 9,8% artaraq 55 milyard 631,8 milyon manata çatıb.</span></p>
 
-<p>📱 Azərbaycanda bəzi banklar artıq mobil tətbiqlərdə süni intellekt əsaslı köməkçilərdən istifadə edir. Məsələn, ABB 2026-cı ilin iyununda AI-nur və AI-khan adlı danışıq əsaslı süni intellekt köməkçilərini bütün müştərilər üçün istifadəyə verib. Şirkətin məlumatına görə, xidmət artıq yüz minlərlə istifadəçi tərəfindən istifadə olunub. :contentReference[oaicite:3]{index=3}</p>
+<p>Gəlirlərin artması ölkədə iqtisadi fəallıq və əhalinin maliyyə imkanlarının dəyişməsi baxımından əsas sosial-iqtisadi göstəricilərdən biri hesab olunur.</p>
 
-<p>💳 Digər tərəfdən, Birbank tətbiqindəki AI Assistant bank məhsulları, kartlar, köçürmələr, kreditlər və digər gündəlik xidmətlərlə bağlı suallara cavab verməyə imkan verir. :contentReference[oaicite:4]{index=4}</p>
-
-<p>🔐 Süni intellekt bank sektorunda yalnız müştəri xidmətləri üçün deyil, həmçinin əməliyyatların monitorinqi, risklərin müəyyənləşdirilməsi və fırıldaqçılığın qarşısının alınması kimi istiqamətlərdə də istifadə oluna bilər.</p>
+<p>💳 Əhalinin gəlirlərindəki dəyişiklik istehlak, yığım və xidmətlərə olan tələbat kimi müxtəlif iqtisadi proseslərə təsir göstərə bilər.</p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📲 Rəqəmsal bankçılığın inkişafı insanların bank xidmətlərinə daha sürətli və rahat çıxış əldə etməsinə şərait yaradır.
+📊 Yanvar–iyul 2026: 55,63 milyard manat
+</p>
+
+<p style="color:#22c55e;font-size:20px;font-weight:bold;">
+📈 İllik artım: 9,8%
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ən son xəbərləri əldə etmək üçün WhatsApp kanalımıza qoşulun:
+📲 Azərbaycandakı son xəbərləri izləmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank">
 ➡️ META WhatsApp Kanalı
