@@ -1,29 +1,27 @@
-<h2 style="color:#60a5fa;">🏭 Azərbaycanda sənayedə avtomatlaşdırma prosesi sürətlənir</h2>
+<h2 style="color:#22c55e;">💰 Azərbaycanda investisiyalar 11%-ə yaxın artıb</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 9 avqust 2026, 16:27 — Bakı vaxtı
+🕐 Əlavə olunub: 10 avqust 2026, 18:00 — Bakı vaxtı
 </p>
 
-<p>Azərbaycanda sənaye müəssisələrində müasir texnologiyaların və avtomatlaşdırılmış istehsal sistemlərinin tətbiqi genişlənir. Robotlaşdırılmış avadanlıqlar, rəqəmsal idarəetmə sistemləri və avtomatik istehsal xətləri müəssisələrin səmərəliliyinin artırılmasına imkan verir.</p>
+<p>2026-cı ilin yanvar–iyul aylarında Azərbaycanda əsas kapitala yönəldilən investisiyaların həcmi <strong>11 milyard 111,9 milyon manat</strong> təşkil edib.</p>
 
-<p><span style="color:#60a5fa;font-weight:bold;font-size:20px;">🤖 Avtomatlaşdırmanın əsas üstünlüklərindən biri istehsal proseslərinin daha dəqiq, sürətli və fasiləsiz həyata keçirilməsidir.</span></p>
+<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">📈 İnvestisiyaların həcmi ötən ilin eyni dövrü ilə müqayisədə 10,7% artıb.</span></p>
 
-<p>🏭 Müasir fabriklərdə robot manipulyatorlardan, avtomatik konveyer sistemlərindən, sensorlardan və rəqəmsal monitorinq texnologiyalarından istifadə olunur.</p>
+<p>İnvestisiyalar ölkə iqtisadiyyatında yeni layihələrin həyata keçirilməsi, istehsal və infrastruktur imkanlarının genişləndirilməsi baxımından mühüm rol oynayır.</p>
 
-<p>📊 Rəqəmsal sistemlər istehsal prosesindən real vaxt rejimində məlumat toplamağa, avadanlıqların vəziyyətini izləməyə və mümkün nasazlıqları əvvəlcədən müəyyən etməyə kömək edə bilər.</p>
+<p>🏗️ Əsas kapitala qoyulan vəsaitlərin artması tikinti, sənaye, nəqliyyat və digər iqtisadi sahələrdə yeni layihələrin inkişafına imkan yaradır.</p>
 
-<p>⚙️ Avtomatlaşdırma xüsusilə sənaye zonalarında istehsal gücünün artırılması, məhsul keyfiyyətinin yüksəldilməsi və resurslardan daha səmərəli istifadə baxımından mühüm əhəmiyyət daşıyır.</p>
-
-<p style="color:#22c55e;font-size:20px;font-weight:bold;">
-🚀 Sənayenin rəqəmsallaşdırılması Azərbaycanın istehsal sektorunun gələcək inkişafında mühüm rol oynaya bilər.
+<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
+📊 2026-cı ilin ilk 7 ayında əsas kapitala investisiya: 11,1 milyard manat
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanda texnologiya, elm, infrastruktur və ətraf mühitlə bağlı mühüm xəbərləri izləyərək təqdim edir.
+📡 META Meteorologiya Mərkəzi Azərbaycanda mühüm iqtisadi, sosial və texnoloji yenilikləri də izləyərək oxuculara təqdim edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ən son xəbərləri əldə etmək üçün WhatsApp kanalımıza qoşulun:
+📲 Ən son xəbərlər üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank">
 ➡️ META WhatsApp Kanalı
