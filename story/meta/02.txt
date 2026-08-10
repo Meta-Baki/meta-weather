@@ -1,29 +1,29 @@
-<h2 style="color:#f59e0b;">🏛️ Tarixi abidələrin rəqəmsal xəritələşdirilməsi geniş imkanlar yaradır</h2>
+<h2 style="color:#f59e0b;">📦 Azərbaycanda qeyri-neft-qaz ixracı 18,3% artıb</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 9 avqust 2026, 16:27 — Bakı vaxtı
+🕐 Əlavə olunub: 10 avqust 2026, 18:00 — Bakı vaxtı
 </p>
 
-<p>Tarixi və mədəni irsin qorunmasında rəqəmsal texnologiyaların imkanlarından istifadə getdikcə daha böyük əhəmiyyət daşıyır. 3D skanlaşdırma, dron çəkilişləri və rəqəmsal xəritələşdirmə tarixi abidələrin dəqiq elektron modellərinin yaradılmasına imkan verir.</p>
+<p>Azərbaycanın qeyri-neft-qaz sektorunda ixrac göstəriciləri 2026-cı ilin ilk 7 ayında artım nümayiş etdirib.</p>
 
-<p><span style="color:#f59e0b;font-weight:bold;font-size:20px;">🏛️ Rəqəmsal modellər abidələrin mövcud vəziyyətinin sənədləşdirilməsi və gələcəkdə bərpa işlərinin aparılması üçün mühüm məlumat bazası yarada bilər.</span></p>
+<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">📈 Yanvar–iyul aylarında qeyri-neft-qaz ixracı 18,3% artaraq 2,5 milyard ABŞ dollarına çatıb.</span></p>
 
-<p>🚁 Dronlardan istifadə etməklə abidələrin yüksək keyfiyyətli havadan görüntüləri əldə edilir. Bu məlumatlar daha sonra xüsusi proqramlarla emal edilərək üçölçülü modellərə çevrilə bilər.</p>
+<p>Bu göstərici ölkənin qeyri-neft sektorunda istehsal olunan məhsulların xarici bazarlara çıxarılmasının genişləndiyini göstərir.</p>
 
-<p>📐 3D skanlaşdırma isə binaların ölçülərini və memarlıq detallarını yüksək dəqiqliklə rəqəmsal formada qorumağa imkan verir.</p>
+<p>🌾 Qeyri-neft ixracında kənd təsərrüfatı, emal sənayesi və digər qeyri-xammal məhsullarının xüsusi rolu var.</p>
 
-<p>🇦🇿 Azərbaycanda İçərişəhərin tarixi abidələrinin rəqəmsal sənədləşdirilməsi istiqamətində də layihələr həyata keçirilib. Məsələn, Qız qalası “World Heritage 3D Scanning” proqramı çərçivəsində rəqəmsal şəkildə sənədləşdirilib. :contentReference[oaicite:1]{index=1}</p>
+<p>🌍 İxracın şaxələndirilməsi Azərbaycanın xarici ticarət imkanlarının genişləndirilməsi və iqtisadiyyatın müxtəlif sahələrinin inkişafı baxımından əhəmiyyətlidir.</p>
 
-<p style="color:#16a34a;font-size:20px;font-weight:bold;">
-🌍 Rəqəmsal irs gələcək nəsillər üçün tarixi abidələr haqqında məlumatların qorunmasına kömək edən müasir vasitələrdən biridir.
+<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
+📊 2026-cı ilin yanvar–iyul aylarında qeyri-neft-qaz ixracı: 2,5 milyard ABŞ dolları
 </p>
 
-<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi elm, texnologiya, tarix və Azərbaycanla bağlı maraqlı məlumatları təqdim edir.
+<p style="color:#22c55e;font-size:20px;font-weight:bold;">
+📈 İllik artım: 18,3%
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ən son xəbərləri əldə etmək üçün WhatsApp kanalımıza qoşulun:
+📲 Daha çox xəbər üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank">
 ➡️ META WhatsApp Kanalı
