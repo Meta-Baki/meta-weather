@@ -1,29 +1,34 @@
-<h2 style="color:#60a5fa;">👨‍👩‍👧 Azərbaycanda əhalinin gəlirləri 9,8% artıb</h2>
+<h2 style="color:#22c55e;">🌾 Qubadlıda 1 860 hektarlıq yeni aqropark yaradılıb</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 10 avqust 2026, 18:00 — Bakı vaxtı
+🕐 Əlavə olunub: 11 avqust 2026, 17:50 — Bakı vaxtı
 </p>
 
-<p>2026-cı ilin yanvar–iyul aylarında Azərbaycanda əhalinin nominal gəlirləri artıb.</p>
+<p>Qubadlı rayonunda yeni “Atena Aqropark” yaradılıb. Aqroparkın ümumi ərazisi <strong>1 860 hektar</strong> təşkil edir.</p>
 
-<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">📈 Əhalinin nominal gəlirləri illik müqayisədə 9,8% artaraq 55 milyard 631,8 milyon manata çatıb.</span></p>
+<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">🌱 Layihənin ümumi dəyəri 10,9 milyon manatdır.</span></p>
 
-<p>Gəlirlərin artması ölkədə iqtisadi fəallıq və əhalinin maliyyə imkanlarının dəyişməsi baxımından əsas sosial-iqtisadi göstəricilərdən biri hesab olunur.</p>
+<p>Aqroparkın rezidenti “Atena Aqro Kompleks” MMC-yə qeydiyyat şəhadətnaməsi təqdim olunub.</p>
 
-<p>💳 Əhalinin gəlirlərindəki dəyişiklik istehlak, yığım və xidmətlərə olan tələbat kimi müxtəlif iqtisadi proseslərə təsir göstərə bilər.</p>
+<p>🚜 Yeni aqroparkın yaradılması işğaldan azad edilmiş ərazilərdə kənd təsərrüfatı potensialının inkişaf etdirilməsi və müasir aqrar təsərrüfatların formalaşdırılması istiqamətində atılan addımlardan biridir.</p>
 
-<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📊 Yanvar–iyul 2026: 55,63 milyard manat
-</p>
+<p>💧 Müasir kənd təsərrüfatı texnologiyalarının tətbiqi əkin sahələrindən daha səmərəli istifadə olunmasına və istehsal imkanlarının artırılmasına şərait yarada bilər.</p>
+
+<p>🌍 İşğaldan azad edilmiş ərazilərdə kənd təsərrüfatının inkişafı regionun iqtisadi potensialının artırılması baxımından mühüm əhəmiyyət daşıyır.</p>
 
 <p style="color:#22c55e;font-size:20px;font-weight:bold;">
-📈 İllik artım: 9,8%
+📊 Aqroparkın ərazisi: 1 860 hektar<br>
+💰 Layihənin dəyəri: 10,9 milyon manat
+</p>
+
+<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
+📡 META Meteorologiya Mərkəzi kənd təsərrüfatı, ekologiya və regionların inkişafı ilə bağlı mühüm yenilikləri də izləyərək təqdim edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Azərbaycandakı son xəbərləri izləmək üçün WhatsApp kanalımıza qoşulun:
+📲 Ən son xəbərlər üçün WhatsApp kanalımıza qoşulun:
 <br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank">
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
