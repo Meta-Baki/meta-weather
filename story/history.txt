@@ -1,44 +1,47 @@
-<h2 style="color:#3b82f6;">🌦️ Azərbaycanda 11 avqust üçün hava proqnozu</h2>
+<h2 style="color:#3b82f6;">🌧️ Azərbaycanda 11 avqustda intensiv yağıntılar gözlənilir</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 10 avqust 2026, 15:31 — Bakı vaxtı
+🕐 Əlavə olunub: 11 avqust 2026, 17:50 — Bakı vaxtı
 </p>
 
-<p>11 avqustda Azərbaycanda hava şəraitinin bəzi ərazilərdə qeyri-sabit keçəcəyi gözlənilir. Xüsusilə şimal və qərb rayonlarından başlayaraq qısamüddətli yağışlar, ayrı-ayrı yerlərdə leysan, şimşək və dolu ehtimal olunur.</p>
+<p>Milli Hidrometeorologiya Xidməti 11 avqust, çərşənbə günü üçün hava proqnozunu açıqlayıb.</p>
 
 <h3 style="color:#60a5fa;">🏙️ Bakı və Abşeron</h3>
 
-<p>🌤️ Dəyişkən buludlu, əsasən yağıntısız hava gözlənilir. Gün ərzində bəzi yerlərdə qısamüddətli yağış ehtimalı var.</p>
+<p>Bakıda və Abşeron yarımadasında dəyişkən buludlu hava gözlənilir. Əsasən yağıntısız keçəcəyi, lakin gün ərzində bəzi yerlərdə yağış yağacağı ehtimal olunur.</p>
+
+<p>💨 Mülayim şimal-qərb küləyi əsəcək.</p>
 
 <p>🌡️ Gecə: <strong>22–25°C</strong><br>
 ☀️ Gündüz: <strong>28–33°C</strong><br>
-💨 Külək: mülayim şimal-qərb<br>
-📊 Təzyiq: <strong>757 mm civə sütunu / 1009 hPa</strong><br>
-💧 Rütubət: gecə <strong>70–75%</strong>, gündüz <strong>40–45%</strong></p>
+📊 Atmosfer təzyiqi: <strong>758 mm civə sütunu</strong><br>
+💧 Rütubət: gecə <strong>70–75%</strong>, gündüz <strong>45–50%</strong></p>
 
-<h3 style="color:#f59e0b;">⛈️ Azərbaycanın rayonları</h3>
+<h3 style="color:#f97316;">⛈️ Azərbaycanın rayonları</h3>
 
-<p>Şimal və qərb rayonlarından başlayaraq bəzi yerlərdə qısamüddətli yağışlar gözlənilir. Ayrı-ayrı ərazilərdə leysan, şimşək və dolu mümkündür. Dağlıq və dağətəyi rayonlarda yağıntıların güclənəcəyi ehtimal olunur.</p>
+<p>Rayonlarda bəzi vaxtlarda yağış yağacağı gözlənilir. Ayrı-ayrı ərazilərdə yağıntılar <strong>intensiv leysan</strong> xarakterli ola bilər.</p>
 
-<p>🌫️ Gecə və səhər bəzi dağlıq rayonlarda duman müşahidə edilə bilər. Şərq küləyi əsəcək.</p>
+<p>⚡ Bəzi yerlərdə <strong>şimşək və dolu</strong> ehtimalı var. Xüsusilə dağlıq və dağətəyi rayonlarda yağıntıların güclənəcəyi gözlənilir.</p>
+
+<p>🌫️ Gecə və səhər bəzi dağlıq ərazilərdə duman müşahidə oluna bilər. Şərq küləyi əsəcək.</p>
 
 <p>🌡️ Rayonlarda gecə: <strong>22–26°C</strong><br>
-🌡️ Gündüz: <strong>32–36°C</strong><br>
-🏔️ Dağlarda gecə: <strong>14–19°C</strong><br>
-🏔️ Dağlarda gündüz: <strong>21–26°C</strong></p>
+🌡️ Gündüz: <strong>32–37°C</strong><br>
+🏔️ Dağlarda gecə: <strong>14–18°C</strong><br>
+🏔️ Dağlarda gündüz: <strong>20–25°C</strong></p>
 
 <p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Xüsusilə dağlıq və dağətəyi ərazilərdə leysan, şimşək və dolu ehtimalına diqqət yetirmək tövsiyə olunur.
+⚠️ Xüsusilə dağlıq və dağətəyi rayonlarda yaşayan və səfər edən vətəndaşlara intensiv leysan, şimşək və dolu ehtimalına görə ehtiyatlı olmaq tövsiyə olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava şəraitini izləyir və proqnoz dəyişdikcə yenilənmiş məlumatları operativ təqdim edəcək.
+📡 META Meteorologiya Mərkəzi hava şəraitini izləyir və dəyişikliklər olduqda yenilənmiş məlumatları operativ təqdim edəcək.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
 📲 Ən son hava proqnozları və xəbərlər üçün WhatsApp kanalımıza qoşulun:
 <br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank">
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
