@@ -1,35 +1,53 @@
-<h2 style="color:#22c55e;">🏨 Azərbaycanda qonaq evləri üçün yeni dövlət dəstəyi mexanizmləri hazırlanır</h2>
+<h2 style="color:#60a5fa;">🌧️ Azərbaycanda bəzi rayonlarda yağış və şimşək müşahidə olunub – FAKTİKİ HAVA</h2>
 
-<p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 11 avqust 2026, 18:00 — Bakı vaxtı
+<p style="color:#94a3b8;font-size:15px;">
+📅 <strong>12 avqust 2026-cı il</strong> | 🕐 <strong>12:12</strong>
 </p>
 
-<p>Azərbaycanda turizm sektorunda fəaliyyət göstərən mikro və kiçik sahibkarlıq subyektləri, o cümlədən qonaq evləri üçün yeni dövlət dəstəyi mexanizmlərinin hazırlanması nəzərdə tutulur.</p>
+<p>🇦🇿 <span style="color:#22c55e;font-weight:bold;">12 avqust 2026-cı il tarixinə olan faktiki hava şəraiti açıqlanıb.</span></p>
 
-<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">🏡 Yeni dəstək mexanizmləri kənd və region turizminin inkişafına, qonaq evlərinin imkanlarının genişləndirilməsinə və yerli sahibkarlığın dəstəklənməsinə yönəldilə bilər.</span></p>
+<p><span style="color:#facc15;font-weight:bold;">META Meteorologiya Mərkəzinin</span> məlumatına görə, Azərbaycanın bəzi rayonlarında gün ərzində arabir <span style="color:#60a5fa;font-weight:bold;">şimşək və yağış</span> müşahidə olunub. Ayrı-ayrı ərazilərdə yağıntılar leysan xarakterli olub.</p>
 
-<p>Məsələ 2026–2030-cu illər üzrə Turizmin İnkişafına dair Dövlət Proqramının layihəsində nəzərdə tutulub. Dövlət Turizm Agentliyinin məlumatına görə, proqram hazırda yekun təsdiq mərhələsindədir.</p>
+<p>🌧️ Ən çox yağıntı <span style="color:#ef4444;font-weight:bold;">Gədəbəydə – 32 mm</span>, Balakəndə – <strong>27 mm</strong>, Qaxın Sarıbaş kəndində – <strong>9 mm</strong>, Altıağacda – <strong>5 mm</strong> qeydə alınıb.</p>
 
-<p>🌄 Azərbaycanda kənd turizminin inkişafı üçün artıq müxtəlif layihələr həyata keçirilir. Onlardan biri “Turistik Kənd” layihəsidir. Layihə çərçivəsində kənd qonaq evlərinin yaradılması və yerli əhalinin turizm fəaliyyətinə cəlb olunması nəzərdə tutulur.</p>
+<p>Digər ərazilərdə qeydə alınan yağıntının miqdarı belə olub:</p>
 
-<p>💼 Yeni mexanizmlərin detalları dövlət proqramı təsdiqləndikdən sonra açıqlanacaq.</p>
+<ul>
+<li>Göygöl – <strong>3 mm</strong></li>
+<li>Kiççay (Şəki) – <strong>3 mm</strong></li>
+<li>Qəbələ – <strong>3 mm</strong></li>
+<li>Ağstafa – <strong>2 mm</strong></li>
+<li>Daşkəsən – <strong>2 mm</strong></li>
+<li>Şuşa – <strong>2 mm</strong></li>
+<li>Zəngilan – <strong>2 mm</strong></li>
+<li>Qusar – <strong>2 mm</strong></li>
+</ul>
+
+<p>🌦️ <strong>1 mm-dək yağıntı</strong> isə Ceyrançöl, Şahbuz, Gəncə, Naftalan, Zaqatala, Oğuz, Xaltan, Şahdağ, Tərtər, Füzuli, Kəlbəcər, Kürdəmir, Sabirabad, Cəfərxan, Ağdam, Biləsuvar, eləcə də Bakı və Abşeron yarımadasında qeydə alınıb.</p>
+
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+⛈️ Faktiki müşahidələr bəzi bölgələrdə yağıntıların intensiv xarakter daşıdığını və lokal leysanların baş verdiyini göstərir.
+</p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌍 Məqsəd: regionlarda turizmin inkişafı, yeni imkanların yaradılması və yerli sahibkarlığın gücləndirilməsi.
+📡 META Meteorologiya Mərkəzi ölkə ərazisində hava şəraitini fasiləsiz izləyir və faktiki müşahidələri operativ şəkildə təqdim edir.
 </p>
 
-<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanda turizm, iqtisadiyyat, ekologiya və digər mühüm sahələr üzrə xəbərləri də izləyərək təqdim edir.
+<p style="color:#22c55e;font-size:20px;font-weight:bold;">
+📲 Azərbaycanda hava şəraiti ilə bağlı ən son məlumatları WhatsApp kanalımızda izləyin.
 </p>
 
-<p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ən son xəbərlər üçün WhatsApp kanalımıza qoşulun:
-<br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı
+<p>
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" style="color:#22c55e;font-weight:bold;">
+META Meteorologiya Mərkəzi – WhatsApp kanalı
 </a>
 </p>
 
-<p style="color:#22c55e;font-size:22px;font-weight:bold;">
+<p style="color:#facc15;font-size:21px;font-weight:bold;">
 👨‍💼 Müəllif: Peşəkar meteoroloq Edelman Əliyev
+</p>
+
+<p style="color:#94a3b8;font-size:15px;">
+🏢 META Meteorologiya Mərkəzi<br>
+📅 Dərc tarixi: 12 avqust 2026-cı il
 </p>
