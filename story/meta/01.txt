@@ -1,6 +1,6 @@
 <h2 style="color:#60a5fa;">🌧️ Azərbaycanda bəzi rayonlarda yağış və şimşək müşahidə olunub – FAKTİKİ HAVA</h2>
 
-<p style="color:#94a3b8;font-size:15px;">
+<p style="text-align:right;color:#94a3b8;font-size:14px;">
 🕐 Əlavə olunub: 12 avqust 2026, 17:00 — Bakı vaxtı
 </p>
 
