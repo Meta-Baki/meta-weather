@@ -1,28 +1,25 @@
-<h2 style="color:#22c55e;">🌾 Qubadlıda 1 860 hektarlıq yeni aqropark yaradılıb</h2>
+<h2 style="color:#f59e0b;">🌞 Naxçıvanda yeni günəş elektrik stansiyalarının tikintisi davam edir</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 11 avqust 2026, 17:50 — Bakı vaxtı
+🕐 Əlavə olunub: 12 avqust 2026, 17:15 — Bakı vaxtı
 </p>
 
-<p>Qubadlı rayonunda yeni “Atena Aqropark” yaradılıb. Aqroparkın ümumi ərazisi <strong>1 860 hektar</strong> təşkil edir.</p>
+<p>Naxçıvanda bərpa olunan enerji potensialından istifadənin genişləndirilməsi istiqamətində günəş elektrik stansiyalarının tikintisi davam etdirilir.</p>
 
-<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">🌱 Layihənin ümumi dəyəri 10,9 milyon manatdır.</span></p>
+<p><span style="color:#f59e0b;font-weight:bold;font-size:20px;">☀️ “Şams 1” və “Qərbi Ufuk” günəş elektrik stansiyaları regionun enerji infrastrukturunun inkişafında mühüm layihələr sırasında yer alır.</span></p>
 
-<p>Aqroparkın rezidenti “Atena Aqro Kompleks” MMC-yə qeydiyyat şəhadətnaməsi təqdim olunub.</p>
+<p>Günəş enerjisindən istifadənin genişləndirilməsi elektrik enerjisinin istehsalında bərpa olunan mənbələrin payının artırılmasına və enerji sisteminin daha dayanıqlı formalaşdırılmasına imkan yarada bilər.</p>
 
-<p>🚜 Yeni aqroparkın yaradılması işğaldan azad edilmiş ərazilərdə kənd təsərrüfatı potensialının inkişaf etdirilməsi və müasir aqrar təsərrüfatların formalaşdırılması istiqamətində atılan addımlardan biridir.</p>
+<p>🔋 Bərpa olunan enerji layihələrinin inkişafı həmçinin günəş enerjisi kimi təmiz enerji mənbələrindən daha səmərəli istifadə edilməsinə şərait yaradır.</p>
 
-<p>💧 Müasir kənd təsərrüfatı texnologiyalarının tətbiqi əkin sahələrindən daha səmərəli istifadə olunmasına və istehsal imkanlarının artırılmasına şərait yarada bilər.</p>
+<p>🌍 Azərbaycanın enerji sektorunda bərpa olunan enerji mənbələrinin inkişaf etdirilməsi uzunmüddətli enerji strategiyasının mühüm istiqamətlərindən biridir.</p>
 
-<p>🌍 İşğaldan azad edilmiş ərazilərdə kənd təsərrüfatının inkişafı regionun iqtisadi potensialının artırılması baxımından mühüm əhəmiyyət daşıyır.</p>
-
-<p style="color:#22c55e;font-size:20px;font-weight:bold;">
-📊 Aqroparkın ərazisi: 1 860 hektar<br>
-💰 Layihənin dəyəri: 10,9 milyon manat
+<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
+☀️ Günəş enerjisi Azərbaycanın enerji gələcəyində getdikcə daha böyük rol oynaya bilər.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi kənd təsərrüfatı, ekologiya və regionların inkişafı ilə bağlı mühüm yenilikləri də izləyərək təqdim edir.
+📡 META Xəbər Azərbaycanda enerji, ekologiya, texnologiya və infrastruktur sahələrində baş verən mühüm yenilikləri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
