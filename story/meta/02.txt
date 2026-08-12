@@ -1,25 +1,19 @@
-<h2 style="color:#8b5cf6;">🤖 Azərbaycanda pilotsuz avtobus və qatarların tətbiqinə hazırlıq görülür</h2>
+<h2 style="color:#3b82f6;">🏦 Azərbaycanda istehlak qiymətləri iyulda 0,1% azalıb</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 11 avqust 2026, 17:35 — Bakı vaxtı
+🕐 Əlavə olunub: 12 avqust 2026, 17:10 — Bakı vaxtı
 </p>
 
-<p>Azərbaycanda gələcəkdə pilotsuz avtobus və qatarların istifadəyə verilməsi üçün hüquqi və texniki hazırlıq işləri aparılır.</p>
+<p>Azərbaycanda istehlak qiymətləri 2026-cı ilin iyul ayında əvvəlki ayla müqayisədə 0,1 faiz azalıb.</p>
 
-<p><span style="color:#8b5cf6;font-weight:bold;font-size:20px;">🚍 Yeni sistemlərin tətbiqi nəqliyyatın rəqəmsallaşdırılması və avtomatlaşdırılması istiqamətində mühüm addımlardan biri hesab olunur.</span></p>
+<p><span style="color:#3b82f6;font-weight:bold;font-size:20px;">📊 İyul ayında qiymətlərdə cüzi azalma qeydə alınması ölkədə istehlak bazarındakı son dəyişikliklərdən biri kimi diqqət çəkir.</span></p>
 
-<p>Məlumata görə, pilotsuz ictimai nəqliyyatın fəaliyyətinə imkan verəcək qanunvericilik dəyişiklikləri üzərində iş aparılır. Bu istiqamət 2026–2028-ci illər üzrə rəqəmsal inkişaf tədbirləri çərçivəsində nəzərdən keçirilir.</p>
+<p>İstehlak qiymətlərinin dinamikası ərzaq məhsulları, qeyri-ərzaq malları və xidmətlər üzrə qiymət dəyişikliklərindən formalaşır. Bu göstəricilər əhalinin gündəlik xərclərinə və iqtisadi proseslərə təsir edən əsas amillər sırasındadır.</p>
 
-<p>🚆 Gələcəkdə avtomatlaşdırılmış texnologiyaların avtobus və dəmir yolu nəqliyyatında tətbiqi nəqliyyat axınının daha səmərəli idarə olunmasına, insan amilindən asılılığın azalmasına və yeni texnoloji imkanların yaradılmasına şərait yarada bilər.</p>
-
-<p>🏙️ Xüsusilə Bakı kimi böyük şəhərlərdə ağıllı nəqliyyat sistemlərinin inkişafı şəhər mobilliyinin gələcəyi baxımından əhəmiyyətli istiqamətlərdən biridir.</p>
+<p>📈 Qiymət indekslərinin aylıq dəyişməsi iqtisadi vəziyyətin və bazardakı tendensiyaların qiymətləndirilməsi baxımından mühüm statistik göstəricilərdən biridir.</p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🚀 Azərbaycan nəqliyyat sistemində rəqəmsal və avtomatlaşdırılmış texnologiyaların tətbiqini genişləndirməyə hazırlaşır.
-</p>
-
-<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanda texnologiya, nəqliyyat, elm və digər mühüm yenilikləri də izləyərək oxuculara təqdim edir.
+📰 META Xəbər iqtisadiyyat, cəmiyyət, nəqliyyat və ölkədə baş verən digər mühüm hadisələri operativ şəkildə izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
