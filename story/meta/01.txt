@@ -43,10 +43,6 @@ META Meteorologiya Mərkəzi – WhatsApp kanalı
 </a>
 </p>
 
-<p style="color:#facc15;font-size:21px;font-weight:bold;">
-👨‍💼 Müəllif: Peşəkar meteoroloq Edelman Əliyev
-</p>
-
 <p style="color:#94a3b8;font-size:15px;">
 🏢 META Meteorologiya Mərkəzi<br>
 📅 Dərc tarixi: 12 avqust 2026-cı il
