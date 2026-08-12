@@ -1,36 +1,43 @@
-<h2 style="color:#3b82f6;">🌦️ Azərbaycanda 12 avqust üçün hava proqnozu</h2>
+# 🌦️ Azərbaycanda 13 avqust üçün hava proqnozu
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Yenilənib: 11 avqust 2026, 13:15 — Bakı vaxtı
+🕐 Yenilənib: 12 avqust 2026, 16:54 — Bakı vaxtı
 </p>
 
-<p>Milli Hidrometeorologiya Xidmətinin məlumatına əsasən, <strong>12 avqust</strong> tarixində Azərbaycanda hava şəraitinin bəzi ərazilərdə qeyri-sabit keçəcəyi gözlənilir.</p>
+<p>Milli Hidrometeorologiya Xidməti <strong>13 avqust, cümə axşamı</strong> günü üçün hava proqnozunu açıqlayıb.</p>
 
 <h3 style="color:#60a5fa;">🏙️ Bakı və Abşeron</h3>
 
-<p>Bakıda və Abşeron yarımadasında hava <strong>dəyişkən buludlu</strong> olacaq. Əsasən yağıntısız hava gözlənilsə də, gündüz saatlarında bəzi yerlərdə yağış yağacağı ehtimal olunur.</p>
+<p>Bakıda və Abşeron yarımadasında hava <strong>dəyişkən buludlu</strong> olacaq. Əsasən yağıntısız hava gözlənilir.</p>
 
-<p>💨 Mülayim şimal-qərb küləyi əsəcək.</p>
+<p>💨 Şimal-qərb küləyi gün ərzində şimal-şərq küləyi ilə əvəz olunacaq.</p>
 
-<p>🌡️ Gecə: <strong>22–25°C</strong><br>
-☀️ Gündüz: <strong>28–33°C</strong><br>
-📊 Atmosfer təzyiqi: <strong>758 mm civə sütunu</strong><br>
+<p>🌡️ Gecə: <strong>23–26°C</strong><br>
+☀️ Gündüz: <strong>31–36°C</strong><br>
+📊 Atmosfer təzyiqi: <strong>757 mm civə sütunu</strong><br>
 💧 Rütubət: gecə <strong>70–75%</strong>, gündüz <strong>45–50%</strong></p>
 
 <h3 style="color:#f97316;">⛈️ Azərbaycanın rayonları</h3>
 
-<p>Rayonların bəzi yerlərində arabir yağış yağacağı gözlənilir. Ayrı-ayrı ərazilərdə yağıntılar <strong>intensiv leysan</strong> xarakterli ola bilər.</p>
+<p>Ölkənin bəzi rayonlarında, əsasən şimal və qərb ərazilərindən başlayaraq, vaxtaşırı yağış yağacağı gözlənilir.</p>
 
-<p>⚡ Şimşək çaxması və <strong>dolu</strong> düşməsi ehtimalı var. Xüsusilə <strong>dağlıq və dağətəyi rayonlarda</strong> yağıntıların güclənəcəyi gözlənilir.</p>
+<p>⚡ Ayrı-ayrı yerlərdə yağıntılar <strong>qısamüddətli leysan</strong> xarakterli olacaq, şimşək və dolu ehtimalı var.</p>
 
-<p>🌫️ Gecə və səhər bəzi dağlıq ərazilərdə duman müşahidə oluna bilər. Şərq küləyi əsəcək.</p>
+<p>🏔️ Xüsusilə dağlıq və dağətəyi rayonlarda intensiv və güclü yağıntı ehtimalı yüksəkdir.</p>
 
-<p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ Dağlıq və dağətəyi rayonlarda yaşayan və səfər edənlər leysan, şimşək və dolu ehtimalını nəzərə almalıdır.
+<p>🌫️ Gecə və səhər bəzi dağlıq ərazilərdə arabir duman müşahidə oluna bilər. Şərq küləyi əsəcək.</p>
+
+<p>🌡️ Rayonlarda gecə: <strong>22–26°C</strong><br>
+☀️ Gündüz: <strong>32–37°C</strong><br>
+🏔️ Dağlarda gecə: <strong>12–17°C</strong><br>
+🏔️ Dağlarda gündüz: <strong>20–25°C</strong></p>
+
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+⚠️ Xüsusilə dağlıq və dağətəyi rayonlarda leysan, şimşək və dolu ehtimalına görə ehtiyatlı olmaq tövsiyə olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava şəraitini izləyir və yeni məlumatlar olduqda proqnozu operativ şəkildə yeniləyəcək.
+📡 META Meteorologiya Mərkəzi hava şəraitini izləyir və proqnozda dəyişiklik olduğu halda məlumatı operativ şəkildə yeniləyəcək.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
