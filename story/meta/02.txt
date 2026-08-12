@@ -19,8 +19,9 @@
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
 📲 Ən son xəbərlər üçün WhatsApp kanalımıza qoşulun:
 <br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı
+<p>
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" style="color:#22c55e;font-weight:bold;">
+META Meteorologiya Mərkəzi – WhatsApp kanalı
 </a>
 </p>
 
