@@ -1,7 +1,7 @@
 <h2 style="color:#60a5fa;">🌧️ Azərbaycanda bəzi rayonlarda yağış və şimşək müşahidə olunub – FAKTİKİ HAVA</h2>
 
 <p style="color:#94a3b8;font-size:15px;">
-📅 <strong>12 avqust 2026-cı il</strong> | 🕐 <strong>12:12</strong>
+🕐 Əlavə olunub: 12 avqust 2026, 17:00 — Bakı vaxtı
 </p>
 
 <p>🇦🇿 <span style="color:#22c55e;font-weight:bold;">12 avqust 2026-cı il tarixinə olan faktiki hava şəraiti açıqlanıb.</span></p>
