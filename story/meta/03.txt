@@ -1,1 +1,137 @@
+<h2 style="color:#38bdf8;">🌡️ META Meteorologiya Mərkəzi – 13 avqust tarixində canlı meteoroloji müşahidələr</h2>
 
+<p style="text-align:right;color:#94a3b8;font-size:14px;">
+🕐 Yenilənib: 13 avqust 2026 — 15:35 Bakı vaxtı
+</p>
+
+<p>
+<strong>META Meteorologiya Mərkəzinin meteoroloji stansiyasından alınan canlı məlumatlara əsasən</strong>,
+13 avqust saat 15:30-da hava şəraitində isti və əsasən quru atmosfer şəraiti müşahidə olunur.
+Məlumatlar Weather Display sistemi vasitəsilə real vaxt rejimində izlənilir.
+</p>
+
+<p style="color:#f97316;font-size:21px;font-weight:bold;">
+🌡️ Hazırda havanın temperaturu 32,9°C təşkil edir. Gün ərzində maksimum temperatur isə 33,6°C olub.
+</p>
+
+<h3 style="color:#60a5fa;">📊 Cari meteoroloji göstəricilər</h3>
+
+<table style="width:100%;border-collapse:collapse;">
+<tr style="background:#1e293b;color:#fff;">
+<th style="padding:9px;border:1px solid #374151;">Göstərici</th>
+<th style="padding:9px;border:1px solid #374151;">Cari göstərici</th>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">🌡️ Havanın temperaturu</td>
+<td style="padding:9px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">32,9°C</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">💨 Küləyin sürəti</td>
+<td style="padding:9px;border:1px solid #d1d5db;">7,0 km/saat</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">🧭 Küləyin istiqaməti</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Şimal (360°)</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">💨 Küləyin orta sürəti</td>
+<td style="padding:9px;border:1px solid #d1d5db;">3,0 km/saat</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">💨 Maksimum külək şiddəti</td>
+<td style="padding:9px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">14,8 km/saat — 14:46</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">💧 Nisbi rütubət</td>
+<td style="padding:9px;border:1px solid #d1d5db;">43%</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">🌡️ Şeh nöqtəsi</td>
+<td style="padding:9px;border:1px solid #d1d5db;">18,7°C</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">🔥 İstilik indeksi</td>
+<td style="padding:9px;border:1px solid #d1d5db;color:#ef4444;font-weight:bold;">34,3°C</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">🧭 Atmosfer təzyiqi</td>
+<td style="padding:9px;border:1px solid #d1d5db;">995,0 hPa</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">🌧️ Son 1 saatda yağıntı</td>
+<td style="padding:9px;border:1px solid #d1d5db;">0,7 mm</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">🌧️ Gün ərzində yağıntı</td>
+<td style="padding:9px;border:1px solid #d1d5db;">0,7 mm</td>
+</tr>
+</table>
+
+<h3 style="color:#60a5fa;">📈 Gün ərzində müşahidə olunan ekstremal göstəricilər</h3>
+
+<table style="width:100%;border-collapse:collapse;">
+<tr style="background:#1e293b;color:#fff;">
+<th style="padding:9px;border:1px solid #374151;">Göstərici</th>
+<th style="padding:9px;border:1px solid #374151;">Dəyər</th>
+<th style="padding:9px;border:1px solid #374151;">Vaxt</th>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">🌡️ Maksimum temperatur</td>
+<td style="padding:9px;border:1px solid #d1d5db;color:#ef4444;font-weight:bold;">33,6°C</td>
+<td style="padding:9px;border:1px solid #d1d5db;">14:43</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">🌡️ Minimum temperatur</td>
+<td style="padding:9px;border:1px solid #d1d5db;">26,6°C</td>
+<td style="padding:9px;border:1px solid #d1d5db;">05:14</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">💨 Maksimum külək</td>
+<td style="padding:9px;border:1px solid #d1d5db;">14,8 km/saat — Şimal-şərq</td>
+<td style="padding:9px;border:1px solid #d1d5db;">14:46</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">🌧️ Yağıntı</td>
+<td style="padding:9px;border:1px solid #d1d5db;">0,7 mm</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Gün ərzində</td>
+</tr>
+</table>
+
+<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
+🌤️ Müşahidələrə əsasən, günün bu saatlarında hava isti, rütubət isə nisbətən aşağı səviyyədədir.
+Külək hazırda şimal istiqamətindən zəif sürətlə əsir.
+</p>
+
+<p style="color:#38bdf8;font-size:20px;font-weight:bold;">
+📡 META Meteorologiya Mərkəzi meteoroloji stansiyadan daxil olan temperatur, rütubət, külək,
+atmosfer təzyiqi və yağıntı məlumatlarını real vaxtda izləyir.
+</p>
+
+<p style="color:#25D366;font-size:20px;font-weight:bold;">
+📲 Meteoroloji müşahidələr, hava proqnozları və son xəbərləri əldə etmək üçün WhatsApp kanalımıza qoşulun:
+<br><br>
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
+target="_blank"
+style="color:#25D366;font-weight:bold;text-decoration:none;">
+➡️ META WhatsApp Kanalı
+</a>
+</p>
+
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">
+👨‍💼 Müəllif: Peşəkar meteoroloq Edelman Əliyev
+</p>
