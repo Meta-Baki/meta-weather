@@ -1,45 +1,69 @@
-<h2 style="color:#60a5fa;">🌧️ Azərbaycanda bəzi rayonlarda yağış və şimşək müşahidə olunub – FAKTİKİ HAVA</h2>
+<h2 style="color:#f59e0b;">⚡ Azərbaycan və Ermənistan arasında elektrik enerjisi əməkdaşlığı mümkündür</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 12 avqust 2026, 17:00 — Bakı vaxtı
-</p>
-
-<p>🇦🇿 <span style="color:#22c55e;font-weight:bold;">12 avqust 2026-cı il tarixinə olan faktiki hava şəraiti açıqlanıb.</span></p>
-
-<p><span style="color:#facc15;font-weight:bold;">META Meteorologiya Mərkəzinin</span> məlumatına görə, Azərbaycanın bəzi rayonlarında gün ərzində arabir <span style="color:#60a5fa;font-weight:bold;">şimşək və yağış</span> müşahidə olunub. Ayrı-ayrı ərazilərdə yağıntılar leysan xarakterli olub.</p>
-
-<p>🌧️ Ən çox yağıntı <span style="color:#ef4444;font-weight:bold;">Gədəbəydə – 32 mm</span>, Balakəndə – <strong>27 mm</strong>, Qaxın Sarıbaş kəndində – <strong>9 mm</strong>, Altıağacda – <strong>5 mm</strong> qeydə alınıb.</p>
-
-<p>Digər ərazilərdə qeydə alınan yağıntının miqdarı belə olub:</p>
-
-<ul>
-<li>Göygöl – <strong>3 mm</strong></li>
-<li>Kiççay (Şəki) – <strong>3 mm</strong></li>
-<li>Qəbələ – <strong>3 mm</strong></li>
-<li>Ağstafa – <strong>2 mm</strong></li>
-<li>Daşkəsən – <strong>2 mm</strong></li>
-<li>Şuşa – <strong>2 mm</strong></li>
-<li>Zəngilan – <strong>2 mm</strong></li>
-<li>Qusar – <strong>2 mm</strong></li>
-</ul>
-
-<p>🌦️ <strong>1 mm-dək yağıntı</strong> isə Ceyrançöl, Şahbuz, Gəncə, Naftalan, Zaqatala, Oğuz, Xaltan, Şahdağ, Tərtər, Füzuli, Kəlbəcər, Kürdəmir, Sabirabad, Cəfərxan, Ağdam, Biləsuvar, eləcə də Bakı və Abşeron yarımadasında qeydə alınıb.</p>
-
-<p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⛈️ Faktiki müşahidələr bəzi bölgələrdə yağıntıların intensiv xarakter daşıdığını və lokal leysanların baş verdiyini göstərir.
-</p>
-
-<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi ölkə ərazisində hava şəraitini fasiləsiz izləyir və faktiki müşahidələri operativ şəkildə təqdim edir.
-</p>
-
-<p style="color:#22c55e;font-size:20px;font-weight:bold;">
-📲 Azərbaycanda hava şəraiti ilə bağlı ən son məlumatları WhatsApp kanalımızda izləyin.
+🕐 Əlavə olunub: 13 avqust 2026, 15:30 — Bakı vaxtı
 </p>
 
 <p>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" style="color:#22c55e;font-weight:bold;">
-META Meteorologiya Mərkəzi – WhatsApp kanalı
+Azərbaycan və Ermənistan arasında gələcəkdə <strong>elektrik enerjisinin ixracı və idxalı sahəsində əməkdaşlıq</strong> mümkün ola bilər.
+</p>
+
+<p>
+Ermənistanın baş naziri Nikol Paşinyan avqustun 13-də keçirdiyi brifinq zamanı iki ölkənin enerji sahəsində, o cümlədən elektrik enerjisinin ixracı və idxalında əməkdaşlıq edə biləcəyini bildirib. :contentReference[oaicite:2]{index=2}
+</p>
+
+<p style="color:#f59e0b;font-weight:bold;font-size:20px;">
+⚡ Enerji əməkdaşlığı regionda elektrik şəbəkələrinin gələcək inteqrasiyası və enerji mübadiləsi üçün yeni imkanlar yarada bilər.
+</p>
+
+<h3 style="color:#60a5fa;">🔌 Əməkdaşlığın mümkün istiqamətləri</h3>
+
+<table style="width:100%;border-collapse:collapse;">
+<tr style="background:#1e293b;color:#fff;">
+<th style="padding:8px;border:1px solid #374151;">İstiqamət</th>
+<th style="padding:8px;border:1px solid #374151;">Mümkün nəticə</th>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">⚡ Elektrik enerjisi ixracı</td>
+<td style="padding:8px;border:1px solid #d1d5db;">Enerji mübadiləsinin genişlənməsi</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">🔌 Elektrik enerjisi idxalı</td>
+<td style="padding:8px;border:1px solid #d1d5db;">Təchizat imkanlarının artırılması</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">🌐 Enerji infrastrukturu</td>
+<td style="padding:8px;border:1px solid #d1d5db;">Regional elektrik bağlantılarının inkişafı</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">🌱 Yaşıl enerji</td>
+<td style="padding:8px;border:1px solid #d1d5db;">Bərpa olunan enerjinin regional istifadəsi</td>
+</tr>
+</table>
+
+<p>
+📡 Məlumata görə, Azərbaycan mütəxəssisləri 2025-ci ilin sentyabrında və 2026-cı ilin yanvarında Ermənistanda texniki səfərlərdə olublar. :contentReference[oaicite:3]{index=3}
+</p>
+
+<p style="color:#22c55e;font-size:20px;font-weight:bold;">
+🌍 Enerji sahəsində əməkdaşlıq Cənubi Qafqazda regional infrastrukturun inkişafına təsir göstərə biləcək istiqamətlərdən biri hesab olunur.
+</p>
+
+<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
+📰 META Xəbər Azərbaycanda və regionda baş verən mühüm iqtisadi, enerji və infrastruktur yeniliklərini operativ şəkildə təqdim edir.
+</p>
+
+<p style="color:#25D366;font-size:20px;font-weight:bold;">
+📲 Ən son xəbərlər üçün WhatsApp kanalımıza qoşulun:
+<br><br>
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
+target="_blank"
+style="color:#25D366;font-weight:bold;text-decoration:none;">
+➡️ META WhatsApp Kanalı
 </a>
 </p>
 
