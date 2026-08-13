@@ -1,27 +1,69 @@
-<h2 style="color:#3b82f6;">🏦 Azərbaycanda istehlak qiymətləri iyulda 0,1% azalıb</h2>
+<h2 style="color:#22c55e;">🌍 Azərbaycan, Gürcüstan, Türkiyə və Bolqarıstan yeni elektrik dəhlizini müzakirə edir</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 12 avqust 2026, 17:10 — Bakı vaxtı
+🕐 Əlavə olunub: 13 avqust 2026, 15:30 — Bakı vaxtı
 </p>
 
-<p>Azərbaycanda istehlak qiymətləri 2026-cı ilin iyul ayında əvvəlki ayla müqayisədə 0,1 faiz azalıb.</p>
+<p>
+Azərbaycan, Gürcüstan, Türkiyə və Bolqarıstan arasında <strong>yerüstü elektrik enerjisi tranzit dəhlizinin yaradılması</strong> ilə bağlı danışıqlar aparılır.
+</p>
 
-<p><span style="color:#3b82f6;font-weight:bold;font-size:20px;">📊 İyul ayında qiymətlərdə cüzi azalma qeydə alınması ölkədə istehlak bazarındakı son dəyişikliklərdən biri kimi diqqət çəkir.</span></p>
+<p>
+Məlumata görə, layihə regional elektrik şəbəkələrinin əlaqələndirilməsinə və enerji tranzitinin genişləndirilməsinə yönələ bilər. Gürcüstanın iqtisadiyyat nazirinin müavini İnqa Pkhaladze layihə ilə bağlı danışıqların aparıldığını bildirib. :contentReference[oaicite:8]{index=8}
+</p>
 
-<p>İstehlak qiymətlərinin dinamikası ərzaq məhsulları, qeyri-ərzaq malları və xidmətlər üzrə qiymət dəyişikliklərindən formalaşır. Bu göstəricilər əhalinin gündəlik xərclərinə və iqtisadi proseslərə təsir edən əsas amillər sırasındadır.</p>
+<p style="color:#22c55e;font-weight:bold;font-size:20px;">
+🔋 Yeni dəhliz regionun enerji tranziti imkanlarını artıraraq Gürcüstanın regional enerji mərkəzi kimi rolunu gücləndirə bilər. :contentReference[oaicite:9]{index=9}
+</p>
 
-<p>📈 Qiymət indekslərinin aylıq dəyişməsi iqtisadi vəziyyətin və bazardakı tendensiyaların qiymətləndirilməsi baxımından mühüm statistik göstəricilərdən biridir.</p>
+<h3 style="color:#60a5fa;">⚡ Layihədə iştirak edən ölkələr</h3>
+
+<table style="width:100%;border-collapse:collapse;">
+<tr style="background:#1e293b;color:#fff;">
+<th style="padding:8px;border:1px solid #374151;">Ölkə</th>
+<th style="padding:8px;border:1px solid #374151;">Mümkün rol</th>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">🇦🇿 Azərbaycan</td>
+<td style="padding:8px;border:1px solid #d1d5db;">Enerji istehsalı və ixrac potensialı</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">🇬🇪 Gürcüstan</td>
+<td style="padding:8px;border:1px solid #d1d5db;">Regional tranzit və elektrik şəbəkəsi</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">🇹🇷 Türkiyə</td>
+<td style="padding:8px;border:1px solid #d1d5db;">Enerji bağlantıları və tranzit</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">🇧🇬 Bolqarıstan</td>
+<td style="padding:8px;border:1px solid #d1d5db;">Avropa enerji bazarına çıxış</td>
+</tr>
+</table>
+
+<p>
+🌱 Layihə gələcəkdə bərpa olunan enerji mənbələrindən əldə olunan elektrik enerjisinin regional və Avropa bazarlarına ötürülməsi baxımından da əhəmiyyət qazana bilər.
+</p>
+
+<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
+⚡ Azərbaycanın enerji infrastrukturu artıq yalnız neft və qaz deyil, elektrik enerjisi və yaşıl enerji layihələri istiqamətində də inkişaf edir.
+</p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📰 META Xəbər iqtisadiyyat, cəmiyyət, nəqliyyat və ölkədə baş verən digər mühüm hadisələri operativ şəkildə izləyir.
+📰 META Xəbər enerji, nəqliyyat, texnologiya və regional infrastruktur sahələrində baş verən mühüm yenilikləri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
 📲 Ən son xəbərlər üçün WhatsApp kanalımıza qoşulun:
 <br><br>
-<p>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" style="color:#22c55e;font-weight:bold;">
-META Meteorologiya Mərkəzi – WhatsApp kanalı
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
+target="_blank"
+style="color:#25D366;font-weight:bold;text-decoration:none;">
+➡️ META WhatsApp Kanalı
 </a>
 </p>
 
