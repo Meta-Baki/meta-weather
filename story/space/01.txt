@@ -1,20 +1,19 @@
-<h2 style="color:#f59e0b;">☀️ META Günəş və Geomaqnit Aktivliyi – 12–18 avqust üçün proqnoz</h2>
+<h2 style="color:#f59e0b;">☀️ META Günəş və Geomaqnit Aktivliyi – 13–19 avqust üçün proqnoz</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 12 avqust 2026, 17:00 — Bakı vaxtı
+🕐 Yenilənib: 13 avqust 15:15 2026 — Bakı vaxtı
 </p>
 
 <p>
-META Meteorologiya Mərkəzi 12–18 avqust tarixləri üçün Günəş və geomaqnit aktivliyi üzrə
-yenilənmiş proqnozu təqdim edir.
+META Meteorologiya Mərkəzi 13–19 avqust tarixləri üçün
+Günəş və geomaqnit aktivliyi üzrə yenilənmiş proqnozu təqdim edir.
 </p>
 
 <p>
-<span style="color:#ef4444;font-weight:bold;font-size:20px;">
-☀️ 12 avqustda geomaqnit aktivliyin ən yüksək səviyyəyə çatması gözlənilir.
+<span style="color:#f97316;font-weight:bold;font-size:20px;">
+☀️ Həftənin ilk günlərində Günəş və geomaqnit aktivliyinin orta səviyyədə qalması gözlənilir.
 </span>
-NOAA məlumatlarına əsasən, Yerə çatan CME fonunda maksimum Kp indeksinin 4,67-yə yüksəlməsi
-və G1 səviyyəli zəif geomaqnit qasırğasının baş verməsi mümkündür.
+13–15 avqust tarixlərində maksimum Kp indeksinin təxminən 4 səviyyəsində olması proqnozlaşdırılır.
 </p>
 
 <h3 style="color:#60a5fa;">📅 Günlər üzrə proqnoz</h3>
@@ -28,15 +27,8 @@ və G1 səviyyəli zəif geomaqnit qasırğasının baş verməsi mümkündür.
 </tr>
 
 <tr>
-<td style="padding:8px;border:1px solid #d1d5db;">12 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🔥 Aktiv</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#ef4444;font-weight:bold;">4–5</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🔴 G1 ehtimalı</td>
-</tr>
-
-<tr>
 <td style="padding:8px;border:1px solid #d1d5db;">13 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟠 Orta-yüksək</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟠 Orta</td>
 <td style="padding:8px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">3–4</td>
 <td style="padding:8px;border:1px solid #d1d5db;">🟠 Aktiv</td>
 </tr>
@@ -44,15 +36,15 @@ və G1 səviyyəli zəif geomaqnit qasırğasının baş verməsi mümkündür.
 <tr>
 <td style="padding:8px;border:1px solid #d1d5db;">14 avqust</td>
 <td style="padding:8px;border:1px solid #d1d5db;">🟠 Orta</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">2–4</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">3–4</td>
 <td style="padding:8px;border:1px solid #d1d5db;">🟠 Qeyri-sabit</td>
 </tr>
 
 <tr>
 <td style="padding:8px;border:1px solid #d1d5db;">15 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟢 Orta</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">2–3</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟢 Sakit</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟠 Orta</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">3–4</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟠 Aktiv</td>
 </tr>
 
 <tr>
@@ -64,38 +56,39 @@ və G1 səviyyəli zəif geomaqnit qasırğasının baş verməsi mümkündür.
 
 <tr>
 <td style="padding:8px;border:1px solid #d1d5db;">17 avqust</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟠 Orta</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">3–4</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟠 Aktivlik arta bilər</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟢 Aşağı–orta</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">2–3</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟢 Sakit</td>
 </tr>
 
 <tr>
 <td style="padding:8px;border:1px solid #d1d5db;">18 avqust</td>
 <td style="padding:8px;border:1px solid #d1d5db;">🟠 Orta</td>
-<td style="padding:8px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">3–4</td>
-<td style="padding:8px;border:1px solid #d1d5db;">🟠 Aktiv</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">2–4</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟠 Qeyri-sabit</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">19 avqust</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟠 Orta</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">2–4</td>
+<td style="padding:8px;border:1px solid #d1d5db;">🟠 Aktivlik arta bilər</td>
 </tr>
 </table>
 
 <p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Xüsusi qeyd: 12 avqustda geomaqnit aktivliyin G1 səviyyəsinə çatması mümkündür.
-Kp 5 və daha yüksək göstəricilər geomaqnit qasırğası kateqoriyasına daxildir.
-</p>
-
-<p style="color:#a855f7;font-size:20px;font-weight:bold;">
-🌌 Güclü geomaqnit aktivlik zamanı yüksək enliklərdə qütb parıltılarının müşahidə olunması
-ehtimalı arta bilər.
+⚠️ Qeyd: Kp 5 və daha yüksək göstəricilər NOAA təsnifatında G1 və daha güclü geomaqnit qasırğası hesab olunur. Hazırkı 13–15 avqust proqnozunda maksimum Kp 4,0 göstərilir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Günəş küləyini, geomaqnit sahəni və Günəş aktivliyini
-izləyərək proqnoz yeniləndikcə məlumatları operativ şəkildə təqdim edir.
+📡 META Meteorologiya Mərkəzi Günəş küləyini və geomaqnit vəziyyəti izləyir. Yeni məlumatlar daxil olduqca proqnoz yenilənəcək.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
 📲 Ən son məlumatlar üçün WhatsApp kanalımıza qoşulun:
 <br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank"
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
+target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
