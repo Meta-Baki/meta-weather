@@ -1,50 +1,79 @@
-<h2 style="color:#a855f7;">☄️ META Astronomiya – Perseid meteor axınının maksimumu 13 avqustda müşahidə olunacaq</h2>
+<h2 style="color:#a855f7;">☄️ META Astronomiya – Bu gecə Bakıda Perseid meteor axınını müşahidə etmək mümkün olacaq</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 12 avqust 2026, 17:00 — Bakı vaxtı
+🕐 Əlavə olunub: 13 avqust 15:24 2026 — Bakı vaxtı
 </p>
 
 <p>
-Avqustun 13-də Bakıda və Azərbaycanın digər ərazilərində
-<span style="color:#a855f7;font-weight:bold;">Perseid meteor axınının maksimum aktivliyini</span>
-müşahidə etmək mümkün olacaq.
+Bu gecə, <strong>13 avqust 2026-cı il</strong> tarixində ilin ən məşhur meteor axınlarından biri olan
+<span style="color:#a855f7;font-weight:bold;">Perseidlərin maksimum aktivlik dövrü</span> müşahidə olunur.
 </p>
 
 <p>
-🌌 Astronomik hesablamalara görə, Perseidlərin maksimum aktivliyi
-<strong>13 avqust saat 06:00-da Bakı vaxtı ilə</strong> gözlənilir.
-Meteor axını isə avqustun 24-dək davam edəcək.
-</p>
-
-<p>
-☄️ Perseidlər <strong>109P/Swift-Tuttle kometinin</strong> geridə qoyduğu toz və kiçik hissəciklərin Yer atmosferinə daxil olması nəticəsində yaranır. Bu hissəciklər atmosferə təxminən <strong>59 km/s</strong> sürətlə daxil olaraq yüksək temperatur səbəbindən parlaq işıq izləri yaradır.
+☄️ Perseidlər Yer atmosferinə daxil olan və <strong>109P/Swift-Tuttle kometasının</strong> geridə qoyduğu toz hissəciklərindən yaranan meteor axınıdır. Bu hissəciklər atmosferdə yanaraq səmada parlaq işıq izləri yaradır. :contentReference[oaicite:2]{index=2}
 </p>
 
 <p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-🌠 2026-cı ildə müşahidə şəraitinin xüsusilə əlverişli olması gözlənilir. Yeni Ay dövrünə yaxın tarixlərə təsadüf etdiyi üçün Ay işığının səmanı güclü işıqlandırmaması meteorların görünməsini asanlaşdıra bilər.
+🌌 2026-cı ildə müşahidə üçün şərait əlverişlidir: maksimum dövrü yeni Ay fazasına çox yaxın vaxta təsadüf edir və Ay işığının olmaması zəif meteorların da görünməsinə imkan yaradır. :contentReference[oaicite:3]{index=3}
 </p>
 
-<h3 style="color:#60a5fa;">🔭 Bakıda necə müşahidə etmək olar?</h3>
+<h3 style="color:#60a5fa;">🔭 Bakıda müşahidə şəraiti</h3>
+
+<table style="width:100%;border-collapse:collapse;">
+<tr style="background:#1e293b;color:#fff;">
+<th style="padding:8px;border:1px solid #374151;">Göstərici</th>
+<th style="padding:8px;border:1px solid #374151;">Məlumat</th>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">📅 Maksimum dövr</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#a855f7;font-weight:bold;">13 avqust</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">🌠 Aktivlik</td>
+<td style="padding:8px;border:1px solid #d1d5db;">Yüksək</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">🌌 Ən uyğun vaxt</td>
+<td style="padding:8px;border:1px solid #d1d5db;">Gecə yarısından sonra – sübhə yaxın</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">🧭 Radiant</td>
+<td style="padding:8px;border:1px solid #d1d5db;">Şimal-şərq istiqaməti</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">🌙 Ay işığı</td>
+<td style="padding:8px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">Çox zəif / əlverişli şərait</td>
+</tr>
+
+<tr>
+<td style="padding:8px;border:1px solid #d1d5db;">👁️ Avadanlıq</td>
+<td style="padding:8px;border:1px solid #d1d5db;">Teleskop lazım deyil</td>
+</tr>
+</table>
 
 <p>
-🏙️ Şəhərin güclü işıqlandırılan ərazilərindən uzaqlaşmaq tövsiyə olunur.
-Ən yaxşı nəticə üçün qaranlıq səmalı ərazilər seçilməli və gözlərin qaranlığa uyğunlaşması üçün təxminən <strong>20–30 dəqiqə</strong> vaxt verilməlidir.
+🌠 Beynəlxalq Meteor Təşkilatının məlumatına görə, Perseidlərin maksimumunda ideal qaranlıq səma şəraitində saatda təxminən <strong>100 meteor</strong> səviyyəsində ZHR gözlənilir. Lakin real müşahidə zamanı şəhər işıqları, üfüq və hava şəraiti səbəbindən görünən meteorların sayı daha az olacaq. :contentReference[oaicite:4]{index=4}
 </p>
 
-<p>
-👀 Perseidləri müşahidə etmək üçün teleskop və ya durbin vacib deyil. Meteorlar səmanın müxtəlif hissələrində görünə bildiyi üçün geniş səma sahəsini izləmək daha məqsədəuyğundur.
+<p style="color:#22c55e;font-size:20px;font-weight:bold;">
+🌃 Bakıda ən yaxşı nəticə üçün şəhərin güclü işıqlandırılan hissələrindən uzaqlaşmaq və mümkün qədər açıq, qaranlıq səmalı ərazi seçmək tövsiyə olunur.
 </p>
 
-<p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Qeyd: Perseidlər Yerə düşən böyük meteoritlər deyil. Söhbət əsasən atmosferdə yanaraq parlaq iz yaradan kiçik hissəciklərdən — meteorlardan gedir.
+<p style="color:#f97316;font-size:20px;font-weight:bold;">
+⚠️ Qeyd: Bu hadisə “meteorit yağışı” deyil. Səmada gördüyümüz işıq izləri atmosferdə yanan kiçik kosmik hissəciklərdir və onlara “meteor” deyilir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava şəraitini və astronomik hadisələri izləyərək müşahidə üçün əlverişli şərait barədə məlumatları operativ şəkildə təqdim edir.
+📡 META Astronomiya meteor axınlarını və digər səma hadisələrini izləyərək Azərbaycanda müşahidə imkanları barədə məlumat təqdim edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ən son hava, astronomiya və kosmos xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Astronomiya, hava və kosmos xəbərlərini ilk əldə etmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
