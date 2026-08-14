@@ -1,68 +1,65 @@
-<h2 style="color:#22c55e;">🌍 Azərbaycan, Gürcüstan, Türkiyə və Bolqarıstan yeni elektrik dəhlizini müzakirə edir</h2>
+<h2 style="color:#3b82f6;">🪐 Neptunun kiçik peyklərində qədim kosmik fəlakətin izləri aşkar edilib</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 13 avqust 2026, 15:30 — Bakı vaxtı
+🕐 Əlavə olunub: 14 avqust 2026, 16:50 — Bakı vaxtı
 </p>
 
 <p>
-Azərbaycan, Gürcüstan, Türkiyə və Bolqarıstan arasında <strong>yerüstü elektrik enerjisi tranzit dəhlizinin yaradılması</strong> ilə bağlı danışıqlar aparılır.
+Astronomlar <strong>James Webb Kosmik Teleskopunun (JWST)</strong> müşahidələri
+əsasında Neptunun bəzi kiçik peyklərinin və halqalarının tərkibində maraqlı
+mineral izləri aşkar ediblər.
+</p>
+
+<p style="color:#3b82f6;font-size:20px;font-weight:bold;">
+🔭 Larissa və Galatea peyklərində gilə bənzər mineralların izləri müəyyən edilib.
 </p>
 
 <p>
-Məlumata görə, layihə regional elektrik şəbəkələrinin əlaqələndirilməsinə və enerji tranzitinin genişləndirilməsinə yönələ bilər. Gürcüstanın iqtisadiyyat nazirinin müavini İnqa Pkhaladze layihə ilə bağlı danışıqların aparıldığını bildirib. :contentReference[oaicite:8]{index=8}
+Tədqiqatçılara görə, bu materialların mövcudluğu onların bir vaxtlar daha böyük
+buzlu göy cisimlərinin daxilində formalaşmış ola biləcəyini göstərir.
 </p>
 
-<p style="color:#22c55e;font-weight:bold;font-size:20px;">
-🔋 Yeni dəhliz regionun enerji tranziti imkanlarını artıraraq Gürcüstanın regional enerji mərkəzi kimi rolunu gücləndirə bilər. :contentReference[oaicite:9]{index=9}
+<p>
+🌌 Əsas ehtimallardan birinə görə, milyardlarla il əvvəl Neptunun ən böyük peyki
+Tritonun tutulması zamanı planetin əvvəlki peyk sistemi ciddi şəkildə dağılıb.
+Parçalanmış qədim peyklərin materialları sonradan Neptunun indiki kiçik peyklərinin
+və halqalarının yaranmasında iştirak etmiş ola bilər.
 </p>
-
-<h3 style="color:#60a5fa;">⚡ Layihədə iştirak edən ölkələr</h3>
 
 <table style="width:100%;border-collapse:collapse;">
 <tr style="background:#1e293b;color:#fff;">
-<th style="padding:8px;border:1px solid #374151;">Ölkə</th>
-<th style="padding:8px;border:1px solid #374151;">Mümkün rol</th>
+<th style="padding:9px;border:1px solid #374151;">Obyekt</th>
+<th style="padding:9px;border:1px solid #374151;">Müşahidə</th>
 </tr>
-
 <tr>
-<td style="padding:8px;border:1px solid #d1d5db;">🇦🇿 Azərbaycan</td>
-<td style="padding:8px;border:1px solid #d1d5db;">Enerji istehsalı və ixrac potensialı</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🌑 Larissa</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Giləbənzər mineral izləri</td>
 </tr>
-
 <tr>
-<td style="padding:8px;border:1px solid #d1d5db;">🇬🇪 Gürcüstan</td>
-<td style="padding:8px;border:1px solid #d1d5db;">Regional tranzit və elektrik şəbəkəsi</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🌑 Galatea</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Mineral tərkibinə dair yeni məlumatlar</td>
 </tr>
-
 <tr>
-<td style="padding:8px;border:1px solid #d1d5db;">🇹🇷 Türkiyə</td>
-<td style="padding:8px;border:1px solid #d1d5db;">Enerji bağlantıları və tranzit</td>
-</tr>
-
-<tr>
-<td style="padding:8px;border:1px solid #d1d5db;">🇧🇬 Bolqarıstan</td>
-<td style="padding:8px;border:1px solid #d1d5db;">Avropa enerji bazarına çıxış</td>
+<td style="padding:9px;border:1px solid #d1d5db;">💍 Neptunun halqaları</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Oxşar materialın izləri</td>
 </tr>
 </table>
 
-<p>
-🌱 Layihə gələcəkdə bərpa olunan enerji mənbələrindən əldə olunan elektrik enerjisinin regional və Avropa bazarlarına ötürülməsi baxımından da əhəmiyyət qazana bilər.
-</p>
-
-<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-⚡ Azərbaycanın enerji infrastrukturu artıq yalnız neft və qaz deyil, elektrik enerjisi və yaşıl enerji layihələri istiqamətində də inkişaf edir.
+<p style="color:#a855f7;font-size:20px;font-weight:bold;">
+✨ Yeni nəticələr Neptunun peyk sisteminin keçmişdə daha böyük və daha mürəkkəb
+olduğuna dair mühüm ipucları verir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📰 META Xəbər enerji, nəqliyyat, texnologiya və regional infrastruktur sahələrində baş verən mühüm yenilikləri izləyir.
+🔬 JWST müşahidələri Günəş sisteminin uzaq bölgələrindəki kiçik göy cisimlərinin
+keçmişini araşdırmaq üçün yeni imkanlar yaradır.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ən son xəbərlər üçün WhatsApp kanalımıza qoşulun:
+📲 Kosmos, astronomiya və elm xəbərlərini izləmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank"
-style="color:#25D366;font-weight:bold;text-decoration:none;">
+target="_blank" style="color:#25D366;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
