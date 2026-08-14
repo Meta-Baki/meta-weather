@@ -1,82 +1,58 @@
-<h2 style="color:#f59e0b;">🌞 12 avqust 2026-cı ildə tam Günəş tutulması baş verdi</h2>
+<h2 style="color:#8b5cf6;">🌌 Kainatın ən böyük 2D xəritəsi hazırlanıb</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 14 avqust 2026, 16:35 — Bakı vaxtı
+🕐 Əlavə olunub: 14 avqust 2026, 16:40 — Bakı vaxtı
 </p>
 
 <p>
-<strong>12 avqust 2026-cı ildə ilin ən mühüm astronomik hadisələrindən biri —
-tam Günəş tutulması baş verdi.</strong> Bu zaman Ay Yer ilə Günəşin arasından keçərək
-Günəşin diskini müəyyən ərazilərdən tamamilə örtdü.
+Astronomlar kainatın indiyədək hazırlanmış <strong>ən böyük ikiölçülü xəritəsini</strong>
+təqdim ediblər. Yeni xəritə səmanın təxminən <strong>75%-ni</strong> əhatə edir və
+demək olar ki, <strong>4 milyard kosmik obyekti</strong> bir araya gətirir.
 </p>
 
-<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-🌑 Tam tutulma zolağında Günəşin parlaq diski tamamilə Ayın arxasında qaldı və
-qısa müddət ərzində Günəş tacını müşahidə etmək mümkün oldu.
+<p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
+🔭 Xəritənin ümumi həcmi 5,6 trilyon piksel təşkil edir.
 </p>
-
-<h3 style="color:#60a5fa;">🌍 Tam tutulmanın müşahidə olunduğu əsas ərazilər</h3>
 
 <table style="width:100%;border-collapse:collapse;">
 <tr style="background:#1e293b;color:#fff;">
-<th style="padding:9px;border:1px solid #374151;">Ərazi</th>
-<th style="padding:9px;border:1px solid #374151;">Tutulmanın növü</th>
+<th style="padding:9px;border:1px solid #374151;">Göstərici</th>
+<th style="padding:9px;border:1px solid #374151;">Məlumat</th>
 </tr>
-
 <tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🇬🇱 Qrenlandiya</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🌑 Tam Günəş tutulması</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🌌 Əhatə etdiyi səma</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Təxminən 75%</td>
 </tr>
-
 <tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🇮🇸 İslandiya</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🌑 Tam Günəş tutulması</td>
+<td style="padding:9px;border:1px solid #d1d5db;">⭐ Kosmik obyektlər</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Təxminən 4 milyard</td>
 </tr>
-
 <tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🇷🇺 Rusiyanın şimalı</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🌑 Tam Günəş tutulması</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🖼️ Piksel sayı</td>
+<td style="padding:9px;border:1px solid #d1d5db;">5,6 trilyon</td>
 </tr>
-
 <tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🇪🇸 İspaniya</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🌑 Tam Günəş tutulması</td>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🇵🇹 Portuqaliyanın bəzi əraziləri</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🌑 Tam tutulma</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🔭 Müşahidələr</td>
+<td style="padding:9px;border:1px solid #d1d5db;">13 ildən çox məlumat</td>
 </tr>
 </table>
 
-<p style="color:#a855f7;font-size:20px;font-weight:bold;">
-✨ Tam tutulma zamanı Ay Günəşin qarşısını tam bağladığı üçün səmada Günəş tacı —
-Günəşin xarici atmosferi görünə bilir.
-</p>
-
 <p>
-🔭 Günəş tutulması Ayın Yer ilə Günəş arasında yerləşməsi nəticəsində baş verir.
-Ayın kölgəsi Yer səthinin müəyyən hissəsinə düşdükdə həmin ərazilərdə tam və ya
-qismən Günəş tutulması müşahidə olunur.
-</p>
-
-<p style="color:#ef4444;font-size:20px;font-weight:bold;">
-🇦🇿 Azərbaycanda, o cümlədən Bakıda 12 avqust tarixində tam tutulma zolağı
-müşahidə olunmadı.
+Məlumatlar DESI Legacy Imaging Surveys layihəsinin uzunmüddətli müşahidələri
+əsasında hazırlanıb. Xəritədə ulduzlar, qalaktikalar və digər uzaq kosmik
+obyektlər yer alır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌌 2026-cı ilin bu astronomik hadisəsi Günəş sistemi və kosmos hadisələrinə
-marağı olan müşahidəçilər üçün ilin ən diqqətçəkən hadisələrindən biri oldu.
+🚀 Bu xəritə kainatın quruluşunu araşdırmaq, nadir kosmik obyektləri tapmaq və
+gələcək astronomik tədqiqatlar üçün mühüm məlumat bazası olacaq.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos, Günəş aktivliyi, astronomiya və hava xəbərlərini izləmək üçün
-WhatsApp kanalımıza qoşulun:
+📲 Kosmos və astronomiya xəbərlərini izləmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank"
-style="color:#25D366;font-weight:bold;text-decoration:none;">
+target="_blank" style="color:#25D366;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
