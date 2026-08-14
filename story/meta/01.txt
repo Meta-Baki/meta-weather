@@ -1,68 +1,59 @@
-<h2 style="color:#f59e0b;">⚡ Azərbaycan və Ermənistan arasında elektrik enerjisi əməkdaşlığı mümkündür</h2>
+<h2 style="color:#f59e0b;">☀️ Günəşdə yeni filament püskürməsi müşahidə olunub</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 13 avqust 2026, 15:30 — Bakı vaxtı
+🕐 Əlavə olunub: 14 avqust 2026, 16:45 — Bakı vaxtı
 </p>
 
 <p>
-Azərbaycan və Ermənistan arasında gələcəkdə <strong>elektrik enerjisinin ixracı və idxalı sahəsində əməkdaşlıq</strong> mümkün ola bilər.
+<strong>14 avqust 2026-cı ildə Günəşdə yeni aktivlik müşahidə olunub.</strong>
+Müşahidələrə əsasən, səhər saatlarında Günəş səthində yerləşən filamentlərdən biri
+kosmosa doğru püskürüb.
+</p>
+
+<p style="color:#f97316;font-size:20px;font-weight:bold;">
+☀️ Hadisə təxminən 03:30 UTC-də müşahidə edilib.
 </p>
 
 <p>
-Ermənistanın baş naziri Nikol Paşinyan avqustun 13-də keçirdiyi brifinq zamanı iki ölkənin enerji sahəsində, o cümlədən elektrik enerjisinin ixracı və idxalında əməkdaşlıq edə biləcəyini bildirib. :contentReference[oaicite:2]{index=2}
+Filament Günəşin maqnit sahəsi boyunca uzanan nisbətən soyuq və sıx plazma
+quruluşudur. Belə strukturlar qeyri-sabitləşdikdə Günəş atmosferindən ayrılaraq
+kosmosa doğru yayıla bilər.
 </p>
 
-<p style="color:#f59e0b;font-weight:bold;font-size:20px;">
-⚡ Enerji əməkdaşlığı regionda elektrik şəbəkələrinin gələcək inteqrasiyası və enerji mübadiləsi üçün yeni imkanlar yarada bilər.
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+🌍 Günəşdə baş verən güclü püskürmələr Yerə yönəldiyi halda geomaqnit
+aktivliyin artmasına səbəb ola bilər.
 </p>
-
-<h3 style="color:#60a5fa;">🔌 Əməkdaşlığın mümkün istiqamətləri</h3>
 
 <table style="width:100%;border-collapse:collapse;">
 <tr style="background:#1e293b;color:#fff;">
-<th style="padding:8px;border:1px solid #374151;">İstiqamət</th>
-<th style="padding:8px;border:1px solid #374151;">Mümkün nəticə</th>
+<th style="padding:9px;border:1px solid #374151;">Hadisə</th>
+<th style="padding:9px;border:1px solid #374151;">Məlumat</th>
 </tr>
-
 <tr>
-<td style="padding:8px;border:1px solid #d1d5db;">⚡ Elektrik enerjisi ixracı</td>
-<td style="padding:8px;border:1px solid #d1d5db;">Enerji mübadiləsinin genişlənməsi</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Günəş hadisəsi</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Filament püskürməsi</td>
 </tr>
-
 <tr>
-<td style="padding:8px;border:1px solid #d1d5db;">🔌 Elektrik enerjisi idxalı</td>
-<td style="padding:8px;border:1px solid #d1d5db;">Təchizat imkanlarının artırılması</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🕐 Vaxt</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Təxminən 03:30 UTC</td>
 </tr>
-
 <tr>
-<td style="padding:8px;border:1px solid #d1d5db;">🌐 Enerji infrastrukturu</td>
-<td style="padding:8px;border:1px solid #d1d5db;">Regional elektrik bağlantılarının inkişafı</td>
-</tr>
-
-<tr>
-<td style="padding:8px;border:1px solid #d1d5db;">🌱 Yaşıl enerji</td>
-<td style="padding:8px;border:1px solid #d1d5db;">Bərpa olunan enerjinin regional istifadəsi</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🛰️ Müşahidə</td>
+<td style="padding:9px;border:1px solid #d1d5db;">GOES-19 / NOAA SUVI</td>
 </tr>
 </table>
 
-<p>
-📡 Məlumata görə, Azərbaycan mütəxəssisləri 2025-ci ilin sentyabrında və 2026-cı ilin yanvarında Ermənistanda texniki səfərlərdə olublar. :contentReference[oaicite:3]{index=3}
-</p>
-
-<p style="color:#22c55e;font-size:20px;font-weight:bold;">
-🌍 Enerji sahəsində əməkdaşlıq Cənubi Qafqazda regional infrastrukturun inkişafına təsir göstərə biləcək istiqamətlərdən biri hesab olunur.
-</p>
-
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📰 META Xəbər Azərbaycanda və regionda baş verən mühüm iqtisadi, enerji və infrastruktur yeniliklərini operativ şəkildə təqdim edir.
+📡 Günəş küləyinin və geomaqnit sahənin vəziyyətinin sonrakı dəyişiklikləri
+mütəxəssislər tərəfindən izlənilir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ən son xəbərlər üçün WhatsApp kanalımıza qoşulun:
+📲 Günəş aktivliyi və kosmik hava haqqında yeniliklər üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank"
-style="color:#25D366;font-weight:bold;text-decoration:none;">
+target="_blank" style="color:#25D366;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
