@@ -1,65 +1,82 @@
-<h2 style="color:#3b82f6;">🪐 Neptunun kiçik peyklərində qədim kosmik fəlakətin izləri aşkar edilib</h2>
+<h2 style="color:#22c55e;">🌳 Fransada istilik və quraqlıq meşələrə uzunmüddətli təhlükə yaradır</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 14 avqust 2026, 16:50 — Bakı vaxtı
+🕐 Əlavə olunub: 15 avqust 2026, 16:45 — Bakı vaxtı
 </p>
 
 <p>
-Astronomlar <strong>James Webb Kosmik Teleskopunun (JWST)</strong> müşahidələri
-əsasında Neptunun bəzi kiçik peyklərinin və halqalarının tərkibində maraqlı
-mineral izləri aşkar ediblər.
+Fransada <strong>güclü istilər və uzunmüddətli quraqlıq</strong> meşələrin
+vəziyyətinə ciddi təsir göstərir. Mütəxəssislər bildirirlər ki, 2026-cı ilin
+may ayından davam edən qeyri-adi isti və quru hava şəraiti ağacların
+fizioloji proseslərini zəiflədib.
 </p>
 
-<p style="color:#3b82f6;font-size:20px;font-weight:bold;">
-🔭 Larissa və Galatea peyklərində gilə bənzər mineralların izləri müəyyən edilib.
-</p>
-
-<p>
-Tədqiqatçılara görə, bu materialların mövcudluğu onların bir vaxtlar daha böyük
-buzlu göy cisimlərinin daxilində formalaşmış ola biləcəyini göstərir.
-</p>
-
-<p>
-🌌 Əsas ehtimallardan birinə görə, milyardlarla il əvvəl Neptunun ən böyük peyki
-Tritonun tutulması zamanı planetin əvvəlki peyk sistemi ciddi şəkildə dağılıb.
-Parçalanmış qədim peyklərin materialları sonradan Neptunun indiki kiçik peyklərinin
-və halqalarının yaranmasında iştirak etmiş ola bilər.
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+🌡️ Su çatışmazlığı ağacların normal şəkildə su qəbul etməsinə mane olur,
+nəticədə fotosintez zəifləyir və bitkilər uzunmüddətli stressə məruz qalır.
 </p>
 
 <table style="width:100%;border-collapse:collapse;">
 <tr style="background:#1e293b;color:#fff;">
-<th style="padding:9px;border:1px solid #374151;">Obyekt</th>
-<th style="padding:9px;border:1px solid #374151;">Müşahidə</th>
+<th style="padding:9px;border:1px solid #374151;">Amil</th>
+<th style="padding:9px;border:1px solid #374151;">Təsir</th>
 </tr>
+
 <tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🌑 Larissa</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Giləbənzər mineral izləri</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🌡️ Güclü istilər</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Ağacların istilik stressini artırır</td>
 </tr>
+
 <tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🌑 Galatea</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Mineral tərkibinə dair yeni məlumatlar</td>
+<td style="padding:9px;border:1px solid #d1d5db;">💧 Quraqlıq</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Su qəbulunu və fotosintezi məhdudlaşdırır</td>
 </tr>
+
 <tr>
-<td style="padding:9px;border:1px solid #d1d5db;">💍 Neptunun halqaları</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Oxşar materialın izləri</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🌳 Uzunmüddətli stress</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Ağacların zəifləməsi və məhv olma riskini artırır</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">🔥 Meşə yanğınları</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Quru bitki örtüyü yanğın riskini yüksəldir</td>
 </tr>
 </table>
 
-<p style="color:#a855f7;font-size:20px;font-weight:bold;">
-✨ Yeni nəticələr Neptunun peyk sisteminin keçmişdə daha böyük və daha mürəkkəb
-olduğuna dair mühüm ipucları verir.
+<p>
+🌱 Mütəxəssislərin fikrincə, ağacların yay aylarında kifayət qədər su əldə
+edə bilməməsi onların böyüməsinə və enerji ehtiyatlarının formalaşmasına da
+mənfi təsir göstərir.
+</p>
+
+<p>
+🪲 Quraqlıq nəticəsində zəifləmiş ağaclar zərərvericilərə, o cümlədən
+qabıq böcəklərinə qarşı daha həssas ola bilər. Bu isə meşə ekosistemlərinə
+uzunmüddətli əlavə təzyiq yaradır.
+</p>
+
+<p style="color:#f97316;font-size:20px;font-weight:bold;">
+🔥 İsti və quru hava şəraiti eyni zamanda meşə yanğınlarının yayılması üçün
+əlverişli şərait yaradır. Buna görə meşələrin vəziyyətinin və su ehtiyatlarının
+davamlı monitorinqi xüsusi əhəmiyyət daşıyır.
+</p>
+
+<p style="color:#22c55e;font-size:20px;font-weight:bold;">
+🌍 Avropada quraqlığın və istilik dalğalarının güclənməsi meşə ekosistemlərinin
+iqlim dəyişikliklərinə uyğunlaşmasının vacibliyini bir daha göstərir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🔬 JWST müşahidələri Günəş sisteminin uzaq bölgələrindəki kiçik göy cisimlərinin
-keçmişini araşdırmaq üçün yeni imkanlar yaradır.
+📡 META Meteorologiya Mərkəzi iqlim dəyişiklikləri, ekologiya, meşələr və
+təhlükəli təbiət hadisələri ilə bağlı mühüm məlumatları izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos, astronomiya və elm xəbərlərini izləmək üçün WhatsApp kanalımıza qoşulun:
+📲 Ekologiya, iqlim və hava xəbərlərini izləmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank" style="color:#25D366;text-decoration:none;">
+target="_blank"
+style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
