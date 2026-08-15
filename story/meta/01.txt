@@ -1,59 +1,84 @@
-<h2 style="color:#f59e0b;">☀️ Günəşdə yeni filament püskürməsi müşahidə olunub</h2>
+<h2 style="color:#60a5fa;">🏔️ Tufandağ buzlağının ekosistemində dəyişikliklər qeydə alınıb</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 14 avqust 2026, 16:45 — Bakı vaxtı
+🕐 Əlavə olunub: 15 avqust 2026, 16:45 — Bakı vaxtı
 </p>
 
 <p>
-<strong>14 avqust 2026-cı ildə Günəşdə yeni aktivlik müşahidə olunub.</strong>
-Müşahidələrə əsasən, səhər saatlarında Günəş səthində yerləşən filamentlərdən biri
-kosmosa doğru püskürüb.
-</p>
-
-<p style="color:#f97316;font-size:20px;font-weight:bold;">
-☀️ Hadisə təxminən 03:30 UTC-də müşahidə edilib.
+Azərbaycanda yerləşən <strong>Tufandağ buzlağının ekosistemində müəyyən dəyişikliklər
+qeydə alınıb.</strong> Milli Hidrometeorologiya Xidmətinin mütəxəssisləri tərəfindən
+buzlağın vəziyyətinin qiymətləndirilməsi məqsədilə mütəmadi monitorinq işləri aparılır.
 </p>
 
 <p>
-Filament Günəşin maqnit sahəsi boyunca uzanan nisbətən soyuq və sıx plazma
-quruluşudur. Belə strukturlar qeyri-sabitləşdikdə Günəş atmosferindən ayrılaraq
-kosmosa doğru yayıla bilər.
+📅 <strong>5–11 avqust 2026-cı il</strong> tarixlərində Milli Hidrometeorologiya Xidmətinin
+və Azərbaycan Dövlət Su Ehtiyatları Agentliyinin Su Ehtiyatlarından İstifadəyə və
+Onların Mühafizəsinə Dövlət Nəzarəti Xidmətinin mütəxəssisləri Tufandağ buzlağında
+növbəti çöl tədqiqatlarını həyata keçiriblər.
 </p>
 
-<p style="color:#ef4444;font-size:20px;font-weight:bold;">
-🌍 Günəşdə baş verən güclü püskürmələr Yerə yönəldiyi halda geomaqnit
-aktivliyin artmasına səbəb ola bilər.
+<h3 style="color:#3b82f6;">🏔️ Tufandağ buzlağı harada yerləşir?</h3>
+
+<p>
+Tufandağ buzlağı <strong>Böyük Qafqazın şimal-şərq yamacında</strong>, Qusarçay
+hövzəsində yerləşir. Buzlaq regionun su ehtiyatları və dağ ekosistemləri baxımından
+əhəmiyyətli təbii obyektlərdən biridir.
 </p>
+
+<h3 style="color:#f59e0b;">📊 Monitorinq zamanı nə müəyyən edilib?</h3>
 
 <table style="width:100%;border-collapse:collapse;">
 <tr style="background:#1e293b;color:#fff;">
-<th style="padding:9px;border:1px solid #374151;">Hadisə</th>
-<th style="padding:9px;border:1px solid #374151;">Məlumat</th>
+<th style="padding:9px;border:1px solid #374151;">Müşahidə</th>
+<th style="padding:9px;border:1px solid #374151;">Nəticə</th>
 </tr>
+
 <tr>
-<td style="padding:9px;border:1px solid #d1d5db;">☀️ Günəş hadisəsi</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Filament püskürməsi</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🧊 Buzlaq səthinin qalınlığı</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Bəzi hissələrdə artım müşahidə olunub</td>
 </tr>
+
 <tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🕐 Vaxt</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Təxminən 03:30 UTC</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🏔️ Buzlaq dili</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Əvvəlki illərlə müqayisədə geri çəkilmə qeydə alınıb</td>
 </tr>
+
 <tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🛰️ Müşahidə</td>
-<td style="padding:9px;border:1px solid #d1d5db;">GOES-19 / NOAA SUVI</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🌍 İqlim göstəriciləri</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Qlobal iqlim dəyişiklikləri tendensiyaları ilə uyğunluq müşahidə olunur</td>
 </tr>
 </table>
 
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+⚠️ Buzlaq dilinin geri çəkilməsi dağlıq ərazilərdə iqlim dəyişikliklərinin
+təsirlərinin qiymətləndirilməsi baxımından mühüm göstəricilərdən biridir.
+</p>
+
+<p>
+🌡️ Mütəxəssislərin apardığı bu cür monitorinqlər buzlaqların uzunmüddətli
+vəziyyətini izləməyə, iqlim dəyişikliklərinin dağ ekosistemlərinə təsirini
+qiymətləndirməyə və gələcək risklərə uyğunlaşma tədbirlərinin hazırlanmasına
+kömək edir.
+</p>
+
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 Günəş küləyinin və geomaqnit sahənin vəziyyətinin sonrakı dəyişiklikləri
-mütəxəssislər tərəfindən izlənilir.
+💧 Buzlaqlar dağlıq ərazilərdə su ehtiyatlarının formalaşmasında mühüm rol
+oynadığından, onların vəziyyətinin mütəmadi izlənilməsi xüsusi əhəmiyyət daşıyır.
+</p>
+
+<p style="color:#22c55e;font-size:20px;font-weight:bold;">
+📡 META Meteorologiya Mərkəzi Azərbaycanda iqlim, buzlaqlar, su ehtiyatları və
+təhlükəli hidrometeoroloji hadisələrlə bağlı yenilikləri izləyərək operativ şəkildə
+təqdim edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Günəş aktivliyi və kosmik hava haqqında yeniliklər üçün WhatsApp kanalımıza qoşulun:
+📲 Ətraf mühit, iqlim və hava haqqında ən son xəbərləri əldə etmək üçün
+WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank" style="color:#25D366;text-decoration:none;">
+target="_blank"
+style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
