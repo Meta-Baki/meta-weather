@@ -1,17 +1,19 @@
-<h2 style="color:#8b5cf6;">🌌 Kainatın ən böyük 2D xəritəsi hazırlanıb</h2>
+<h2 style="color:#8b5cf6;">🛰️ NASA-nın yeni kosmik teleskopunun buraxılışına hazırlıq davam edir</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 14 avqust 2026, 16:40 — Bakı vaxtı
+🕐 Əlavə olunub: 15 avqust 2026, 16:38 — Bakı vaxtı
 </p>
 
 <p>
-Astronomlar kainatın indiyədək hazırlanmış <strong>ən böyük ikiölçülü xəritəsini</strong>
-təqdim ediblər. Yeni xəritə səmanın təxminən <strong>75%-ni</strong> əhatə edir və
-demək olar ki, <strong>4 milyard kosmik obyekti</strong> bir araya gətirir.
+NASA-nın <strong>Nancy Grace Roman Kosmik Teleskopunun</strong> buraxılışına
+hazırlıq işləri davam edir. Teleskopun <strong>30 avqust 2026-cı ildə</strong>
+SpaceX-in Falcon Heavy raketi ilə Floridadakı Kennedi Kosmik Mərkəzindən
+kosmosa göndərilməsi planlaşdırılır.
 </p>
 
 <p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🔭 Xəritənin ümumi həcmi 5,6 trilyon piksel təşkil edir.
+🚀 Roman teleskopu planlaşdırılan tarixdən aylar əvvəl buraxılışa hazır vəziyyətə
+gətirilir və hazırda son inteqrasiya mərhələlərindən keçir.
 </p>
 
 <table style="width:100%;border-collapse:collapse;">
@@ -19,40 +21,50 @@ demək olar ki, <strong>4 milyard kosmik obyekti</strong> bir araya gətirir.
 <th style="padding:9px;border:1px solid #374151;">Göstərici</th>
 <th style="padding:9px;border:1px solid #374151;">Məlumat</th>
 </tr>
+
 <tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🌌 Əhatə etdiyi səma</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Təxminən 75%</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🛰️ Missiya</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Nancy Grace Roman Kosmik Teleskopu</td>
 </tr>
+
 <tr>
-<td style="padding:9px;border:1px solid #d1d5db;">⭐ Kosmik obyektlər</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Təxminən 4 milyard</td>
+<td style="padding:9px;border:1px solid #d1d5db;">📅 Planlaşdırılan buraxılış</td>
+<td style="padding:9px;border:1px solid #d1d5db;">30 avqust 2026</td>
 </tr>
+
 <tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🖼️ Piksel sayı</td>
-<td style="padding:9px;border:1px solid #d1d5db;">5,6 trilyon</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🚀 Daşıyıcı raket</td>
+<td style="padding:9px;border:1px solid #d1d5db;">SpaceX Falcon Heavy</td>
 </tr>
+
 <tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🔭 Müşahidələr</td>
-<td style="padding:9px;border:1px solid #d1d5db;">13 ildən çox məlumat</td>
+<td style="padding:9px;border:1px solid #d1d5db;">📍 Buraxılış məntəqəsi</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Kennedi Kosmik Mərkəzi, Florida</td>
 </tr>
 </table>
 
 <p>
-Məlumatlar DESI Legacy Imaging Surveys layihəsinin uzunmüddətli müşahidələri
-əsasında hazırlanıb. Xəritədə ulduzlar, qalaktikalar və digər uzaq kosmik
-obyektlər yer alır.
+🔭 Roman teleskopunun əsas məqsədləri arasında kainatın sürətlənən genişlənməsinin
+səbəblərinin, qaranlıq enerjinin və qaranlıq maddənin öyrənilməsi, həmçinin
+uzaq qalaktikaların və ekzoplanetlərin araşdırılması var.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🚀 Bu xəritə kainatın quruluşunu araşdırmaq, nadir kosmik obyektləri tapmaq və
-gələcək astronomik tədqiqatlar üçün mühüm məlumat bazası olacaq.
+🌌 NASA bu missiya vasitəsilə milyardlarla qalaktikanı müşahidə etməyi və
+kainatın böyük miqyaslı quruluşu haqqında yeni məlumatlar əldə etməyi planlaşdırır.
+</p>
+
+<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
+📡 META Meteorologiya Mərkəzi kosmos, peyklər və astronomiya sahəsində mühüm
+yenilikləri izləyərək operativ şəkildə təqdim edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos və astronomiya xəbərlərini izləmək üçün WhatsApp kanalımıza qoşulun:
+📲 Kosmos və elm xəbərlərini izləmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank" style="color:#25D366;text-decoration:none;">
+target="_blank"
+style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
