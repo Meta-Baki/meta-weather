@@ -1,115 +1,50 @@
-<h2 style="color:#38bdf8;">🌦️ META Meteorologiya Mərkəzi – 15 avqustda Bakıda yağış və güclü külək gözlənilir</h2>
+<h2 style="color:#60a5fa;">🌬️ Bakıda külək, rayonlarda leysan gözlənilir – 16 avqust üçün hava proqnozu</h2>
 
-<p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 14 avqust 2026, 16:18 — Bakı vaxtı
+<p style="color:#94a3b8;font-size:15px;">
+📅 <strong>16 avqust 2026-cı il</strong> | 🕐 <strong>15 avqust 2026-cı il, saat 16:43</strong>
 </p>
 
-<p>
-<strong>15 avqust, şənbə günü</strong> Bakıda və Abşeron yarımadasında dəyişkən buludlu hava şəraiti gözlənilir.
-Əsasən yağıntısız hava proqnozlaşdırılsa da, səhər saatlarında bəzi yerlərdə qısamüddətli yağış yağması mümkündür.
-</p>
+<p>🌤️ <span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> 16 avqust tarixində Azərbaycan ərazisində gözlənilən hava şəraiti ilə bağlı proqnozu təqdim edir.</p>
 
-<p style="color:#f97316;font-size:20px;font-weight:bold;">
-💨 Gün ərzində şimal-qərb küləyinin arabir güclənəcəyi gözlənilir.
-</p>
+<p>📍 <strong>Bakı və Abşeron yarımadasında</strong> havanın əsasən yağıntısız keçəcəyi gözlənilir. Gün ərzində şimal-qərb küləyi arabir güclənəcək.</p>
 
-<h3 style="color:#60a5fa;">📊 Bakı və Abşeron üçün proqnoz</h3>
+<p><span style="color:#f97316;font-weight:bold;font-size:21px;">🌡️ Temperatur:</span><br>
+Gecə <span style="color:#f97316;font-weight:bold;">22–25°C</span>, gündüz isə <span style="color:#ef4444;font-weight:bold;font-size:21px;">29–32°C</span> isti olacaq.</p>
 
-<table style="width:100%;border-collapse:collapse;">
-<tr style="background:#1e293b;color:#fff;">
-<th style="padding:9px;border:1px solid #374151;">Göstərici</th>
-<th style="padding:9px;border:1px solid #374151;">15 avqust</th>
-</tr>
+<p>🌬️ Atmosfer təzyiqi normaya yaxın, təxminən <span style="color:#38bdf8;font-weight:bold;">760 mm civə sütunu</span> təşkil edəcək.</p>
 
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🌤️ Hava</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Dəyişkən buludlu, əsasən yağıntısız</td>
-</tr>
+<p>💧 Nisbi rütubət gecə <span style="color:#60a5fa;font-weight:bold;">70–75%</span>, gündüz isə <span style="color:#60a5fa;font-weight:bold;">55–60%</span> olacaq.</p>
 
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🌧️ Yağıntı</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Səhər bəzi yerlərdə qısamüddətli yağış</td>
-</tr>
+<p>⛈️ <strong>Azərbaycanın rayonlarında</strong> bəzi ərazilərdə yağış yağacağı gözlənilir. Ayrı-ayrı yerlərdə qısamüddətli <span style="color:#ef4444;font-weight:bold;">leysan və şimşək</span> ehtimalı var. Gecə və səhər saatlarında bəzi dağlıq rayonlarda arabir duman müşahidə ediləcək.</p>
 
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">💨 Külək</td>
-<td style="padding:9px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">Şimal-qərb, gün ərzində arabir güclənəcək</td>
-</tr>
+<p>🌬️ Rayonlarda mülayim şərq küləyi əsəcək və bəzi ərazilərdə küləyin güclənməsi gözlənilir.</p>
 
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🌡️ Gecə temperaturu</td>
-<td style="padding:9px;border:1px solid #d1d5db;">22–25°C</td>
-</tr>
+<p><span style="color:#f97316;font-weight:bold;font-size:21px;">🌡️ Rayonlarda temperatur:</span><br>
+• Gecə: <strong>21–25°C</strong><br>
+• Gündüz: <strong>30–35°C</strong></p>
 
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🌡️ Gündüz temperaturu</td>
-<td style="padding:9px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">29–32°C</td>
-</tr>
+<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">🏔️ Dağlıq ərazilərdə:</span><br>
+• Gecə: <strong>12–17°C</strong><br>
+• Gündüz: <strong>20–25°C</strong></p>
 
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">📉 Atmosfer təzyiqi</td>
-<td style="padding:9px;border:1px solid #d1d5db;">759 mm civə sütunu</td>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">💧 Rütubət</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Gecə 70–75%, gündüz 50–55%</td>
-</tr>
-</table>
-
-<h3 style="color:#60a5fa;">⛰️ Azərbaycanın rayonlarında</h3>
-
-<p>
-Ölkənin rayonlarında bəzi yerlərdə fasilələrlə yağış yağacağı gözlənilir.
-Ayrı-ayrı ərazilərdə yağışların qısamüddətli leysan və intensiv xarakter daşıması,
-həmçinin <strong>şimşək və dolu</strong> ehtimalı var.
-</p>
-
-<p>
-🌧️ Xüsusilə gecə və səhər saatlarında dağlıq və dağətəyi rayonlarda yağıntıların
-güclənəcəyi gözlənilir. Bəzi dağlıq ərazilərdə gecə və səhər saatlarında duman müşahidə oluna bilər.
-</p>
-
-<table style="width:100%;border-collapse:collapse;">
-<tr style="background:#1e293b;color:#fff;">
-<th style="padding:9px;border:1px solid #374151;">Ərazi</th>
-<th style="padding:9px;border:1px solid #374151;">Temperatur</th>
-<th style="padding:9px;border:1px solid #374151;">Əlavə</th>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">Azərbaycan rayonları</td>
-<td style="padding:9px;border:1px solid #d1d5db;">22–26°C / 32–37°C</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🌧️ Yağış, leysan, şimşək, dolu</td>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">Dağlıq ərazilər</td>
-<td style="padding:9px;border:1px solid #d1d5db;">12–17°C / 20–25°C</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🌫️ Duman, güclənən yağıntı</td>
-</tr>
-</table>
-
-<p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ Xəbərdarlıq: Dağlıq və dağətəyi rayonlarda intensiv yağış, şimşək və dolu ehtimalına görə
-sürücülərə və dağlıq ərazilərdə olan şəxslərə diqqətli olmaq tövsiyə olunur.
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+⚠️ Xəbərdarlıq: Dağlıq və dağətəyi rayonlarda qısamüddətli leysan və şimşək ehtimalı ilə əlaqədar ehtiyatlı olmaq tövsiyə olunur. Bakıda və Abşeron yarımadasında isə küləyin arabir güclənəcəyi nəzərə alınmalıdır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava şəraitini və meteoroloji dəyişiklikləri izləyərək
-yenilənmiş məlumatları operativ şəkildə təqdim edir.
+📡 META Meteorologiya Mərkəzi hava şəraitini fasiləsiz izləyir və meteoroloji vəziyyətlə bağlı ən son məlumatları operativ şəkildə təqdim edir.
 </p>
 
-<p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ən son hava xəbərləri və xəbərdarlıqları əldə etmək üçün WhatsApp kanalımıza qoşulun:
-<br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank"
-style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı
+<p style="color:#22c55e;font-size:20px;font-weight:bold;">
+📲 Ən son hava proqnozları, faktiki hava məlumatları və xəbərdarlıqları WhatsApp kanalımızda izləyin:
+</p>
+
+<p>
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" style="color:#22c55e;font-weight:bold;">
+META Meteorologiya Mərkəzi – WhatsApp kanalı
 </a>
 </p>
 
-<p style="color:#22c55e;font-size:22px;font-weight:bold;">
+<p style="color:#facc15;font-size:21px;font-weight:bold;">
 👨‍💼 Müəllif: Peşəkar meteoroloq Edelman Əliyev
 </p>
