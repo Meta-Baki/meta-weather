@@ -1,78 +1,72 @@
-<h2 style="color:#22c55e;">🌳 Fransada istilik və quraqlıq meşələrə uzunmüddətli təhlükə yaradır</h2>
+<h2 style="color:#ef4444;">🌊 Dünya okeanında yeni temperatur rekordu qeydə alınıb</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 15 avqust 2026, 16:45 — Bakı vaxtı
+🕐 Əlavə olunub: 16 avqust 2026, 17:45 — Bakı vaxtı
 </p>
 
 <p>
-Fransada <strong>güclü istilər və uzunmüddətli quraqlıq</strong> meşələrin
-vəziyyətinə ciddi təsir göstərir. Mütəxəssislər bildirirlər ki, 2026-cı ilin
-may ayından davam edən qeyri-adi isti və quru hava şəraiti ağacların
-fizioloji proseslərini zəiflədib.
+<strong>2026-cı ilin iyul ayında dünya okeanının səth temperaturu iyul ayları
+üçün rekord həddə çatıb.</strong> Avropa İttifaqının Kopernik İqlim Dəyişikliyi
+Xidmətinin məlumatına görə, qütb ərazilərindən kənarda yerləşən okeanlarda
+(60° cənub – 60° şimal enlikləri) orta səth temperaturu <strong>20,96°C</strong>
+təşkil edib.
 </p>
 
 <p style="color:#ef4444;font-size:20px;font-weight:bold;">
-🌡️ Su çatışmazlığı ağacların normal şəkildə su qəbul etməsinə mane olur,
-nəticədə fotosintez zəifləyir və bitkilər uzunmüddətli stressə məruz qalır.
-</p>
-
-<table style="width:100%;border-collapse:collapse;">
-<tr style="background:#1e293b;color:#fff;">
-<th style="padding:9px;border:1px solid #374151;">Amil</th>
-<th style="padding:9px;border:1px solid #374151;">Təsir</th>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🌡️ Güclü istilər</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Ağacların istilik stressini artırır</td>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">💧 Quraqlıq</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Su qəbulunu və fotosintezi məhdudlaşdırır</td>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🌳 Uzunmüddətli stress</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Ağacların zəifləməsi və məhv olma riskini artırır</td>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🔥 Meşə yanğınları</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Quru bitki örtüyü yanğın riskini yüksəldir</td>
-</tr>
-</table>
-
-<p>
-🌱 Mütəxəssislərin fikrincə, ağacların yay aylarında kifayət qədər su əldə
-edə bilməməsi onların böyüməsinə və enerji ehtiyatlarının formalaşmasına da
-mənfi təsir göstərir.
+🌡️ Bu göstərici əvvəlki iyul rekordunu, 2023-cü ildə qeydə alınmış
+20,89°C nəticəsini geridə qoyub.
 </p>
 
 <p>
-🪲 Quraqlıq nəticəsində zəifləmiş ağaclar zərərvericilərə, o cümlədən
-qabıq böcəklərinə qarşı daha həssas ola bilər. Bu isə meşə ekosistemlərinə
-uzunmüddətli əlavə təzyiq yaradır.
+🌊 Dəniz səthinin yüksək temperaturu okeanlarda <strong>dəniz istilik dalğalarının</strong>
+yayılmasını gücləndirə bilər. İsti sular dəniz ekosistemlərinə, balıqlara,
+mərcanlara və digər canlılara əlavə stress yaradır.
+</p>
+
+<p>
+📊 Mercator Ocean International-ın məlumatlarına əsasən, 2026-cı ilin
+iyulunda 60° cənub və 60° şimal enlikləri arasında okeanın orta səth
+temperaturu təxminən <strong>21,00°C</strong> olub. Okeanın təxminən
+<strong>79%-ində</strong> temperatur uzunmüddətli orta göstəricidən yüksək
+qeydə alınıb. :contentReference[oaicite:2]{index=2}
+</p>
+
+<h3 style="color:#3b82f6;">🌍 İsti okean hansı təsirlərə səbəb ola bilər?</h3>
+
+<p>
+🔥 Okean səthinin həddindən artıq isinməsi atmosferə istilik və rütubət
+ötürülməsini dəyişə bilər. Bu isə bəzi regionlarda ekstremal hava hadisələrinin
+formalaşmasına təsir göstərə bilər.
+</p>
+
+<p>
+🌧️ Dəniz səthinin temperaturunun yüksəlməsi tropik siklonlar və güclü
+yağıntılar üçün əlverişli enerji mənbəyini artıra bilər. Bununla yanaşı,
+okean istiliyi uzunmüddətli iqlim proseslərinin mühüm göstəricilərindən
+biridir.
+</p>
+
+<p>
+🇪🇺 Kopernik məlumatları həmçinin Qərbi Avropada 2026-cı ilin iyun–iyul
+dövrünün müşahidələr tarixində ən isti belə dövr olduğunu göstərir. Həmin
+dövrdə yüksək temperatur və quraqlıq meşə yanğınlarının yayılması üçün
+əlverişli şərait yaradıb. :contentReference[oaicite:3]{index=3}
 </p>
 
 <p style="color:#f97316;font-size:20px;font-weight:bold;">
-🔥 İsti və quru hava şəraiti eyni zamanda meşə yanğınlarının yayılması üçün
-əlverişli şərait yaradır. Buna görə meşələrin vəziyyətinin və su ehtiyatlarının
-davamlı monitorinqi xüsusi əhəmiyyət daşıyır.
-</p>
-
-<p style="color:#22c55e;font-size:20px;font-weight:bold;">
-🌍 Avropada quraqlığın və istilik dalğalarının güclənməsi meşə ekosistemlərinin
-iqlim dəyişikliklərinə uyğunlaşmasının vacibliyini bir daha göstərir.
+⚠️ Okean temperaturundakı rekordlar təkcə dəniz ekosistemləri üçün deyil,
+həm də atmosfer və iqlim sistemində baş verən dəyişikliklərin izlənilməsi
+baxımından mühüm göstəricidir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi iqlim dəyişiklikləri, ekologiya, meşələr və
-təhlükəli təbiət hadisələri ilə bağlı mühüm məlumatları izləyir.
+📡 META Meteorologiya Mərkəzi iqlim dəyişikliklərini, okean temperaturunu
+və dünyada baş verən mühüm meteoroloji-ekoloji hadisələri izləyərək
+məlumatları operativ şəkildə təqdim edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ekologiya, iqlim və hava xəbərlərini izləmək üçün WhatsApp kanalımıza qoşulun:
+📲 İqlim, ekologiya və hava xəbərlərini ilk əldə etmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
