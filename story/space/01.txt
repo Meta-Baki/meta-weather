@@ -1,98 +1,92 @@
-<h2 style="color:#f59e0b;">☀️ META Meteorologiya Mərkəzi – 15–21 avqust üçün Günəş və geomaqnit aktivliyi proqnozu</h2>
+<h2 style="color:#f59e0b;">☀️ Günəş və geomaqnit aktivliyi — 7 günlük proqnoz</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Yenilənib: 14 avqust 2026, 16:25 — Bakı vaxtı
+🕐 Əlavə olunub: 16 avqust 2026, 17:40 — Bakı vaxtı
 </p>
 
 <p>
-Salam. Mən, <span style="color:#facc15;font-weight:bold;">peşəkar meteoroloq Edelman Əliyev</span>,
-<span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> adından
-15–21 avqust tarixləri üçün Günəş və geomaqnit aktivliyi üzrə həftəlik proqnozu təqdim edirəm.
+☀️ Günəş aktivliyi hazırda 25-ci Günəş dövrünün aktiv mərhələsindədir.
+Aşağıdakı cədvəldə qarşıdakı 7 gün üçün geomaqnit şəraitin
+<strong>təxmini Kp səviyyələri</strong> göstərilib.
 </p>
 
-<p>
-<span style="color:#22c55e;font-weight:bold;font-size:20px;">
-☀️ Qarşıdakı həftə ərzində Günəş aktivliyinin əsasən aşağı–orta səviyyədə qalacağı,
-geomaqnit sahənin isə bəzi günlərdə qeyri-sabitləşəcəyi gözlənilir.
-</span>
-</p>
-
-<h3 style="color:#60a5fa;">📅 7 günlük Günəş və geomaqnit aktivliyi proqnozu</h3>
-
-<table style="width:100%;border-collapse:collapse;">
+<table style="width:100%;border-collapse:collapse;text-align:center;">
 <tr style="background:#1e293b;color:#fff;">
-<th style="padding:9px;border:1px solid #374151;">Tarix</th>
-<th style="padding:9px;border:1px solid #374151;">Kp</th>
-<th style="padding:9px;border:1px solid #374151;">Geomaqnit vəziyyət</th>
-<th style="padding:9px;border:1px solid #374151;">Proqnoz</th>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">15 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">3–4</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟠 Aktiv</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Geomaqnit aktivlik orta səviyyədə</td>
+<th style="padding:10px;border:1px solid #374151;">Tarix</th>
+<th style="padding:10px;border:1px solid #374151;">Kp</th>
+<th style="padding:10px;border:1px solid #374151;">Aktivlik</th>
+<th style="padding:10px;border:1px solid #374151;">Gözlənilən vəziyyət</th>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">16 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">2–3</td>
+<td style="padding:9px;border:1px solid #d1d5db;">2–3</td>
 <td style="padding:9px;border:1px solid #d1d5db;">🟢 Sakit</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Aktivliyin azalması gözlənilir</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Geomaqnit sahə əsasən sakit</td>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">17 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">2–3</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟢 Sakit</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Əsasən sabit geomaqnit fon</td>
+<td style="padding:9px;border:1px solid #d1d5db;">2–4</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟢 Zəif aktiv</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Kiçik dalğalanmalar mümkündür</td>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">18 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">2–4</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟠 Qeyri-sabit</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Kiçik aktivlik artımı mümkündür</td>
+<td style="padding:9px;border:1px solid #d1d5db;">3–4</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟠 Aktiv</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Geomaqnit aktivliyin artması mümkündür</td>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">19 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;color:#f97316;font-weight:bold;">3–4</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟠 Aktiv</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Geomaqnit aktivlik arta bilər</td>
+<td style="padding:9px;border:1px solid #d1d5db;">2–4</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟢 Zəif aktiv</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Dəyişkən, lakin əsasən sakit</td>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">20 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">2–3</td>
+<td style="padding:9px;border:1px solid #d1d5db;">2–3</td>
 <td style="padding:9px;border:1px solid #d1d5db;">🟢 Sakit</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Sakit geomaqnit şərait</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Əsasən sakit geomaqnit şərait</td>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">21 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;color:#22c55e;font-weight:bold;">2–3</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟢 Əsasən sakit</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Geomaqnit sahənin sabit qalması gözlənilir</td>
+<td style="padding:9px;border:1px solid #d1d5db;">3–4</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟠 Aktiv</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Kiçik aktivlik artımı mümkündür</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">22 avqust</td>
+<td style="padding:9px;border:1px solid #d1d5db;">2–3</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟢 Sakit</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Əsasən sakit şərait</td>
 </tr>
 </table>
 
-<p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ Qeyd: Kp indeksinin 5 və daha yüksək olması G1 səviyyəsindən başlayan geomaqnit qasırğası hesab olunur.
-Hazırkı həftəlik proqnozda belə güclü aktivlik əsas ssenari deyil.
+<p style="color:#ef4444;font-size:19px;font-weight:bold;">
+⚠️ Qeyd: Kp 5 və daha yüksək göstəricilər geomaqnit qasırğası səviyyəsini
+ifadə edir. Günəşdə güclü alışma və ya tac kütlə atılması baş verərsə,
+proqnoz qısa müddətdə dəyişə bilər.
 </p>
 
-<p style="color:#a855f7;font-size:20px;font-weight:bold;">
-🌌 Güclü Günəş alışması və ya koronal kütlə atılması baş verərsə, geomaqnit aktivliyin proqnozdan daha yüksək olması mümkündür.
+<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
+☀️ Günəş aktivliyi 25-ci Günəş dövrünün aktiv mərhələsində olduğundan
+Günəşdə yeni aktiv regionların yaranması və alışmaların baş verməsi mümkündür.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Günəş aktivliyini və geomaqnit vəziyyəti izləyir.
-Proqnoz dəyişdiyi halda məlumat operativ şəkildə yenilənəcək.
+📡 META Meteorologiya Mərkəzi Günəş aktivliyini və kosmik hava şəraitini
+izləyir və yeni məlumatlar əldə olunduqca proqnozu yeniləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Günəş aktivliyi, hava və kosmos xəbərlərini ilk əldə etmək üçün WhatsApp kanalımıza qoşulun:
+📲 Günəş aktivliyi, geomaqnit qasırğaları və kosmos xəbərlərini izləmək üçün
+WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
