@@ -1,79 +1,60 @@
-<h2 style="color:#60a5fa;">🏔️ Tufandağ buzlağının ekosistemində dəyişikliklər qeydə alınıb</h2>
+<h2 style="color:#f97316;">🌧️ Yay leysanları və güclü külək: Azərbaycanda faktiki hava şəraiti açıqlanıb</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 15 avqust 2026, 16:45 — Bakı vaxtı
+🕐 Əlavə olunub: 16 avqust 2026, 17:00 — Bakı vaxtı
 </p>
 
 <p>
-Azərbaycanda yerləşən <strong>Tufandağ buzlağının ekosistemində müəyyən dəyişikliklər
-qeydə alınıb.</strong> Milli Hidrometeorologiya Xidmətinin mütəxəssisləri tərəfindən
-buzlağın vəziyyətinin qiymətləndirilməsi məqsədilə mütəmadi monitorinq işləri aparılır.
+<strong>16 avqust səhəri Azərbaycanın bir sıra rayonlarında yağışlı hava şəraiti müşahidə olunub.</strong>
+Bəzi ərazilərdə şimşək, güclü külək və duman qeydə alınıb.
 </p>
 
 <p>
-📅 <strong>5–11 avqust 2026-cı il</strong> tarixlərində Milli Hidrometeorologiya Xidmətinin
-və Azərbaycan Dövlət Su Ehtiyatları Agentliyinin Su Ehtiyatlarından İstifadəyə və
-Onların Mühafizəsinə Dövlət Nəzarəti Xidmətinin mütəxəssisləri Tufandağ buzlağında
-növbəti çöl tədqiqatlarını həyata keçiriblər.
+🌧️ Milli Hidrometeorologiya Xidmətinin məlumatına görə, ən çox yağıntı
+<strong>Astarada — 40 mm</strong> təşkil edib. Bu göstərici aylıq yağıntı normasının
+təxminən <strong>48%-nə</strong> bərabərdir.
 </p>
-
-<h3 style="color:#3b82f6;">🏔️ Tufandağ buzlağı harada yerləşir?</h3>
 
 <p>
-Tufandağ buzlağı <strong>Böyük Qafqazın şimal-şərq yamacında</strong>, Qusarçay
-hövzəsində yerləşir. Buzlaq regionun su ehtiyatları və dağ ekosistemləri baxımından
-əhəmiyyətli təbii obyektlərdən biridir.
+Digər ərazilərdə də əhəmiyyətli yağıntılar qeydə alınıb: Zaqatalada
+<strong>11 mm</strong>, Qubada <strong>9 mm</strong>, Lənkəran və Ağstafada isə
+<strong>7 mm</strong> yağıntı düşüb.
 </p>
 
-<h3 style="color:#f59e0b;">📊 Monitorinq zamanı nə müəyyən edilib?</h3>
+<p>
+🌫️ Dağlıq və dağətəyi rayonların bəzi ərazilərində, o cümlədən
+<strong>Şahdağ, Göygöl və Daşkəsəndə</strong> duman səbəbindən görünüş məsafəsi
+<strong>500 metrədək</strong> azalıb.
+</p>
 
-<table style="width:100%;border-collapse:collapse;">
-<tr style="background:#1e293b;color:#fff;">
-<th style="padding:9px;border:1px solid #374151;">Müşahidə</th>
-<th style="padding:9px;border:1px solid #374151;">Nəticə</th>
-</tr>
+<h3 style="color:#60a5fa;">💨 Bakıda güclü külək</h3>
 
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🧊 Buzlaq səthinin qalınlığı</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Bəzi hissələrdə artım müşahidə olunub</td>
-</tr>
+<p>
+Bakıda və Abşeron yarımadasında şimal-qərb küləyinin maksimal sürəti
+<strong>21 m/s</strong>-ə çatıb. Paytaxtda havanın temperaturu
+<strong>30°C</strong> təşkil edib.
+</p>
 
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🏔️ Buzlaq dili</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Əvvəlki illərlə müqayisədə geri çəkilmə qeydə alınıb</td>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🌍 İqlim göstəriciləri</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Qlobal iqlim dəyişiklikləri tendensiyaları ilə uyğunluq müşahidə olunur</td>
-</tr>
-</table>
+<p>
+🌡️ Aran rayonlarında temperatur <strong>34°C</strong>-dək yüksəlib.
+Naxçıvan Muxtar Respublikasında isə maksimal temperatur
+<strong>36°C</strong> olub.
+</p>
 
 <p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Buzlaq dilinin geri çəkilməsi dağlıq ərazilərdə iqlim dəyişikliklərinin
-təsirlərinin qiymətləndirilməsi baxımından mühüm göstəricilərdən biridir.
-</p>
-
-<p>
-🌡️ Mütəxəssislərin apardığı bu cür monitorinqlər buzlaqların uzunmüddətli
-vəziyyətini izləməyə, iqlim dəyişikliklərinin dağ ekosistemlərinə təsirini
-qiymətləndirməyə və gələcək risklərə uyğunlaşma tədbirlərinin hazırlanmasına
-kömək edir.
+⚠️ Yağıntılı və küləkli hava şəraiti zamanı xüsusilə dağlıq ərazilərdə
+görünüş məsafəsinin azalması və yollarda hərəkət şəraitinin çətinləşməsi
+mümkündür.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-💧 Buzlaqlar dağlıq ərazilərdə su ehtiyatlarının formalaşmasında mühüm rol
-oynadığından, onların vəziyyətinin mütəmadi izlənilməsi xüsusi əhəmiyyət daşıyır.
-</p>
-
-<p style="color:#22c55e;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanda iqlim, buzlaqlar, su ehtiyatları və
-təhlükəli hidrometeoroloji hadisələrlə bağlı yenilikləri izləyərək operativ şəkildə
-təqdim edir.
+📡 META Meteorologiya Mərkəzi Azərbaycanda faktiki hava şəraitini,
+yağıntıları, küləyi və təhlükəli meteoroloji hadisələri izləyərək
+məlumatları operativ şəkildə təqdim edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ətraf mühit, iqlim və hava haqqında ən son xəbərləri əldə etmək üçün
+📲 Son hava xəbərləri və meteoroloji xəbərdarlıqları əldə etmək üçün
 WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
