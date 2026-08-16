@@ -1,50 +1,61 @@
-<h2 style="color:#60a5fa;">🌬️ Bakıda külək, rayonlarda leysan gözlənilir – 16 avqust üçün hava proqnozu</h2>
+<h2 style="color:#3b82f6;">🌦️ 17 avqustda Bakıda yağıntı gözlənilmir, rayonlarda leysan mümkündür</h2>
 
-<p style="color:#94a3b8;font-size:15px;">
-📅 <strong>16 avqust 2026-cı il</strong> | 🕐 <strong>15 avqust 2026-cı il, saat 16:43</strong>
-</p>
-
-<p>🌤️ <span style="color:#22c55e;font-weight:bold;">META Meteorologiya Mərkəzi</span> 16 avqust tarixində Azərbaycan ərazisində gözlənilən hava şəraiti ilə bağlı proqnozu təqdim edir.</p>
-
-<p>📍 <strong>Bakı və Abşeron yarımadasında</strong> havanın əsasən yağıntısız keçəcəyi gözlənilir. Gün ərzində şimal-qərb küləyi arabir güclənəcək.</p>
-
-<p><span style="color:#f97316;font-weight:bold;font-size:21px;">🌡️ Temperatur:</span><br>
-Gecə <span style="color:#f97316;font-weight:bold;">22–25°C</span>, gündüz isə <span style="color:#ef4444;font-weight:bold;font-size:21px;">29–32°C</span> isti olacaq.</p>
-
-<p>🌬️ Atmosfer təzyiqi normaya yaxın, təxminən <span style="color:#38bdf8;font-weight:bold;">760 mm civə sütunu</span> təşkil edəcək.</p>
-
-<p>💧 Nisbi rütubət gecə <span style="color:#60a5fa;font-weight:bold;">70–75%</span>, gündüz isə <span style="color:#60a5fa;font-weight:bold;">55–60%</span> olacaq.</p>
-
-<p>⛈️ <strong>Azərbaycanın rayonlarında</strong> bəzi ərazilərdə yağış yağacağı gözlənilir. Ayrı-ayrı yerlərdə qısamüddətli <span style="color:#ef4444;font-weight:bold;">leysan və şimşək</span> ehtimalı var. Gecə və səhər saatlarında bəzi dağlıq rayonlarda arabir duman müşahidə ediləcək.</p>
-
-<p>🌬️ Rayonlarda mülayim şərq küləyi əsəcək və bəzi ərazilərdə küləyin güclənməsi gözlənilir.</p>
-
-<p><span style="color:#f97316;font-weight:bold;font-size:21px;">🌡️ Rayonlarda temperatur:</span><br>
-• Gecə: <strong>21–25°C</strong><br>
-• Gündüz: <strong>30–35°C</strong></p>
-
-<p><span style="color:#22c55e;font-weight:bold;font-size:20px;">🏔️ Dağlıq ərazilərdə:</span><br>
-• Gecə: <strong>12–17°C</strong><br>
-• Gündüz: <strong>20–25°C</strong></p>
-
-<p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Xəbərdarlıq: Dağlıq və dağətəyi rayonlarda qısamüddətli leysan və şimşək ehtimalı ilə əlaqədar ehtiyatlı olmaq tövsiyə olunur. Bakıda və Abşeron yarımadasında isə küləyin arabir güclənəcəyi nəzərə alınmalıdır.
-</p>
-
-<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava şəraitini fasiləsiz izləyir və meteoroloji vəziyyətlə bağlı ən son məlumatları operativ şəkildə təqdim edir.
-</p>
-
-<p style="color:#22c55e;font-size:20px;font-weight:bold;">
-📲 Ən son hava proqnozları, faktiki hava məlumatları və xəbərdarlıqları WhatsApp kanalımızda izləyin:
+<p style="text-align:right;color:#94a3b8;font-size:14px;">
+🕐 Əlavə olunub: 16 avqust 2026, 17:37 — Bakı vaxtı
 </p>
 
 <p>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" style="color:#22c55e;font-weight:bold;">
-META Meteorologiya Mərkəzi – WhatsApp kanalı
+<strong>17 avqust, bazar ertəsi Azərbaycanda hava şəraiti bəzi ərazilərdə qeyri-sabit olacaq.</strong>
+Bakıda və Abşeron yarımadasında havanın əsasən yağıntısız keçəcəyi, bəzi rayonlarda isə yağış, şimşək və lokal leysan yağacağı gözlənilir.
+</p>
+
+<h3 style="color:#60a5fa;">🇦🇿 Bakı və Abşeron</h3>
+
+<p>
+Paytaxtda və Abşeron yarımadasında hava əsasən <strong>yağıntısız</strong> olacaq. Şimal-qərb küləyi mülayim əsəcək.
+</p>
+
+<p>
+🌙 Gecə temperaturu <strong>22–25°C</strong>, gündüz isə <strong>28–31°C</strong> olacaq.
+</p>
+
+<p>
+📉 Atmosfer təzyiqi <strong>759 mm civə sütunu</strong> təşkil edəcək. Nisbi rütubət gecə <strong>70–75%</strong>, gündüz isə <strong>50–60%</strong> olacaq.
+</p>
+
+<h3 style="color:#f97316;">⛈️ Azərbaycanın rayonlarında</h3>
+
+<p>
+Bəzi rayonlarda yağış yağacağı gözlənilir. Ayrı-ayrı yerlərdə yağıntılar qısamüddətli leysan xarakterli olacaq və <strong>şimşək</strong> çaxması mümkündür. Yağıntıların gün ərzində tədricən kəsiləcəyi proqnozlaşdırılır.
+</p>
+
+<p>
+🌫️ Gecə və səhər saatlarında bəzi dağlıq rayonlarda <strong>duman</strong> müşahidə oluna bilər. Şərq küləyi əsəcək.
+</p>
+
+<p>
+🌡️ Aran rayonlarında gecə temperaturu <strong>20–25°C</strong>, gündüz <strong>30–34°C</strong> olacaq.
+Dağlıq ərazilərdə isə gecə <strong>12–17°C</strong>, gündüz <strong>20–25°C</strong> təşkil edəcək.
+</p>
+
+<p style="color:#f97316;font-size:20px;font-weight:bold;">
+⚠️ Bəzi rayonlarda lokal leysan və şimşək ehtimalı olduğundan, xüsusilə dağlıq və dağətəyi ərazilərdə hava şəraitində qısamüddətli pisləşmələr mümkündür.
+</p>
+
+<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
+📡 META Meteorologiya Mərkəzi hava şəraitini izləyir və yeni məlumatlar əldə olunduqca proqnozları operativ şəkildə yeniləyir.
+</p>
+
+<p style="color:#25D366;font-size:20px;font-weight:bold;">
+📲 Hava proqnozları və meteoroloji xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:
+<br><br>
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
+target="_blank"
+style="color:#25D366;font-weight:bold;text-decoration:none;">
+➡️ META WhatsApp Kanalı
 </a>
 </p>
 
-<p style="color:#facc15;font-size:21px;font-weight:bold;">
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">
 👨‍💼 Müəllif: Peşəkar meteoroloq Edelman Əliyev
 </p>
