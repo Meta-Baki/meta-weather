@@ -1,62 +1,46 @@
-<h2 style="color:#8b5cf6;">🛰️ NASA-nın yeni kosmik teleskopunun buraxılışına hazırlıq davam edir</h2>
+<h2 style="color:#8b5cf6;">🚀 SpaceX yeni kosmik uçuş rekorduna imza atdı</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 15 avqust 2026, 16:38 — Bakı vaxtı
+🕐 Əlavə olunub: 16 avqust 2026, 17:50 — Bakı vaxtı
 </p>
 
 <p>
-NASA-nın <strong>Nancy Grace Roman Kosmik Teleskopunun</strong> buraxılışına
-hazırlıq işləri davam edir. Teleskopun <strong>30 avqust 2026-cı ildə</strong>
-SpaceX-in Falcon Heavy raketi ilə Floridadakı Kennedi Kosmik Mərkəzindən
-kosmosa göndərilməsi planlaşdırılır.
+<strong>SpaceX kosmik uçuşlar arasında ən qısa fasilələrdən birinə imza ataraq
+yeni rekord müəyyənləşdirib.</strong> Şirkət 15 avqust axşamı iki
+<strong>Falcon 9</strong> raketini cəmi <strong>38 dəqiqə fasilə ilə</strong>
+kosmosa göndərib.
 </p>
 
 <p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🚀 Roman teleskopu planlaşdırılan tarixdən aylar əvvəl buraxılışa hazır vəziyyətə
-gətirilir və hazırda son inteqrasiya mərhələlərindən keçir.
+🚀 İki orbital buraxılış arasındakı 38 dəqiqəlik fasilə SpaceX-in əvvəlki
+rekordunu 27 dəqiqə yaxşılaşdırıb.
 </p>
-
-<table style="width:100%;border-collapse:collapse;">
-<tr style="background:#1e293b;color:#fff;">
-<th style="padding:9px;border:1px solid #374151;">Göstərici</th>
-<th style="padding:9px;border:1px solid #374151;">Məlumat</th>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🛰️ Missiya</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Nancy Grace Roman Kosmik Teleskopu</td>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">📅 Planlaşdırılan buraxılış</td>
-<td style="padding:9px;border:1px solid #d1d5db;">30 avqust 2026</td>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">🚀 Daşıyıcı raket</td>
-<td style="padding:9px;border:1px solid #d1d5db;">SpaceX Falcon Heavy</td>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">📍 Buraxılış məntəqəsi</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Kennedi Kosmik Mərkəzi, Florida</td>
-</tr>
-</table>
 
 <p>
-🔭 Roman teleskopunun əsas məqsədləri arasında kainatın sürətlənən genişlənməsinin
-səbəblərinin, qaranlıq enerjinin və qaranlıq maddənin öyrənilməsi, həmçinin
-uzaq qalaktikaların və ekzoplanetlərin araşdırılması var.
+Əvvəlki rekord 31 avqust 2024-cü ildə iki Starlink missiyasının buraxılışı
+zamanı müəyyən edilmişdi. Yeni nəticə SpaceX-in yüksək tezlikli orbital
+buraxılış imkanlarını bir daha nümayiş etdirib.
+</p>
+
+<p>
+🛰️ SpaceX hazırda dünyanın ən böyük peyk qruplaşmalarından biri olan
+<strong>Starlink</strong> şəbəkəsini də genişləndirir. Bu şəbəkə Yer kürəsinin
+müxtəlif bölgələrinə peyk interneti xidmətlərinin göstərilməsi məqsədi daşıyır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌌 NASA bu missiya vasitəsilə milyardlarla qalaktikanı müşahidə etməyi və
-kainatın böyük miqyaslı quruluşu haqqında yeni məlumatlar əldə etməyi planlaşdırır.
+🌍 Tez-tez həyata keçirilən orbital buraxılışlar peyk texnologiyalarının,
+rabitənin və kosmik infrastrukturun inkişafında mühüm rol oynayır.
+</p>
+
+<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
+📡 Kosmik uçuşların sayının artması gələcəkdə peyk rabitəsi, Yer müşahidəsi
+və digər kosmik xidmətlərin imkanlarını daha da genişləndirə bilər.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi kosmos, peyklər və astronomiya sahəsində mühüm
-yenilikləri izləyərək operativ şəkildə təqdim edir.
+🛰️ META Meteorologiya Mərkəzi peyklər, kosmik hava, astronomiya və
+kosmik texnologiyalarla bağlı ən son xəbərləri izləyərək təqdim edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
