@@ -1,72 +1,58 @@
-<h2 style="color:#ef4444;">🌊 Dünya okeanında yeni temperatur rekordu qeydə alınıb</h2>
+<h2 style="color:#0ea5e9;">🌊🌡️ Dəniz istilik dalğası Britaniya sularının ekosistemini dəyişir</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 16 avqust 2026, 17:45 — Bakı vaxtı
+🕐 Əlavə olunub: 17 avqust 2026, 17:31 — Bakı vaxtı
 </p>
 
 <p>
-<strong>2026-cı ilin iyul ayında dünya okeanının səth temperaturu iyul ayları
-üçün rekord həddə çatıb.</strong> Avropa İttifaqının Kopernik İqlim Dəyişikliyi
-Xidmətinin məlumatına görə, qütb ərazilərindən kənarda yerləşən okeanlarda
-(60° cənub – 60° şimal enlikləri) orta səth temperaturu <strong>20,96°C</strong>
-təşkil edib.
+<strong>Böyük Britaniya ətrafındakı dənizlərdə temperaturun uzun müddət yüksək
+qalması dəniz ekosistemlərində nəzərəçarpacaq dəyişikliklərə səbəb olur.</strong>
+İsti su sevən bəzi canlıların yayılma arealı genişlənir, soyuq su növləri isə
+daha şimal ərazilərə və dərin sulara çəkilir.
 </p>
 
-<p style="color:#ef4444;font-size:20px;font-weight:bold;">
-🌡️ Bu göstərici əvvəlki iyul rekordunu, 2023-cü ildə qeydə alınmış
-20,89°C nəticəsini geridə qoyub.
-</p>
-
-<p>
-🌊 Dəniz səthinin yüksək temperaturu okeanlarda <strong>dəniz istilik dalğalarının</strong>
-yayılmasını gücləndirə bilər. İsti sular dəniz ekosistemlərinə, balıqlara,
-mərcanlara və digər canlılara əlavə stress yaradır.
+<p style="color:#0ea5e9;font-size:20px;font-weight:bold;">
+🌡️ Dəniz istilik dalğaları artıq yalnız temperatur göstəricisi deyil,
+dəniz canlılarının yayılmasına və ekosistemin quruluşuna təsir edən
+mühüm amilə çevrilir.
 </p>
 
 <p>
-📊 Mercator Ocean International-ın məlumatlarına əsasən, 2026-cı ilin
-iyulunda 60° cənub və 60° şimal enlikləri arasında okeanın orta səth
-temperaturu təxminən <strong>21,00°C</strong> olub. Okeanın təxminən
-<strong>79%-ində</strong> temperatur uzunmüddətli orta göstəricidən yüksək
-qeydə alınıb. :contentReference[oaicite:2]{index=2}
-</p>
-
-<h3 style="color:#3b82f6;">🌍 İsti okean hansı təsirlərə səbəb ola bilər?</h3>
-
-<p>
-🔥 Okean səthinin həddindən artıq isinməsi atmosferə istilik və rütubət
-ötürülməsini dəyişə bilər. Bu isə bəzi regionlarda ekstremal hava hadisələrinin
-formalaşmasına təsir göstərə bilər.
+🐟 Müşahidələr zamanı günəş balığı, sardina, ançous, levrek və ahtapot kimi
+isti suları sevən növlərin daha çox göründüyü bildirilir.
 </p>
 
 <p>
-🌧️ Dəniz səthinin temperaturunun yüksəlməsi tropik siklonlar və güclü
-yağıntılar üçün əlverişli enerji mənbəyini artıra bilər. Bununla yanaşı,
-okean istiliyi uzunmüddətli iqlim proseslərinin mühüm göstəricilərindən
-biridir.
+🦀 Bunun əksinə olaraq, treska kimi soyuq suya üstünlük verən bəzi növlər
+cənub sahillərində daha az müşahidə olunur və daha sərin sulara doğru
+hərəkət edir.
 </p>
 
 <p>
-🇪🇺 Kopernik məlumatları həmçinin Qərbi Avropada 2026-cı ilin iyun–iyul
-dövrünün müşahidələr tarixində ən isti belə dövr olduğunu göstərir. Həmin
-dövrdə yüksək temperatur və quraqlıq meşə yanğınlarının yayılması üçün
-əlverişli şərait yaradıb. :contentReference[oaicite:3]{index=3}
+🌿 Dəniz temperaturunun yüksəlməsi yalnız balıqlara deyil, həm də dəniz
+otlaqlarına və laminariya meşələrinə təsir göstərir. Bu ekosistemlər
+sahillərin qorunması, biomüxtəlifliyin saxlanılması və karbonun
+udulması baxımından mühüm rol oynayır.
 </p>
 
-<p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ Okean temperaturundakı rekordlar təkcə dəniz ekosistemləri üçün deyil,
-həm də atmosfer və iqlim sistemində baş verən dəyişikliklərin izlənilməsi
-baxımından mühüm göstəricidir.
+<p>
+🌊 Uzunmüddətli istilik dalğaları bəzi ərazilərdə zərərli yosun çiçəklənməsi
+və digər ekoloji problemlərin yaranması riskini də artıra bilər.
+</p>
+
+<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
+⚠️ Dənizlərin isinməsi davam etdikcə canlıların yayılma areallarının
+dəyişməsi balıqçılıq və sahilyanı ekosistemlər üçün yeni problemlər yarada bilər.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi iqlim dəyişikliklərini, okean temperaturunu
-və dünyada baş verən mühüm meteoroloji-ekoloji hadisələri izləyərək
-məlumatları operativ şəkildə təqdim edir.
+📡 META Meteorologiya Mərkəzi okean temperaturunu, iqlim dəyişikliklərini
+və onların ekosistemlərə təsirlərini izləyərək mühüm məlumatları təqdim edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 İqlim, ekologiya və hava xəbərlərini ilk əldə etmək üçün WhatsApp kanalımıza qoşulun:
+📲 İqlim, ekologiya və meteorologiya xəbərlərini izləmək üçün WhatsApp
+kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
