@@ -1,46 +1,54 @@
-<h2 style="color:#8b5cf6;">🚀 SpaceX yeni kosmik uçuş rekorduna imza atdı</h2>
+<h2 style="color:#8b5cf6;">🌌 Orionda planetlərin orbitlərini dəyişdirən nəhəng qaz axını aşkar edilib</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 16 avqust 2026, 17:50 — Bakı vaxtı
+🕐 Əlavə olunub: 17 avqust 2026, 20:20 — Bakı vaxtı
 </p>
 
 <p>
-<strong>SpaceX kosmik uçuşlar arasında ən qısa fasilələrdən birinə imza ataraq
-yeni rekord müəyyənləşdirib.</strong> Şirkət 15 avqust axşamı iki
-<strong>Falcon 9</strong> raketini cəmi <strong>38 dəqiqə fasilə ilə</strong>
-kosmosa göndərib.
+Astronomlar <strong>Orion bürcündə yerləşən gənc ulduz sistemində</strong>
+planetlərin formalaşmasına təsir göstərə biləcək qeyri-adi hadisə aşkar ediblər.
+Tədqiqat zamanı uzunluğu təxminən <strong>1,6 trilyon kilometr</strong> olan
+nəhəng qaz axınının gənc planetəmələgəlmə sisteminə doğru hərəkət etdiyi müəyyənləşdirilib.
 </p>
 
 <p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🚀 İki orbital buraxılış arasındakı 38 dəqiqəlik fasilə SpaceX-in əvvəlki
-rekordunu 27 dəqiqə yaxşılaşdırıb.
+🌠 Alimlərin fikrincə, bu qaz axını sistemin planetəmələgəlmə diskini
+əyərək planetlərin orbitlərinin ulduzun fırlanma oxuna nisbətən qeyri-adi
+istiqamət almasına səbəb ola bilər.
 </p>
 
 <p>
-Əvvəlki rekord 31 avqust 2024-cü ildə iki Starlink missiyasının buraxılışı
-zamanı müəyyən edilmişdi. Yeni nəticə SpaceX-in yüksək tezlikli orbital
-buraxılış imkanlarını bir daha nümayiş etdirib.
+🔭 Müşahidələr Çilidə yerləşən <strong>ALMA</strong> radioastronomiya
+kompleksinin imkanlarından istifadə edilməklə aparılıb. ALMA millimetr və
+submillimetr dalğa uzunluqlarında kosmik qaz və toz buludlarını müşahidə
+edərək ulduz və planet sistemlərinin formalaşmasını araşdırmağa imkan verir.
 </p>
 
 <p>
-🛰️ SpaceX hazırda dünyanın ən böyük peyk qruplaşmalarından biri olan
-<strong>Starlink</strong> şəbəkəsini də genişləndirir. Bu şəbəkə Yer kürəsinin
-müxtəlif bölgələrinə peyk interneti xidmətlərinin göstərilməsi məqsədi daşıyır.
+⭐ Tədqiq olunan obyekt gənc <strong>üç ulduzdan ibarət sistemdir</strong>.
+Belə sistemlərdə ulduzların qarşılıqlı cazibəsi və ətrafdakı maddənin hərəkəti
+planetlərin formalaşdığı diskin quruluşuna ciddi təsir göstərə bilər.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌍 Tez-tez həyata keçirilən orbital buraxılışlar peyk texnologiyalarının,
-rabitənin və kosmik infrastrukturun inkişafında mühüm rol oynayır.
+🪐 Bu kəşf planetlərin həmişə öz ulduzlarının fırlanma istiqaməti ilə
+eyni müstəvidə yaranmadığını izah etməyə kömək edə bilər.
+</p>
+
+<p>
+🌌 Astronomlar hesab edirlər ki, belə qaz axınlarının öyrənilməsi planet
+sistemlərinin necə formalaşdığını və onların ilkin orbitlərinin zamanla
+necə dəyişə bildiyini daha yaxşı anlamağa imkan verəcək.
 </p>
 
 <p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-📡 Kosmik uçuşların sayının artması gələcəkdə peyk rabitəsi, Yer müşahidəsi
-və digər kosmik xidmətlərin imkanlarını daha da genişləndirə bilər.
+🔬 Yeni müşahidələr planet sistemlərinin formalaşmasının əvvəllər düşünüldüyündən
+daha mürəkkəb proses olduğunu göstərir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🛰️ META Meteorologiya Mərkəzi peyklər, kosmik hava, astronomiya və
-kosmik texnologiyalarla bağlı ən son xəbərləri izləyərək təqdim edir.
+📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi və
+peyklərlə bağlı ən son elmi xəbərləri izləyərək təqdim edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
