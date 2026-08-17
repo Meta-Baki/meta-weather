@@ -1,87 +1,94 @@
 <h2 style="color:#f59e0b;">☀️ Günəş və geomaqnit aktivliyi — 7 günlük proqnoz</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 16 avqust 2026, 17:40 — Bakı vaxtı
+🕐 Əlavə olunub: 17 avqust 2026, 20:18 — Bakı vaxtı
 </p>
 
 <p>
-☀️ Günəş aktivliyi hazırda 25-ci Günəş dövrünün aktiv mərhələsindədir.
-Aşağıdakı cədvəldə qarşıdakı 7 gün üçün geomaqnit şəraitin
-<strong>təxmini Kp səviyyələri</strong> göstərilib.
+☀️ Qarşıdakı 7 gün ərzində Günəş aktivliyinin əsasən aşağı və mülayim
+səviyyədə qalacağı gözlənilir. Geomaqnit sahəsində müəyyən dalğalanmalar
+mümkün olsa da, hazırkı proqnozlarda güclü geomaqnit qasırğası üçün
+yüksək risk görünmür.
 </p>
 
 <table style="width:100%;border-collapse:collapse;text-align:center;">
 <tr style="background:#1e293b;color:#fff;">
 <th style="padding:10px;border:1px solid #374151;">Tarix</th>
-<th style="padding:10px;border:1px solid #374151;">Kp</th>
-<th style="padding:10px;border:1px solid #374151;">Aktivlik</th>
-<th style="padding:10px;border:1px solid #374151;">Gözlənilən vəziyyət</th>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">16 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;">2–3</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟢 Sakit</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Geomaqnit sahə əsasən sakit</td>
+<th style="padding:10px;border:1px solid #374151;">Günəş aktivliyi</th>
+<th style="padding:10px;border:1px solid #374151;">Kp səviyyəsi</th>
+<th style="padding:10px;border:1px solid #374151;">Geomaqnit vəziyyət</th>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">17 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;">2–4</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟢 Zəif aktiv</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Kiçik dalğalanmalar mümkündür</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Aşağı–mülayim</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Kp 4-dək</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟢 Sakit / zəif aktiv</td>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">18 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;">3–4</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟠 Aktiv</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Geomaqnit aktivliyin artması mümkündür</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Aşağı–mülayim</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Kp 4-dək</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟢 Əsasən sakit</td>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">19 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;">2–4</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟢 Zəif aktiv</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Dəyişkən, lakin əsasən sakit</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Aşağı–mülayim</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Kp 4-dək</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟢 Zəif geomaqnit dalğalanmalar</td>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">20 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;">2–3</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟢 Sakit</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Əsasən sakit geomaqnit şərait</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Aşağı</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Aşağı səviyyə</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟢 Əsasən sakit</td>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">21 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;">3–4</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟠 Aktiv</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Kiçik aktivlik artımı mümkündür</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Aşağı–mülayim</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Dəyişkən</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟢–🟡 Zəif aktivlik mümkündür</td>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">22 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;">2–3</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟢 Sakit</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Əsasən sakit şərait</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Aşağı–mülayim</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Dəyişkən</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟢 Əsasən sakit</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">23 avqust</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Aşağı–mülayim</td>
+<td style="padding:9px;border:1px solid #d1d5db;">Dəqiq proqnoz məhduddur</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟢–🟡 Dəyişiklik mümkündür</td>
 </tr>
 </table>
 
-<p style="color:#ef4444;font-size:19px;font-weight:bold;">
-⚠️ Qeyd: Kp 5 və daha yüksək göstəricilər geomaqnit qasırğası səviyyəsini
-ifadə edir. Günəşdə güclü alışma və ya tac kütlə atılması baş verərsə,
-proqnoz qısa müddətdə dəyişə bilər.
+<p style="color:#f97316;font-size:20px;font-weight:bold;">
+⚠️ Kp indeksinin 5 və daha yüksək olması G1 səviyyəli geomaqnit qasırğasına
+uyğun gəlir. Hazırkı proqnozda qarşıdakı günlər üçün belə güclü qasırğa
+gözlənilmir.
+</p>
+
+<p>
+🌍 Geomaqnit aktivliyin artması zamanı yüksək enliklərdə qütb parıltılarının
+müşahidə olunması, peyk rabitəsi və radio siqnallarında müəyyən dəyişikliklərin
+yaranması mümkündür.
 </p>
 
 <p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-☀️ Günəş aktivliyi 25-ci Günəş dövrünün aktiv mərhələsində olduğundan
-Günəşdə yeni aktiv regionların yaranması və alışmaların baş verməsi mümkündür.
+☀️ Günəşdə güclü alışma və ya tac kütlə atılması baş verərsə, geomaqnit
+aktivlik proqnozu qısa müddət ərzində dəyişə bilər.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
 📡 META Meteorologiya Mərkəzi Günəş aktivliyini və kosmik hava şəraitini
-izləyir və yeni məlumatlar əldə olunduqca proqnozu yeniləyir.
+izləyərək məlumatları mütəmadi yeniləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
