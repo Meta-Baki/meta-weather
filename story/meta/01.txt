@@ -1,61 +1,52 @@
-<h2 style="color:#f97316;">🌧️ Yay leysanları və güclü külək: Azərbaycanda faktiki hava şəraiti açıqlanıb</h2>
+<h2 style="color:#ef4444;">🌲🔥 Belçikada rekord meşə yanğını 3 000 hektara yaxın ərazini əhatə edib</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 16 avqust 2026, 17:00 — Bakı vaxtı
+🕐 Əlavə olunub: 17 avqust 2026, 17:31 — Bakı vaxtı
 </p>
 
 <p>
-<strong>16 avqust səhəri Azərbaycanın bir sıra rayonlarında yağışlı hava şəraiti müşahidə olunub.</strong>
-Bəzi ərazilərdə şimşək, güclü külək və duman qeydə alınıb.
-</p>
-
-<p>
-🌧️ Milli Hidrometeorologiya Xidmətinin məlumatına görə, ən çox yağıntı
-<strong>Astarada — 40 mm</strong> təşkil edib. Bu göstərici aylıq yağıntı normasının
-təxminən <strong>48%-nə</strong> bərabərdir.
-</p>
-
-<p>
-Digər ərazilərdə də əhəmiyyətli yağıntılar qeydə alınıb: Zaqatalada
-<strong>11 mm</strong>, Qubada <strong>9 mm</strong>, Lənkəran və Ağstafada isə
-<strong>7 mm</strong> yağıntı düşüb.
-</p>
-
-<p>
-🌫️ Dağlıq və dağətəyi rayonların bəzi ərazilərində, o cümlədən
-<strong>Şahdağ, Göygöl və Daşkəsəndə</strong> duman səbəbindən görünüş məsafəsi
-<strong>500 metrədək</strong> azalıb.
-</p>
-
-<h3 style="color:#60a5fa;">💨 Bakıda güclü külək</h3>
-
-<p>
-Bakıda və Abşeron yarımadasında şimal-qərb küləyinin maksimal sürəti
-<strong>21 m/s</strong>-ə çatıb. Paytaxtda havanın temperaturu
-<strong>30°C</strong> təşkil edib.
-</p>
-
-<p>
-🌡️ Aran rayonlarında temperatur <strong>34°C</strong>-dək yüksəlib.
-Naxçıvan Muxtar Respublikasında isə maksimal temperatur
-<strong>36°C</strong> olub.
+<strong>Belçikanın High Fens (Hautes Fagnes) təbiət qoruğunda ölkə tarixinin
+ən böyük meşə yanğınlarından biri davam edir.</strong> Yanğın nəticəsində
+təxminən <strong>3 000 hektar</strong> ərazi yanıb.
 </p>
 
 <p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Yağıntılı və küləkli hava şəraiti zamanı xüsusilə dağlıq ərazilərdə
-görünüş məsafəsinin azalması və yollarda hərəkət şəraitinin çətinləşməsi
-mümkündür.
+🔥 Yanğın avqustun 14-də başlayıb və qısa müddətdə geniş əraziyə yayılıb.
+Bu, Belçikada qeydə alınmış ən böyük meşə yanğını hesab olunur.
+</p>
+
+<p>
+🌧️ Şərqi Belçikada yağan yağış yanğınsöndürənlər üçün vəziyyəti müəyyən
+qədər yaxşılaşdırıb. Lakin yanğının yayıldığı ərazidə torf qatının olması
+işləri çətinləşdirir. Torpağın altında davam edən yanğın ocaqları uzun
+müddət aktiv qala bilər.
+</p>
+
+<p>
+🚒 Yanğının söndürülməsi üçün Belçikanın müxtəlif bölgələrindən
+yanğınsöndürən briqadalar, hərbi qüvvələr və digər ölkələrin xilasediciləri
+cəlb olunub. Ərazidə hava vasitələrindən də istifadə edilir.
+</p>
+
+<p>
+🌍 Mütəxəssislərin diqqət çəkdiyi əsas məsələlərdən biri isə Avropada
+ardıcıl istilik dalğaları və quraqlığın bitki örtüyünü daha asan alışan
+vəziyyətə gətirməsidir. Bu şərait meşə yanğınlarının yayılma riskini artırır.
+</p>
+
+<p style="color:#f97316;font-size:20px;font-weight:bold;">
+⚠️ Yağışın başlaması vəziyyəti yaxşılaşdırsa da, torpaq altında davam edən
+yanma səbəbindən yanğın təhlükəsi hələ tam aradan qalxmayıb.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanda faktiki hava şəraitini,
-yağıntıları, küləyi və təhlükəli meteoroloji hadisələri izləyərək
-məlumatları operativ şəkildə təqdim edir.
+📡 META Meteorologiya Mərkəzi ekstremal hava hadisələrini, meşə yanğınlarını
+və iqlimlə bağlı riskləri izləyərək operativ məlumat təqdim edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Son hava xəbərləri və meteoroloji xəbərdarlıqları əldə etmək üçün
-WhatsApp kanalımıza qoşulun:
+📲 Ən son hava, iqlim və təbiət xəbərlərini əldə etmək üçün WhatsApp
+kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
