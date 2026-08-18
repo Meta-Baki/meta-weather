@@ -1,12 +1,14 @@
-<h2 style="color:#3b82f6;">🌤️ Çərşənbə axşamı Azərbaycanda hava əsasən yağmursuz olacaq</h2>
+<h2 style="color:#3b82f6;">🌤️ 19 Avgust Azərbaycanda hava əsasən yağmursuz olacaq</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 17 avqust 2026, 18:37 — Bakı vaxtı
+🕐 Əlavə olunub: 18 avqust 2026, 22:00 — Bakı vaxtı
 </p>
 
 <p>
-<strong>18 avqust, çərşənbə axşamı Azərbaycanda hava şəraitinin əsasən sabit və yağmursuz keçəcəyi gözlənilir.</strong>
-Milli Hidrometeorologiya Xidmətinin proqnozuna əsasən, Bakıda və Abşeron yarımadasında yağıntı gözlənilmir.
+<strong>19 avqust, çərşənbə günü Azərbaycanda hava şəraitinin əsasən
+yağıntısız keçəcəyi gözlənilir.</strong> Milli Hidrometeorologiya Xidmətinin
+məlumatına əsasən, bəzi dağlıq ərazilərdə qısamüddətli leysan və şimşək
+ehtimalı qalır.
 </p>
 
 <h3 style="color:#60a5fa;">🏙️ Bakı və Abşeron</h3>
@@ -17,37 +19,39 @@ Bakıda və Abşeron yarımadasında hava əsasən <strong>yağıntısız</stron
 </p>
 
 <p>
-🌙 Gecə temperaturu <strong>21–24°C</strong>, gündüz isə <strong>28–32°C</strong> təşkil edəcək.
+🌙 Gecə temperaturu <strong>22–25°C</strong>, gündüz isə
+<strong>29–33°C</strong> təşkil edəcək.
 </p>
 
 <p>
 📉 Atmosfer təzyiqi <strong>756 mm civə sütunu</strong> olacaq.
-Nisbi rütubət gecə <strong>70–80%</strong>, gündüz isə <strong>45–50%</strong> təşkil edəcək.
+Nisbi rütubət gecə <strong>70–75%</strong>, gündüz isə
+<strong>50–55%</strong> təşkil edəcək.
 </p>
 
 <h3 style="color:#f97316;">⛈️ Azərbaycanın rayonlarında</h3>
 
 <p>
-Ölkənin rayonlarında da havanın əsasən <strong>yağıntısız</strong> keçəcəyi gözlənilir.
-Lakin gündüz saatlarında dağlıq ərazilərin bəzi yerlərində
-<strong>qısamüddətli yağış və şimşək</strong> ehtimalı var.
+Rayonlarda da hava əsasən <strong>yağıntısız</strong> keçəcək. Lakin gündüz
+bəzi dağlıq ərazilərdə <strong>qısamüddətli leysan xarakterli yağışlar və
+şimşək</strong> müşahidə oluna bilər.
 </p>
 
 <p>
-🌫️ Gecə və səhər saatlarında bəzi dağlıq rayonlarda
-<strong>duman</strong> müşahidə oluna bilər. Şərq küləyi əsəcək.
+🌫️ Gecə və səhər saatlarında ayrı-ayrı dağlıq rayonlarda
+<strong>duman</strong> ehtimalı var. Şərq küləyi əsəcək.
 </p>
 
 <p>
-🌡️ Rayonlarda gecə temperaturu <strong>20–25°C</strong>, gündüz
-<strong>31–36°C</strong> olacaq. Dağlıq ərazilərdə gecə
+🌡️ Rayonlarda gecə temperaturu <strong>19–24°C</strong>, gündüz
+<strong>32–37°C</strong> olacaq. Dağlıq ərazilərdə gecə
 <strong>12–17°C</strong>, gündüz isə <strong>20–25°C</strong> gözlənilir.
 </p>
 
 <p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-☀️ Ümumilikdə 18 avqustda ölkə ərazisində isti və əsasən quru hava şəraiti
-hakim olacaq. Dağlıq ərazilərdə isə gün ərzində lokal yağış və şimşək ehtimalı
-nəzərə alınmalıdır.
+☀️ Ümumilikdə 19 avqustda ölkə ərazisində isti və əsasən quru hava
+şəraiti üstünlük təşkil edəcək. Dağlıq ərazilərdə isə gün ərzində
+lokal leysan və şimşək ehtimalı nəzərə alınmalıdır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
