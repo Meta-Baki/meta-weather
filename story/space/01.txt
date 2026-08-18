@@ -1,98 +1,100 @@
-<h2 style="color:#f59e0b;">☀️ Günəş və geomaqnit aktivliyi — 7 günlük proqnoz</h2>
+<h2 style="color:#f59e0b;">☀️ Bakı üçün Günəş radiasiyası və UV indeksi — 7 günlük proqnoz</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 17 avqust 2026, 20:18 — Bakı vaxtı
+🕐 Əlavə olunub: 18 avqust 2026, 15:00 — Bakı vaxtı
 </p>
 
 <p>
-☀️ Qarşıdakı 7 gün ərzində Günəş aktivliyinin əsasən aşağı və mülayim
-səviyyədə qalacağı gözlənilir. Geomaqnit sahəsində müəyyən dalğalanmalar
-mümkün olsa da, hazırkı proqnozlarda güclü geomaqnit qasırğası üçün
-yüksək risk görünmür.
+☀️ Qarşıdakı 7 gün ərzində Bakıda günəş şüalanmasının yüksək səviyyədə
+qalacağı gözlənilir. Avqust ayında Bakı üçün UV indeksi adətən yüksək və
+çox yüksək səviyyələrə çata bilər. Hazırkı meteoroloji şərait nəzərə
+alındıqda günorta saatlarında Günəş şüalarının intensivliyi xüsusilə
+yüksək olacaq.
 </p>
 
-<table style="width:100%;border-collapse:collapse;text-align:center;">
+<table style="width:100%;border-collapse:collapse;text-align:center;font-size:15px;">
 <tr style="background:#1e293b;color:#fff;">
 <th style="padding:10px;border:1px solid #374151;">Tarix</th>
 <th style="padding:10px;border:1px solid #374151;">Günəş aktivliyi</th>
-<th style="padding:10px;border:1px solid #374151;">Kp səviyyəsi</th>
-<th style="padding:10px;border:1px solid #374151;">Geomaqnit vəziyyət</th>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">17 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;">☀️ Aşağı–mülayim</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Kp 4-dək</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟢 Sakit / zəif aktiv</td>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">18 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;">☀️ Aşağı–mülayim</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Kp 4-dək</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟢 Əsasən sakit</td>
+<th style="padding:10px;border:1px solid #374151;">UV indeksi</th>
+<th style="padding:10px;border:1px solid #374151;">Səviyyə</th>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">19 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;">☀️ Aşağı–mülayim</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Kp 4-dək</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟢 Zəif geomaqnit dalğalanmalar</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Yüksək</td>
+<td style="padding:9px;border:1px solid #d1d5db;">7–8</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟠 Yüksək</td>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">20 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;">☀️ Aşağı</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Aşağı səviyyə</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟢 Əsasən sakit</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Yüksək</td>
+<td style="padding:9px;border:1px solid #d1d5db;">7–8</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟠 Yüksək</td>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">21 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;">☀️ Aşağı–mülayim</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Dəyişkən</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟢–🟡 Zəif aktivlik mümkündür</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Yüksək</td>
+<td style="padding:9px;border:1px solid #d1d5db;">7–9</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🔴 Çox yüksək</td>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">22 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;">☀️ Aşağı–mülayim</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Dəyişkən</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟢 Əsasən sakit</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Yüksək</td>
+<td style="padding:9px;border:1px solid #d1d5db;">7–9</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🔴 Çox yüksək</td>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">23 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;">☀️ Aşağı–mülayim</td>
-<td style="padding:9px;border:1px solid #d1d5db;">Dəqiq proqnoz məhduddur</td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟢–🟡 Dəyişiklik mümkündür</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Yüksək</td>
+<td style="padding:9px;border:1px solid #d1d5db;">7–8</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟠 Yüksək</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">24 avqust</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Yüksək</td>
+<td style="padding:9px;border:1px solid #d1d5db;">6–8</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟠 Yüksək</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">25 avqust</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Yüksək</td>
+<td style="padding:9px;border:1px solid #d1d5db;">6–8</td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟠 Yüksək</td>
 </tr>
 </table>
 
-<p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ Kp indeksinin 5 və daha yüksək olması G1 səviyyəli geomaqnit qasırğasına
-uyğun gəlir. Hazırkı proqnozda qarşıdakı günlər üçün belə güclü qasırğa
-gözlənilmir.
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+⚠️ UV indeksinin 6 və daha yüksək olması zamanı Günəş şüalanmasından
+qorunmaq tövsiyə olunur. Xüsusilə 11:00–16:00 saatları arasında birbaşa
+Günəş altında uzun müddət qalmaq məsləhət görülmür.
 </p>
 
 <p>
-🌍 Geomaqnit aktivliyin artması zamanı yüksək enliklərdə qütb parıltılarının
-müşahidə olunması, peyk rabitəsi və radio siqnallarında müəyyən dəyişikliklərin
-yaranması mümkündür.
+🌤️ Buludluluq və atmosfer şəraiti gün ərzində real UV göstəricisini
+dəyişə bilər. Buna görə cədvəldəki göstəricilər ümumi proqnoz xarakteri
+daşıyır və müşahidələr yeniləndikcə dəyişdirilə bilər.
 </p>
 
 <p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-☀️ Günəşdə güclü alışma və ya tac kütlə atılması baş verərsə, geomaqnit
-aktivlik proqnozu qısa müddət ərzində dəyişə bilər.
+☀️ Bakı üçün avqust ayında UV indeksinin yüksək olması mövsüm üçün
+xarakterikdir. Günəş şüalanmasının intensivliyi günorta saatlarında
+maksimuma yaxınlaşır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Günəş aktivliyini və kosmik hava şəraitini
-izləyərək məlumatları mütəmadi yeniləyir.
+📡 META Meteorologiya Mərkəzi Günəş radiasiyasını, UV indeksini və
+meteoroloji şəraiti izləyərək məlumatları mütəmadi yeniləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Günəş aktivliyi, geomaqnit qasırğaları və kosmos xəbərlərini izləmək üçün
+📲 Hava, Günəş aktivliyi və meteoroloji məlumatları izləmək üçün
 WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
