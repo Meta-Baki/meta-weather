@@ -1,62 +1,45 @@
-<h2 style="color:#0ea5e9;">🌊🌡️ Dəniz istilik dalğası Britaniya sularının ekosistemini dəyişir</h2>
+<h2 style="color:#ef4444;">🔥🌲 Azərbaycanda isti və quraq hava təbiət ərazilərində yanğın riskini artırır</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 17 avqust 2026, 17:31 — Bakı vaxtı
+🕐 Əlavə olunub: 18 avqust 2026, 20:38 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Böyük Britaniya ətrafındakı dənizlərdə temperaturun uzun müddət yüksək
-qalması dəniz ekosistemlərində nəzərəçarpacaq dəyişikliklərə səbəb olur.</strong>
-İsti su sevən bəzi canlıların yayılma arealı genişlənir, soyuq su növləri isə
-daha şimal ərazilərə və dərin sulara çəkilir.
+<strong>Avqust ayında Azərbaycanda yüksək temperatur və quru hava şəraiti təbii ərazilərin yanğınlara qarşı həssaslığını artırır.</strong> İsti və quraq şərait xüsusilə meşə və meşəətrafı ərazilərdə yanğının daha sürətlə yayılması üçün əlverişli mühit yarada bilər.
 </p>
 
-<p style="color:#0ea5e9;font-size:20px;font-weight:bold;">
-🌡️ Dəniz istilik dalğaları artıq yalnız temperatur göstəricisi deyil,
-dəniz canlılarının yayılmasına və ekosistemin quruluşuna təsir edən
-mühüm amilə çevrilir.
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+🔥 Meşə yanğınları yalnız ağaclara deyil, bütöv ekosistemlərə uzunmüddətli zərər vurur.
 </p>
 
 <p>
-🐟 Müşahidələr zamanı günəş balığı, sardina, ançous, levrek və ahtapot kimi
-isti suları sevən növlərin daha çox göründüyü bildirilir.
+🌳 Yanğın zamanı ağac və bitki örtüyü məhv olur, vəhşi heyvanların yaşayış mühiti zədələnir və torpağın münbit üst qatı sıradan çıxa bilər. Ekoloji tarazlığın bərpası isə uzun illər tələb edə bilər.
 </p>
 
 <p>
-🦀 Bunun əksinə olaraq, treska kimi soyuq suya üstünlük verən bəzi növlər
-cənub sahillərində daha az müşahidə olunur və daha sərin sulara doğru
-hərəkət edir.
+☀️ 2026-cı ilin iyulunda Bakı və Abşeron yarımadasında temperatur iqlim normasından <strong>27 gün yüksək</strong> olub. Həmin ay ölkə üzrə maksimal temperatur <strong>41°C</strong>-yə çatıb.
 </p>
 
 <p>
-🌿 Dəniz temperaturunun yüksəlməsi yalnız balıqlara deyil, həm də dəniz
-otlaqlarına və laminariya meşələrinə təsir göstərir. Bu ekosistemlər
-sahillərin qorunması, biomüxtəlifliyin saxlanılması və karbonun
-udulması baxımından mühüm rol oynayır.
+🚫 Ekologiya və Təbii Sərvətlər Nazirliyi də isti, quraq və küləkli hava şəraitinin meşələrdə yanğın riskini artırdığını bildirərək əhalini təbiətdə od qalamaqdan, siqaret kötüklərini atmaqdan və quru ot-bitki örtüyünü yandırmaqdan çəkinməyə çağırıb.
+</p>
+
+<p style="color:#f97316;font-size:20px;font-weight:bold;">
+⚠️ Kiçik bir ehtiyatsızlıq böyük ərazilərin yanmasına və flora-faunaya uzunmüddətli zərər dəyməsinə səbəb ola bilər.
 </p>
 
 <p>
-🌊 Uzunmüddətli istilik dalğaları bəzi ərazilərdə zərərli yosun çiçəklənməsi
-və digər ekoloji problemlərin yaranması riskini də artıra bilər.
-</p>
-
-<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-⚠️ Dənizlərin isinməsi davam etdikcə canlıların yayılma areallarının
-dəyişməsi balıqçılıq və sahilyanı ekosistemlər üçün yeni problemlər yarada bilər.
+🌍 Xüsusilə Azərbaycanın meşəlik və dağlıq ərazilərində təbiətin qorunması yalnız aidiyyəti qurumların deyil, hər bir vətəndaşın məsuliyyətidir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi okean temperaturunu, iqlim dəyişikliklərini
-və onların ekosistemlərə təsirlərini izləyərək mühüm məlumatları təqdim edir.
+📡 META Meteorologiya Mərkəzi hava şəraitini, yanğın risklərini və ətraf mühitlə bağlı təhlükələri izləyərək operativ məlumat təqdim edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 İqlim, ekologiya və meteorologiya xəbərlərini izləmək üçün WhatsApp
-kanalımıza qoşulun:
+📲 Ən son hava, iqlim və təbiət xəbərlərini əldə etmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank"
-style="color:#25D366;font-weight:bold;text-decoration:none;">
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
