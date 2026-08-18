@@ -1,54 +1,62 @@
-<h2 style="color:#8b5cf6;">🌌 Orionda planetlərin orbitlərini dəyişdirən nəhəng qaz axını aşkar edilib</h2>
+<h2 style="color:#8b5cf6;">🦁🌌 James Webb kosmosda “Şir dumanlığının” heyrətamiz görüntüsünü əldə edib</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 17 avqust 2026, 20:20 — Bakı vaxtı
+🕐 Əlavə olunub: 17 avqust 2026, 18:30 — Bakı vaxtı
 </p>
 
 <p>
-Astronomlar <strong>Orion bürcündə yerləşən gənc ulduz sistemində</strong>
-planetlərin formalaşmasına təsir göstərə biləcək qeyri-adi hadisə aşkar ediblər.
-Tədqiqat zamanı uzunluğu təxminən <strong>1,6 trilyon kilometr</strong> olan
-nəhəng qaz axınının gənc planetəmələgəlmə sisteminə doğru hərəkət etdiyi müəyyənləşdirilib.
+<strong>NASA-nın James Webb Kosmik Teleskopu NGC 2392 planetar dumanlığının
+indiyədək ən detallı görüntülərindən birini əldə edib.</strong> Xarakterik
+formasına görə “Şir dumanlığı” adlandırılan bu kosmik obyekt Əkizlər
+bürcündə yerləşir.
 </p>
 
 <p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🌠 Alimlərin fikrincə, bu qaz axını sistemin planetəmələgəlmə diskini
-əyərək planetlərin orbitlərinin ulduzun fırlanma oxuna nisbətən qeyri-adi
-istiqamət almasına səbəb ola bilər.
+🔭 Webb teleskopunun infraqırmızı müşahidələri qaz, toz və ionlaşmış
+maddənin daha əvvəl görünməsi çətin olan strukturlarını üzə çıxarıb.
 </p>
 
 <p>
-🔭 Müşahidələr Çilidə yerləşən <strong>ALMA</strong> radioastronomiya
-kompleksinin imkanlarından istifadə edilməklə aparılıb. ALMA millimetr və
-submillimetr dalğa uzunluqlarında kosmik qaz və toz buludlarını müşahidə
-edərək ulduz və planet sistemlərinin formalaşmasını araşdırmağa imkan verir.
+⭐ NGC 2392-nin mərkəzində vaxtilə Günəşə bənzər olan ulduzun qalıqları
+yerləşir. Ulduz həyatının son mərhələsində xarici qatlarını kosmosa atıb
+və nəticədə ətrafında nəhəng qaz və toz strukturları formalaşıb.
 </p>
 
 <p>
-⭐ Tədqiq olunan obyekt gənc <strong>üç ulduzdan ibarət sistemdir</strong>.
-Belə sistemlərdə ulduzların qarşılıqlı cazibəsi və ətrafdakı maddənin hərəkəti
-planetlərin formalaşdığı diskin quruluşuna ciddi təsir göstərə bilər.
+🌌 Dumanlığın mərkəzindəki çox isti ulduz qalığı ətrafındakı qazı
+ionlaşdıraraq onun xarakterik “şir üzü” formasının yaranmasına səbəb olur.
+Ətrafdakı toz strukturları isə dumanlığın “yalını” xatırladan görünüşünü
+əmələ gətirir.
+</p>
+
+<p>
+📡 James Webb bu müşahidə zamanı <strong>NIRCam</strong> və
+<strong>MIRI</strong> alətlərindən istifadə edib. Müxtəlif infraqırmızı
+dalğa uzunluqlarının birləşdirilməsi dumanlığın mürəkkəb quruluşunu
+daha aydın göstərməyə imkan verib.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🪐 Bu kəşf planetlərin həmişə öz ulduzlarının fırlanma istiqaməti ilə
-eyni müstəvidə yaranmadığını izah etməyə kömək edə bilər.
+🌠 Alimlərin hesablamalarına görə, NGC 2392 zaman keçdikcə genişlənməyə
+davam edəcək və təxminən 10 000 il ərzində indiki formasını itirərək
+daha da dağılacaq.
 </p>
 
 <p>
-🌌 Astronomlar hesab edirlər ki, belə qaz axınlarının öyrənilməsi planet
-sistemlərinin necə formalaşdığını və onların ilkin orbitlərinin zamanla
-necə dəyişə bildiyini daha yaxşı anlamağa imkan verəcək.
+🔬 Belə planetar dumanlıqlar astronomlara ulduzların həyat dövrünün son
+mərhələlərini və ulduzların kosmosa atdığı maddənin necə dəyişdiyini
+öyrənmək üçün mühüm imkan yaradır.
 </p>
 
 <p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-🔬 Yeni müşahidələr planet sistemlərinin formalaşmasının əvvəllər düşünüldüyündən
-daha mürəkkəb proses olduğunu göstərir.
+✨ Webb-in yeni müşahidələri göstərir ki, ulduzun “ölümü” kosmik proseslərin
+sonu deyil — ulduzdan yayılan qaz və toz kosmosda yeni strukturların
+formalaşmasında iştirak edir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi və
-peyklərlə bağlı ən son elmi xəbərləri izləyərək təqdim edir.
+📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi,
+peyklər və elmi yenilikləri izləyərək məlumatları operativ şəkildə təqdim edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
