@@ -1,45 +1,70 @@
-<h2 style="color:#22c55e;">🌳🏞️ Qarabağda 2 min ildən çox yaşı olan ağaclar – Azərbaycanın canlı təbiət irsi qorunur</h2>
+<h2 style="color:#22c55e;">♻️ Şəmkirdə tullantıların idarə olunması üzrə yeni mərhələ hazırlanır</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 18 avqust 2026, 20:00 — Bakı vaxtı
+🕐 Əlavə olunub: 19 avqust 2026, 19:30 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Qarabağın təbii sərvətləri arasında yaşı minilliklərlə ölçülən ağaclar xüsusi əhəmiyyət daşıyır.</strong> 18 avqust tarixində yayılan məlumatda Azərbaycanın flora müxtəlifliyi və Qarabağ ərazisində tarixən qorunan qədim ağaclar diqqətə çatdırılıb.
+<strong>Azərbaycanda məişət tullantılarının idarə olunması sisteminin
+təkmilləşdirilməsi istiqamətində yeni mərhələyə hazırlıq davam edir.</strong>
+Şəmkir rayonunda dövlət qurumlarının və beynəlxalq ekspertlərin iştirakı ilə
+tullantıların idarə olunması sahəsində mövcud vəziyyət müzakirə olunub.
+</p>
+
+<p>
+Görüşdə Azərbaycan Respublikasında <strong>2027–2030-cu illər üçün
+bərk məişət tullantılarının idarə olunmasının təkmilləşdirilməsi üzrə
+Milli Strategiyanın</strong> hazırlanması məsələləri diqqət mərkəzində olub.
 </p>
 
 <p style="color:#22c55e;font-size:20px;font-weight:bold;">
-🌲 Azərbaycanda 5 000-dən çox sporlu və toxumlu bitki növünün mövcud olduğu bildirilir.
+🌱 Məqsəd tullantıların toplanması, daşınması və yerləşdirilməsi proseslərini
+daha müasir və ekoloji təhlükəsiz sistemə çevirməkdir.
 </p>
 
 <p>
-🌳 Qarabağda yaşı <strong>2 000 ildən çox</strong> olan bəzi ağacların vaxtilə təbiət abidəsi kimi qorunduğu qeyd edilir. Bu cür ağaclar yalnız bioloji sərvət deyil, həm də Azərbaycanın təbii və tarixi irsinin mühüm hissəsidir.
+Mütəxəssislər Şəmkirdə tullantıların idarə olunması ilə bağlı mövcud
+infrastrukturu yerində araşdırıb, məişət tullantıları üçün istifadə olunan
+ərazilərə baxış keçirib və gələcəkdə yaradılması nəzərdə tutulan regional
+sanitar poliqonunun ərazisini qiymətləndiriblər.
 </p>
 
 <p>
-🌱 Qədim ağacların qorunması biomüxtəlifliyin saxlanılması baxımından böyük əhəmiyyət daşıyır. Yaşlı ağaclar müxtəlif canlılar üçün yaşayış mühiti yaradır, torpağın qorunmasına və ekosistemlərin sabitliyinə kömək edir.
-</p>
-
-<p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ İqlim dəyişiklikləri, quraqlıq, meşə yanğınları və insan fəaliyyəti qədim meşə ekosistemləri üçün ciddi risklər yarada bilər.
+🔄 Yeni yanaşmanın əsas istiqamətlərindən biri tullantıların daha səmərəli
+toplanması, daşınması və zərərsizləşdirilməsi, həmçinin onların ətraf mühitə
+mənfi təsirinin azaldılmasıdır.
 </p>
 
 <p>
-🌍 Qarabağda təbii sərvətlərin qorunması və nadir bitki növlərinin gələcək nəsillərə çatdırılması Azərbaycanın ekoloji təhlükəsizliyi baxımından mühüm istiqamətlərdən biridir.
+📊 Dövlət Statistika Komitəsinin məlumatına görə, 2025-ci ildə Azərbaycanda
+<strong>4,426 milyon ton</strong> tullantı yaranıb. Bunun 73,5 faizini
+bərk məişət tullantıları təşkil edib. :contentReference[oaicite:2]{index=2}
+</p>
+
+<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
+🌍 Müasir tullantı idarəetmə sistemi torpağın, su ehtiyatlarının və
+atmosferin çirklənməsi risklərinin azaldılmasında mühüm rol oynayır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanda iqlim, biomüxtəliflik, təbii fəlakətlər və ətraf mühitlə bağlı mühüm hadisələri izləyərək operativ məlumat təqdim edir.
+📡 META Meteorologiya Mərkəzi Azərbaycanda ekologiya, iqlim,
+ətraf mühit və təbiətlə bağlı yenilikləri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ən son hava, iqlim və təbiət xəbərlərini əldə etmək üçün WhatsApp kanalımıza qoşulun:
+📲 Ekologiya və təbiət xəbərlərini izləmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
+target="_blank"
+style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Müəllif: Peşəkar meteoroloq Edelman Əliyev
+👨‍💼 Müəllif: Edelman Əliyev
+</p>
+
+<p style="color:#94a3b8;font-size:14px;">
+🔗 Mənbə: Azərbaycan Respublikası Dövlət Statistika Komitəsi və yerli məlumatlar
 </p>
