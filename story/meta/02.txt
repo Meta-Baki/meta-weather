@@ -60,7 +60,3 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
 👨‍💼 Müəllif: Edelman Əliyev
 </p>
-
-<p style="color:#94a3b8;font-size:14px;">
-🔗 Mənbə: Milli Hidrometeorologiya Xidməti / Report
-</p>
