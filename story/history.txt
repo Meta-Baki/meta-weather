@@ -1,62 +1,132 @@
-<h2 style="color:#3b82f6;">🌤️ 19 Avgust Azərbaycanda hava əsasən yağmursuz olacaq</h2>
+<h2 style="color:#3b82f6;">🌬️ Cümə axşamı 20 avqust Azərbaycanda külək güclənəcək, bəzi rayonlarda leysan gözlənilir</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 18 avqust 2026, 22:00 — Bakı vaxtı
+🕐 Əlavə olunub: 19 avqust 2026, 15:08 — Bakı vaxtı
 </p>
 
 <p>
-<strong>19 avqust, çərşənbə günü Azərbaycanda hava şəraitinin əsasən
-yağıntısız keçəcəyi gözlənilir.</strong> Milli Hidrometeorologiya Xidmətinin
-məlumatına əsasən, bəzi dağlıq ərazilərdə qısamüddətli leysan və şimşək
-ehtimalı qalır.
+<strong>20 avqust, cümə axşamı günü Azərbaycanda hava əsasən yağmursuz olacaq.</strong>
+Lakin gün ərzində bəzi rayonlarda qısamüddətli yağış, leysan, şimşək və dolu ehtimalı var. Bakıda və Abşeron yarımadasında isə şimal-qərb küləyi arabir güclənəcək.
 </p>
 
 <h3 style="color:#60a5fa;">🏙️ Bakı və Abşeron</h3>
 
 <p>
-Bakıda və Abşeron yarımadasında hava əsasən <strong>yağıntısız</strong> olacaq.
-Şimal-qərb küləyi mülayim əsəcək.
+☀️ Bakıda və Abşeron yarımadasında havanın əsasən yağmursuz keçəcəyi gözlənilir. Şimal-qərb küləyi mülayim olacaq, gündüz saatlarında isə arabir güclənəcək.
 </p>
 
 <p>
-🌙 Gecə temperaturu <strong>22–25°C</strong>, gündüz isə
+🌬️ <strong>Küləyin sürəti:</strong> 15–25 km/saat
+(4–7 m/s).
+</p>
+
+<p>
+💨 <strong>Küləyin güclənməsi zamanı:</strong> 30–40 km/saat
+(8–11 m/s).
+</p>
+
+<p>
+⚠️ <strong>Arabir maksimal külək:</strong> 40–50 km/saat
+(11–14 m/s) ətrafında ola bilər.
+</p>
+
+<p>
+🌡️ Gecə temperaturu <strong>21–24°C</strong>, gündüz isə
 <strong>29–33°C</strong> təşkil edəcək.
 </p>
 
 <p>
-📉 Atmosfer təzyiqi <strong>756 mm civə sütunu</strong> olacaq.
-Nisbi rütubət gecə <strong>70–75%</strong>, gündüz isə
-<strong>50–55%</strong> təşkil edəcək.
+💧 Nisbi rütubət gecə <strong>70–75%</strong>, gündüz isə
+<strong>50–55%</strong> olacaq.
+</p>
+
+<p>
+📉 Atmosfer təzyiqi <strong>758 mm civə sütunu</strong>,
+yəni təxminən <strong>1010,5 hPa</strong> təşkil edəcək.
 </p>
 
 <h3 style="color:#f97316;">⛈️ Azərbaycanın rayonlarında</h3>
 
 <p>
-Rayonlarda da hava əsasən <strong>yağıntısız</strong> keçəcək. Lakin gündüz
-bəzi dağlıq ərazilərdə <strong>qısamüddətli leysan xarakterli yağışlar və
-şimşək</strong> müşahidə oluna bilər.
+Rayonlarda hava əsasən yağmursuz olacaq. Lakin gündüz saatlarında
+şimal və qərb rayonlarından başlayaraq bəzi yerlərdə
+<strong>qısamüddətli yağışlar</strong> gözlənilir.
 </p>
 
 <p>
-🌫️ Gecə və səhər saatlarında ayrı-ayrı dağlıq rayonlarda
-<strong>duman</strong> ehtimalı var. Şərq küləyi əsəcək.
+🌧️ Ayrı-ayrı yerlərdə yağıntılar intensiv leysan xarakterli ola bilər.
+Bəzi ərazilərdə <strong>şimşək və dolu</strong> ehtimalı var.
 </p>
 
 <p>
-🌡️ Rayonlarda gecə temperaturu <strong>19–24°C</strong>, gündüz
-<strong>32–37°C</strong> olacaq. Dağlıq ərazilərdə gecə
-<strong>12–17°C</strong>, gündüz isə <strong>20–25°C</strong> gözlənilir.
+🌫️ Gecə və səhər saatlarında bəzi dağlıq rayonlarda
+<strong>duman</strong> müşahidə oluna bilər.
 </p>
 
-<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-☀️ Ümumilikdə 19 avqustda ölkə ərazisində isti və əsasən quru hava
-şəraiti üstünlük təşkil edəcək. Dağlıq ərazilərdə isə gün ərzində
-lokal leysan və şimşək ehtimalı nəzərə alınmalıdır.
+<p>
+🌬️ Qərb küləyi gündüz saatlarında bəzi yerlərdə arabir güclənəcək.
+Küləyin sürəti əsasən <strong>15–25 km/saat (4–7 m/s)</strong>,
+güclənmə zamanı isə <strong>30–45 km/saat (8–13 m/s)</strong>
+ola bilər.
+</p>
+
+<p>
+🌡️ Rayonlarda gecə temperaturu <strong>20–24°C</strong>,
+gündüz isə <strong>33–38°C</strong> olacaq.
+Dağlıq ərazilərdə gecə <strong>12–17°C</strong>,
+gündüz isə <strong>20–25°C</strong> gözlənilir.
+</p>
+
+<div style="background:#1e293b;padding:15px;border-radius:10px;margin:20px 0;">
+
+<h3 style="color:#f59e0b;margin-top:0;">📊 Əsas meteoroloji göstəricilər</h3>
+
+<p style="color:#fff;">
+🌬️ <strong>Bakı və Abşeron küləyi:</strong>
+15–25 km/saat | 4–7 m/s
+</p>
+
+<p style="color:#fff;">
+💨 <strong>Güclənən külək:</strong>
+30–40 km/saat | 8–11 m/s
+</p>
+
+<p style="color:#fff;">
+⚠️ <strong>Maksimal arabir külək:</strong>
+40–50 km/saat | 11–14 m/s
+</p>
+
+<p style="color:#fff;">
+📉 <strong>Atmosfer təzyiqi:</strong>
+758 mm civə sütunu | ≈1010,5 hPa
+</p>
+
+<p style="color:#fff;">
+🌡️ <strong>Bakı:</strong>
+21–24°C / 29–33°C
+</p>
+
+<p style="color:#fff;">
+🌡️ <strong>Rayonlar:</strong>
+20–24°C / 33–38°C
+</p>
+
+<p style="color:#fff;">
+🏔️ <strong>Dağlıq ərazilər:</strong>
+12–17°C / 20–25°C
+</p>
+
+</div>
+
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+⚠️ Dağlıq və qərb rayonlarında leysan, şimşək və dolu ehtimalına,
+Bakı və Abşeronda isə gün ərzində güclənə biləcək şimal-qərb küləyinə
+diqqət yetirmək tövsiyə olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava şəraitini izləyir və yeni məlumatlar
-əldə olunduqca proqnozları operativ şəkildə yeniləyir.
+📡 META Meteorologiya Mərkəzi hava şəraitini izləyir və yeni meteoroloji
+məlumatlar əldə olunduqca proqnozları operativ şəkildə yeniləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
