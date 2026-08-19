@@ -1,49 +1,66 @@
-<h2 style="color:#ef4444;">🔥🌲 Azərbaycanda isti və quraq hava təbiət ərazilərində yanğın riskini artırır</h2>
+<h2 style="color:#0ea5e9;">🌧️⚠️ Azərbaycanda bəzi dağlıq rayonlarda sel təhlükəsi gözlənilir</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 18 avqust 2026, 20:38 — Bakı vaxtı
+🕐 Əlavə olunub: 19 avqust 2026, 19:45 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Avqust ayında Azərbaycanda yüksək temperatur və quru hava şəraiti təbii ərazilərin yanğınlara qarşı həssaslığını artırır.</strong> İsti və quraq şərait xüsusilə meşə və meşəətrafı ərazilərdə yanğının daha sürətlə yayılması üçün əlverişli mühit yarada bilər.
+<strong>Milli Hidrometeorologiya Xidməti Azərbaycanın bəzi rayonlarında
+yağıntılarla əlaqədar sel təhlükəsi barədə xəbərdarlıq edib.</strong>
+Məlumata görə, 20–21 avqust tarixlərində ölkənin bir sıra bölgələrində
+yağıntılar gözlənilir.
+</p>
+
+<p>
+🌧️ Bəzi yerlərdə yağıntıların <strong>qısamüddətli intensiv leysan</strong>
+xarakterli olacağı, həmçinin <strong>şimşək və dolu</strong> ehtimalının
+mövcud olduğu bildirilir. :contentReference[oaicite:5]{index=5}
 </p>
 
 <p style="color:#ef4444;font-size:20px;font-weight:bold;">
-🔥 Meşə yanğınları yalnız ağaclara deyil, bütöv ekosistemlərə uzunmüddətli zərər vurur.
+⚠️ Güclü leysanlar nəticəsində bəzi çaylarda suyun səviyyəsinin
+artması və ayrı-ayrı dağlıq rayonlarda qısamüddətli sel axınlarının
+yaranması mümkündür.
 </p>
 
 <p>
-🌳 Yanğın zamanı ağac və bitki örtüyü məhv olur, vəhşi heyvanların yaşayış mühiti zədələnir və torpağın münbit üst qatı sıradan çıxa bilər. Ekoloji tarazlığın bərpası isə uzun illər tələb edə bilər.
+🏔️ Xüsusilə dağlıq və dağətəyi ərazilərdə yaşayan sakinlər və həmin
+ərazilərə səfər edən şəxslərə hava şəraitindəki dəyişiklikləri diqqətlə
+izləmək tövsiyə olunur.
 </p>
 
 <p>
-☀️ 2026-cı ilin iyulunda Bakı və Abşeron yarımadasında temperatur iqlim normasından <strong>27 gün yüksək</strong> olub. Həmin ay ölkə üzrə maksimal temperatur <strong>41°C</strong>-yə çatıb.
+🌊 Güclü yağış zamanı dağ çaylarının məcrasına yaxın ərazilərdə,
+çay dərələrində və sel təhlükəsi olan yamaclarda ehtiyatlı olmaq
+vacibdir.
 </p>
 
-<p>
-🚫 Ekologiya və Təbii Sərvətlər Nazirliyi də isti, quraq və küləkli hava şəraitinin meşələrdə yanğın riskini artırdığını bildirərək əhalini təbiətdə od qalamaqdan, siqaret kötüklərini atmaqdan və quru ot-bitki örtüyünü yandırmaqdan çəkinməyə çağırıb.
+<p style="color:#0ea5e9;font-size:20px;font-weight:bold;">
+🌿 Güclü yağıntılar yalnız nəqliyyat və yaşayış məntəqələri üçün deyil,
+həmçinin dağ ekosistemləri və çay hövzələri üçün də qısa müddətli
+təbii risklər yarada bilər.
 </p>
 
-<p style="color:#f97316;font-size:20px;font-weight:bold;">
-⚠️ Kiçik bir ehtiyatsızlıq böyük ərazilərin yanmasına və flora-faunaya uzunmüddətli zərər dəyməsinə səbəb ola bilər.
-</p>
-
-<p>
-🌍 Xüsusilə Azərbaycanın meşəlik və dağlıq ərazilərində təbiətin qorunması yalnız aidiyyəti qurumların deyil, hər bir vətəndaşın məsuliyyətidir.
-</p>
-
-<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava şəraitini, yanğın risklərini və ətraf mühitlə bağlı təhlükələri izləyərək operativ məlumat təqdim edir.
+<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
+📢 META Meteorologiya Mərkəzi hava şəraitini və hidrometeoroloji
+xəbərdarlıqları izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ən son hava, iqlim və təbiət xəbərlərini əldə etmək üçün WhatsApp kanalımıza qoşulun:
+📲 Təbii hadisələr və hava xəbərdarlıqlarından vaxtında xəbərdar olmaq üçün
+WhatsApp kanalımıza qoşulun:
 <br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
+target="_blank"
+style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Müəllif: Peşəkar meteoroloq Edelman Əliyev
+👨‍💼 Müəllif: Edelman Əliyev
+</p>
+
+<p style="color:#94a3b8;font-size:14px;">
+🔗 Mənbə: Milli Hidrometeorologiya Xidməti / Report
 </p>
