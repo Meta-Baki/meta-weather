@@ -132,5 +132,5 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 </p>
 
 <p style="color:#94a3b8;font-size:14px;">
-🔗 Mənbə: Milli Hidrometeorologiya Xidməti
+🔗 Mənbə: META Hidrometeorologiya Departamenti
 </p>
