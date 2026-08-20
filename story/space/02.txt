@@ -1,58 +1,39 @@
-<h2 style="color:#8b5cf6;">☀️☄️ NASA Günəşin qarşısından keçən sirli obyekti nümayiş etdirdi</h2>
+<h2 style="color:#8b5cf6;">🌌🔭 NASA Hubble Süd Yolunun qədim qalaktika toqquşmasının izlərini aşkar edib</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 19 avqust 2026, 22:30 — Bakı vaxtı
+🕐 Əlavə olunub: 20 avqust 2026, 15:10 — Bakı vaxtı
 </p>
 
 <p>
-<strong>NASA 19 avqust 2026-cı ildə Günəşin qarşısından keçən və meteor
-olduğu ehtimal edilən sirli obyektin görüntüsünü yayımlayıb.</strong>
-Obyekt qismən tutulmuş Günəşin fonunda hərəkət edərkən kameraya düşüb.
+<strong>NASA-nın Hubble Kosmik Teleskopu Süd Yolunun formalaşmasının ilk mərhələlərinə aid mühüm dəlillər aşkarlayıb.</strong> Alimlər təxminən <strong>12 milyard il əvvəl</strong> Süd Yolunun LKH adlı cırtdan qalaktika ilə birləşdiyini göstərən sübutlar əldə ediblər.
 </p>
 
 <p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🔭 NASA-nın “The Case of the Mysterious Maybe Meteor” adlı materialında
-obyektin həqiqətən meteor olub-olmadığı hələ dəqiq təsdiqlənməyib.
+🌌 Bu kəşf Süd Yolunun tarixini əvvəl məlum olduğundan təxminən 1,8 milyard il daha qədim dövrə qədər izləməyə imkan verir.
 </p>
 
 <p>
-📹 Görüntü saniyədə 24 kadr sürətlə İspaniyada çəkilib. Müşahidə
-<strong>12 avqust 2026-cı ildə, yerli vaxtla saat 20:28-də</strong>
-aparılıb.
+🔭 Tədqiqat zamanı Hubble tərəfindən müşahidə edilən <strong>kürəvi ulduz topaları</strong> xüsusi əhəmiyyət daşıyıb. Onların xüsusiyyətləri alimlərə Süd Yolunun erkən dövründə baş vermiş qalaktik birləşməni müəyyənləşdirməyə kömək edib.
 </p>
 
 <p>
-☀️ Həmin vaxt Günəş qismən tutulmuş vəziyyətdə idi. Maraqlıdır ki,
-eyni dövrdə <strong>Perseid meteor yağışının maksimum aktivliyi</strong>
-müşahidə olunurdu.
+💫 Alimlərin fikrincə, LKH adlı cırtdan qalaktika gənc Süd Yolu ilə toqquşaraq onun təkamülündə mühüm rol oynayıb. Belə qalaktik birləşmələr böyük qalaktikaların zamanla necə böyüdüyünü və quruluş qazandığını anlamaq üçün mühüm məlumat verir.
 </p>
 
 <p>
-☄️ NASA-ya görə, obyektin trayektoriyası Perseidlərin səmadakı
-radiant nöqtəsinə uyğun gələ bilər. Bu isə onun meteor ola biləcəyi
-ehtimalını artırır.
-</p>
-
-<p>
-🔬 Lakin müşahidədə mühüm bir uyğunsuzluq da var. Obyektin Günəş
-diskində keçdiyi bucaq meteor üçün gözləniləndən daha kiçik görünür.
-Buna görə alimlər obyektin təbiəti ilə bağlı yekun nəticəyə gəlməyiblər.
+🕰️ Hadisənin təxminən <strong>12 milyard il əvvəl</strong> baş verdiyi hesab edilir. Bu dövrdə Kainatın yaşı indiki dövrlə müqayisədə çox az idi və Süd Yolu hələ formalaşmasının ilkin mərhələlərindən keçirdi.
 </p>
 
 <p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-❓ Obyekt həqiqətən meteor idi, yoxsa başqa bir kosmik hadisə?
-NASA-nın yayımladığı görüntü bu sirri tam həll etmir və əlavə
-araşdırmalar üçün maraqlı material yaradır.
+🔬 Yeni nəticələr göstərir ki, Süd Yolunun tarixi əvvəllər düşündüyümüzdən daha mürəkkəbdir. Qalaktikamız milyardlarla il ərzində digər kiçik qalaktikalarla qarşılıqlı təsir və birləşmələr nəticəsində formalaşıb.
 </p>
 
 <p>
-🌌 Hadisənin Perseid meteor yağışının maksimum dövrünə və Günəş
-tutulmasına təsadüf etməsi müşahidəni daha da qeyri-adi edir.
+🌠 Bu cür kəşflər astronomlara təkcə Süd Yolunun deyil, ümumilikdə böyük qalaktikaların necə yarandığını və zaman keçdikcə necə inkişaf etdiyini öyrənməyə imkan verir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi kosmos, Günəş aktivliyi, meteor yağışları,
-peyklər və astronomik hadisələrlə bağlı ən son məlumatları izləyir.
+📡 META Meteorologiya Mərkəzi kosmos, Günəş aktivliyi, qalaktikalar, meteor yağışları, peyklər və astronomik hadisələrlə bağlı ən son elmi məlumatları izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
@@ -68,4 +49,8 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
 👨‍💼 Müəllif: Peşəkar meteoroloq Edelman Əliyev
+</p>
+
+<p style="color:#94a3b8;font-size:14px;">
+🔗 Mənbə: NASA / Hubble Space Telescope
 </p>
