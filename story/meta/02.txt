@@ -1,54 +1,47 @@
-<h2 style="color:#0ea5e9;">🌧️⚠️ Azərbaycanda bəzi dağlıq rayonlarda sel təhlükəsi gözlənilir</h2>
+<h2 style="color:#22c55e;">⚡🌱 Azərbaycan “Yaşıl Enerji Dəhlizi” layihəsinin inkişafında növbəti mərhələyə keçir</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 19 avqust 2026, 19:45 — Bakı vaxtı
+🕐 Əlavə olunub: 20 avqust 2026, 15:10 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Milli Hidrometeorologiya Xidməti Azərbaycanın bəzi rayonlarında
-yağıntılarla əlaqədar sel təhlükəsi barədə xəbərdarlıq edib.</strong>
-Məlumata görə, 20–21 avqust tarixlərində ölkənin bir sıra bölgələrində
-yağıntılar gözlənilir.
+<strong>“Green Energy Corridor Power Company” və İtaliyanın CESI şirkəti “Yaşıl Enerji Dəhlizi” layihəsinin növbəti mərhələsi ilə bağlı xüsusi görüş keçirib.</strong> Müzakirələr layihənin texniki, iqtisadi və təşkilati istiqamətlərinə həsr olunub.
+</p>
+
+<p style="color:#22c55e;font-size:20px;font-weight:bold;">
+🌱 Görüş layihənin texniki-iqtisadi əsaslandırma mərhələsindən növbəti layihələndirmə mərhələsinə keçidi üçün vacib addımlardan biri kimi qiymətləndirilir.
 </p>
 
 <p>
-🌧️ Bəzi yerlərdə yağıntıların <strong>qısamüddətli intensiv leysan</strong>
-xarakterli olacağı, həmçinin <strong>şimşək və dolu</strong> ehtimalının
-mövcud olduğu bildirilir. :contentReference[oaicite:5]{index=5}
-</p>
-
-<p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Güclü leysanlar nəticəsində bəzi çaylarda suyun səviyyəsinin
-artması və ayrı-ayrı dağlıq rayonlarda qısamüddətli sel axınlarının
-yaranması mümkündür.
+⚡ Layihə çərçivəsində bərpa olunan enerji mənbələrindən əldə edilən elektrik enerjisinin region ölkələri arasında ötürülməsi və enerji sistemlərinin daha sıx əlaqələndirilməsi imkanları nəzərdən keçirilir.
 </p>
 
 <p>
-🏔️ Xüsusilə dağlıq və dağətəyi ərazilərdə yaşayan sakinlər və həmin
-ərazilərə səfər edən şəxslərə hava şəraitindəki dəyişiklikləri diqqətlə
-izləmək tövsiyə olunur.
+🌍 Yaşıl enerji layihələrinin inkişafı enerji sektorunda karbon emissiyalarının azaldılması, bərpa olunan enerji mənbələrinin payının artırılması və daha dayanıqlı enerji sistemlərinin formalaşdırılması baxımından mühüm əhəmiyyət daşıyır.
 </p>
 
 <p>
-🌊 Güclü yağış zamanı dağ çaylarının məcrasına yaxın ərazilərdə,
-çay dərələrində və sel təhlükəsi olan yamaclarda ehtiyatlı olmaq
-vacibdir.
+🔌 Növbəti mərhələdə layihənin inkişaf strategiyası, satınalma yanaşmaları və iştirakçı tərəflər arasında koordinasiya məsələləri üzrə işlərin aparılması nəzərdə tutulur.
 </p>
 
-<p style="color:#0ea5e9;font-size:20px;font-weight:bold;">
-🌿 Güclü yağıntılar yalnız nəqliyyat və yaşayış məntəqələri üçün deyil,
-həmçinin dağ ekosistemləri və çay hövzələri üçün də qısa müddətli
-təbii risklər yarada bilər.
+<p style="color:#16a34a;font-size:20px;font-weight:bold;">
+☀️🌬️ Günəş və külək enerjisi kimi bərpa olunan mənbələrdən daha geniş istifadə Azərbaycanın və regionun enerji keçidində mühüm rol oynaya bilər.
+</p>
+
+<p>
+🌿 Enerji sektorunda yaşıl texnologiyaların inkişafı həm iqtisadi imkanların genişləndirilməsinə, həm də uzunmüddətli perspektivdə ətraf mühitə düşən yükün azaldılmasına xidmət edə bilər.
 </p>
 
 <p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-📢 META Meteorologiya Mərkəzi hava şəraitini və hidrometeoroloji
-xəbərdarlıqları izləməyə davam edir.
+⚠️ Yaşıl enerji infrastrukturunun inkişafı ilə yanaşı, təbii ərazilərin qorunması və enerji layihələrinin ekosistemlərə mümkün təsirlərinin düzgün qiymətləndirilməsi də vacib olaraq qalır.
+</p>
+
+<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
+📡 META Meteorologiya Mərkəzi iqlim dəyişiklikləri, bərpa olunan enerji, atmosfer hadisələri və ətraf mühitlə bağlı mühüm yenilikləri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Təbii hadisələr və hava xəbərdarlıqlarından vaxtında xəbərdar olmaq üçün
-WhatsApp kanalımıza qoşulun:
+📲 Ən son hava, iqlim və ekologiya xəbərlərini əldə etmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
@@ -58,5 +51,9 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Müəllif: Edelman Əliyev
+👨‍💼 Müəllif: Peşəkar meteoroloq Edelman Əliyev
+</p>
+
+<p style="color:#94a3b8;font-size:14px;">
+🔗 Mənbə: “Green Energy Corridor Power Company” / CESI
 </p>
