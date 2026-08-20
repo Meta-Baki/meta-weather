@@ -1,58 +1,43 @@
-<h2 style="color:#22c55e;">♻️ Şəmkirdə tullantıların idarə olunması üzrə yeni mərhələ hazırlanır</h2>
+<h2 style="color:#06b6d4;">🌊🐟 Bakıda Xəzər dənizinin ekoloji vəziyyəti və dəniz ekosisteminin qorunması müzakirə olunub</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 19 avqust 2026, 19:30 — Bakı vaxtı
+🕐 Əlavə olunub: 20 avqust 2026, 15:10 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Azərbaycanda məişət tullantılarının idarə olunması sisteminin
-təkmilləşdirilməsi istiqamətində yeni mərhələyə hazırlıq davam edir.</strong>
-Şəmkir rayonunda dövlət qurumlarının və beynəlxalq ekspertlərin iştirakı ilə
-tullantıların idarə olunması sahəsində mövcud vəziyyət müzakirə olunub.
+<strong>Bakıda Xəzər dənizinin ekoloji vəziyyəti və dəniz ekosisteminin qorunması ilə bağlı məsələlər müzakirə olunub.</strong> Görüş zamanı Xəzərin qarşılaşdığı əsas ekoloji problemlər və onların qarşısının alınması yolları diqqət mərkəzində olub.
+</p>
+
+<p style="color:#06b6d4;font-size:20px;font-weight:bold;">
+🌊 Xəzərin ekosistemi üçün iqlim dəyişiklikləri, məişət və sənaye tullantıları, plastik çirklənmə və qanunsuz balıqçılıq əsas risklər sırasında göstərilib.
 </p>
 
 <p>
-Görüşdə Azərbaycan Respublikasında <strong>2027–2030-cu illər üçün
-bərk məişət tullantılarının idarə olunmasının təkmilləşdirilməsi üzrə
-Milli Strategiyanın</strong> hazırlanması məsələləri diqqət mərkəzində olub.
-</p>
-
-<p style="color:#22c55e;font-size:20px;font-weight:bold;">
-🌱 Məqsəd tullantıların toplanması, daşınması və yerləşdirilməsi proseslərini
-daha müasir və ekoloji təhlükəsiz sistemə çevirməkdir.
+🌍 Müzakirələrdə Azərbaycanın Xəzər dənizinin mühafizəsində ekoloji monitorinqin davamlı aparılmasının və çirklənmə mənbələrinin müəyyənləşdirilməsinin vacibliyi vurğulanıb.
 </p>
 
 <p>
-Mütəxəssislər Şəmkirdə tullantıların idarə olunması ilə bağlı mövcud
-infrastrukturu yerində araşdırıb, məişət tullantıları üçün istifadə olunan
-ərazilərə baxış keçirib və gələcəkdə yaradılması nəzərdə tutulan regional
-sanitar poliqonunun ərazisini qiymətləndiriblər.
+♻️ Tullantıların düzgün idarə olunması, sahilyanı ərazilərin qorunması və çirkab suların Xəzərə axıdılmadan əvvəl təmizlənməsi də əsas məsələlərdən biri olub.
 </p>
 
 <p>
-🔄 Yeni yanaşmanın əsas istiqamətlərindən biri tullantıların daha səmərəli
-toplanması, daşınması və zərərsizləşdirilməsi, həmçinin onların ətraf mühitə
-mənfi təsirinin azaldılmasıdır.
-</p>
-
-<p>
-📊 Dövlət Statistika Komitəsinin məlumatına görə, 2025-ci ildə Azərbaycanda
-<strong>4,426 milyon ton</strong> tullantı yaranıb. Bunun 73,5 faizini
-bərk məişət tullantıları təşkil edib. :contentReference[oaicite:2]{index=2}
+💧 Bundan əlavə, su ehtiyatlarının səmərəli idarə olunması, yağış kollektorlarının fəaliyyəti və təmizlənmiş suların təkrar istifadəsi imkanları müzakirə edilib.
 </p>
 
 <p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-🌍 Müasir tullantı idarəetmə sistemi torpağın, su ehtiyatlarının və
-atmosferin çirklənməsi risklərinin azaldılmasında mühüm rol oynayır.
+⚠️ Xəzərin ekoloji vəziyyətinin qorunması üçün davamlı monitorinq və sahilyanı ərazilərdə çirklənmənin qarşısının alınması xüsusi əhəmiyyət daşıyır.
+</p>
+
+<p>
+🐬 Xəzər dənizi Azərbaycan üçün yalnız mühüm su hövzəsi deyil, həm də zəngin biomüxtəlifliyə malik unikal ekosistemdir. Onun qorunması gələcək nəsillər üçün böyük əhəmiyyət daşıyır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanda ekologiya, iqlim,
-ətraf mühit və təbiətlə bağlı yenilikləri izləyir.
+📡 META Meteorologiya Mərkəzi Xəzər dənizi, iqlim dəyişiklikləri, ekoloji risklər və Azərbaycanda ətraf mühitlə bağlı mühüm hadisələri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ekologiya və təbiət xəbərlərini izləmək üçün WhatsApp kanalımıza qoşulun:
+📲 Ən son hava, iqlim və ekologiya xəbərlərini əldə etmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
@@ -62,5 +47,9 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Müəllif: Edelman Əliyev
+👨‍💼 Müəllif: Peşəkar meteoroloq Edelman Əliyev
+</p>
+
+<p style="color:#94a3b8;font-size:14px;">
+🔗 Mənbə: Xəzər dənizinin ekoloji vəziyyəti ilə bağlı məlumatlar / «Каспийский вестник»
 </p>
