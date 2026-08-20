@@ -1,130 +1,121 @@
-<h2 style="color:#3b82f6;">🌬️ Cümə axşamı 20 avqust Azərbaycanda külək güclənəcək, bəzi rayonlarda leysan gözlənilir</h2>
+<h2 style="color:#3b82f6;">🌤️ 21 avqustda Azərbaycanda hava: Bakıda əsasən yağmursuz, rayonlarda yağış ehtimalı</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 19 avqust 2026, 15:08 — Bakı vaxtı
+🕐 Əlavə olunub: 20 avqust 2026, 15:00 — Bakı vaxtı
 </p>
 
 <p>
-<strong>20 avqust, cümə axşamı günü Azərbaycanda hava əsasən yağmursuz olacaq.</strong>
-Lakin gün ərzində bəzi rayonlarda qısamüddətli yağış, leysan, şimşək və dolu ehtimalı var. Bakıda və Abşeron yarımadasında isə şimal-qərb küləyi arabir güclənəcək.
+<strong>21 avqust, cümə günü Azərbaycanda hava şəraiti əsasən isti keçəcək.</strong>
+Bakıda və Abşeron yarımadasında hava dəyişkən buludlu və əsasən yağmursuz olacaq. 
+Bəzi rayonlarda isə qısamüddətli yağış, leysan və şimşək ehtimalı var.
 </p>
 
 <h3 style="color:#60a5fa;">🏙️ Bakı və Abşeron</h3>
 
 <p>
-☀️ Bakıda və Abşeron yarımadasında havanın əsasən yağmursuz keçəcəyi gözlənilir. Şimal-qərb küləyi mülayim olacaq, gündüz saatlarında isə arabir güclənəcək.
+🌤️ Bakıda və Abşeron yarımadasında hava dəyişkən buludlu olacaq və əsasən
+yağmursuz keçəcək. Şimal-qərb küləyi arabir güclənəcək.
 </p>
 
 <p>
-🌬️ <strong>Küləyin sürəti:</strong> 15–25 km/saat
-(4–7 m/s).
+🌬️ <strong>Küləyin sürəti:</strong> təxminən 14–21 m/s
+(50–75 km/saat) — sarı xəbərdarlıq səviyyəsində güclü külək ehtimalı var.
 </p>
 
 <p>
-💨 <strong>Küləyin güclənməsi zamanı:</strong> 30–40 km/saat
-(8–11 m/s).
+🌡️ <strong>Gecə:</strong> 22–25°C
+<br>
+☀️ <strong>Gündüz:</strong> 28–32°C
 </p>
 
 <p>
-⚠️ <strong>Arabir maksimal külək:</strong> 40–50 km/saat
-(11–14 m/s) ətrafında ola bilər.
+💧 <strong>Nisbi rütubət:</strong> gecə 60–65%, gündüz 45–55%.
 </p>
 
 <p>
-🌡️ Gecə temperaturu <strong>21–24°C</strong>, gündüz isə
-<strong>29–33°C</strong> təşkil edəcək.
-</p>
-
-<p>
-💧 Nisbi rütubət gecə <strong>70–75%</strong>, gündüz isə
-<strong>50–55%</strong> olacaq.
-</p>
-
-<p>
-📉 Atmosfer təzyiqi <strong>758 mm civə sütunu</strong>,
-yəni təxminən <strong>1010,5 hPa</strong> təşkil edəcək.
+📉 <strong>Atmosfer təzyiqi:</strong> 762 mm civə sütunu
+(≈1016 hPa).
 </p>
 
 <h3 style="color:#f97316;">⛈️ Azərbaycanın rayonlarında</h3>
 
 <p>
-Rayonlarda hava əsasən yağmursuz olacaq. Lakin gündüz saatlarında
-şimal və qərb rayonlarından başlayaraq bəzi yerlərdə
-<strong>qısamüddətli yağışlar</strong> gözlənilir.
+Bəzi rayonlarda arabir yağış yağacağı gözlənilir. Ayrı-ayrı yerlərdə
+yağıntılar qısamüddətli leysan xarakterli ola bilər və
+<strong>şimşək çaxması</strong> ehtimalı var. Yağıntılar gün ərzində
+tədricən kəsiləcək.
 </p>
 
 <p>
-🌧️ Ayrı-ayrı yerlərdə yağıntılar intensiv leysan xarakterli ola bilər.
-Bəzi ərazilərdə <strong>şimşək və dolu</strong> ehtimalı var.
-</p>
-
-<p>
-🌫️ Gecə və səhər saatlarında bəzi dağlıq rayonlarda
+🌫️ Gecə və səhər saatlarında bəzi dağlıq ərazilərdə arabir
 <strong>duman</strong> müşahidə oluna bilər.
 </p>
 
 <p>
-🌬️ Qərb küləyi gündüz saatlarında bəzi yerlərdə arabir güclənəcək.
-Küləyin sürəti əsasən <strong>15–25 km/saat (4–7 m/s)</strong>,
-güclənmə zamanı isə <strong>30–45 km/saat (8–13 m/s)</strong>
-ola bilər.
+🌬️ Qərb küləyi bəzi yerlərdə arabir güclənəcək.
 </p>
 
 <p>
-🌡️ Rayonlarda gecə temperaturu <strong>20–24°C</strong>,
-gündüz isə <strong>33–38°C</strong> olacaq.
-Dağlıq ərazilərdə gecə <strong>12–17°C</strong>,
-gündüz isə <strong>20–25°C</strong> gözlənilir.
+🌡️ <strong>Gecə:</strong> 20–25°C
+<br>
+🌡️ <strong>Gündüz:</strong> 31–36°C
+<br>
+🏔️ <strong>Dağlıq ərazilərdə gecə:</strong> 13–18°C
+<br>
+🏔️ <strong>Dağlıq ərazilərdə gündüz:</strong> 20–25°C
 </p>
+
+<div style="background:#1e293b;padding:15px;border-radius:10px;margin:20px 0;">
 
 <h3 style="color:#f59e0b;margin-top:0;">📊 Əsas meteoroloji göstəricilər</h3>
 
 <p style="color:#fff;">
 🌬️ <strong>Bakı və Abşeron küləyi:</strong>
-15–25 km/saat | 4–7 m/s
+14–21 m/s | 50–75 km/saat
 </p>
 
 <p style="color:#fff;">
-💨 <strong>Güclənən külək:</strong>
-30–40 km/saat | 8–11 m/s
-</p>
-
-<p style="color:#fff;">
-⚠️ <strong>Maksimal arabir külək:</strong>
-40–50 km/saat | 11–14 m/s
+⚠️ <strong>Küləklə bağlı xəbərdarlıq:</strong>
+20–21 avqust tarixlərində bəzi ərazilərdə güclü şimal-qərb küləyi
+gözlənilir.
 </p>
 
 <p style="color:#fff;">
 📉 <strong>Atmosfer təzyiqi:</strong>
-758 mm civə sütunu | ≈1010,5 hPa
+762 mm civə sütunu | ≈1016 hPa
 </p>
 
 <p style="color:#fff;">
 🌡️ <strong>Bakı:</strong>
-21–24°C / 29–33°C
+22–25°C / 28–32°C
 </p>
 
 <p style="color:#fff;">
 🌡️ <strong>Rayonlar:</strong>
-20–24°C / 33–38°C
+20–25°C / 31–36°C
 </p>
 
 <p style="color:#fff;">
 🏔️ <strong>Dağlıq ərazilər:</strong>
-12–17°C / 20–25°C
+13–18°C / 20–25°C
 </p>
 
 </div>
 
 <p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Dağlıq və qərb rayonlarında leysan, şimşək və dolu ehtimalına,
-Bakı və Abşeronda isə gün ərzində güclənə biləcək şimal-qərb küləyinə
-diqqət yetirmək tövsiyə olunur.
+⚠️ XƏBƏRDARLIQ: Bakı, Abşeron və bir sıra rayonlarda güclənən külək
+gözlənilir. Küləyin güclənəcəyi vaxtlarda açıq ərazilərdə, ağacların
+və reklam konstruksiyalarının yaxınlığında ehtiyatlı olmaq tövsiyə olunur.
+</p>
+
+<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
+⛈️ Dağlıq ərazilərdə yağış, leysan və şimşək ehtimalı olduğundan
+səfər zamanı hava şəraitini nəzərə almaq tövsiyə olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava şəraitini izləyir və yeni meteoroloji
-məlumatlar əldə olunduqca proqnozları operativ şəkildə yeniləyir.
+📡 META Meteorologiya Mərkəzi hava şəraitini izləyir və yeni
+meteoroloji məlumatlar əldə olunduqca proqnozları operativ şəkildə yeniləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
@@ -139,5 +130,9 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Müəllif: Peşəkar meteoroloq Edelman Əliyev
+👨‍💼 Müəllif: Edelman Əliyev
+</p>
+
+<p style="color:#94a3b8;font-size:14px;">
+🔗 Mənbə: Milli Hidrometeorologiya Xidməti
 </p>
