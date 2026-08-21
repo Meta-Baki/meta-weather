@@ -54,8 +54,6 @@ Gecə: 12–17°C<br>
 Gündüz: 21–26°C
 </p>
 
-<div style="background:#1e293b;padding:15px;border-radius:10px;margin:20px 0;">
-
 <h3 style="color:#f59e0b;margin-top:0;">📊 Əsas meteoroloji göstəricilər</h3>
 
 <p style="color:#fff;">
