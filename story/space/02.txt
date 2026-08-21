@@ -1,39 +1,59 @@
-<h2 style="color:#8b5cf6;">🌌🔭 NASA Hubble Süd Yolunun qədim qalaktika toqquşmasının izlərini aşkar edib</h2>
+<h2 style="color:#8b5cf6;">🌌 James Webb erkən kainatın gizli ulduzlarını aşkar etdi</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 20 avqust 2026, 15:10 — Bakı vaxtı
+🕐 Əlavə olunub: 21 avqust 2026, 20:30 — Bakı vaxtı
 </p>
 
 <p>
-<strong>NASA-nın Hubble Kosmik Teleskopu Süd Yolunun formalaşmasının ilk mərhələlərinə aid mühüm dəlillər aşkarlayıb.</strong> Alimlər təxminən <strong>12 milyard il əvvəl</strong> Süd Yolunun LKH adlı cırtdan qalaktika ilə birləşdiyini göstərən sübutlar əldə ediblər.
+<strong>Astronomlar James Webb Kosmik Teleskopunun (JWST) məlumatları
+sayəsində Kainatın ilk dövrlərində mövcud olmuş qalaktikalarda əvvəllər
+görünməyən çoxsaylı zəif ulduzların izlərini aşkar ediblər.</strong>
+Yeni nəticələr həmin qalaktikaların əvvəlki hesablamalardan daha kütləli
+ola biləcəyini göstərir.
 </p>
 
 <p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🌌 Bu kəşf Süd Yolunun tarixini əvvəl məlum olduğundan təxminən 1,8 milyard il daha qədim dövrə qədər izləməyə imkan verir.
+🔭 Tədqiqat zamanı Kainatın erkən dövrünə aid 9 qədim qalaktika
+araşdırılıb və onların tərkibində kiçik kütləli ulduzların gözləniləndən
+daha çox olduğu müəyyən edilib.
 </p>
 
 <p>
-🔭 Tədqiqat zamanı Hubble tərəfindən müşahidə edilən <strong>kürəvi ulduz topaları</strong> xüsusi əhəmiyyət daşıyıb. Onların xüsusiyyətləri alimlərə Süd Yolunun erkən dövründə baş vermiş qalaktik birləşməni müəyyənləşdirməyə kömək edib.
+Alimlərin fikrincə, əvvəlki müşahidələr əsasən daha parlaq və böyük
+ulduzların işığını qeydə alırdı. Daha zəif ulduzların işığı isə bu parlaq
+obyektlərin fonunda itirdi. James Webb-in yüksək həssaslığı bu zəif
+ulduzların yaratdığı siqnalları daha ətraflı araşdırmağa imkan verib.
 </p>
 
 <p>
-💫 Alimlərin fikrincə, LKH adlı cırtdan qalaktika gənc Süd Yolu ilə toqquşaraq onun təkamülündə mühüm rol oynayıb. Belə qalaktik birləşmələr böyük qalaktikaların zamanla necə böyüdüyünü və quruluş qazandığını anlamaq üçün mühüm məlumat verir.
-</p>
-
-<p>
-🕰️ Hadisənin təxminən <strong>12 milyard il əvvəl</strong> baş verdiyi hesab edilir. Bu dövrdə Kainatın yaşı indiki dövrlə müqayisədə çox az idi və Süd Yolu hələ formalaşmasının ilkin mərhələlərindən keçirdi.
+🌠 Yeni hesablamalara əsasən, bəzi erkən qalaktikaların ulduz kütləsi
+əvvəlki qiymətləndirmələrdən <strong>4 dəfəyə qədər çox</strong> ola bilər.
+Bu nəticə qalaktikaların erkən Kainatda necə formalaşması ilə bağlı
+mövcud modellərin yenidən nəzərdən keçirilməsinə səbəb ola bilər.
 </p>
 
 <p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-🔬 Yeni nəticələr göstərir ki, Süd Yolunun tarixi əvvəllər düşündüyümüzdən daha mürəkkəbdir. Qalaktikamız milyardlarla il ərzində digər kiçik qalaktikalarla qarşılıqlı təsir və birləşmələr nəticəsində formalaşıb.
+🧩 Alimlər həmçinin hesab edirlər ki, erkən Kainatda kiçik kütləli
+ulduzların daha çox olması həmin dövrdə ulduz və planet sistemlərinin
+formalaşması haqqında təsəvvürlərimizi dəyişə bilər.
 </p>
 
 <p>
-🌠 Bu cür kəşflər astronomlara təkcə Süd Yolunun deyil, ümumilikdə böyük qalaktikaların necə yarandığını və zaman keçdikcə necə inkişaf etdiyini öyrənməyə imkan verir.
+🔬 Araşdırmada James Webb-in məlumatları Yer üzərində yerləşən
+<strong>Very Large Telescope (VLT)</strong> müşahidələri ilə də
+müqayisə edilib. Nəticələr ulduzların kütlə paylanmasının Kainatın
+tarixi boyunca indiki Süd Yolu ilə eyni olmadığını göstərir.
+</p>
+
+<p>
+🌌 Bu kəşf Kainatın ilk qalaktikalarının necə böyüdüyünü və ilk
+ulduz nəsillərinin necə formalaşdığını daha yaxşı anlamaq üçün
+əhəmiyyətli məlumat verir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi kosmos, Günəş aktivliyi, qalaktikalar, meteor yağışları, peyklər və astronomik hadisələrlə bağlı ən son elmi məlumatları izləyir.
+📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi,
+peyklər və yeni elmi kəşflərlə bağlı məlumatları izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
@@ -48,9 +68,5 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Müəllif: Peşəkar meteoroloq Edelman Əliyev
-</p>
-
-<p style="color:#94a3b8;font-size:14px;">
-🔗 Mənbə: NASA / Hubble Space Telescope
+👨‍💼 Müəllif: Edelman Əliyev
 </p>
