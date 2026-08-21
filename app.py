@@ -373,6 +373,118 @@ def forecast7():
         return jsonify({"error": str(e)})
 
 
+# ---------------- ANDROID WIDGET API ----------------
+@app.route("/api/widget")
+def widget_api():
+
+    try:
+        # Текущие данные метеостанции
+        current = {
+            "temperature": None,
+            "humidity": None,
+            "pressure": None,
+            "wind_ms": None,
+            "wind_kmh": None,
+            "rain_1h": None,
+            "rain_24h": None
+        }
+
+        if os.path.exists(DATA_FILE):
+            with open(DATA_FILE, encoding="utf-8") as f:
+                station_data = json.load(f)
+
+            current["temperature"] = station_data.get("temp")
+            current["humidity"] = station_data.get("humidity")
+            current["pressure"] = station_data.get("pressure")
+            current["wind_ms"] = station_data.get("wind_ms")
+            current["wind_kmh"] = round(
+                float(station_data.get("wind_ms", 0)) * 3.6, 1
+            )
+            current["rain_1h"] = station_data.get("rain_1h")
+            current["rain_24h"] = station_data.get("rain_24h")
+
+        # Получаем прогноз Open-Meteo
+        url = "https://api.open-meteo.com/v1/ecmwf"
+
+        params = {
+            "latitude": 40.379228,
+            "longitude": 49.9625323,
+
+            "hourly": (
+                "temperature_2m,"
+                "apparent_temperature,"
+                "weather_code,"
+                "precipitation_probability,"
+                "wind_speed_10m"
+            ),
+
+            "forecast_days": 2,
+            "timezone": "Asia/Baku"
+        }
+
+        r = requests.get(url, params=params, timeout=20)
+
+        if r.status_code != 200:
+            return jsonify({
+                "error": "Open-Meteo error",
+                "status": r.status_code
+            }), 500
+
+        forecast = r.json()
+
+        hourly = forecast.get("hourly", {})
+
+        times = hourly.get("time", [])
+        temperatures = hourly.get("temperature_2m", [])
+        apparent = hourly.get("apparent_temperature", [])
+        weather_codes = hourly.get("weather_code", [])
+        precipitation = hourly.get(
+            "precipitation_probability", []
+        )
+        wind = hourly.get("wind_speed_10m", [])
+
+        # Текущий час
+        now = datetime.now(BAKU_TZ)
+
+        forecast24 = []
+
+        for i, time_string in enumerate(times):
+
+            try:
+                dt = datetime.fromisoformat(time_string)
+
+                if dt < now:
+                    continue
+
+                forecast24.append({
+                    "time": dt.strftime("%H:%M"),
+                    "temperature": temperatures[i],
+                    "feels_like": apparent[i],
+                    "weather_code": weather_codes[i],
+                    "precipitation_probability": precipitation[i],
+                    "wind_kmh": wind[i]
+                })
+
+                if len(forecast24) >= 24:
+                    break
+
+            except:
+                continue
+
+        return jsonify({
+            "updated": now.strftime("%d.%m.%Y %H:%M:%S"),
+
+            "current": current,
+
+            "forecast24": forecast24
+        })
+
+    except Exception as e:
+        return jsonify({
+            "error": str(e)
+        }), 500
+
+
 # ---------------- WARNING ----------------
 @app.route("/warning")
 def warning():
