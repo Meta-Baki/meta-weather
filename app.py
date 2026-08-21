@@ -453,6 +453,11 @@ def widget_api():
             try:
                 dt = datetime.fromisoformat(time_string)
 
+                # Open-Meteo возвращает время без timezone.
+                # Указываем, что это время Баку.
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=BAKU_TZ)
+
                 if dt < now:
                     continue
 
