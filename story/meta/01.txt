@@ -1,43 +1,41 @@
-<h2 style="color:#06b6d4;">🌊🐟 Bakıda Xəzər dənizinin ekoloji vəziyyəti və dəniz ekosisteminin qorunması müzakirə olunub</h2>
+<h2 style="color:#f97316;">🔥🌡️ Azərbaycanda isti hava davam edir: temperatur 41°C-yə çata bilər</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 20 avqust 2026, 15:10 — Bakı vaxtı
+🕐 Əlavə olunub: 21 avqust 2026, 19:00 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Bakıda Xəzər dənizinin ekoloji vəziyyəti və dəniz ekosisteminin qorunması ilə bağlı məsələlər müzakirə olunub.</strong> Görüş zamanı Xəzərin qarşılaşdığı əsas ekoloji problemlər və onların qarşısının alınması yolları diqqət mərkəzində olub.
-</p>
-
-<p style="color:#06b6d4;font-size:20px;font-weight:bold;">
-🌊 Xəzərin ekosistemi üçün iqlim dəyişiklikləri, məişət və sənaye tullantıları, plastik çirklənmə və qanunsuz balıqçılıq əsas risklər sırasında göstərilib.
-</p>
-
-<p>
-🌍 Müzakirələrdə Azərbaycanın Xəzər dənizinin mühafizəsində ekoloji monitorinqin davamlı aparılmasının və çirklənmə mənbələrinin müəyyənləşdirilməsinin vacibliyi vurğulanıb.
+<strong>Azərbaycanda qarşıdakı günlərdə isti və əsasən quraq hava şəraitinin
+davam edəcəyi gözlənilir.</strong> Milli Hidrometeorologiya Xidmətinin
+məlumatına görə, bəzi rayonlarda havanın temperaturu 41°C-yə qədər
+yüksələ bilər. :contentReference[oaicite:1]{index=1}
 </p>
 
 <p>
-♻️ Tullantıların düzgün idarə olunması, sahilyanı ərazilərin qorunması və çirkab suların Xəzərə axıdılmadan əvvəl təmizlənməsi də əsas məsələlərdən biri olub.
+☀️ Proqnoza əsasən, yaxın dörd gün ərzində ölkə ərazisində hava əsasən
+sabit və yağıntısız olacaq. Yüksək temperatur xüsusilə aran və
+dağətəyi rayonlarda daha çox hiss ediləcək.
+</p>
+
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+⚠️ Uzunmüddətli isti və quraq hava şəraiti təbii ekosistemlər üçün
+əlavə istilik və su stressi yarada, həmçinin quru ərazilərdə yanğın
+riskini artıra bilər.
 </p>
 
 <p>
-💧 Bundan əlavə, su ehtiyatlarının səmərəli idarə olunması, yağış kollektorlarının fəaliyyəti və təmizlənmiş suların təkrar istifadəsi imkanları müzakirə edilib.
-</p>
-
-<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-⚠️ Xəzərin ekoloji vəziyyətinin qorunması üçün davamlı monitorinq və sahilyanı ərazilərdə çirklənmənin qarşısının alınması xüsusi əhəmiyyət daşıyır.
-</p>
-
-<p>
-🐬 Xəzər dənizi Azərbaycan üçün yalnız mühüm su hövzəsi deyil, həm də zəngin biomüxtəlifliyə malik unikal ekosistemdir. Onun qorunması gələcək nəsillər üçün böyük əhəmiyyət daşıyır.
+🌿 Mütəxəssislər belə hava şəraitində təbii ərazilərdə ehtiyatlı olmağı,
+yanğın təhlükəsizliyi qaydalarına əməl etməyi və su ehtiyatlarından
+səmərəli istifadə etməyi tövsiyə edirlər.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Xəzər dənizi, iqlim dəyişiklikləri, ekoloji risklər və Azərbaycanda ətraf mühitlə bağlı mühüm hadisələri izləyir.
+📡 META Meteorologiya Mərkəzi hava şəraitini, iqlim göstəricilərini və
+ətraf mühitdə baş verən dəyişiklikləri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ən son hava, iqlim və ekologiya xəbərlərini əldə etmək üçün WhatsApp kanalımıza qoşulun:
+📲 Ekologiya və təbiət xəbərlərini WhatsApp kanalımızda izləyin:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
@@ -47,9 +45,5 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Müəllif: Peşəkar meteoroloq Edelman Əliyev
-</p>
-
-<p style="color:#94a3b8;font-size:14px;">
-🔗 Mənbə: Xəzər dənizinin ekoloji vəziyyəti ilə bağlı məlumatlar / «Каспийский вестник»
+👨‍💼 Müəllif: Edelman Əliyev
 </p>
