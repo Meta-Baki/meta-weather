@@ -1,46 +1,59 @@
-<h2 style="color:#38bdf8;">🌨️⛰️ Kəlbəcərdə dolu yağıb: dağlıq rayonlarda güclü yağıntılar qeydə alınıb</h2>
+<h2 style="color:#0ea5e9;">🌊🇦🇿 Bakı və bölgələrdə su hövzələrində qanun pozuntuları aşkarlanıb</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 21 avqust 2026, 19:20 — Bakı vaxtı
+🕐 Əlavə olunub: 22 avqust 2026, 19:30 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Azərbaycanın bir sıra dağlıq və dağətəyi rayonlarında avqustun
-20-də güclü yağış, şimşək və dolu müşahidə olunub.</strong> Milli
-Hidrometeorologiya Xidmətinin məlumatına görə, bəzi ərazilərdə yağıntılar
-leysan xarakterli və intensiv olub. :contentReference[oaicite:2]{index=2}
+<strong>Bakı və Azərbaycanın bir sıra bölgələrində yerləşən su hövzələrində
+ətraf mühitin mühafizəsi ilə bağlı qanun pozuntuları aşkarlanıb.</strong>
+Araşdırmalar zamanı göl və çayların tullantılarla qanunsuz doldurulması,
+torpaq və digər materialların su hövzələrinə tökülməsi, həmçinin
+icazəsiz qazıntı işlərinin aparılması müəyyən edilib.
 </p>
 
 <p>
-🌧️ Ən çox yağıntı Şahdağda — <strong>18 mm</strong>, Gədəbəydə
-17 mm, Daşkəsəndə 15 mm, Qusarda 10 mm, İsmayıllıda 6 mm qeydə alınıb.
-Xınalıqda 4 mm, Göygöldə isə 5 mm yağıntı düşüb.
-</p>
-
-<p style="color:#0ea5e9;font-size:20px;font-weight:bold;">
-🌨️ Kəlbəcər rayonunun İstisu qəsəbəsinin Alagöllər ərazisinə
-20 avqust saat 20:25–20:33 radələrində diametri 8–10 mm olan dolu düşüb.
-:contentReference[oaicite:3]{index=3}
+📍 Pozuntular <strong>Xəzər rayonunun Buzovna qəsəbəsində, Suraxanı
+rayonunun Bülbülə qəsəbəsində və Abşeron rayonunun Məmmədli kəndi
+ərazisindəki göllərdə</strong>, eləcə də Goranboy rayonunun
+Yuxarı Ağcakənd qəsəbəsi yaxınlığındakı Qaraçay çayının sahilində və
+Balakən rayonunda Dəliçay ərazisində aşkarlanıb. :contentReference[oaicite:0]{index=0}
 </p>
 
 <p>
-🏔️ Güclü yağıntılar dağ ekosistemlərində çayların sululuğunun
-qısamüddətli artmasına səbəb ola bilər. Belə hava şəraitində dağ
-çaylarının yaxınlığında və dərələrdə ehtiyatlı olmaq vacibdir.
+♻️ Araşdırma zamanı bəzi su hövzələrinin tikinti-söküntü və məişət
+tullantıları, bərk və qarışıq süxurlarla qanunsuz doldurulduğu müəyyən
+edilib. Həmçinin akvatoriyalara torpaq və digər materialların
+tökülməsi faktları qeydə alınıb.
+</p>
+
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+⚠️ Bəzi ərazilərdə sahilboyu mühafizə zolaqlarında icazəsiz
+torpaq-qazıntı işləri aparılıb. Qazıntılar nəticəsində relyefin
+dəyişdirilməsi və su hövzələrinin hidroloji rejiminə təsir edən hallar
+da müəyyən olunub. :contentReference[oaicite:1]{index=1}
+</p>
+
+<p>
+💧 Su hövzələrinin qanunsuz doldurulması və təbii relyefin dəyişdirilməsi
+çayların, göllərin və onların sahil ekosistemlərinin vəziyyətinə mənfi
+təsir göstərə bilər. Buna görə su ehtiyatlarının və sahilyanı ərazilərin
+qorunması xüsusi əhəmiyyət daşıyır.
 </p>
 
 <p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-⚠️ Dağlıq ərazilərdə leysan və dolu zamanı sel və daşqın riski
-artdığından hava xəbərdarlıqlarını izləmək tövsiyə olunur.
+⚖️ Aşkar edilmiş faktlarla bağlı Cinayət Məcəlləsinin müvafiq maddələri
+ilə cinayət işləri başlanılıb. Hazırda faktların hüquqi qiymətləndirilməsi
+məqsədilə istintaq tədbirləri davam etdirilir. :contentReference[oaicite:2]{index=2}
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanda təbii hadisələri,
-hidrometeoroloji şəraiti və ekoloji dəyişiklikləri izləyir.
+🌿 META Meteorologiya Mərkəzi Azərbaycanda su ehtiyatlarının vəziyyəti,
+təbiət hadisələri, ekologiya və ətraf mühitlə bağlı yenilikləri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Təbii hadisələr və hava xəbərdarlıqları üçün WhatsApp kanalımıza
+📲 Ekologiya və təbiət xəbərlərini izləmək üçün WhatsApp kanalımıza
 qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
