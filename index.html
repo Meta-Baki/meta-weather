@@ -607,8 +607,10 @@ td:last-child {
 
 .top-area {
     position: relative;
-    margin-top: 50px;
-    margin-bottom: 30px;
+}
+
+.appsgeyser-app .top-area {
+    padding-top: 50px;
 }
   
 </style>
@@ -2742,5 +2744,11 @@ window.addEventListener("load", () => {
   </div>
 </div>
 
+<script>
+if (/AppsGeyser|wv/i.test(navigator.userAgent)) {
+    document.body.classList.add("appsgeyser-app");
+}
+</script>
+      
 </body>
 </html>
