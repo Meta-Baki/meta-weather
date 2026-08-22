@@ -609,8 +609,10 @@ td:last-child {
     position: relative;
 }
 
-.appsgeyser-app .top-area {
-    padding-top: 50px;
+@media (display-mode: standalone) {
+    .top-area {
+        padding-top: 70px;
+    }
 }
   
 </style>
@@ -2743,12 +2745,6 @@ window.addEventListener("load", () => {
     Ən doğru nəticə üçün əlavə mənbələrdən istifadə edin.
   </div>
 </div>
-
-<script>
-if (/AppsGeyser|wv/i.test(navigator.userAgent)) {
-    document.body.classList.add("appsgeyser-app");
-}
-</script>
       
 </body>
 </html>
