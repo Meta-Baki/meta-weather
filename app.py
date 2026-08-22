@@ -17,6 +17,7 @@ def update_github(history):
 
     r = requests.get(url, headers=headers)
     sha = None
+
     if r.status_code == 200:
         sha = r.json()["sha"]
 
@@ -276,6 +277,11 @@ def forecast7():
                 "precipitation_sum",
 
             "hourly":
+                "temperature_2m,"
+                "weather_code,"
+                "relative_humidity_2m,"
+                "wind_speed_10m,"
+                "surface_pressure,"
                 "dew_point_2m,"
                 "visibility",
 
@@ -305,8 +311,7 @@ def forecast7():
 
             "daily": {
 
-                "time":
-                    raw["daily"]["time"],
+                "time": raw["daily"]["time"],
 
                 "weathercode":
                     raw["daily"]["weather_code"],
@@ -358,6 +363,24 @@ def forecast7():
             },
 
             "hourly": {
+
+                "time":
+                    raw["hourly"]["time"],
+
+                "temperature_2m":
+                    raw["hourly"]["temperature_2m"],
+
+                "weathercode":
+                    raw["hourly"]["weather_code"],
+
+                "relative_humidity_2m":
+                    raw["hourly"]["relative_humidity_2m"],
+
+                "wind_speed_10m":
+                    raw["hourly"]["wind_speed_10m"],
+
+                "surface_pressure":
+                    raw["hourly"]["surface_pressure"],
 
                 "dew_point_2m":
                     raw["hourly"]["dew_point_2m"],
