@@ -1,41 +1,50 @@
-<h2 style="color:#f97316;">🔥🌡️ Azərbaycanda isti hava davam edir: temperatur 41°C-yə çata bilər</h2>
+<h2 style="color:#f97316;">🔥🌡️ Azərbaycanda güclü istilər davam edir: bəzi rayonlarda temperatur 40°C-yə çatacaq</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 21 avqust 2026, 19:00 — Bakı vaxtı
+🕐 Əlavə olunub: 22 avqust 2026, 19:00 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Azərbaycanda qarşıdakı günlərdə isti və əsasən quraq hava şəraitinin
+<strong>Azərbaycanda yaxın günlərdə isti və əsasən quraq hava şəraitinin
 davam edəcəyi gözlənilir.</strong> Milli Hidrometeorologiya Xidmətinin
-məlumatına görə, bəzi rayonlarda havanın temperaturu 41°C-yə qədər
-yüksələ bilər. :contentReference[oaicite:1]{index=1}
+məlumatına görə, bəzi rayonlarda havanın temperaturu 40°C-yə qədər
+yüksələ bilər. :contentReference[oaicite:0]{index=0}
 </p>
 
 <p>
-☀️ Proqnoza əsasən, yaxın dörd gün ərzində ölkə ərazisində hava əsasən
-sabit və yağıntısız olacaq. Yüksək temperatur xüsusilə aran və
-dağətəyi rayonlarda daha çox hiss ediləcək.
+☀️ Bakı və Abşeron yarımadasında 23 avqustda yağıntı gözlənilmir.
+Havanın temperaturu gündüz saatlarında 31–36°C olacaq. Azərbaycanın
+rayonlarında isə temperatur əsasən 35–38°C, bəzi yerlərdə isə
+40°C-yə qədər yüksələcək. :contentReference[oaicite:1]{index=1}
 </p>
 
 <p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Uzunmüddətli isti və quraq hava şəraiti təbii ekosistemlər üçün
-əlavə istilik və su stressi yarada, həmçinin quru ərazilərdə yanğın
-riskini artıra bilər.
+⚠️ Uzunmüddətli isti və quraq hava təbii ərazilərdə su çatışmazlığını
+artıra və xüsusilə quru ot örtüyü olan sahələrdə yanğın riskini
+yüksəldə bilər.
 </p>
 
 <p>
-🌿 Mütəxəssislər belə hava şəraitində təbii ərazilərdə ehtiyatlı olmağı,
-yanğın təhlükəsizliyi qaydalarına əməl etməyi və su ehtiyatlarından
-səmərəli istifadə etməyi tövsiyə edirlər.
+🌿 İsti hava şəraitində təbii ərazilərdə odla ehtiyatlı davranmaq,
+meşə və qoruq ərazilərində yanğın təhlükəsizliyi qaydalarına riayət
+etmək xüsusilə vacibdir.
+</p>
+
+<p>
+🏜️ Azərbaycanın müxtəlif iqlim qurşaqlarına malik olması səbəbindən
+isti hava dalğalarının təsiri regionlara görə fərqli hiss olunur.
+Aran və düzənlik ərazilərində yüksək temperatur daha çox müşahidə
+olunur, dağlıq ərazilərdə isə temperatur nisbətən aşağı qalır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava şəraitini, iqlim göstəricilərini və
-ətraf mühitdə baş verən dəyişiklikləri izləyir.
+📡 META Meteorologiya Mərkəzi Azərbaycanda hava şəraitini,
+iqlim dəyişikliklərini və ətraf mühitlə bağlı hadisələri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ekologiya və təbiət xəbərlərini WhatsApp kanalımızda izləyin:
+📲 Ekologiya, təbiət və hava xəbərlərini izləmək üçün WhatsApp
+kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
