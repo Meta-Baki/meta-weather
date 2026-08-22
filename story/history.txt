@@ -1,67 +1,74 @@
-<h2 style="color:#f59e0b;">☀️ 22 avqustda Azərbaycanda isti hava: bəzi rayonlarda temperatur 40°C-yə çatacaq</h2>
+<h2 style="color:#f97316;">☀️ 23 avqust: bəzi rayonlarda temperatur 40°C-yə çatacaq</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 21 avqust 2026, 18:30 — Bakı vaxtı
+🕐 Əlavə olunub: 22 avqust 2026, 13:30 — Bakı vaxtı
 </p>
 
 <p>
-<strong>22 avqust, şənbə günü Azərbaycanda əsasən quru və isti hava şəraiti gözlənilir.</strong>
-Bakıda və Abşeron yarımadasında yağıntı gözlənilmir. Azərbaycanın bəzi rayonlarında isə temperatur 40°C-yə qədər yüksələ bilər.
+<strong>23 avqust, bazar günü Azərbaycanda əsasən isti və quru hava
+şəraiti gözlənilir.</strong> Bakıda və Abşeron yarımadasında yağıntı
+gözlənilmir. Azərbaycanın bəzi rayonlarında isə temperaturun
+40°C-yə qədər yüksələcəyi proqnozlaşdırılır.
 </p>
 
 <h3 style="color:#60a5fa;">🏙️ Bakı və Abşeron</h3>
 
 <p>
-☀️ Hava əsasən açıq və yağmursuz olacaq. Şimal-qərb küləyi gün ərzində
-<strong>cənub-şərq küləyi</strong> ilə əvəzlənəcək.
+☀️ Bakıda və Abşeron yarımadasında hava əsasən yağmursuz olacaq.
+<strong>Mülayim cənub-şərq küləyi</strong> əsəcək.
 </p>
 
 <p>
-🌡️ <strong>Gecə:</strong> 23–27°C<br>
-☀️ <strong>Gündüz:</strong> 30–35°C
+🌡️ <strong>Gecə:</strong> 23–26°C<br>
+🔥 <strong>Gündüz:</strong> 31–36°C
 </p>
 
 <p>
-💧 <strong>Nisbi rütubət:</strong> gecə 70–75%, gündüz 50–55%.
+💧 <strong>Nisbi rütubət:</strong> gecə 70–75%, gündüz 55–60%.
 </p>
 
 <p>
-📉 <strong>Atmosfer təzyiqi:</strong> 763 mm civə sütunu
-(≈1017,3 hPa).
+📉 <strong>Atmosfer təzyiqi:</strong> 758 mm civə sütunu
+(≈1011 hPa).
 </p>
 
 <p>
-🌬️ Küləyin istiqaməti gün ərzində şimal-qərbdən cənub-şərqə dəyişəcək.
+🌬️ <strong>Külək:</strong> cənub-şərq istiqamətli, mülayim.
+<br>
+📌 <strong>Küləyin sürəti:</strong> rəsmi proqnozda dəqiq rəqəm
+göstərilməyib.
 </p>
 
-<h3 style="color:#ef4444;">🌡️ Azərbaycanın rayonlarında isti hava</h3>
+<h3 style="color:#ef4444;">🌡️ Azərbaycanın rayonlarında</h3>
 
 <p>
 Rayonlarda da hava əsasən yağmursuz olacaq. Gecə və səhər saatlarında
-bəzi dağlıq ərazilərdə <strong>duman</strong> müşahidə oluna bilər.
+bəzi dağlıq ərazilərdə arabir <strong>duman</strong> müşahidə oluna bilər.
 Şərq küləyi əsəcək.
 </p>
 
 <p>
-🌡️ <strong>Gecə:</strong> 21–25°C<br>
+🌡️ <strong>Gecə:</strong> 22–27°C<br>
 🔥 <strong>Gündüz:</strong> 35–38°C<br>
 ⚠️ <strong>Bəzi yerlərdə:</strong> 40°C-dək
 </p>
 
 <p>
 🏔️ <strong>Dağlıq ərazilərdə:</strong><br>
-Gecə: 12–17°C<br>
-Gündüz: 21–26°C
+Gecə: 13–18°C<br>
+Gündüz: 23–28°C
 </p>
+
+<div style="background:#1e293b;padding:15px;border-radius:10px;margin:20px 0;">
 
 <h3 style="color:#f59e0b;margin-top:0;">📊 Əsas meteoroloji göstəricilər</h3>
 
 <p style="color:#fff;">
-🌡️ <strong>Bakı və Abşeron:</strong> 23–27°C / 30–35°C
+🌡️ <strong>Bakı və Abşeron:</strong> 23–26°C / 31–36°C
 </p>
 
 <p style="color:#fff;">
-🔥 <strong>Rayonlar:</strong> 21–25°C / 35–38°C
+🔥 <strong>Rayonlar:</strong> 22–27°C / 35–38°C
 </p>
 
 <p style="color:#fff;">
@@ -69,31 +76,34 @@ Gündüz: 21–26°C
 </p>
 
 <p style="color:#fff;">
-🏔️ <strong>Dağlıq ərazilər:</strong> 12–17°C / 21–26°C
+🏔️ <strong>Dağlıq ərazilər:</strong> 13–18°C / 23–28°C
 </p>
 
 <p style="color:#fff;">
-📉 <strong>Təzyiq:</strong> 763 mm civə sütunu | ≈1017,3 hPa
+📉 <strong>Atmosfer təzyiqi:</strong> 758 mm civə sütunu | ≈1011 hPa
 </p>
 
 <p style="color:#fff;">
-💧 <strong>Rütubət:</strong> Bakı və Abşeron gecə 70–75%,
-gündüz 50–55%
+💧 <strong>Bakı və Abşeron rütubəti:</strong>
+gecə 70–75% | gündüz 55–60%
+</p>
+
+<p style="color:#fff;">
+🌬️ <strong>Külək:</strong> cənub-şərq / şərq istiqamətli,
+mülayim
 </p>
 
 </div>
 
 <p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ XƏBƏRDARLIQ: Azərbaycanın bəzi rayonlarında temperaturun 40°C-yə
-qədər yüksələcəyi gözlənilir. Günün ən isti saatlarında birbaşa Günəş
-şüaları altında uzun müddət qalmaqdan çəkinmək və kifayət qədər su
-qəbul etmək tövsiyə olunur.
+⚠️ XƏBƏRDARLIQ: Azərbaycanın bəzi rayonlarında havanın temperaturu
+40°C-yə qədər yüksələ bilər. Günün ən isti saatlarında birbaşa Günəş
+şüaları altında uzun müddət qalmaqdan çəkinmək tövsiyə olunur.
 </p>
 
 <p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-☀️ Xüsusilə açıq ərazilərdə günorta saatlarında istilik yükü yüksək
-ola bilər. Yaşlı insanlar, uşaqlar və açıq havada çalışan şəxslərin
-ehtiyatlı olması tövsiyə edilir.
+☀️ Yüksək temperatur şəraitində kifayət qədər su qəbul etmək və
+günorta saatlarında fiziki fəaliyyəti məhdudlaşdırmaq tövsiyə olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
