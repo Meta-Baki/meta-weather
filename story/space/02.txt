@@ -1,64 +1,47 @@
-<h2 style="color:#8b5cf6;">🌌 James Webb erkən kainatın gizli ulduzlarını aşkar etdi</h2>
+<h2 style="color:#f59e0b;">🌞🌑 NASA опубликовало новые кадры полного солнечного затмения</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 21 avqust 2026, 20:30 — Bakı vaxtı
+🕐 Əlavə olunub: 22 avqust 2026, 18:30 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Astronomlar James Webb Kosmik Teleskopunun (JWST) məlumatları
-sayəsində Kainatın ilk dövrlərində mövcud olmuş qalaktikalarda əvvəllər
-görünməyən çoxsaylı zəif ulduzların izlərini aşkar ediblər.</strong>
-Yeni nəticələr həmin qalaktikaların əvvəlki hesablamalardan daha kütləli
-ola biləcəyini göstərir.
+<strong>NASA yayı 12 avqust 2026-cı ildə baş vermiş tam Günəş tutulmasının
+yeni görüntülərini yayımlayıb.</strong> Agentlik hadisəni Yer səthindən,
+havadan və kosmosdan çəkilmiş müxtəlif görüntülərlə təqdim edib.
+</p>
+
+<p>
+🌑 Tam Günəş tutulması zamanı Ay Günəşin qarşısından keçərək onun
+diskini tamamilə örtür. Ayın kölgəsinin tam tutulma zonasına düşən
+ərazilərdə Günəş bir müddət tamamilə qaranlıq görünür.
+</p>
+
+<p>
+📡 NASA-nın yayımladığı yeni materiallar tutulmanın müxtəlif
+müşahidə nöqtələrindən necə göründüyünü müqayisə etməyə imkan verir.
+Kosmosdan çəkilən görüntülər isə hadisəni Yer atmosferindən kənardan
+müşahidə etməyin üstünlüklərini nümayiş etdirir.
 </p>
 
 <p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🔭 Tədqiqat zamanı Kainatın erkən dövrünə aid 9 qədim qalaktika
-araşdırılıb və onların tərkibində kiçik kütləli ulduzların gözləniləndən
-daha çox olduğu müəyyən edilib.
+🔭 Günəş tutulmaları astronomlar üçün yalnız möhtəşəm səma hadisəsi
+deyil, həm də Günəşin xarici atmosferini — tacını öyrənmək üçün
+mühüm müşahidə imkanlarından biridir.
 </p>
 
 <p>
-Alimlərin fikrincə, əvvəlki müşahidələr əsasən daha parlaq və böyük
-ulduzların işığını qeydə alırdı. Daha zəif ulduzların işığı isə bu parlaq
-obyektlərin fonunda itirdi. James Webb-in yüksək həssaslığı bu zəif
-ulduzların yaratdığı siqnalları daha ətraflı araşdırmağa imkan verib.
-</p>
-
-<p>
-🌠 Yeni hesablamalara əsasən, bəzi erkən qalaktikaların ulduz kütləsi
-əvvəlki qiymətləndirmələrdən <strong>4 dəfəyə qədər çox</strong> ola bilər.
-Bu nəticə qalaktikaların erkən Kainatda necə formalaşması ilə bağlı
-mövcud modellərin yenidən nəzərdən keçirilməsinə səbəb ola bilər.
-</p>
-
-<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-🧩 Alimlər həmçinin hesab edirlər ki, erkən Kainatda kiçik kütləli
-ulduzların daha çox olması həmin dövrdə ulduz və planet sistemlərinin
-formalaşması haqqında təsəvvürlərimizi dəyişə bilər.
-</p>
-
-<p>
-🔬 Araşdırmada James Webb-in məlumatları Yer üzərində yerləşən
-<strong>Very Large Telescope (VLT)</strong> müşahidələri ilə də
-müqayisə edilib. Nəticələr ulduzların kütlə paylanmasının Kainatın
-tarixi boyunca indiki Süd Yolu ilə eyni olmadığını göstərir.
-</p>
-
-<p>
-🌌 Bu kəşf Kainatın ilk qalaktikalarının necə böyüdüyünü və ilk
-ulduz nəsillərinin necə formalaşdığını daha yaxşı anlamaq üçün
-əhəmiyyətli məlumat verir.
+🌌 NASA-nın məlumatına görə, 12 avqust tutulması 2026-cı ilin əsas
+astronomik hadisələrindən biri olub. Agentlik hadisəni Yer, hava və
+kosmik platformalardan müşahidə edib.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi,
-peyklər və yeni elmi kəşflərlə bağlı məlumatları izləyir.
+🚀 META Meteorologiya Mərkəzi kosmos, Günəş aktivliyi, astronomik
+hadisələr və peyk məlumatları ilə bağlı yenilikləri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos və astronomiya xəbərlərini izləmək üçün WhatsApp kanalımıza
-qoşulun:
+📲 Kosmos və astronomiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
