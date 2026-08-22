@@ -595,6 +595,15 @@ td:last-child {
     left: 3px;
     z-index: 1000;
 }
+
+.app-buttons {
+    position: fixed;
+    top: 50px;
+    right: 15px;
+    display: flex;
+    gap: 10px;
+    z-index: 10000;
+}
   
 </style>
 </head>
@@ -614,7 +623,7 @@ td:last-child {
 
 </div>
 
-<div style="position:fixed; top:15px; right:15px; display:flex; gap:10px; z-index:10000;">
+<div class="app-buttons">
 
     <button class="share-btn" onclick="shareSite()" style="position:static;">
         📤 Link
