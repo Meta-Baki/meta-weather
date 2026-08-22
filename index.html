@@ -609,10 +609,8 @@ td:last-child {
     position: relative;
 }
 
-@media (display-mode: standalone) {
-    .top-area {
-        padding-top: 70px;
-    }
+body.app-page.app-mode .top-area {
+    padding-top: 70px;
 }
   
 </style>
@@ -2745,6 +2743,12 @@ window.addEventListener("load", () => {
     Ən doğru nəticə üçün əlavə mənbələrdən istifadə edin.
   </div>
 </div>
+
+<script>
+if (window.location.search.includes("app=1")) {
+    document.body.classList.add("app-mode");
+}
+</script>
       
 </body>
 </html>
