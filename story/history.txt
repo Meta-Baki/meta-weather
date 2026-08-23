@@ -1,30 +1,29 @@
-<h2 style="color:#f97316;">☀️ 23 avqust: bəzi rayonlarda temperatur 40°C-yə çatacaq</h2>
+<h2 style="color:#f97316;">☀️🌡️ 24 avqustda Azərbaycanda isti hava davam edəcək: temperatur 40°C-yə çatacaq</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 22 avqust 2026, 13:30 — Bakı vaxtı
+🕐 Əlavə olunub: 23 avqust 2026, 13:52 — Bakı vaxtı
 </p>
 
 <p>
-<strong>23 avqust, bazar günü Azərbaycanda əsasən isti və quru hava
-şəraiti gözlənilir.</strong> Bakıda və Abşeron yarımadasında yağıntı
-gözlənilmir. Azərbaycanın bəzi rayonlarında isə temperaturun
-40°C-yə qədər yüksələcəyi proqnozlaşdırılır.
+<strong>24 avqust, bazar ertəsi Azərbaycanda əsasən quru və isti hava
+şəraiti gözlənilir.</strong> Ayrı-ayrı rayonlarda havanın temperaturu
+40°C-yə qədər yüksələ bilər.
 </p>
 
 <h3 style="color:#60a5fa;">🏙️ Bakı və Abşeron</h3>
 
 <p>
-☀️ Bakıda və Abşeron yarımadasında hava əsasən yağmursuz olacaq.
-<strong>Mülayim cənub-şərq küləyi</strong> əsəcək.
+Bakı və Abşeron yarımadasında hava əsasən yağmursuz olacaq. Səhər
+saatlarında cənub-qərb küləyi şimal-şərq küləyi ilə əvəz olunacaq.
 </p>
 
 <p>
-🌡️ <strong>Gecə:</strong> 23–26°C<br>
-🔥 <strong>Gündüz:</strong> 31–36°C
+🌡️ <strong>Gecə:</strong> +22...+25°C<br>
+🔥 <strong>Gündüz:</strong> +33...+38°C
 </p>
 
 <p>
-💧 <strong>Nisbi rütubət:</strong> gecə 70–75%, gündüz 55–60%.
+💧 <strong>Nisbi rütubət:</strong> gecə 70–75%, gündüz 40–50%.
 </p>
 
 <p>
@@ -33,30 +32,43 @@ gözlənilmir. Azərbaycanın bəzi rayonlarında isə temperaturun
 </p>
 
 <p>
-🌬️ <strong>Külək:</strong> cənub-şərq istiqamətli, mülayim.
+🌬️ <strong>Külək:</strong> səhər cənub-qərbdən, gün ərzində
+şimal-şərqdən.
 <br>
-📌 <strong>Küləyin sürəti:</strong> rəsmi proqnozda dəqiq rəqəm
-göstərilməyib.
+💨 <strong>Küləyin sürəti:</strong> təxminən 7–8 m/s
+(25–29 km/saat).
+<br>
+⚡ <strong>Güclənmə zamanı:</strong> təxminən 10–12 m/s
+(36–43 km/saat).
 </p>
 
-<h3 style="color:#ef4444;">🌡️ Azərbaycanın rayonlarında</h3>
+<h3 style="color:#f59e0b;">🏔️ Azərbaycanın rayonlarında</h3>
 
 <p>
-Rayonlarda da hava əsasən yağmursuz olacaq. Gecə və səhər saatlarında
-bəzi dağlıq ərazilərdə arabir <strong>duman</strong> müşahidə oluna bilər.
+Rayonlarda hava əsasən yağmursuz olacaq. Lakin gün ərzində bəzi
+dağlıq ərazilərdə qısamüddətli az yağış və şimşək çaxması mümkündür.
+Gecə və səhər saatlarında bəzi dağlıq ərazilərdə duman gözlənilir.
 Şərq küləyi əsəcək.
 </p>
 
 <p>
-🌡️ <strong>Gecə:</strong> 22–27°C<br>
-🔥 <strong>Gündüz:</strong> 35–38°C<br>
-⚠️ <strong>Bəzi yerlərdə:</strong> 40°C-dək
+🌡️ <strong>Gecə:</strong> +20...+25°C<br>
+🔥 <strong>Gündüz:</strong> +35...+38°C<br>
+⚠️ <strong>Bəzi yerlərdə:</strong> +40°C-dək
 </p>
 
 <p>
-🏔️ <strong>Dağlıq ərazilərdə:</strong><br>
-Gecə: 13–18°C<br>
-Gündüz: 23–28°C
+🏔️ <strong>Dağlıq rayonlarda:</strong><br>
+Gecə: +14...+19°C<br>
+Gündüz: +23...+28°C
+</p>
+
+<p>
+🌬️ <strong>Rayonlarda külək:</strong> şərq istiqamətli,
+təxminən 4–7 m/s (14–25 km/saat).
+<br>
+⚡ <strong>Güclənmə zamanı:</strong> 8–10 m/s
+(29–36 km/saat).
 </p>
 
 <div style="background:#1e293b;padding:15px;border-radius:10px;margin:20px 0;">
@@ -64,51 +76,54 @@ Gündüz: 23–28°C
 <h3 style="color:#f59e0b;margin-top:0;">📊 Əsas meteoroloji göstəricilər</h3>
 
 <p style="color:#fff;">
-🌡️ <strong>Bakı və Abşeron:</strong> 23–26°C / 31–36°C
+🌡️ <strong>Bakı və Abşeron:</strong> +22...+25°C / +33...+38°C
 </p>
 
 <p style="color:#fff;">
-🔥 <strong>Rayonlar:</strong> 22–27°C / 35–38°C
+🌡️ <strong>Rayonlar:</strong> +20...+25°C / +35...+38°C
 </p>
 
 <p style="color:#fff;">
-⚠️ <strong>Maksimum temperatur:</strong> bəzi yerlərdə 40°C
+⚠️ <strong>Maksimum temperatur:</strong> bəzi yerlərdə +40°C
 </p>
 
 <p style="color:#fff;">
-🏔️ <strong>Dağlıq ərazilər:</strong> 13–18°C / 23–28°C
+🏔️ <strong>Dağlıq rayonlar:</strong> +14...+19°C / +23...+28°C
 </p>
 
 <p style="color:#fff;">
-📉 <strong>Atmosfer təzyiqi:</strong> 758 mm civə sütunu | ≈1011 hPa
+📉 <strong>Təzyiq:</strong> 758 mm civə sütunu | ≈1011 hPa
 </p>
 
 <p style="color:#fff;">
-💧 <strong>Bakı və Abşeron rütubəti:</strong>
-gecə 70–75% | gündüz 55–60%
+💨 <strong>Bakı küləyi:</strong> 7–8 m/s | 25–29 km/saat
 </p>
 
 <p style="color:#fff;">
-🌬️ <strong>Külək:</strong> cənub-şərq / şərq istiqamətli,
-mülayim
+⚡ <strong>Mümkün güclənmə:</strong> 10–12 m/s | 36–43 km/saat
+</p>
+
+<p style="color:#fff;">
+💧 <strong>Rütubət:</strong> gecə 70–75% | gündüz 40–50%
 </p>
 
 </div>
 
 <p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ XƏBƏRDARLIQ: Azərbaycanın bəzi rayonlarında havanın temperaturu
-40°C-yə qədər yüksələ bilər. Günün ən isti saatlarında birbaşa Günəş
+⚠️ XƏBƏRDARLIQ: Ayrı-ayrı rayonlarda temperaturun 40°C-yə qədər
+yüksələcəyi gözlənilir. Günün ən isti saatlarında birbaşa Günəş
 şüaları altında uzun müddət qalmaqdan çəkinmək tövsiyə olunur.
 </p>
 
 <p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-☀️ Yüksək temperatur şəraitində kifayət qədər su qəbul etmək və
-günorta saatlarında fiziki fəaliyyəti məhdudlaşdırmaq tövsiyə olunur.
+☀️ Yüksək temperatur şəraitində kifayət qədər su qəbul etmək,
+günorta saatlarında fiziki fəaliyyəti azaltmaq və kölgəli ərazilərə
+üstünlük vermək məsləhətdir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava şəraitini izləyir və yeni
-meteoroloji məlumatlar əldə olunduqca proqnozları yeniləyir.
+📡 META Meteorologiya Mərkəzi hava şəraitini və təhlükəli meteoroloji
+hadisələri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
