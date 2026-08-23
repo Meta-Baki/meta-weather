@@ -639,6 +639,97 @@ body.app-page.app-mode .top-area {
     }
 
 }
+
+.forecast-table-wrap{
+    width: 100%;
+    overflow-x: auto;
+    margin-top: 20px;
+    border: 1px solid rgba(255,255,255,0.25);
+    background: rgba(10, 16, 25, 0.45);
+    backdrop-filter: blur(10px);
+}
+
+.forecast-table{
+    width: 100%;
+    min-width: 900px;
+    border-collapse: collapse;
+    color: white;
+    font-size: 16px;
+}
+
+.forecast-table th{
+    background: rgba(42, 55, 78, 0.92);
+    color: #ffffff;
+    padding: 18px 14px;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+    border-right: 1px solid rgba(255,255,255,0.18);
+    border-bottom: 1px solid rgba(255,255,255,0.25);
+    white-space: nowrap;
+}
+
+.forecast-table td{
+    padding: 18px 14px;
+    text-align: center;
+    background: rgba(10, 15, 23, 0.35);
+    border-right: 1px solid rgba(255,255,255,0.18);
+    border-bottom: 1px solid rgba(255,255,255,0.25);
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.forecast-table tr:last-child td{
+    border-bottom: none;
+}
+
+.forecast-table th:last-child,
+.forecast-table td:last-child{
+    border-right: none;
+}
+
+.forecast-table tbody tr{
+    transition: background 0.2s ease;
+}
+
+.forecast-table tbody tr:hover td{
+    background: rgba(255,255,255,0.06);
+}
+
+/* Иконки погоды */
+.forecast-table td img{
+    width: 42px !important;
+    height: 42px;
+    object-fit: contain;
+    vertical-align: middle;
+}
+
+/* Скролл для телефона */
+.forecast-table-wrap::-webkit-scrollbar{
+    height: 7px;
+}
+
+.forecast-table-wrap::-webkit-scrollbar-thumb{
+    background: rgba(255,255,255,0.25);
+    border-radius: 10px;
+}
+
+/* Телефон */
+@media(max-width:900px){
+
+    .forecast-table{
+        font-size: 14px;
+    }
+
+    .forecast-table th{
+        padding: 14px 12px;
+        font-size: 14px;
+    }
+
+    .forecast-table td{
+        padding: 18px 12px;
+    }
+}
   
 </style>
 </head>
@@ -1854,90 +1945,112 @@ else{
 document.getElementById("dailyTextForecast").innerHTML =
     textForecast;
 
-    let html = `<div class="table-wrap"><table><tr>
-<th>Tarix</th>
-<th>Hava</th>
-<th>Temperatur [*C]</th>
-<th>Hiss edilən [*C]</th>
-<th>Yağış [%]</th>
-<th>Bulud [%]</th>
-<th>UV indeks</th>
-<th>Yağıntı [mm]</th>
-<th>Külək [km/h]</th>
-<th>Orta külək [km/h]</th>
-<th>İstiqamət [>]</th>
-<th>külək zərbələri [km/h]</th>
-<th>Təzyiq [hPa]</th>
-<th>Günəş</th>
-    </tr>`;
+let html = `
+<div class="forecast-table-wrap">
+<table class="forecast-table">
 
-    for(let i=0;i<7;i++){
-        html += `<tr>
+<thead>
+<tr>
+    <th>📅 Tarix</th>
+    <th>🌤 Hava</th>
+    <th>🌡 Temperatur [°C]</th>
+    <th>🥵 Hiss edilən [°C]</th>
+    <th>🌧 Yağış [%]</th>
+    <th>☁️ Bulud [%]</th>
+    <th>☀️ UV indeks</th>
+    <th>💧 Yağıntı [mm]</th>
+    <th>💨 Külək [km/h]</th>
+    <th>🌬 Orta külək [km/h]</th>
+    <th>🧭 İstiqamət</th>
+    <th>💨 Zərbələr [km/h]</th>
+    <th>📊 Təzyiq [hPa]</th>
+    <th>🌅 Günəş</th>
+</tr>
+</thead>
 
-<td>${d.daily.time[i]}</td>
+<tbody>
+`;
 
-<td>${icon(d.daily.weathercode[i])}</td>
+for(let i=0;i<7;i++){
 
-<td>
-${f(d.daily.temperature_2m_max[i])}°
-/
-${f(d.daily.temperature_2m_min[i])}°
-</td>
+    html += `
+    <tr>
 
-<td>
-${f(d.daily.apparent_temperature_max[i])}°
-/
-${f(d.daily.apparent_temperature_min[i])}°
-</td>
+        <td>
+            <strong>${d.daily.time[i]}</strong>
+        </td>
 
-<td>
-${f(d.daily.precipitation_probability_max[i])}%
-</td>
+        <td>
+            ${icon(d.daily.weathercode[i])}
+        </td>
 
-<td>
-${f(d.daily.cloud_cover_mean[i])}%
-</td>
+        <td>
+            <strong>
+                ${f(d.daily.temperature_2m_max[i])}°
+            </strong>
+            /
+            ${f(d.daily.temperature_2m_min[i])}°
+        </td>
 
-<td>
-${f(d.daily.uv_index_max[i])}
-</td>
+        <td>
+            ${f(d.daily.apparent_temperature_max[i])}°
+            /
+            ${f(d.daily.apparent_temperature_min[i])}°
+        </td>
 
-<td>
-${f(d.daily.precipitation_sum[i])} mm
-</td>
+        <td>
+            ${f(d.daily.precipitation_probability_max[i])}%
+        </td>
 
-<td>
-${f(d.daily.windspeed_10m_max[i])} km/h
-</td>
+        <td>
+            ${f(d.daily.cloud_cover_mean[i])}%
+        </td>
 
-<td>
-${f(d.daily.wind_speed_10m_mean[i])} km/h
-</td>
+        <td>
+            <strong>${f(d.daily.uv_index_max[i])}</strong>
+        </td>
 
-<td>
-${windDir(d.daily.winddirection_10m_dominant[i])}
-</td>
+        <td>
+            ${f(d.daily.precipitation_sum[i])} mm
+        </td>
 
-<td>
-${f(d.daily.windgusts_10m_max[i])} km/h
-</td>
+        <td>
+            ${f(d.daily.windspeed_10m_max[i])} km/h
+        </td>
 
-<td>
-${f(d.daily.surface_pressure_mean[i])} hPa
-</td>
+        <td>
+            ${f(d.daily.wind_speed_10m_mean[i])} km/h
+        </td>
 
-<td>
-🌅 ${d.daily.sunrise[i].split("T")[1].slice(0,5)}
-<br>
-🌇 ${d.daily.sunset[i].split("T")[1].slice(0,5)}
-</td>
+        <td>
+            ${windDir(d.daily.winddirection_10m_dominant[i])}
+        </td>
 
-</tr>`;
-    }
+        <td>
+            ${f(d.daily.windgusts_10m_max[i])} km/h
+        </td>
 
-    html += "</table></div>";
-    document.getElementById("forecast").innerHTML = html;
+        <td>
+            ${f(d.daily.surface_pressure_mean[i])} hPa
+        </td>
+
+        <td>
+            🌅 ${d.daily.sunrise[i].split("T")[1].slice(0,5)}
+            <br>
+            🌇 ${d.daily.sunset[i].split("T")[1].slice(0,5)}
+        </td>
+
+    </tr>
+    `;
 }
+
+html += `
+</tbody>
+</table>
+</div>
+`;
+
+document.getElementById("forecast").innerHTML = html;
 
 async function loadForecast14(){
     let r = await fetch(
@@ -1945,90 +2058,112 @@ async function loadForecast14(){
 );
     let d = await r.json();
 
-    let html = `<div class="table-wrap"><table><tr>
-<th>Tarix</th>
-<th>Hava</th>
-<th>Temperatur [*C]</th>
-<th>Hiss edilən [*C]</th>
-<th>Yağış [%]</th>
-<th>Bulud [%]</th>
-<th>UV indeks</th>
-<th>Yağıntı [mm]</th>
-<th>Külək [km/h]</th>
-<th>Orta külək [km/h]</th>
-<th>İstiqamət [>]</th>
-<th>külək zərbələri [km/h]</th>
-<th>Təzyiq [hPa]</th>
-<th>Günəş</th>
-    </tr>`;
+let html = `
+<div class="forecast-table-wrap">
+<table class="forecast-table">
 
-    for(let i=7;i<14;i++){
-        html += `<tr>
+<thead>
+<tr>
+    <th>📅 Tarix</th>
+    <th>🌤 Hava</th>
+    <th>🌡 Temperatur [°C]</th>
+    <th>🥵 Hiss edilən [°C]</th>
+    <th>🌧 Yağış [%]</th>
+    <th>☁️ Bulud [%]</th>
+    <th>☀️ UV indeks</th>
+    <th>💧 Yağıntı [mm]</th>
+    <th>💨 Külək [km/h]</th>
+    <th>🌬 Orta külək [km/h]</th>
+    <th>🧭 İstiqamət</th>
+    <th>💨 Zərbələr [km/h]</th>
+    <th>📊 Təzyiq [hPa]</th>
+    <th>🌅 Günəş</th>
+</tr>
+</thead>
 
-<td>${d.daily.time[i]}</td>
+<tbody>
+`;
 
-<td>${icon(d.daily.weathercode[i])}</td>
+for(let i=7;i<14;i++){
 
-<td>
-${f(d.daily.temperature_2m_max[i])}°
-/
-${f(d.daily.temperature_2m_min[i])}°
-</td>
+    html += `
+    <tr>
 
-<td>
-${f(d.daily.apparent_temperature_max[i])}°
-/
-${f(d.daily.apparent_temperature_min[i])}°
-</td>
+        <td>
+            <strong>${d.daily.time[i]}</strong>
+        </td>
 
-<td>
-${f(d.daily.precipitation_probability_max[i])}%
-</td>
+        <td>
+            ${icon(d.daily.weathercode[i])}
+        </td>
 
-<td>
-${f(d.daily.cloud_cover_mean[i])}%
-</td>
+        <td>
+            <strong>
+                ${f(d.daily.temperature_2m_max[i])}°
+            </strong>
+            /
+            ${f(d.daily.temperature_2m_min[i])}°
+        </td>
 
-<td>
-${f(d.daily.uv_index_max[i])}
-</td>
+        <td>
+            ${f(d.daily.apparent_temperature_max[i])}°
+            /
+            ${f(d.daily.apparent_temperature_min[i])}°
+        </td>
 
-<td>
-${f(d.daily.precipitation_sum[i])} mm
-</td>
+        <td>
+            ${f(d.daily.precipitation_probability_max[i])}%
+        </td>
 
-<td>
-${f(d.daily.wind_speed_10m_max[i])} km/h
-</td>
+        <td>
+            ${f(d.daily.cloud_cover_mean[i])}%
+        </td>
 
-<td>
-${f(d.daily.wind_speed_10m_mean[i])} km/h
-</td>
+        <td>
+            <strong>${f(d.daily.uv_index_max[i])}</strong>
+        </td>
 
-<td>
-${windDir(d.daily.wind_direction_10m_dominant[i])}
-</td>
+        <td>
+            ${f(d.daily.precipitation_sum[i])} mm
+        </td>
 
-<td>
-${f(d.daily.wind_gusts_10m_max[i])} km/h
-</td>
+        <td>
+            ${f(d.daily.wind_speed_10m_max[i])} km/h
+        </td>
 
-<td>
-${f(d.daily.surface_pressure_mean[i])} hPa
-</td>
+        <td>
+            ${f(d.daily.wind_speed_10m_mean[i])} km/h
+        </td>
 
-<td>
-🌅 ${d.daily.sunrise[i].split("T")[1].slice(0,5)}
-<br>
-🌇 ${d.daily.sunset[i].split("T")[1].slice(0,5)}
-</td>
+        <td>
+            ${windDir(d.daily.wind_direction_10m_dominant[i])}
+        </td>
 
-</tr>`;
-    }
+        <td>
+            ${f(d.daily.wind_gusts_10m_max[i])} km/h
+        </td>
 
-    html += "</table></div>";
-    document.getElementById("forecast14Content").innerHTML = html;
+        <td>
+            ${f(d.daily.surface_pressure_mean[i])} hPa
+        </td>
+
+        <td>
+            🌅 ${d.daily.sunrise[i].split("T")[1].slice(0,5)}
+            <br>
+            🌇 ${d.daily.sunset[i].split("T")[1].slice(0,5)}
+        </td>
+
+    </tr>
+    `;
 }
+
+html += `
+</tbody>
+</table>
+</div>
+`;
+
+document.getElementById("forecast14Content").innerHTML = html;
 
 async function getTemp(lat, lon){
 
