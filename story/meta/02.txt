@@ -1,60 +1,46 @@
-<h2 style="color:#0ea5e9;">🌊🇦🇿 Bakı və bölgələrdə su hövzələrində qanun pozuntuları aşkarlanıb</h2>
+<h2 style="color:#16a34a;">🏞️🔥 Azərbaycanda təbii ərazilərdə yanğınların qarşısının alınması üçün praktiki təlimlər keçirilib</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 22 avqust 2026, 19:30 — Bakı vaxtı
+🕐 Əlavə olunub: 23 avqust 2026, 19:00 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Bakı və Azərbaycanın bir sıra bölgələrində yerləşən su hövzələrində
-ətraf mühitin mühafizəsi ilə bağlı qanun pozuntuları aşkarlanıb.</strong>
-Araşdırmalar zamanı göl və çayların tullantılarla qanunsuz doldurulması,
-torpaq və digər materialların su hövzələrinə tökülməsi, həmçinin
-icazəsiz qazıntı işlərinin aparılması müəyyən edilib.
+<strong>Azərbaycanda meşə və digər təbii ərazilərdə mümkün yanğınlara
+hazırlığın artırılması məqsədilə praktiki tədbirlər keçirilib.</strong>
+Təlimlər zamanı müxtəlif qurumların qarşılıqlı fəaliyyəti və yanğınlara
+operativ müdaxilə imkanları diqqət mərkəzində olub.
 </p>
 
 <p>
-📍 Pozuntular <strong>Xəzər rayonunun Buzovna qəsəbəsində, Suraxanı
-rayonunun Bülbülə qəsəbəsində və Abşeron rayonunun Məmmədli kəndi
-ərazisindəki göllərdə</strong>, eləcə də Goranboy rayonunun
-Yuxarı Ağcakənd qəsəbəsi yaxınlığındakı Qaraçay çayının sahilində və
-Balakən rayonunda Dəliçay ərazisində aşkarlanıb. :contentReference[oaicite:0]{index=0}
+🌲 Tədbirlər təbii ərazilərdə yanğınların qarşısının alınması, risklərin
+qiymətləndirilməsi və fövqəladə vəziyyət zamanı xidmətlərin koordinasiyasının
+təkmilləşdirilməsinə yönəlib.
 </p>
 
 <p>
-♻️ Araşdırma zamanı bəzi su hövzələrinin tikinti-söküntü və məişət
-tullantıları, bərk və qarışıq süxurlarla qanunsuz doldurulduğu müəyyən
-edilib. Həmçinin akvatoriyalara torpaq və digər materialların
-tökülməsi faktları qeydə alınıb.
+🚒 Praktiki hazırlığın əsas məqsədlərindən biri yanğın baş verdikdə
+müvafiq qüvvələrin daha sürətli şəkildə əraziyə cəlb olunması və
+yanğının geniş ərazilərə yayılmasının qarşısının alınmasıdır.
 </p>
 
 <p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Bəzi ərazilərdə sahilboyu mühafizə zolaqlarında icazəsiz
-torpaq-qazıntı işləri aparılıb. Qazıntılar nəticəsində relyefin
-dəyişdirilməsi və su hövzələrinin hidroloji rejiminə təsir edən hallar
-da müəyyən olunub. :contentReference[oaicite:1]{index=1}
+⚠️ Yay aylarında yüksək temperatur və quru bitki örtüyü səbəbindən
+təbii ərazilərdə yanğın təhlükəsi xüsusilə artır.
 </p>
 
-<p>
-💧 Su hövzələrinin qanunsuz doldurulması və təbii relyefin dəyişdirilməsi
-çayların, göllərin və onların sahil ekosistemlərinin vəziyyətinə mənfi
-təsir göstərə bilər. Buna görə su ehtiyatlarının və sahilyanı ərazilərin
-qorunması xüsusi əhəmiyyət daşıyır.
-</p>
-
-<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-⚖️ Aşkar edilmiş faktlarla bağlı Cinayət Məcəlləsinin müvafiq maddələri
-ilə cinayət işləri başlanılıb. Hazırda faktların hüquqi qiymətləndirilməsi
-məqsədilə istintaq tədbirləri davam etdirilir. :contentReference[oaicite:2]{index=2}
+<p style="color:#22c55e;font-size:20px;font-weight:bold;">
+🌿 Meşələrin, milli parkların və digər təbii ərazilərin qorunması
+Azərbaycanın biomüxtəlifliyinin və ekosistemlərinin mühafizəsi üçün
+böyük əhəmiyyət daşıyır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌿 META Meteorologiya Mərkəzi Azərbaycanda su ehtiyatlarının vəziyyəti,
-təbiət hadisələri, ekologiya və ətraf mühitlə bağlı yenilikləri izləyir.
+📡 META Meteorologiya Mərkəzi təbiət, ekologiya, iqlim və meteoroloji
+hadisələrlə bağlı xəbərləri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ekologiya və təbiət xəbərlərini izləmək üçün WhatsApp kanalımıza
-qoşulun:
+📲 Ekologiya və təbiət xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
