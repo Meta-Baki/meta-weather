@@ -1,50 +1,46 @@
-<h2 style="color:#f97316;">🔥🌡️ Azərbaycanda güclü istilər davam edir: bəzi rayonlarda temperatur 40°C-yə çatacaq</h2>
+<h2 style="color:#ef4444;">🌲🔥 Azərbaycanda təbii ərazilərdə yanğın təhlükəsinə qarşı tədbirlər gücləndirilir</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 22 avqust 2026, 19:00 — Bakı vaxtı
+🕐 Əlavə olunub: 23 avqust 2026, 18:40 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Azərbaycanda yaxın günlərdə isti və əsasən quraq hava şəraitinin
-davam edəcəyi gözlənilir.</strong> Milli Hidrometeorologiya Xidmətinin
-məlumatına görə, bəzi rayonlarda havanın temperaturu 40°C-yə qədər
-yüksələ bilər. :contentReference[oaicite:0]{index=0}
+<strong>Azərbaycanda isti və quru hava şəraiti fonunda təbii ərazilərdə
+yanğın təhlükəsizliyinə diqqət artırılır.</strong> Yay aylarında yüksək
+temperatur və quru bitki örtüyü meşə, milli park və digər təbii ərazilərdə
+yanğın riskini yüksəldir.
 </p>
 
 <p>
-☀️ Bakı və Abşeron yarımadasında 23 avqustda yağıntı gözlənilmir.
-Havanın temperaturu gündüz saatlarında 31–36°C olacaq. Azərbaycanın
-rayonlarında isə temperatur əsasən 35–38°C, bəzi yerlərdə isə
-40°C-yə qədər yüksələcək. :contentReference[oaicite:1]{index=1}
-</p>
-
-<p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Uzunmüddətli isti və quraq hava təbii ərazilərdə su çatışmazlığını
-artıra və xüsusilə quru ot örtüyü olan sahələrdə yanğın riskini
-yüksəldə bilər.
+🔥 Son günlər ölkənin müxtəlif bölgələrində kənd təsərrüfatı və açıq
+ərazilərdə baş verən yanğınlarla bağlı faktlar da qeydə alınıb. Hüquq-
+mühafizə orqanları bəzi hallarda yanğınların insan fəaliyyəti nəticəsində
+baş verdiyini müəyyənləşdiriblər. ([baku.ws](https://baku.ws/ru/obschestvo/vyyavleny-podzhigateli-selhozugodij-v-regionah-azerbajdzhana?utm_source=chatgpt.com))
 </p>
 
 <p>
-🌿 İsti hava şəraitində təbii ərazilərdə odla ehtiyatlı davranmaq,
-meşə və qoruq ərazilərində yanğın təhlükəsizliyi qaydalarına riayət
-etmək xüsusilə vacibdir.
+🌿 Təbii ərazilərdə nəzarətsiz od qalamaq, quru ot örtüyünü yandırmaq və
+yanğın təhlükəsizliyi qaydalarına əməl etməmək qısa müddətdə böyük
+ərazilərin zərər görməsinə səbəb ola bilər.
 </p>
 
-<p>
-🏜️ Azərbaycanın müxtəlif iqlim qurşaqlarına malik olması səbəbindən
-isti hava dalğalarının təsiri regionlara görə fərqli hiss olunur.
-Aran və düzənlik ərazilərində yüksək temperatur daha çox müşahidə
-olunur, dağlıq ərazilərdə isə temperatur nisbətən aşağı qalır.
+<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
+⚠️ Mütəxəssislər isti və küləkli günlərdə xüsusilə meşə və quru otlu
+ərazilərdə ehtiyatlı davranmağın vacibliyini bildirirlər.
+</p>
+
+<p style="color:#22c55e;font-size:20px;font-weight:bold;">
+🌍 Təbii ərazilərin qorunması yalnız dövlət qurumlarının deyil, hər bir
+vətəndaşın məsuliyyətidir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanda hava şəraitini,
-iqlim dəyişikliklərini və ətraf mühitlə bağlı hadisələri izləyir.
+📡 META Meteorologiya Mərkəzi Azərbaycanda hava şəraitini, təbii
+hadisələri və ətraf mühitlə bağlı yenilikləri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ekologiya, təbiət və hava xəbərlərini izləmək üçün WhatsApp
-kanalımıza qoşulun:
+📲 Ekologiya, təbiət və hava xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
