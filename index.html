@@ -650,10 +650,16 @@ body.app-page.app-mode .top-area {
 
     border: 1px solid rgba(255,255,255,0.25);
 
-    /* внешний фон таблицы */
-    background: rgba(10,16,25,0.45);
+    background: transparent !important;
+    backdrop-filter: none;
+}
 
-    backdrop-filter: blur(10px);
+  
+.forecast-table,
+.forecast-table tbody,
+.forecast-table tr,
+.forecast-table td {
+    background: transparent !important;
 }
 
 
@@ -773,17 +779,23 @@ body.app-page.app-mode .top-area {
 @media(max-width:900px) {
 
     .forecast-table {
-        font-size: 14px;
-        min-width: 1000px;
+        font-size: 18px;
+        min-width: 1100px;
     }
 
     .forecast-table th {
-        padding: 18px 12px;
-        font-size: 14px;
+        padding: 18px 14px;
+        font-size: 18px;
     }
 
     .forecast-table td {
-        padding: 22px 12px;
+        padding: 25px 14px;
+        font-size: 18px;
+    }
+
+    .forecast-table td img {
+        width: 48px !important;
+        height: 48px;
     }
 }
   
