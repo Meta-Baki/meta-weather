@@ -1,47 +1,57 @@
-<h2 style="color:#f59e0b;">🌞🌑 NASA tam Günəş tutulmasının yeni görüntülərini yayımlayıb.</h2>
+<h2 style="color:#f59e0b;">☀️🌍 Günəşdə aktivlik davam edir: Yer üçün CME təsiri mümkündür</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 22 avqust 2026, 18:30 — Bakı vaxtı
+🕐 Əlavə olunub: 23 avqust 2026, 18:30 — Bakı vaxtı
 </p>
 
 <p>
-<strong>NASA yayı 12 avqust 2026-cı ildə baş vermiş tam Günəş tutulmasının
-yeni görüntülərini yayımlayıb.</strong> Agentlik hadisəni Yer səthindən,
-havadan və kosmosdan çəkilmiş müxtəlif görüntülərlə təqdim edib.
+<strong>Günəşdə 23 avqust tarixində aktivlik nisbətən aşağı olsa da,
+alimlər Günəş diskinin mərkəzinə yaxın yerləşən AR4513 aktiv bölgəsini
+izləməyə davam edirlər.</strong>
+Bu bölgədə C sinifli Günəş alışmaları müşahidə olunur və onun maqnit
+strukturu yeni aktivliyin yaranması ehtimalını saxlayır.
 </p>
 
 <p>
-🌑 Tam Günəş tutulması zamanı Ay Günəşin qarşısından keçərək onun
-diskini tamamilə örtür. Ayın kölgəsinin tam tutulma zonasına düşən
-ərazilərdə Günəş bir müddət tamamilə qaranlıq görünür.
+🌞 <strong>AR4513</strong> Günəşin Yerə tərəf yönəlmiş hissəsində yerləşdiyi
+üçün burada baş verən güclü partlayışlar kosmik hava şəraitinə təsir
+göstərə bilər. Hazırda müşahidə olunan aktivlik əvvəlki daha güclü
+Günəş hadisələri ilə müqayisədə zəifdir.
 </p>
 
 <p>
-📡 NASA-nın yayımladığı yeni materiallar tutulmanın müxtəlif
-müşahidə nöqtələrindən necə göründüyünü müqayisə etməyə imkan verir.
-Kosmosdan çəkilən görüntülər isə hadisəni Yer atmosferindən kənardan
-müşahidə etməyin üstünlüklərini nümayiş etdirir.
+💨 Mütəxəssislərin diqqət yetirdiyi əsas məsələlərdən biri mümkün
+<strong>koronal kütlə atılmasıdır (CME)</strong>. Proqnozlara görə,
+atılmanın yalnız kənar hissəsi 24 avqustda Yerə yaxınlaşa bilər.
+Bu halda təsir əsasən kosmik hava şəraitində müşahidə oluna bilər.
 </p>
 
 <p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🔭 Günəş tutulmaları astronomlar üçün yalnız möhtəşəm səma hadisəsi
-deyil, həm də Günəşin xarici atmosferini — tacını öyrənmək üçün
-mühüm müşahidə imkanlarından biridir.
+🛰️ Güclü Günəş aktivliyi peyklərin fəaliyyətinə, radio rabitəsinə,
+naviqasiya sistemlərinə və Yerə yaxın kosmik mühitə təsir göstərə bilər.
 </p>
 
 <p>
-🌌 NASA-nın məlumatına görə, 12 avqust tutulması 2026-cı ilin əsas
-astronomik hadisələrindən biri olub. Agentlik hadisəni Yer, hava və
-kosmik platformalardan müşahidə edib.
+🌌 Günəş aktivliyinin artması zamanı yüksək enliklərdə auroraların
+— qütb parıltılarının — müşahidə ehtimalı da yüksələ bilər. Lakin
+23–24 avqust üçün mümkün təsirin gücü CME-nin real istiqamətindən və
+sürətindən asılı olacaq.
+</p>
+
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+⚠️ Hazırkı məlumatlara əsasən, bu hadisə Yer üçün təhlükəli hesab edilmir.
+Əsas diqqət kosmik hava şəraitinin və mümkün geomaqnit dəyişikliklərin
+izlənilməsinə yönəlib.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🚀 META Meteorologiya Mərkəzi kosmos, Günəş aktivliyi, astronomik
-hadisələr və peyk məlumatları ilə bağlı yenilikləri izləyir.
+🔭 META Meteorologiya Mərkəzi Günəş aktivliyini, kosmik hava şəraitini
+və Yerə mümkün təsirləri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos və astronomiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Kosmos, Günəş aktivliyi və meteoroloji xəbərləri izləmək üçün
+WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
