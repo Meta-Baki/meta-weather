@@ -2051,7 +2051,8 @@ html += `
 `;
 
 document.getElementById("forecast").innerHTML = html;
-
+}
+  
 async function loadForecast14(){
     let r = await fetch(
 "https://api.open-meteo.com/v1/forecast?latitude=40.3793&longitude=49.9625&daily=weathercode,temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,precipitation_probability_max,snowfall_sum,wind_speed_10m_mean,cloud_cover_mean,uv_index_max,precipitation_sum,sunrise,sunset,wind_speed_10m_max,wind_direction_10m_dominant,wind_gusts_10m_max,surface_pressure_mean&timezone=auto&forecast_days=14"
@@ -2164,7 +2165,8 @@ html += `
 `;
 
 document.getElementById("forecast14Content").innerHTML = html;
-
+}
+  
 async function getTemp(lat, lon){
 
     let r = await fetch(
