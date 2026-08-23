@@ -659,7 +659,16 @@ body.app-page.app-mode .top-area {
 .forecast-table tbody,
 .forecast-table tr,
 .forecast-table td {
-    background: transparent !important;
+    padding: 25px 16px;
+    text-align: center;
+
+    background: rgba(10, 16, 25, 0.18) !important;
+
+    border-right: 1px solid rgba(255,255,255,0.22);
+    border-bottom: 1px solid rgba(255,255,255,0.25);
+
+    font-weight: 600;
+    white-space: nowrap;
 }
 
 
@@ -796,6 +805,28 @@ body.app-page.app-mode .top-area {
     .forecast-table td img {
         width: 48px !important;
         height: 48px;
+    }
+}
+
+@media (max-width: 900px) {
+
+    .forecast-table {
+        font-size: 20px !important;
+    }
+
+    .forecast-table th {
+        font-size: 20px !important;
+        padding: 20px 16px !important;
+    }
+
+    .forecast-table td {
+        font-size: 20px !important;
+        padding: 27px 16px !important;
+    }
+
+    .forecast-table td img {
+        width: 52px !important;
+        height: 52px !important;
     }
 }
   
