@@ -613,34 +613,31 @@ body.app-page.app-mode .top-area {
     padding-top: 70px;
 }
 
-/* =========================================
-   MOBILE FORECAST HEIGHT
-   viewport scale = 0.43
-   ========================================= */
-
 @media (max-width: 900px) {
 
-    /* 7 DAYS */
-    #forecast7 #forecast table tr,
-    #forecast7 #forecast table tbody tr {
-        height: 180px !important;
+    /* ===== 7 ДНЕЙ ===== */
+
+    #forecast7 #forecast .table-wrap td {
+        padding-top: 70px !important;
+        padding-bottom: 70px !important;
     }
 
-    #forecast7 #forecast table td {
-        padding-top: 50px !important;
-        padding-bottom: 50px !important;
+    #forecast7 #forecast .table-wrap th {
+        padding-top: 25px !important;
+        padding-bottom: 25px !important;
     }
 
 
-    /* 14 DAYS */
-    #forecast14Section #forecast14Content table tr,
-    #forecast14Section #forecast14Content table tbody tr {
-        height: 180px !important;
+    /* ===== 14 ДНЕЙ ===== */
+
+    #forecast14Section #forecast14Content .table-wrap td {
+        padding-top: 70px !important;
+        padding-bottom: 70px !important;
     }
 
-    #forecast14Section #forecast14Content table td {
-        padding-top: 50px !important;
-        padding-bottom: 50px !important;
+    #forecast14Section #forecast14Content .table-wrap th {
+        padding-top: 25px !important;
+        padding-bottom: 25px !important;
     }
 
 }
