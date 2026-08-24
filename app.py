@@ -493,6 +493,29 @@ def space_content():
     return jsonify(news)
 
 
+@app.route("/records_content")
+def records_content():
+
+    text = ""
+    try:
+        with open("story/records/records.txt", "r", encoding="utf-8") as f:
+            text = f.read()
+    except:
+        text = "Rekord məlumatları tapılmadı."
+
+    image_path = None
+
+    if os.path.exists("story/records/records.jpg"):
+        image_path = "/story/records/records.jpg"
+    elif os.path.exists("story/records/records.png"):
+        image_path = "/story/records/records.png"
+
+    return jsonify({
+        "text": text,
+        "image": image_path
+    })
+
+
 @app.route("/meta_content")
 def meta_content():
 
