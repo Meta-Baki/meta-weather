@@ -70,10 +70,104 @@ def home():
     return send_from_directory(".", "index.html")
 
 
+# ---------------- HISTORY STORAGE ----------------
+_HISTORY_CACHE = None
+
+
+def make_history_entry(entry):
+    now = datetime.now(BAKU_TZ)
+    return {
+        "timestamp": now.isoformat(),
+        "time": now.strftime("%d.%m %H:%M:%S"),
+        "temp": float(entry.get("temp", 0)),
+        "wind": round(float(entry.get("wind_ms", 0)) * 3.6, 1),
+        "gust": round(float(entry.get("wind_gust_ms", 0)) * 3.6, 1),
+        "humidity": float(entry.get("humidity", 0)),
+        "pressure": float(entry.get("pressure", 0)),
+        "rain": float(entry.get("rain_1h", 0))
+    }
+
+
+def normalise_history(data):
+    normalised = []
+
+    for item in data:
+        if not isinstance(item, dict):
+            continue
+
+        # Old entries used ISO time in `time` instead of `timestamp`.
+        timestamp = item.get("timestamp") or item.get("time")
+        if not isinstance(timestamp, str) or "T" not in timestamp:
+            continue
+
+        try:
+            point_time = datetime.fromisoformat(timestamp)
+        except ValueError:
+            continue
+
+        normalised.append({
+            "timestamp": timestamp,
+            "time": item.get("time") if "T" not in str(item.get("time", "")) else point_time.strftime("%d.%m %H:%M:%S"),
+            "temp": float(item.get("temp", 0)),
+            "wind": float(item.get("wind", 0)),
+            "gust": float(item.get("gust", 0)),
+            "humidity": float(item.get("humidity", 0)),
+            "pressure": float(item.get("pressure", 0)),
+            "rain": float(item.get("rain", 0))
+        })
+
+    return normalised
+
+def load_history():
+    """Loads persistent history from GitHub once, with a local fallback."""
+    global _HISTORY_CACHE
+
+    if _HISTORY_CACHE is not None:
+        return _HISTORY_CACHE.copy()
+
+    data = None
+    try:
+        response = requests.get(
+            f"https://raw.githubusercontent.com/{REPO}/main/{FILE}",
+            timeout=10
+        )
+        if response.status_code == 200:
+            candidate = response.json()
+            if isinstance(candidate, list):
+                data = candidate
+    except Exception:
+        pass
+
+    if data is None:
+        try:
+            with open(HISTORY_FILE, encoding="utf-8") as f:
+                candidate = json.load(f)
+            if isinstance(candidate, list):
+                data = candidate
+        except Exception:
+            data = []
+
+    _HISTORY_CACHE = normalise_history(data)[-2000:]
+
+    return _HISTORY_CACHE.copy()
+
+
+def save_history(entry):
+    global _HISTORY_CACHE
+
+    data = load_history()
+    data.append(make_history_entry(entry))
+    _HISTORY_CACHE = data[-2000:]
+
+    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
+        json.dump(_HISTORY_CACHE, f, ensure_ascii=False, indent=2)
+
+    update_github(_HISTORY_CACHE)
+
+
 # ---------------- UPDATE ----------------
 @app.route("/update", methods=["POST"])
 def update():
-
     try:
         data = request.get_json(force=True)
 
@@ -88,35 +182,6 @@ def update():
 
             with open(LAST_SAVE_FILE, "w", encoding="utf-8") as f:
                 json.dump({"time": datetime.now(BAKU_TZ).timestamp()}, f)
-
-        history = []
-
-        try:
-            r = requests.get(
-                f"https://raw.githubusercontent.com/{REPO}/main/{FILE}",
-                timeout=10
-            )
-
-            if r.status_code == 200:
-                try:
-                    history = r.json()
-                    if not isinstance(history, list):
-                        history = []
-                except:
-                    history = []
-        except:
-            history = []
-
-        history.append({
-            "temp": data.get("temp"),
-            "humidity": data.get("humidity"),
-            "pressure": data.get("pressure"),
-            "time": datetime.now(BAKU_TZ).isoformat()
-        })
-
-        history = history[-2000:]
-
-        update_github(history)
 
         return {"ok": True}
 
@@ -152,79 +217,13 @@ def station():
 # ---------------- HISTORY ----------------
 @app.route("/history")
 def history():
-    try:
-        if not os.path.exists(HISTORY_FILE):
-            return jsonify([])
-
-        with open(HISTORY_FILE, encoding="utf-8") as f:
-            data = json.load(f)
-
-        if isinstance(data, dict):
-            flat = []
-            for day in data.values():
-                flat.extend(day)
-            return jsonify(flat)
-
-        if not isinstance(data, list):
-            return jsonify([])
-
-        return jsonify(data)
-
-    except:
-        return jsonify([])
+    return jsonify(load_history())
 
 
 # ---------------- FLAT HISTORY ----------------
 @app.route("/history_flat")
 def history_flat():
-    try:
-        if not os.path.exists(HISTORY_FILE):
-            return jsonify([])
-
-        with open(HISTORY_FILE, encoding="utf-8") as f:
-            data = json.load(f)
-
-        if isinstance(data, dict):
-            flat = []
-            for day in data.values():
-                flat.extend(day)
-            return jsonify(flat)
-
-        return jsonify(data if isinstance(data, list) else [])
-
-    except:
-        return jsonify([])
-
-
-# ---------------- SAVE HISTORY ----------------
-def save_history(entry):
-
-    if os.path.exists(HISTORY_FILE):
-        try:
-            with open(HISTORY_FILE, encoding="utf-8") as f:
-                data = json.load(f)
-                if not isinstance(data, list):
-                    data = []
-        except:
-            data = []
-    else:
-        data = []
-
-    data.append({
-        "timestamp": datetime.now(BAKU_TZ).isoformat(),
-        "time": datetime.now(BAKU_TZ).strftime("%d.%m %H:%M:%S"),
-        "temp": float(entry.get("temp", 0)),
-        "wind": round(float(entry.get("wind_ms", 0)) * 3.6, 1),
-        "gust": round(float(entry.get("wind_gust_ms", 0)) * 3.6, 1),
-        "humidity": float(entry.get("humidity", 0)),
-        "pressure": float(entry.get("pressure", 0)),
-        "rain": float(entry.get("rain_1h", 0))
-    })
-
-    data = data[-2000:]
-
-    with open(HISTORY_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2)
+    return jsonify(load_history())
 
 
 # ---------------- 30 MIN CHECK ----------------
