@@ -2122,7 +2122,10 @@ if(d.wind_ms * 3.6 > 45){
 }
 
 async function loadForecast(){
-    let r = await fetch("/forecast7");
+    let r = await fetch(
+        "https://api.open-meteo.com/v1/forecast?latitude=40.379228&longitude=49.9625323&daily=weathercode,temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,precipitation_probability_max,wind_speed_10m_mean,cloud_cover_mean,uv_index_max,sunrise,sunset,windspeed_10m_max,winddirection_10m_dominant,windgusts_10m_max,surface_pressure_mean,precipitation_sum&timezone=Asia/Baku&forecast_days=7"
+    );
+
     let d = await r.json();
 
 // =====================================
