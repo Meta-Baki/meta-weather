@@ -496,18 +496,29 @@ def space_content():
 @app.route("/records_content")
 def records_content():
 
-    text = ""
-    try:
-        with open("story/records/records.txt", "r", encoding="utf-8") as f:
-            text = f.read()
-    except:
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    records_dir = os.path.join(base_dir, "story", "records")
+
+    text_path = os.path.join(records_dir, "records.txt")
+    jpg_path = os.path.join(records_dir, "records.jpg")
+    png_path = os.path.join(records_dir, "records.png")
+
+    # Текст
+    if os.path.isfile(text_path):
+        try:
+            with open(text_path, "r", encoding="utf-8") as f:
+                text = f.read()
+        except Exception as e:
+            text = f"Ошибка чтения records.txt: {e}"
+    else:
         text = "Rekord məlumatları tapılmadı."
 
+    # Изображение
     image_path = None
 
-    if os.path.exists("story/records/records.jpg"):
+    if os.path.isfile(jpg_path):
         image_path = "/story/records/records.jpg"
-    elif os.path.exists("story/records/records.png"):
+    elif os.path.isfile(png_path):
         image_path = "/story/records/records.png"
 
     return jsonify({
