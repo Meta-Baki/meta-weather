@@ -2973,37 +2973,37 @@ async function loadMeta() {
 }
 
 
-async function loadRecords(){
-
+async function loadRecords() {
     try {
-
         const response = await fetch(
             "/story/records/records.txt?t=" + Date.now()
         );
 
+        if (!response.ok) {
+            throw new Error("HTTP " + response.status);
+        }
+
         const text = await response.text();
 
         const lines = text
-            .split("\n")
+            .split(/\r?\n/)
             .map(line => line.trim())
             .filter(line => line.length > 0);
 
-        let html = `
-        <div style="
-            overflow-x:auto;
-            width:100%;
-        ">
+        if (!lines.length) {
+            throw new Error("records.txt boşdur");
+        }
 
+        let html = `
+        <div style="overflow-x:auto; width:100%;">
         <table style="
             width:100%;
-            border-collapse:collapse;
             min-width:1100px;
+            border-collapse:collapse;
+            text-align:center;
         ">
-
         <thead>
-
         <tr>
-
             <th>📅 Ay</th>
             <th>🌡️ Maks. temperatur</th>
             <th>🥶 Min. temperatur</th>
@@ -3015,11 +3015,8 @@ async function loadRecords(){
             <th>🏜️ Min. rütubət</th>
             <th>🌧️ Yağıntı</th>
             <th>📌 Qeyd</th>
-
         </tr>
-
         </thead>
-
         <tbody>
         `;
 
@@ -3027,69 +3024,47 @@ async function loadRecords(){
 
             const p = line.split("|");
 
-            if(p.length < 10) return;
+            if (p.length < 10) return;
 
             html += `
-
             <tr>
-
-                <td><strong>${p[0]}</strong></td>
-
-                <td>${p[1]} °C</td>
-
-                <td>${p[2]} °C</td>
-
-                <td>${p[3]} km/h</td>
-
-                <td>${p[4]} km/h</td>
-
-                <td>${p[5]} hPa</td>
-
-                <td>${p[6]} hPa</td>
-
-                <td>${p[7]} %</td>
-
-                <td>${p[8]} %</td>
-
-                <td>${p[9]} mm</td>
-
-                <td>${p[10] || ""}</td>
-
+                <td><strong>${p[0] || "-"}</strong></td>
+                <td>${p[1] || "-"} °C</td>
+                <td>${p[2] || "-"} °C</td>
+                <td>${p[3] || "-"} km/h</td>
+                <td>${p[4] || "-"} km/h</td>
+                <td>${p[5] || "-"} hPa</td>
+                <td>${p[6] || "-"} hPa</td>
+                <td>${p[7] || "-"} %</td>
+                <td>${p[8] || "-"} %</td>
+                <td>${p[9] || "-"} mm</td>
+                <td>${p[10] || "-"}</td>
             </tr>
-
             `;
-
         });
 
         html += `
-
         </tbody>
-
         </table>
-
         </div>
         `;
 
-        document.getElementById(
-            "recordsContent"
-        ).innerHTML = html;
+        document.getElementById("recordsContent").innerHTML = html;
 
+    } catch (error) {
+
+        console.error("RECORDS ERROR:", error);
+
+        document.getElementById("recordsContent").innerHTML = `
+            <div style="
+                padding:20px;
+                text-align:center;
+                color:#ff8080;
+            ">
+                ❌ Rekord məlumatları yüklənmədi.
+            </div>
+        `;
     }
-
-    catch(error){
-
-        console.error(
-            "Records error:",
-            error
-        );
-
-        document.getElementById(
-            "recordsContent"
-        ).innerHTML =
-            "❌ Rekord məlumatları yüklənmədi.";
-
-    }
-
 }
 
 window.onload = function () {
