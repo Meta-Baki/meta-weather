@@ -1,46 +1,42 @@
-<h2 style="color:#ef4444;">🌲🔥 Azərbaycanda təbii ərazilərdə yanğın təhlükəsinə qarşı tədbirlər gücləndirilir</h2>
+<h2 style="color:#16a34a;">🌿🏔️ Azərbaycanda 3 yeni turizm və rekreasiya zonası yaradılacaq</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 23 avqust 2026, 18:40 — Bakı vaxtı
+🕐 Əlavə olunub: 24 avqust 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Azərbaycanda isti və quru hava şəraiti fonunda təbii ərazilərdə
-yanğın təhlükəsizliyinə diqqət artırılır.</strong> Yay aylarında yüksək
-temperatur və quru bitki örtüyü meşə, milli park və digər təbii ərazilərdə
-yanğın riskini yüksəldir.
+<strong>Azərbaycanda 2027–2030-cu illərdə üç yeni turizm və rekreasiya
+zonasının yaradılması nəzərdə tutulur.</strong> Müvafiq tədbir
+Azərbaycan Respublikasında turizmin inkişafına dair 2026–2030-cu illər
+üçün Dövlət Proqramında öz əksini tapıb.
 </p>
 
 <p>
-🔥 Son günlər ölkənin müxtəlif bölgələrində kənd təsərrüfatı və açıq
-ərazilərdə baş verən yanğınlarla bağlı faktlar da qeydə alınıb. Hüquq-
-mühafizə orqanları bəzi hallarda yanğınların insan fəaliyyəti nəticəsində
-baş verdiyini müəyyənləşdiriblər. ([baku.ws](https://baku.ws/ru/obschestvo/vyyavleny-podzhigateli-selhozugodij-v-regionah-azerbajdzhana?utm_source=chatgpt.com))
+🏔️ Proqram çərçivəsində bölgələrdə <strong>8 yeni dağ-piyada
+marşrutunun</strong> hazırlanması da planlaşdırılır. Bu addımlar
+ölkənin müxtəlif bölgələrinin təbii və turizm potensialından daha
+səmərəli istifadə edilməsinə imkan yarada bilər.
 </p>
 
 <p>
-🌿 Təbii ərazilərdə nəzarətsiz od qalamaq, quru ot örtüyünü yandırmaq və
-yanğın təhlükəsizliyi qaydalarına əməl etməmək qısa müddətdə böyük
-ərazilərin zərər görməsinə səbəb ola bilər.
-</p>
-
-<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-⚠️ Mütəxəssislər isti və küləkli günlərdə xüsusilə meşə və quru otlu
-ərazilərdə ehtiyatlı davranmağın vacibliyini bildirirlər.
+🌲 Yeni rekreasiya ərazilərinin inkişafı təbiət turizminə marağın
+artırılması ilə yanaşı, təbii ərazilərdən istifadə zamanı onların
+qorunması və davamlı idarə olunmasının əhəmiyyətini də artırır.
 </p>
 
 <p style="color:#22c55e;font-size:20px;font-weight:bold;">
-🌍 Təbii ərazilərin qorunması yalnız dövlət qurumlarının deyil, hər bir
-vətəndaşın məsuliyyətidir.
+🌍 Təbiət turizminin davamlı inkişafı üçün meşələrin, dağlıq ərazilərin,
+su ehtiyatlarının və biomüxtəlifliyin qorunması əsas prioritetlərdən
+olmalıdır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanda hava şəraitini, təbii
-hadisələri və ətraf mühitlə bağlı yenilikləri izləyir.
+📡 META Meteorologiya Mərkəzi Azərbaycanda təbiət, ekologiya, iqlim və
+ətraf mühitlə bağlı yenilikləri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ekologiya, təbiət və hava xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Təbiət və ekologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
