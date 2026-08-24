@@ -3024,33 +3024,51 @@ async function loadRecords() {
 
         const lines = text
             .split(/\r?\n/)
-            .map(line => line.trim())
-            .filter(line => line.length > 0);
+            .map(line => line.trim());
 
         /*
-         * Markdown cədvəl sətrini tapırıq.
-         * Separator sətrini (| --- | --- |) nəzərə almırıq.
+         * İlk sətir — başlıq
          */
-        const tableLines = lines.filter(line => {
-            if (!line.includes("|")) return false;
+        const title = lines.find(line => line.length > 0) || "";
 
-            // Markdown separator sətri
-            if (/^\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)+\|?$/.test(line)) {
-                return false;
+        /*
+         * Cədvəlin başladığı sətri tapırıq
+         */
+        const headerIndex = lines.findIndex((line, index) => {
+            return index > 0 &&
+                   line.includes("|") &&
+                   line.includes("Ay") &&
+                   line.includes("Maks. temperatur");
+        });
+
+        if (headerIndex === -1) {
+            throw new Error("Cədvəl başlığı tapılmadı");
+        }
+
+        /*
+         * Cədvəl sətirlərini götürürük
+         */
+        const tableLines = [];
+
+        for (let i = headerIndex; i < lines.length; i++) {
+            const line = lines[i];
+
+            if (!line.includes("|")) {
+                break;
             }
 
-            return true;
-        });
+            tableLines.push(line);
+        }
 
         if (tableLines.length < 2) {
             throw new Error("Cədvəl məlumatları tapılmadı");
         }
 
-        // Sətri sütunlara ayırırıq
+        /*
+         * Sətri sütunlara ayırırıq
+         */
         function parseRow(line) {
             return line
-                .replace(/^\|/, "")
-                .replace(/\|$/, "")
                 .split("|")
                 .map(cell => cell.trim());
         }
@@ -3062,14 +3080,67 @@ async function loadRecords() {
             .map(parseRow)
             .filter(row => row.length >= headers.length);
 
-        if (!headers.length || !rows.length) {
-            throw new Error("Cədvəl başlığı və ya sətirlər tapılmadı");
-        }
+        /*
+         * Cədvəldən əvvəlki mətn
+         */
+        const beforeTable = lines
+            .slice(1, headerIndex)
+            .filter(line => line.length > 0);
 
-        let html = `
+        /*
+         * Cədvəldən sonrakı mətn
+         */
+        const afterTable = lines
+            .slice(headerIndex + tableLines.length)
+            .filter(line => line.length > 0);
+
+        let html = "";
+
+        /* =========================
+           BAŞLIQ
+        ========================= */
+
+        html += `
+            <div style="
+                margin-bottom:25px;
+            ">
+                <h2 style="
+                    margin:0 0 15px 0;
+                    font-size:28px;
+                ">
+                    ${title}
+                </h2>
+        `;
+
+        /* =========================
+           CƏDVƏLDƏN ƏVVƏL MƏTN
+        ========================= */
+
+        beforeTable.forEach((line, index) => {
+            html += `
+                <div style="
+                    margin-bottom:${index === beforeTable.length - 1 ? "25px" : "10px"};
+                    line-height:1.7;
+                    opacity:${index === 1 ? "0.75" : "0.9"};
+                ">
+                    ${line}
+                </div>
+            `;
+        });
+
+        html += `
+            </div>
+        `;
+
+        /* =========================
+           CƏDVƏL
+        ========================= */
+
+        html += `
             <div style="
                 width:100%;
                 overflow-x:auto;
+                margin-bottom:30px;
             ">
                 <table style="
                     width:100%;
@@ -3135,6 +3206,33 @@ async function loadRecords() {
                 </table>
             </div>
         `;
+
+        /* =========================
+           MƏNBƏ / MƏLUMAT
+        ========================= */
+
+        if (afterTable.length > 0) {
+            html += `
+                <div style="
+                    margin-top:20px;
+                    padding-top:20px;
+                    border-top:1px solid rgba(255,255,255,0.12);
+                    line-height:1.8;
+                    opacity:0.8;
+                    font-size:15px;
+                ">
+            `;
+
+            afterTable.forEach(line => {
+                html += `
+                    <div>${line}</div>
+                `;
+            });
+
+            html += `
+                </div>
+            `;
+        }
 
         container.innerHTML = html;
 
