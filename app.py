@@ -28,7 +28,7 @@ def update_github(history):
     data = {
         "message": "update weather data",
         "content": content,
-        "branch": "main"
+        "branch": HISTORY_BRANCH
     }
 
     if sha:
@@ -40,6 +40,7 @@ def update_github(history):
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 REPO = "Meta-Baki/meta_baki_az"
 FILE = "history.json"
+HISTORY_BRANCH = "history-data"
 
 BAKU_TZ = ZoneInfo("Asia/Baku")
 
@@ -128,7 +129,7 @@ def load_history():
     data = None
     try:
         response = requests.get(
-            f"https://raw.githubusercontent.com/{REPO}/main/{FILE}",
+            f"https://raw.githubusercontent.com/{REPO}/{HISTORY_BRANCH}/{FILE}",
             timeout=10
         )
         if response.status_code == 200:
