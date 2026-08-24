@@ -834,23 +834,101 @@ body.app-page.app-mode .top-area {
   
 
 /* ========================= */
-/* RECORDS TABLE */
+/* RECORDS TABLE — SAME AS 7/14 DAYS */
 /* ========================= */
-.records-wrap{width:100%;overflow-x:auto;margin-top:20px;border:1px solid rgba(255,255,255,0.25);}
-.records-table{width:100%;min-width:900px;border-collapse:collapse;color:white;font-size:16px;}
-.records-table th,.records-table td{padding:15px 14px;text-align:center;border-right:1px solid rgba(255,255,255,0.18);border-bottom:1px solid rgba(255,255,255,0.22);white-space:nowrap;}
-.records-table th{background:rgba(42,55,78,0.92);font-weight:700;}
-.records-table td{background:rgba(10,16,25,0.10);font-weight:600;}
-.records-table tbody tr:hover td{background:rgba(255,255,255,0.06);}
-.records-table th:last-child,.records-table td:last-child{border-right:none;}
-.records-table tr:last-child td{border-bottom:none;}
-.records-image{width:100%;max-width:500px;border-radius:15px;margin-bottom:20px;display:block;}
-.records-intro{margin-bottom:35px;text-align:left;}
-.records-error{text-align:center;padding:25px;}
-@media(max-width:900px){
-    .records-table{min-width:900px !important;font-size:20px !important;}
-    .records-table th{font-size:20px !important;padding:20px 16px !important;}
-    .records-table td{font-size:20px !important;padding:24px 16px !important;}
+
+.records-wrap {
+    width: 100%;
+    overflow-x: auto;
+    margin-top: 20px;
+    border: 1px solid rgba(255,255,255,0.25);
+    background: transparent !important;
+}
+
+.records-table {
+    width: 100%;
+    min-width: 1100px;
+    border-collapse: collapse;
+    color: white;
+    font-size: 16px;
+}
+
+.records-table th,
+.records-table td {
+    padding: 25px 16px;
+    text-align: center;
+    background: rgba(10,16,25,0.10) !important;
+    border-right: 1px solid rgba(255,255,255,0.22);
+    border-bottom: 1px solid rgba(255,255,255,0.25);
+    white-space: nowrap;
+}
+
+.records-table th {
+    background: rgba(42,55,78,0.92) !important;
+    color: #ffffff;
+    padding: 22px 16px;
+    font-weight: 700;
+}
+
+.records-table tbody tr {
+    transition: background 0.2s ease;
+}
+
+.records-table tbody tr:hover td {
+    background: rgba(255,255,255,0.06) !important;
+}
+
+.records-table th:last-child,
+.records-table td:last-child {
+    border-right: none;
+}
+
+.records-table tr:last-child td {
+    border-bottom: none;
+}
+
+/* Скролл такой же, как у прогноза */
+
+.records-wrap::-webkit-scrollbar {
+    height: 7px;
+}
+
+.records-wrap::-webkit-scrollbar-thumb {
+    background: rgba(255,255,255,0.25);
+    border-radius: 10px;
+}
+
+/* Телефон */
+
+@media (hover: none) and (pointer: coarse) {
+
+    #recordsSection .records-wrap td {
+        padding-top: 25px !important;
+        padding-bottom: 25px !important;
+    }
+
+    #recordsSection .records-wrap th {
+        padding-top: 14px !important;
+        padding-bottom: 14px !important;
+    }
+}
+
+@media(max-width:900px) {
+
+    .records-table {
+        min-width: 1100px !important;
+        font-size: 20px !important;
+    }
+
+    .records-table th {
+        font-size: 20px !important;
+        padding: 20px 16px !important;
+    }
+
+    .records-table td {
+        font-size: 20px !important;
+        padding: 25px 16px !important;
+    }
 }
 
 </style>
@@ -1348,14 +1426,14 @@ body.app-page.app-mode .top-area {
         Temperatur, rütubət, külək, təzyiq və digər meteoroloji rekordlar — hər ay üzrə.
     </div>
 
-    <div id="recordsContent" style="
-        text-align:left;
-        line-height:1.7;
-        font-size:18px;
-        background:rgba(15,23,42,0.25);
-        padding:25px;
-        border-radius:18px;
-        position:relative;
+<div id="recordsContent" style="
+         text-align:left;
+         line-height:1.7;
+         font-size:18px;
+         background:transparent;
+         padding:0;
+         border-radius:0;
+         position:relative;
     ">
         Yüklənir...
     </div>
@@ -3136,18 +3214,9 @@ async function loadRecords() {
            CƏDVƏL
         ========================= */
 
-        html += `
-            <div style="
-                width:100%;
-                overflow-x:auto;
-                margin-bottom:30px;
-            ">
-                <table style="
-                    width:100%;
-                    min-width:1100px;
-                    border-collapse:collapse;
-                    font-size:16px;
-                ">
+html += `
+    <div class="records-wrap" style="margin-bottom:30px;">
+        <table class="records-table">
                     <thead>
                         <tr>
         `;
