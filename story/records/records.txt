@@ -3180,7 +3180,7 @@ async function loadRecords() {
         // Cədvəldən əvvəl olan əlavə mətn (məsələn, Qeyd: ...).
         const notes = lines
             .slice(2, headerIndex)
-            .filter(line => !line.includes("|"));
+            .filter(line => line.startsWith("Qeyd:"));
 
         const rows = [];
         let lastTableRowIndex = headerIndex;
@@ -3190,20 +3190,24 @@ async function loadRecords() {
 
             const cells = parseRow(lines[i]);
 
-            // Boş xanaları "-" ilə doldururuq.
-            while (cells.length < headers.length) {
-                cells.push("—");
-            }
+            // Yalnız tam 9 sütunlu meteoroloji sətrlərini cədvələ əlavə edirik.
+            // Beləliklə HTML/JavaScript mətnindəki "||" kimi simvollar
+            // səhvən cədvəl sətrinə çevrilmir.
+            if (cells.length !== headers.length) continue;
 
-            rows.push(cells.slice(0, headers.length));
+            rows.push(cells);
             lastTableRowIndex = i;
         }
 
-        // Cədvəldən sonra olan əlavə məlumatları da göstəririk.
-        // Məsələn: Məlumat mənbəyi, Müşahidə məntəqəsi, Dövr.
+        // Yalnız records.txt-də nəzərdə tutulan məlumat sətirlərini göstəririk.
+        // Başqa mətn və ya JavaScript sətirləri təsadüfən ekrana çıxmır.
         const footerLines = lines
             .slice(lastTableRowIndex + 1)
-            .filter(line => !line.includes("|"));
+            .filter(line =>
+                line.startsWith("Məlumat mənbəyi:") ||
+                line.startsWith("Müşahidə məntəqəsi:") ||
+                line.startsWith("Dövr:")
+            );
 
         if (!rows.length) {
             throw new Error("Rekord sətrləri tapılmadı");
