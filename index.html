@@ -3027,35 +3027,55 @@ async function loadRecords() {
             .map(line => line.trim())
             .filter(line => line.length > 0);
 
-        const headerIndex = lines.findIndex(line =>
-            line.includes("|")
-        );
+        /*
+         * Markdown cədvəl sətrini tapırıq.
+         * Separator sətrini (| --- | --- |) nəzərə almırıq.
+         */
+        const tableLines = lines.filter(line => {
+            if (!line.includes("|")) return false;
 
-        if (headerIndex === -1) {
-            throw new Error("Cədvəl başlığı tapılmadı");
-        }
+            // Markdown separator sətri
+            if (/^\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)+\|?$/.test(line)) {
+                return false;
+            }
 
-        const headers = lines[headerIndex]
-            .split("|")
-            .map(x => x.trim());
+            return true;
+        });
 
-        const rows = lines
-            .slice(headerIndex + 1)
-            .filter(line => line.includes("|"))
-            .map(line =>
-                line.split("|").map(x => x.trim())
-            );
-
-        if (!rows.length) {
+        if (tableLines.length < 2) {
             throw new Error("Cədvəl məlumatları tapılmadı");
         }
 
+        // Sətri sütunlara ayırırıq
+        function parseRow(line) {
+            return line
+                .replace(/^\|/, "")
+                .replace(/\|$/, "")
+                .split("|")
+                .map(cell => cell.trim());
+        }
+
+        const headers = parseRow(tableLines[0]);
+
+        const rows = tableLines
+            .slice(1)
+            .map(parseRow)
+            .filter(row => row.length >= headers.length);
+
+        if (!headers.length || !rows.length) {
+            throw new Error("Cədvəl başlığı və ya sətirlər tapılmadı");
+        }
+
         let html = `
-            <div style="overflow-x:auto;">
+            <div style="
+                width:100%;
+                overflow-x:auto;
+            ">
                 <table style="
                     width:100%;
+                    min-width:1100px;
                     border-collapse:collapse;
-                    min-width:900px;
+                    font-size:16px;
                 ">
                     <thead>
                         <tr>
@@ -3064,9 +3084,12 @@ async function loadRecords() {
         headers.forEach(header => {
             html += `
                 <th style="
-                    padding:12px;
-                    border-bottom:2px solid rgba(255,255,255,0.2);
+                    padding:14px 10px;
                     text-align:center;
+                    font-weight:700;
+                    background:rgba(255,255,255,0.08);
+                    border-bottom:2px solid rgba(255,255,255,0.25);
+                    white-space:nowrap;
                 ">
                     ${header}
                 </th>
@@ -3079,22 +3102,32 @@ async function loadRecords() {
                     <tbody>
         `;
 
-        rows.forEach(row => {
-            html += "<tr>";
+        rows.forEach((row, rowIndex) => {
+            html += `
+                <tr>
+            `;
 
             headers.forEach((_, index) => {
                 html += `
                     <td style="
-                        padding:10px;
-                        border-bottom:1px solid rgba(255,255,255,0.1);
+                        padding:12px 10px;
                         text-align:center;
+                        border-bottom:1px solid rgba(255,255,255,0.12);
+                        white-space:nowrap;
+                        background:${
+                            rowIndex % 2 === 0
+                                ? "rgba(255,255,255,0.025)"
+                                : "transparent"
+                        };
                     ">
                         ${row[index] || "—"}
                     </td>
                 `;
             });
 
-            html += "</tr>";
+            html += `
+                </tr>
+            `;
         });
 
         html += `
@@ -3108,7 +3141,7 @@ async function loadRecords() {
         console.log(
             "Rekordlar uğurla yükləndi:",
             rows.length,
-            "sətir"
+            "ay"
         );
 
     } catch (error) {
