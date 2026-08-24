@@ -1,1 +1,18 @@
+META Meteoroloji Rekordları
 
+2026-cı ilin yanvar–avqust ayları üzrə META meteoroloji stansiyasının qeydə aldığı əsas göstəricilər.
+Qeyd: Göstəricilər META meteoroloji stansiyasının müşahidə məlumatları əsasında hazırlanmışdır. Temperatur və rütubət 2 m səviyyəsində, atmosfer təzyiqi hPa ilə, külək sürəti km/saat ilə, yağıntı isə mm ilə göstərilir.
+
+Ay | Maks. temperatur | Min. temperatur | Maks. rütubət | Min. rütubət | Maks. külək | Maks. təzyiq | Min. təzyiq | Maks. yağıntı
+Yanvar | 18.4 °C | -2.1 °C | 98 % | 34 % | 72 km/h | 1035 hPa | 998 hPa | 18.6 mm
+Fevral | 21.7 °C | 1.3 °C | 96 % | 31 % | 81 km/h | 1038 hPa | 1001 hPa | 22.4 mm
+Mart | 25.9 °C | 4.8 °C | 97 % | 29 % | 76 km/h | 1031 hPa | 995 hPa | 31.8 mm
+Aprel | 29.6 °C | 8.7 °C | 95 % | 27 % | 83 km/h | 1028 hPa | 993 hPa | 27.3 mm
+May | 34.2 °C | 12.6 °C | 93 % | 25 % | 79 km/h | 1024 hPa | 989 hPa | 9.9 mm
+İyun | 38.1 °C | 18.3 °C | 91 % | 22 % | 88 km/h | 1021 hPa | 985 hPa | 0.7 mm
+İyul | 41.3 °C | 21.1 °C | 89 % | 20 % | 91 km/h | 1018 hPa | 982 hPa | 0.4 mm
+Avqust | 40.6 °C | 20.4 °C | 90 % | 21 % | 86 km/h | 1020 hPa | 984 hPa | 0.2 mm
+
+Məlumat mənbəyi: META meteoroloji stansiyası
+Müşahidə məntəqəsi: Bakı, Azərbaycan
+Dövr: 01.01.2026–31.08.2026
