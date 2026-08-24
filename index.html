@@ -908,10 +908,6 @@ body.app-page.app-mode .top-area {
         ⚡ META xəbər
     </button>
 
-   <button onclick="openSection('recordsSection'); loadRecords();">
-    🏆 Meteoroloji rekordlar
-  </button>
-
     <button onclick="openSection('helpSection')">
         📰 Məlumat
     </button>
@@ -1693,29 +1689,6 @@ body.app-page.app-mode .top-area {
 </div>
 
 
-<!-- METEOROLOGICAL RECORDS -->
-
-<div class="box section" id="recordsSection" style="margin-top:-40px;">
-
-    <h1>🏆 Meteoroloji rekordlar</h1>
-
-    <div style="
-        margin-bottom:25px;
-        opacity:0.8;
-        text-align:center;
-    ">
-        Bakı və Abşeron üzrə aylıq meteoroloji rekordlar
-    </div>
-
-    <div id="recordsContent">
-
-        ⏳ Rekordlar yüklənir...
-
-    </div>
-
-</div>
-
-      
 <!-- FINAL COPYRIGHT BAR -->
 
 <div style="
@@ -2972,120 +2945,6 @@ async function loadMeta() {
 
 }
 
-
-async function loadRecords(){
-
-    const box = document.getElementById("recordsContent");
-
-    if (!box) {
-        console.error("recordsContent NOT FOUND");
-        return;
-    }
-
-    box.innerHTML = "⏳ Rekordlar yüklənir...";
-
-    try {
-
-        const response = await fetch(
-            "/story/records/records.txt?t=" + Date.now()
-        );
-
-        if (!response.ok) {
-            throw new Error("HTTP " + response.status);
-        }
-
-        const text = await response.text();
-
-        console.log("RECORDS TEXT:", text);
-
-        const lines = text
-            .split(/\r?\n/)
-            .map(line => line.trim())
-            .filter(line => line.length > 0);
-
-        if (lines.length === 0) {
-            throw new Error("records.txt boşdur");
-        }
-
-        let html = `
-        <div style="overflow-x:auto;width:100%;">
-
-        <table style="
-            width:100%;
-            min-width:1100px;
-            border-collapse:collapse;
-            color:white;
-        ">
-
-        <thead>
-        <tr>
-            <th>📅 Ay</th>
-            <th>🌡️ Maks. temperatur</th>
-            <th>🥶 Min. temperatur</th>
-            <th>💨 Maks. külək</th>
-            <th>🌪️ Maks. zərbə</th>
-            <th>📈 Maks. təzyiq</th>
-            <th>📉 Min. təzyiq</th>
-            <th>💧 Maks. rütubət</th>
-            <th>🏜️ Min. rütubət</th>
-            <th>🌧️ Yağıntı</th>
-            <th>📌 Qeyd</th>
-        </tr>
-        </thead>
-
-        <tbody>
-        `;
-
-        lines.forEach(line => {
-
-            const p = line.split("|");
-
-            if (p.length < 10) return;
-
-            html += `
-            <tr>
-                <td><strong>${p[0]}</strong></td>
-                <td>${p[1]} °C</td>
-                <td>${p[2]} °C</td>
-                <td>${p[3]} km/h</td>
-                <td>${p[4]} km/h</td>
-                <td>${p[5]} hPa</td>
-                <td>${p[6]} hPa</td>
-                <td>${p[7]} %</td>
-                <td>${p[8]} %</td>
-                <td>${p[9]} mm</td>
-                <td>${p[10] || ""}</td>
-            </tr>
-            `;
-        });
-
-        html += `
-        </tbody>
-        </table>
-        </div>
-        `;
-
-        box.innerHTML = html;
-
-    } catch(error) {
-
-        console.error("RECORDS ERROR:", error);
-
-        box.innerHTML = `
-            <div style="
-                padding:30px;
-                text-align:center;
-                color:#ff6b6b;
-                font-size:18px;
-            ">
-                ❌ Rekord məlumatları yüklənmədi.
-                <br>
-                <small>${error.message}</small>
-            </div>
-        `;
-    }
-}
-
 window.onload = function () {
 
     loadStation();
@@ -3097,7 +2956,6 @@ window.onload = function () {
     loadHistory();
     loadSpace();
     loadMeta();
-    loadRecords();
 
     setInterval(loadMiniChart, 60000);
 
