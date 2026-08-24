@@ -1,57 +1,54 @@
-<h2 style="color:#f59e0b;">☀️🌍 Günəşdə aktivlik davam edir: Yer üçün CME təsiri mümkündür</h2>
+<h2 style="color:#8b5cf6;">🌕🚀 Çin Ayın cənub qütbünü araşdırmaq üçün “Chang’e-7” missiyasını həyata keçirir</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 23 avqust 2026, 18:30 — Bakı vaxtı
+🕐 Əlavə olunub: 24 avqust 2026, 18:00 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Günəşdə 23 avqust tarixində aktivlik nisbətən aşağı olsa da,
-alimlər Günəş diskinin mərkəzinə yaxın yerləşən AR4513 aktiv bölgəsini
-izləməyə davam edirlər.</strong>
-Bu bölgədə C sinifli Günəş alışmaları müşahidə olunur və onun maqnit
-strukturu yeni aktivliyin yaranması ehtimalını saxlayır.
+<strong>Çin Ayın cənub qütbünü araşdırmağa yönəlmiş ən mürəkkəb
+kosmik missiyalarından biri olan “Chang’e-7” layihəsini həyata keçirir.</strong>
+Missiyanın əsas məqsədlərindən biri Ayın kölgədə qalan ərazilərində
+su buzunun olub-olmadığını araşdırmaqdır.
 </p>
 
 <p>
-🌞 <strong>AR4513</strong> Günəşin Yerə tərəf yönəlmiş hissəsində yerləşdiyi
-üçün burada baş verən güclü partlayışlar kosmik hava şəraitinə təsir
-göstərə bilər. Hazırda müşahidə olunan aktivlik əvvəlki daha güclü
-Günəş hadisələri ilə müqayisədə zəifdir.
+🚀 Missiyanın tərkibinə <strong>orbital aparat, eniş modulu, Ay roveri
+və xüsusi uçan aparat</strong> daxildir. Bu aparatların birlikdə
+istifadəsi Ayın cənub qütbünün daha ətraflı öyrənilməsinə imkan verəcək.
 </p>
 
 <p>
-💨 Mütəxəssislərin diqqət yetirdiyi əsas məsələlərdən biri mümkün
-<strong>koronal kütlə atılmasıdır (CME)</strong>. Proqnozlara görə,
-atılmanın yalnız kənar hissəsi 24 avqustda Yerə yaxınlaşa bilər.
-Bu halda təsir əsasən kosmik hava şəraitində müşahidə oluna bilər.
-</p>
-
-<p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🛰️ Güclü Günəş aktivliyi peyklərin fəaliyyətinə, radio rabitəsinə,
-naviqasiya sistemlərinə və Yerə yaxın kosmik mühitə təsir göstərə bilər.
+🌑 Alimlərin xüsusi maraq göstərdiyi ərazilər Ayın səthində Günəş
+şüalarının heç vaxt və ya çox az çatdığı kraterlərdir. Belə yerlərdə
+qədim dövrlərdən qalmış su buzunun qorunub saxlanması ehtimal edilir.
 </p>
 
 <p>
-🌌 Günəş aktivliyinin artması zamanı yüksək enliklərdə auroraların
-— qütb parıltılarının — müşahidə ehtimalı da yüksələ bilər. Lakin
-23–24 avqust üçün mümkün təsirin gücü CME-nin real istiqamətindən və
-sürətindən asılı olacaq.
-</p>
-
-<p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Hazırkı məlumatlara əsasən, bu hadisə Yer üçün təhlükəli hesab edilmir.
-Əsas diqqət kosmik hava şəraitinin və mümkün geomaqnit dəyişikliklərin
-izlənilməsinə yönəlib.
+💧 Ayda su buzunun təsdiqlənməsi gələcək insanlı missiyalar üçün
+böyük əhəmiyyət daşıya bilər. Su yalnız içməli resurs kimi deyil,
+həmçinin oksigen və raket yanacağının hazırlanması üçün potensial
+xammal kimi qiymətləndirilir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🔭 META Meteorologiya Mərkəzi Günəş aktivliyini, kosmik hava şəraitini
-və Yerə mümkün təsirləri izləyir.
+🔭 “Chang’e-7” missiyası Ayın cənub qütbünü gələcək insanlı uçuşlar
+üçün daha yaxşı öyrənmək və uzunmüddətli Ay tədqiqatlarının
+elmi bazasını genişləndirmək məqsədi daşıyır.
+</p>
+
+<p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
+🌌 Ayın cənub qütbünün tədqiqi gələcəkdə Ayda uzunmüddətli
+elmi və texnoloji fəaliyyət üçün mühüm mərhələ hesab olunur.
+</p>
+
+<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
+📡 META Meteorologiya Mərkəzi kosmos, Günəş aktivliyi, peyklər və
+astronomik hadisələrlə bağlı ən son məlumatları izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos, Günəş aktivliyi və meteoroloji xəbərləri izləmək üçün
-WhatsApp kanalımıza qoşulun:
+📲 Kosmos və astronomiya xəbərlərini izləmək üçün WhatsApp kanalımıza
+qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
