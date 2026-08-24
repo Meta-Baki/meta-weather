@@ -38,7 +38,7 @@ def update_github(history):
 
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-REPO = "Meta-Baki/meta-weather"
+REPO = "Meta-Baki/meta_baki_az"
 FILE = "history.json"
 
 BAKU_TZ = ZoneInfo("Asia/Baku")
