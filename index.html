@@ -2997,119 +2997,107 @@ async function loadMeta() {
 async function loadRecords() {
     const container = document.getElementById("recordsContent");
 
-    try {
-        const r = await fetch("/story/records/records.txt", {
-            cache: "no-cache"
-        });
+    if (!container) {
+        console.error("recordsContent tapılmadı");
+        return;
+    }
 
-        if (!r.ok) {
-            throw new Error("records.txt HTTP " + r.status);
+    try {
+        const response = await fetch(
+            "/story/records/records.txt?ts=" + Date.now(),
+            {
+                cache: "no-store"
+            }
+        );
+
+        if (!response.ok) {
+            throw new Error(
+                "records.txt yüklənmədi: HTTP " + response.status
+            );
         }
 
-        const raw = (await r.text()).trim();
+        const text = await response.text();
 
-        if (!raw) {
+        if (!text.trim()) {
             throw new Error("records.txt boşdur");
         }
 
-        /*
-         * records.txt adi mətn faylıdır.
-         * Format:
-         *
-         * Başlıq
-         * Alt başlıq
-         *
-         * Ay | Maks. temperatur | Min. temperatur | ...
-         * Yanvar | 18.4 °C | -2.1 °C | ...
-         *
-         * records.jpg isə /story/records/records.jpg
-         * ünvanından yüklənir.
-         */
-
-        const lines = raw
+        const lines = text
             .split(/\r?\n/)
             .map(line => line.trim())
             .filter(line => line.length > 0);
 
-        let title = lines[0] || "META Meteoroloji Rekordları";
-        let subtitle = lines[1] || "";
-
-        // Başlıq və altbaşlıqdan sonra "|" olan ilk sətri cədvəl başlığı kimi tapırıq.
-        const headerIndex = lines.findIndex((line, index) =>
-            index >= 2 && line.includes("|")
+        const headerIndex = lines.findIndex(line =>
+            line.includes("|")
         );
 
         if (headerIndex === -1) {
             throw new Error("Cədvəl başlığı tapılmadı");
         }
 
-        // records.jpg — META xəbər-dəki şəkil prinsipi ilə.
-        let html = `
-            <div class="records-intro">
-                <img
-                    class="records-image"
-                    src="/story/records/records.jpg"
-                    alt="META Meteoroloji Rekordları"
-                    onerror="this.style.display='none';"
-                >
-
-                <h2 style="margin-bottom:10px;">
-                    ${title}
-                </h2>
-
-                <div style="
-                    opacity:0.8;
-                    margin-bottom:25px;
-                ">
-                    ${subtitle}
-                </div>
-            </div>
-        `;
-
-        const parseRow = line => line
+        const headers = lines[headerIndex]
             .split("|")
-            .map(cell => cell.trim());
+            .map(x => x.trim());
 
-        const headers = parseRow(lines[headerIndex]);
-
-        const rows = [];
-
-        for (let i = headerIndex + 1; i < lines.length; i++) {
-            if (!lines[i].includes("|")) continue;
-
-            const cells = parseRow(lines[i]);
-
-            // Boş xanaları "-" ilə doldururuq.
-            while (cells.length < headers.length) {
-                cells.push("—");
-            }
-
-            rows.push(cells.slice(0, headers.length));
-        }
+        const rows = lines
+            .slice(headerIndex + 1)
+            .filter(line => line.includes("|"))
+            .map(line =>
+                line.split("|").map(x => x.trim())
+            );
 
         if (!rows.length) {
-            throw new Error("Rekord sətrləri tapılmadı");
+            throw new Error("Cədvəl məlumatları tapılmadı");
         }
 
-        html += `
-            <div class="records-wrap">
-                <table class="records-table">
+        let html = `
+            <div style="overflow-x:auto;">
+                <table style="
+                    width:100%;
+                    border-collapse:collapse;
+                    min-width:900px;
+                ">
                     <thead>
                         <tr>
-                            ${headers.map(header => `
-                                <th>${header}</th>
-                            `).join("")}
+        `;
+
+        headers.forEach(header => {
+            html += `
+                <th style="
+                    padding:12px;
+                    border-bottom:2px solid rgba(255,255,255,0.2);
+                    text-align:center;
+                ">
+                    ${header}
+                </th>
+            `;
+        });
+
+        html += `
                         </tr>
                     </thead>
-
                     <tbody>
-                        ${rows.map(row => `
-                            <tr>
-                                ${row.map(cell => `
-                                    <td>${cell || "—"}</td>
-                                `).join("")}
-                            </tr>
-                        `).join("")}
+        `;
+
+        rows.forEach(row => {
+            html += "<tr>";
+
+            headers.forEach((_, index) => {
+                html += `
+                    <td style="
+                        padding:10px;
+                        border-bottom:1px solid rgba(255,255,255,0.1);
+                        text-align:center;
+                    ">
+                        ${row[index] || "—"}
+                    </td>
+                `;
+            });
+
+            html += "</tr>";
+        });
+
+        html += `
                     </tbody>
                 </table>
             </div>
@@ -3117,15 +3105,25 @@ async function loadRecords() {
 
         container.innerHTML = html;
 
-    } catch (e) {
-        console.error("Records error:", e);
+        console.log(
+            "Rekordlar uğurla yükləndi:",
+            rows.length,
+            "sətir"
+        );
+
+    } catch (error) {
+        console.error("Rekordlar xətası:", error);
 
         container.innerHTML = `
-            <div class="records-error">
-                ❌ Rekord məlumatları tapılmadı.<br>
-                <small>
-                    /story/records/records.txt və
-                    /story/records/records.jpg fayllarını yoxlayın.
+            <div style="
+                padding:20px;
+                color:#ff6b6b;
+                font-weight:bold;
+            ">
+                ❌ Rekord məlumatları tapılmadı.
+                <br>
+                <small style="opacity:0.7;">
+                    ${error.message}
                 </small>
             </div>
         `;
