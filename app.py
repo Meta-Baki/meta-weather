@@ -43,7 +43,7 @@ FILE = "history.json"
 
 BAKU_TZ = ZoneInfo("Asia/Baku")
 
-# ✔️ ВАЖНОЕ ИСПРАВЛЕНИЕ (СТАТИКА)
+# вњ”пёЏ Р’РђР–РќРћР• РРЎРџР РђР’Р›Р•РќРР• (РЎРўРђРўРРљРђ)
 app = Flask(__name__, static_folder=".", static_url_path="")
 
 
@@ -251,7 +251,9 @@ def forecast7():
 
     try:
 
-        url = "https://api.open-meteo.com/v1/ecmwf"
+        # Общий бесплатный прогнозный API Open-Meteo.
+        # Он используется и для 14-дневного прогноза на странице.
+        url = "https://api.open-meteo.com/v1/forecast"
 
         params = {
 
@@ -410,13 +412,13 @@ def warning():
     warnings = []
 
     if d.get("wind_ms", 0) * 3.6 > 40:
-        warnings.append("⚠️ Güclü külək gözlənilir")
+        warnings.append("вљ пёЏ GГјclГј kГјlЙ™k gГ¶zlЙ™nilir")
 
     if d.get("humidity", 0) > 90:
-        warnings.append("🌫 Duman ehtimalı yüksəkdir")
+        warnings.append("рџЊ« Duman ehtimalД± yГјksЙ™kdir")
 
     if d.get("rain_1h", 0) > 0:
-        warnings.append("🌧 Yağış müşahidə olunur")
+        warnings.append("рџЊ§ YaДџД±Еџ mГјЕџahidЙ™ olunur")
 
     return jsonify(warnings)
 
@@ -447,7 +449,7 @@ def history_content():
         with open("story/history.txt", "r", encoding="utf-8") as f:
             text = f.read()
     except:
-        text = "Hekayə tapılmadı."
+        text = "HekayЙ™ tapД±lmadД±."
 
     image_path = "/story/image.jpg"
 
@@ -503,17 +505,17 @@ def records_content():
     jpg_path = os.path.join(records_dir, "records.jpg")
     png_path = os.path.join(records_dir, "records.png")
 
-    # Текст
+    # РўРµРєСЃС‚
     if os.path.isfile(text_path):
         try:
             with open(text_path, "r", encoding="utf-8") as f:
                 text = f.read()
         except Exception as e:
-            text = f"Ошибка чтения records.txt: {e}"
+            text = f"РћС€РёР±РєР° С‡С‚РµРЅРёСЏ records.txt: {e}"
     else:
-        text = "Rekord məlumatları tapılmadı."
+        text = "Rekord mЙ™lumatlarД± tapД±lmadД±."
 
-    # Изображение
+    # РР·РѕР±СЂР°Р¶РµРЅРёРµ
     image_path = None
 
     if os.path.isfile(jpg_path):
