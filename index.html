@@ -907,6 +907,26 @@ body.app-page.app-mode .top-area {
     text-align:left;
 }
 
+.records-note{
+    margin:0 0 20px 0;
+    padding:14px 18px;
+    border-left:3px solid rgba(255,255,255,0.45);
+    background:rgba(255,255,255,0.04);
+    border-radius:8px;
+    line-height:1.6;
+    font-size:15px;
+    color:rgba(255,255,255,0.9);
+}
+
+.records-footer{
+    margin-top:20px;
+    padding:16px 18px;
+    border-top:1px solid rgba(255,255,255,0.25);
+    line-height:1.8;
+    font-size:15px;
+    color:rgba(255,255,255,0.88);
+}
+
 .records-error{
     text-align:center;
     padding:25px;
@@ -929,6 +949,12 @@ body.app-page.app-mode .top-area {
         font-size:20px !important;
         padding:27px 16px !important;
         line-height:1.4 !important;
+    }
+
+    .records-note,
+    .records-footer{
+        font-size:18px !important;
+        line-height:1.6 !important;
     }
 }
 
@@ -3151,7 +3177,13 @@ async function loadRecords() {
 
         const headers = parseRow(lines[headerIndex]);
 
+        // Cədvəldən əvvəl olan əlavə mətn (məsələn, Qeyd: ...).
+        const notes = lines
+            .slice(2, headerIndex)
+            .filter(line => !line.includes("|"));
+
         const rows = [];
+        let lastTableRowIndex = headerIndex;
 
         for (let i = headerIndex + 1; i < lines.length; i++) {
             if (!lines[i].includes("|")) continue;
@@ -3164,10 +3196,25 @@ async function loadRecords() {
             }
 
             rows.push(cells.slice(0, headers.length));
+            lastTableRowIndex = i;
         }
+
+        // Cədvəldən sonra olan əlavə məlumatları da göstəririk.
+        // Məsələn: Məlumat mənbəyi, Müşahidə məntəqəsi, Dövr.
+        const footerLines = lines
+            .slice(lastTableRowIndex + 1)
+            .filter(line => !line.includes("|"));
 
         if (!rows.length) {
             throw new Error("Rekord sətrləri tapılmadı");
+        }
+
+        if (notes.length) {
+            html += `
+                <div class="records-note">
+                    ${notes.map(line => `<div>${line}</div>`).join("")}
+                </div>
+            `;
         }
 
         html += `
@@ -3193,6 +3240,14 @@ async function loadRecords() {
                 </table>
             </div>
         `;
+
+        if (footerLines.length) {
+            html += `
+                <div class="records-footer">
+                    ${footerLines.map(line => `<div>${line}</div>`).join("")}
+                </div>
+            `;
+        }
 
         container.innerHTML = html;
 
