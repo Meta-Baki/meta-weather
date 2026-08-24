@@ -22,12 +22,8 @@ def update_github(history):
         sha = r.json()["sha"]
 
     content = base64.b64encode(
-json.dumps(
-    history,
-    ensure_ascii=False,
-    indent=2,
-    sort_keys=True
-).encode()
+        json.dumps(history, ensure_ascii=False, indent=2, sort_keys=True).encode()
+    ).decode()
 
     data = {
         "message": "update weather data",
