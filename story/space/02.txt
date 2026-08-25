@@ -1,54 +1,54 @@
-<h2 style="color:#8b5cf6;">🌕🚀 Çin Ayın cənub qütbünü araşdırmaq üçün “Chang’e-7” missiyasını həyata keçirir</h2>
+<h2 style="color:#8b5cf6;">🚀🛰️ NASA və ESA astronavtları Beynəlxalq Kosmik Stansiyanın xaricində işləyirlər</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 24 avqust 2026, 18:00 — Bakı vaxtı
+🕐 Əlavə olunub: 25 avqust 2026, 19:00 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Çin Ayın cənub qütbünü araşdırmağa yönəlmiş ən mürəkkəb
-kosmik missiyalarından biri olan “Chang’e-7” layihəsini həyata keçirir.</strong>
-Missiyanın əsas məqsədlərindən biri Ayın kölgədə qalan ərazilərində
-su buzunun olub-olmadığını araşdırmaqdır.
+<strong>25 avqust 2026-cı ildə NASA astronavtı Anil Menon və Avropa Kosmik
+Agentliyinin (ESA) astronavtı Sophie Adenot Beynəlxalq Kosmik Stansiyanın
+(MKS) xaricində növbəti kosmik yürüşə başlayıblar.</strong>
 </p>
 
 <p>
-🚀 Missiyanın tərkibinə <strong>orbital aparat, eniş modulu, Ay roveri
-və xüsusi uçan aparat</strong> daxildir. Bu aparatların birlikdə
-istifadəsi Ayın cənub qütbünün daha ətraflı öyrənilməsinə imkan verəcək.
+🛰️ Kosmik yürüşün əsas məqsədi MKS-də <strong>Yer ilə stansiya arasında
+yüksək sürətli məlumat ötürülməsini təmin edən yeni
+“Space-to-Ground” antenasının quraşdırılmasını başa çatdırmaqdır.</strong>
 </p>
 
 <p>
-🌑 Alimlərin xüsusi maraq göstərdiyi ərazilər Ayın səthində Günəş
-şüalarının heç vaxt və ya çox az çatdığı kraterlərdir. Belə yerlərdə
-qədim dövrlərdən qalmış su buzunun qorunub saxlanması ehtimal edilir.
+Astronavtlar bu işə ilk dəfə avqustun 18-də başlamışdılar. Həmin vaxt
+nasaz antenanı çıxarıb stansiyanın konstruksiyasına bərkitmiş, lakin
+yeni antenanın quraşdırılmasını tamamlamaq üçün əlavə kosmik yürüş
+tələb olunmuşdu. :contentReference[oaicite:1]{index=1}
 </p>
 
 <p>
-💧 Ayda su buzunun təsdiqlənməsi gələcək insanlı missiyalar üçün
-böyük əhəmiyyət daşıya bilər. Su yalnız içməli resurs kimi deyil,
-həmçinin oksigen və raket yanacağının hazırlanması üçün potensial
-xammal kimi qiymətləndirilir.
+👨‍🚀 Sophie Adenot üçün bu kosmik yürüş xüsusilə əhəmiyyətlidir. O,
+Fransanın ilk qadın kosmonavtı kimi açıq kosmosda fəaliyyət göstərən
+fransız qadın oldu. :contentReference[oaicite:2]{index=2}
 </p>
 
-<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🔭 “Chang’e-7” missiyası Ayın cənub qütbünü gələcək insanlı uçuşlar
-üçün daha yaxşı öyrənmək və uzunmüddətli Ay tədqiqatlarının
-elmi bazasını genişləndirmək məqsədi daşıyır.
+<p>
+📡 Yeni antenanın quraşdırılması MKS ilə Yer arasındakı məlumat
+əlaqəsinin yaxşılaşdırılması və stansiyada aparılan elmi tədqiqatlardan
+əldə olunan məlumatların daha səmərəli ötürülməsi baxımından mühüm
+əhəmiyyət daşıyır.
 </p>
 
 <p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🌌 Ayın cənub qütbünün tədqiqi gələcəkdə Ayda uzunmüddətli
-elmi və texnoloji fəaliyyət üçün mühüm mərhələ hesab olunur.
+🌌 Bu kosmik yürüş MKS-nin texniki imkanlarının yenilənməsi və
+uzunmüddətli fəaliyyətinin davam etdirilməsi istiqamətində aparılan
+işlərin bir hissəsidir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi kosmos, Günəş aktivliyi, peyklər və
-astronomik hadisələrlə bağlı ən son məlumatları izləyir.
+📡 META Meteorologiya Mərkəzi kosmos, peyklər, Günəş aktivliyi və
+astronomik hadisələrlə bağlı ən son xəbərləri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos və astronomiya xəbərlərini izləmək üçün WhatsApp kanalımıza
-qoşulun:
+📲 Kosmos və elm xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
