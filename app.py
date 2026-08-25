@@ -8,34 +8,31 @@ import base64
 
 
 def update_github(history):
-    url = f"https://api.github.com/repos/{REPO}/contents/{FILE}"
+    """Writes history only to the data branch and reports GitHub errors."""
+    if not GITHUB_TOKEN:
+        raise RuntimeError("GITHUB_TOKEN is not configured in Render")
 
+    url = f"https://api.github.com/repos/{REPO}/contents/{FILE}"
     headers = {
         "Authorization": f"Bearer {GITHUB_TOKEN}",
         "Accept": "application/vnd.github+json"
     }
-
-    r = requests.get(url, headers=headers)
+    existing = requests.get(url, headers=headers, params={"ref": HISTORY_BRANCH}, timeout=15)
     sha = None
-
-    if r.status_code == 200:
-        sha = r.json()["sha"]
+    if existing.status_code == 200:
+        sha = existing.json()["sha"]
+    elif existing.status_code != 404:
+        existing.raise_for_status()
 
     content = base64.b64encode(
         json.dumps(history, ensure_ascii=False, indent=2, sort_keys=True).encode()
     ).decode()
-
-    data = {
-        "message": "update weather data",
-        "content": content,
-        "branch": HISTORY_BRANCH
-    }
-
+    payload = {"message": "update weather history", "content": content, "branch": HISTORY_BRANCH}
     if sha:
-        data["sha"] = sha
+        payload["sha"] = sha
 
-    requests.put(url, json=data, headers=headers)
-
+    saved = requests.put(url, json=payload, headers=headers, timeout=15)
+    saved.raise_for_status()
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 REPO = "Meta-Baki/meta_baki_az"
@@ -120,17 +117,17 @@ def normalise_history(data):
     return normalised
 
 def load_history():
-    """Loads persistent history from GitHub once, with a local fallback."""
+    """Loads persistent graph points from the history-data branch."""
     global _HISTORY_CACHE
 
     if _HISTORY_CACHE is not None:
         return _HISTORY_CACHE.copy()
 
-    data = None
+    data = []
     try:
         response = requests.get(
             f"https://raw.githubusercontent.com/{REPO}/{HISTORY_BRANCH}/{FILE}",
-            timeout=10
+            timeout=15
         )
         if response.status_code == 200:
             candidate = response.json()
@@ -139,19 +136,18 @@ def load_history():
     except Exception:
         pass
 
-    if data is None:
-        try:
-            with open(HISTORY_FILE, encoding="utf-8") as f:
-                candidate = json.load(f)
-            if isinstance(candidate, list):
-                data = candidate
-        except Exception:
-            data = []
-
     _HISTORY_CACHE = normalise_history(data)[-2000:]
-
     return _HISTORY_CACHE.copy()
 
+
+def last_history_timestamp():
+    history = load_history()
+    if not history:
+        return None
+    try:
+        return datetime.fromisoformat(history[-1]["timestamp"])
+    except (KeyError, TypeError, ValueError):
+        return None
 
 def save_history(entry):
     global _HISTORY_CACHE
@@ -229,21 +225,12 @@ def history_flat():
 
 # ---------------- 30 MIN CHECK ----------------
 def can_save():
-
-    if not os.path.exists(LAST_SAVE_FILE):
+    # The last point is stored in GitHub, so this survives deploys and restarts.
+    last = last_history_timestamp()
+    if last is None:
         return True
 
-    try:
-        with open(LAST_SAVE_FILE, "r", encoding="utf-8") as f:
-            last = json.load(f).get("time", 0)
-
-        now = datetime.now(BAKU_TZ).timestamp()
-
-        return (now - last) >= 1800
-
-    except:
-        return True
-
+    return (datetime.now(BAKU_TZ) - last).total_seconds() >= 1800
 
 # ---------------- FORECAST 7 ----------------
 @app.route("/forecast7")
