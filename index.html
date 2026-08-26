@@ -332,7 +332,7 @@ td:last-child {
 /* Persistent navigation button and its expandable panel. */
 .menu-toggle{
     position:absolute;
-    top:165px;
+    top:140px;
     left:4px;
     z-index:30000;
     border:1px solid rgba(255,255,255,0.7);
@@ -352,12 +352,16 @@ td:last-child {
     left:12px;
     z-index:29999;
     width:min(270px, calc(100vw - 24px));
-    max-height:calc(100vh - 235px);
-    overflow-y:auto;
+    max-height:none;
+    overflow:hidden;
     margin:0;
+    padding:6px;
+    box-sizing:border-box;
     flex-direction:column;
     flex-wrap:nowrap;
     align-items:stretch;
+    justify-content:flex-start;
+    gap:4px;
 }
 
 #topMenu.menu-open{
@@ -368,6 +372,10 @@ td:last-child {
     width:100%;
     min-width:0;
     margin:0;
+    padding:8px 10px;
+    font-size:14px;
+    line-height:1.15;
+    box-sizing:border-box;
     flex:0 0 auto;
 }
 
