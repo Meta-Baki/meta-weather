@@ -1276,6 +1276,22 @@ body.app-page.app-mode .top-area {
         🛰 Bağlantı: Real-time API • Open-Meteo Sync
     </div>
 
+    <!-- Windguru: current station conditions -->
+    <div id="wgs_widget_16536_1787768203067" style="width:100%; margin-top:14px;"></div>
+    <script src="https://www.windguru.cz/js/wgs_widget.php"></script>
+    <script>
+    WgsWidget({
+        id_station: 16536,
+        wj: 'kmh',
+        tj: 'c',
+        avg_min: 0,
+        tmprh: true,
+        date_format: 'Y-m-d H:i:s T',
+        divid: 'wgs_widget_16536_1787768203067',
+        type: 'curr'
+    });
+    </script>
+
 </div>
 
         </div>
@@ -1329,6 +1345,22 @@ body.app-page.app-mode .top-area {
         <canvas id="weatherChart"></canvas>
     </div>
 
+    <!-- Windguru: wind forecast -->
+    <div id="wgs_widget_16536_1787768145195" style="width:100%; margin-top:20px;"></div>
+    <script src="https://www.windguru.cz/js/wgs_widget.php"></script>
+    <script>
+    WgsWidget({
+        id_station: 16536,
+        width: null,
+        height: 250,
+        hours: 6,
+        wj: 'knots',
+        gustiness: true,
+        divid: 'wgs_widget_16536_1787768145195',
+        type: 'wind'
+    });
+    </script>
+
 </div>
 
 <!-- MAP -->
@@ -1353,6 +1385,22 @@ body.app-page.app-mode .top-area {
         style="border-radius:10px;border:none;"
         src="https://embed.windy.com/embed2.html?lat=40.3793&lon=49.9625&zoom=10&level=surface&overlay=radar&menu=&message=true&type=map&lang=tr">
     </iframe>
+
+    <!-- Windguru: live station radar -->
+    <div style="width:100%; margin-top:20px;">
+        <script id="wglive_16536_1787768112386">
+        (function (window, document) {
+            var loader = function () {
+                var arg = ["spot=16536", "uid=wglive_16536_1787768112386", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=400", "msize=400", "m=3", "show=n,g,c,f,m"];
+                var script = document.createElement("script");
+                var tag = document.getElementsByTagName("script")[0];
+                script.src = "https://www.windguru.cz/js/wglive.php?" + arg.join("&");
+                tag.parentNode.insertBefore(script, tag);
+            };
+            window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
+        })(window, document);
+        </script>
+    </div>
 
     <div style="
         margin-top:12px;
