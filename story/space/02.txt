@@ -1,54 +1,48 @@
-<h2 style="color:#8b5cf6;">🚀🛰️ NASA və ESA astronavtları Beynəlxalq Kosmik Stansiyanın xaricində işləyirlər</h2>
+<h2 style="color:#8b5cf6;">🌕🌑 Gecə səmasında qismən Ay tutulması müşahidə olunacaq</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 25 avqust 2026, 19:00 — Bakı vaxtı
+🕐 Əlavə olunub: 26 avqust 2026 14:40 — Bakı vaxtı
 </p>
 
 <p>
-<strong>25 avqust 2026-cı ildə NASA astronavtı Anil Menon və Avropa Kosmik
-Agentliyinin (ESA) astronavtı Sophie Adenot Beynəlxalq Kosmik Stansiyanın
-(MKS) xaricində növbəti kosmik yürüşə başlayıblar.</strong>
+<strong>26-dən 27 avqusta keçən gecə Yer kürəsinin bir sıra
+ərazilərində qismən Ay tutulması müşahidə olunacaq.</strong>
+Ay Yer kürəsinin kölgəsindən keçərkən onun səthinin bir hissəsi
+tündləşəcək və tutulmuş hissədə mis-qırmızı çalarlar yarana bilər.
 </p>
 
 <p>
-🛰️ Kosmik yürüşün əsas məqsədi MKS-də <strong>Yer ilə stansiya arasında
-yüksək sürətli məlumat ötürülməsini təmin edən yeni
-“Space-to-Ground” antenasının quraşdırılmasını başa çatdırmaqdır.</strong>
+🌍 NASA-nın məlumatına görə, hadisə əsasən Şimali və Cənubi Amerika,
+həmçinin Avropanın və Afrikanın bəzi hissələrindən müşahidə edilə
+biləcək. Tutulmanın maksimum mərhələsində Ay diskinin təxminən
+<strong>93 faizi</strong> Yerin qaranlıq kölgəsinə daxil olacaq.
 </p>
 
 <p>
-Astronavtlar bu işə ilk dəfə avqustun 18-də başlamışdılar. Həmin vaxt
-nasaz antenanı çıxarıb stansiyanın konstruksiyasına bərkitmiş, lakin
-yeni antenanın quraşdırılmasını tamamlamaq üçün əlavə kosmik yürüş
-tələb olunmuşdu. :contentReference[oaicite:1]{index=1}
+🌕 Bu hadisə tam Ay tutulması olmayacaq. Ayın kiçik bir hissəsi
+Yerin əsas kölgəsindən kənarda qalacağı üçün onun bir hissəsi
+adi parlaqlığını qoruyacaq.
 </p>
 
 <p>
-👨‍🚀 Sophie Adenot üçün bu kosmik yürüş xüsusilə əhəmiyyətlidir. O,
-Fransanın ilk qadın kosmonavtı kimi açıq kosmosda fəaliyyət göstərən
-fransız qadın oldu. :contentReference[oaicite:2]{index=2}
-</p>
-
-<p>
-📡 Yeni antenanın quraşdırılması MKS ilə Yer arasındakı məlumat
-əlaqəsinin yaxşılaşdırılması və stansiyada aparılan elmi tədqiqatlardan
-əldə olunan məlumatların daha səmərəli ötürülməsi baxımından mühüm
-əhəmiyyət daşıyır.
+🔭 Qismən Ay tutulmasını müşahidə etmək üçün xüsusi qoruyucu
+eynəklərə ehtiyac yoxdur. Açıq və işıqsız ərazidən adi gözlə,
+həmçinin durbin və teleskop vasitəsilə izləmək mümkündür.
 </p>
 
 <p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🌌 Bu kosmik yürüş MKS-nin texniki imkanlarının yenilənməsi və
-uzunmüddətli fəaliyyətinin davam etdirilməsi istiqamətində aparılan
-işlərin bir hissəsidir.
+🌌 Avqustun son günləri astronomiya həvəskarları üçün xüsusilə
+maraqlı keçir. Ay tutulması ayın səmasında baş verən əsas
+astronomik hadisələrdən biridir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi kosmos, peyklər, Günəş aktivliyi və
-astronomik hadisələrlə bağlı ən son xəbərləri izləyir.
+📡 META Meteorologiya Mərkəzi kosmos, peyklər, Günəş aktivliyi
+və astronomik hadisələri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos və elm xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Kosmos və astronomiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
