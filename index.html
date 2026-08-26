@@ -1355,22 +1355,21 @@ body.app-page.app-mode .top-area {
     </div>
 
     <!-- Windguru: wind forecast -->
-    <div id="wgs_widget_16536_1787768145195" style="width:100%; margin-top:20px;"></div>
-    <script src="https://www.windguru.cz/js/wgs_widget.php"></script>
-    <script>
-    WgsWidget({
-        id_station: 16536,
-        width: null,
-        height: 250,
-        hours: 6,
-        wj: 'knots',
-        gustiness: true,
-        divid: 'wgs_widget_16536_1787768145195',
-        type: 'wind'
-    });
-    </script>
+<div><script id="wglive_16536_1787771128268">
+(function (window, document) {
+  var loader = function () {
+    var arg = ["spot=16536","uid=wglive_16536_1787771128268","direct=1","wj=kmh","tj=c","avg_min=0","gsize=400","msize=400","m=3","show=n,g,f"];
+    var script = document.createElement("script");
+    var tag = document.getElementsByTagName("script")[0];
+    script.src = "https://www.windguru.cz/js/wglive.php?"+(arg.join("&"));
+    tag.parentNode.insertBefore(script, tag);
+  };
+  window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
+})(window, document);
+</script>
 
 </div>
+
 
 <!-- MAP -->
 <div class="box section" id="mapSection">
