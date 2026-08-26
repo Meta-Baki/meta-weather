@@ -21,6 +21,12 @@ maximum-scale=1.0,
 user-scalable=yes,
 viewport-fit=cover">
 
+<script>
+if (Math.min(screen.width, screen.height) <= 600) {
+    document.documentElement.classList.add('phone-menu');
+}
+</script>
+
 <meta name="google-site-verification" content="6VEhyVRxe_zaTiE8XVNvw-ZRP80zoCmWBAg1pGPry0c" />
 
 <title>META Abşeron Proqnozu</title>
@@ -396,6 +402,23 @@ td:last-child {
         padding:10px 12px;
         font-size:16px;
     }
+}
+
+/* The site's fixed 0.43 scale needs larger CSS values on physical phones. */
+html.phone-menu .menu-toggle{
+    padding:18px 25px;
+    font-size:28px;
+}
+
+html.phone-menu #topMenu{
+    width:min(440px, calc(100vw - 24px));
+    gap:6px;
+    padding:10px;
+}
+
+html.phone-menu #topMenu button{
+    padding:13px 16px;
+    font-size:24px;
 }
 
 /* ========================= */
