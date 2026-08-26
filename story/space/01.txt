@@ -1,13 +1,14 @@
 <h2 style="color:#f59e0b;">☀️🔆 Bakı üçün Günəş şüalanması və UV indeksi — 7 günlük proqnoz</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 24 avqust 2026, 18:00 — Bakı vaxtı
+🕐 Əlavə olunub: 26 avqust 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>25–31 avqust tarixlərində Bakıda ultrabənövşəyi (UV) şüalanmanın
-əsasən yüksək səviyyədə olacağı gözlənilir.</strong> Xüsusilə günorta
-saatlarında Günəş şüalarının intensivliyi yüksək qalacaq.
+<strong>27 avqust – 2 sentyabr tarixlərində Bakıda Günəşin
+ultrabənövşəyi (UV) şüalanmasının əsasən yüksək və çox yüksək
+səviyyədə olacağı gözlənilir.</strong> Günorta saatlarında Günəş
+şüalarının intensivliyi maksimuma yaxın olacaq.
 </p>
 
 <table style="width:100%;border-collapse:collapse;text-align:center;font-size:15px;">
@@ -19,87 +20,77 @@ saatlarında Günəş şüalarının intensivliyi yüksək qalacaq.
 </tr>
 
 <tr>
-<td style="padding:9px;border:1px solid #d1d5db;">25 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;"><strong>7–8</strong></td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟠 Yüksək / çox yüksək</td>
-<td style="padding:9px;border:1px solid #d1d5db;">☀️ Güclü</td>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">26 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;"><strong>7–8</strong></td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟠 Yüksək / çox yüksək</td>
-<td style="padding:9px;border:1px solid #d1d5db;">☀️ Güclü</td>
-</tr>
-
-<tr>
 <td style="padding:9px;border:1px solid #d1d5db;">27 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;"><strong>7–8</strong></td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟠 Yüksək / çox yüksək</td>
+<td style="padding:9px;border:1px solid #d1d5db;"><strong>8</strong></td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟠 Çox yüksək</td>
 <td style="padding:9px;border:1px solid #d1d5db;">☀️ Güclü</td>
 </tr>
 
 <tr>
 <td style="padding:9px;border:1px solid #d1d5db;">28 avqust</td>
+<td style="padding:9px;border:1px solid #d1d5db;"><strong>8</strong></td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟠 Çox yüksək</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Güclü</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">29 avqust</td>
+<td style="padding:9px;border:1px solid #d1d5db;"><strong>8</strong></td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟠 Çox yüksək</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Güclü</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">30 avqust</td>
 <td style="padding:9px;border:1px solid #d1d5db;"><strong>7</strong></td>
 <td style="padding:9px;border:1px solid #d1d5db;">🟠 Yüksək</td>
 <td style="padding:9px;border:1px solid #d1d5db;">☀️ Güclü</td>
 </tr>
 
 <tr>
-<td style="padding:9px;border:1px solid #d1d5db;">29 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;"><strong>6</strong></td>
+<td style="padding:9px;border:1px solid #d1d5db;">31 avqust</td>
+<td style="padding:9px;border:1px solid #d1d5db;"><strong>7</strong></td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟠 Yüksək</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Güclü</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">1 sentyabr</td>
+<td style="padding:9px;border:1px solid #d1d5db;"><strong>7</strong></td>
+<td style="padding:9px;border:1px solid #d1d5db;">🟠 Yüksək</td>
+<td style="padding:9px;border:1px solid #d1d5db;">☀️ Güclü</td>
+</tr>
+
+<tr>
+<td style="padding:9px;border:1px solid #d1d5db;">2 sentyabr</td>
+<td style="padding:9px;border:1px solid #d1d5db;"><strong>6–7</strong></td>
 <td style="padding:9px;border:1px solid #d1d5db;">🟠 Yüksək</td>
 <td style="padding:9px;border:1px solid #d1d5db;">☀️ Orta-güclü</td>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">30 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;"><strong>6–7</strong></td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟠 Yüksək</td>
-<td style="padding:9px;border:1px solid #d1d5db;">☀️ Güclü</td>
-</tr>
-
-<tr>
-<td style="padding:9px;border:1px solid #d1d5db;">31 avqust</td>
-<td style="padding:9px;border:1px solid #d1d5db;"><strong>6–7</strong></td>
-<td style="padding:9px;border:1px solid #d1d5db;">🟠 Yüksək</td>
-<td style="padding:9px;border:1px solid #d1d5db;">☀️ Güclü</td>
 </tr>
 </table>
 
 <p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ UV indeksi 6–7 və daha yüksək olduqda Günəş şüalanması güclü
-hesab olunur. Xüsusilə 11:00–15:00 arasında uzun müddət birbaşa
-Günəş altında qalmaq tövsiyə edilmir.
+⚠️ UV indeksi 6 və daha yüksək olduqda Günəş şüalanması yüksək
+hesab olunur. Xüsusilə 11:00–15:00 arasında birbaşa Günəş altında
+uzun müddət qalmaqdan çəkinmək məsləhətdir.
 </p>
 
 <p>
 🕛 <strong>Ən intensiv dövr:</strong> əsasən günorta saatları.
-25–27 avqust tarixlərində Bakı üçün müxtəlif proqnozlarda maksimum
-UV göstəricisi təxminən 7–8 səviyyəsində göstərilir. :contentReference[oaicite:1]{index=1}
+27–29 avqust tarixlərində maksimum UV indeksinin 8 səviyyəsinə
+çatacağı proqnozlaşdırılır. 30 avqustdan etibarən göstəricinin
+təxminən 7 səviyyəsinə enməsi gözlənilir. :contentReference[oaicite:1]{index=1}
 </p>
 
 <p>
 🧴 Günəş altında uzun müddət qalarkən SPF qoruyucu vasitələrdən,
 Günəş eynəyindən və baş örtüyündən istifadə etmək, mümkün olduqda
-kölgəli ərazilərə üstünlük vermək məsləhətdir.
+kölgəli ərazilərə üstünlük vermək tövsiyə olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
 📡 META Meteorologiya Mərkəzi Günəş şüalanmasını, UV indeksini və
 meteoroloji şəraiti izləyir.
-</p>
-
-<p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Günəş şüalanması, UV proqnozu və hava xəbərləri üçün WhatsApp
-kanalımıza qoşulun:
-<br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank"
-style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı
-</a>
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
