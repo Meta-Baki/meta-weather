@@ -1,25 +1,28 @@
-const CACHE_NAME = "meta-weather-v2";
+const CACHE_NAME = "meta-weather-v1";
+
+const urlsToCache = [
+  "/",
+  "/index.html",
+  "/manifest.json"
+];
 
 self.addEventListener("install", event => {
-  self.skipWaiting();
-});
-
-self.addEventListener("activate", event => {
   event.waitUntil(
-    caches.keys()
-      .then(keys => Promise.all(keys.filter(key => key !== CACHE_NAME).map(key => caches.delete(key))))
-      .then(() => self.clients.claim())
+    caches.open(CACHE_NAME).then(cache => {
+      return cache.addAll(urlsToCache);
+    })
   );
 });
 
 self.addEventListener("fetch", event => {
-  if (event.request.method !== "GET" || !event.request.url.startsWith("http")) {
+  // Не кэшируем расширения Chrome и другие нестандартные схемы
+  if (!event.request.url.startsWith("http")) {
     return;
   }
 
   event.respondWith(
-    fetch(event.request)
-      .then(response => response)
-      .catch(() => caches.match(event.request))
+    caches.match(event.request).then(response => {
+      return response || fetch(event.request);
+    })
   );
 });
