@@ -1,45 +1,45 @@
-<h2 style="color:#16a34a;">🐆🌿 Azərbaycanın təbii irsi və biomüxtəlifliyi yeni beynəlxalq festivalın əsas mövzularından olacaq</h2>
+<h2 style="color:#0ea5e9;">⛈️🏔️ Dağlıq və dağətəyi rayonlarda yağış və şimşək ehtimalı var</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 25 avqust 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 26 avqust 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Bakı 30 oktyabr – 1 noyabr tarixlərində “Fly to Baku. Art Weekend. Sense the Future NOW” festivalına ev sahibliyi edəcək.</strong>
-2026-cı il festivalının əsas mövzularından biri Qafqazın təbii irsi və Azərbaycanın “Böyük Beşliyi” hesab olunan nadir heyvan növləri olacaq.
+<strong>Azərbaycanda 26 avqustda bəzi dağlıq və dağətəyi ərazilərdə
+qısamüddətli yağış və leysan xarakterli yağıntılar müşahidə olunur.</strong>
+Ayrı-ayrı ərazilərdə şimşək çaxması ehtimalı da var.
 </p>
 
 <p>
-🐐 Azərbaycanın təbii irsini təmsil edən növlər sırasında
-<strong>ceyran, Qafqaz bəbiri, qonur ayı, boz canavar və imperator qartalı</strong>
-qeyd olunur.
+🌧️ Yağıntılar xüsusilə dağlıq ərazilərdə torpağın rütubət səviyyəsinə,
+bitki örtüyünə və yerli su ehtiyatlarına təsir göstərə bilər.
 </p>
 
 <p>
-🌍 Festival çərçivəsində təbiət, biomüxtəliflik və regionun təbii
-irsinə diqqətin artırılması nəzərdə tutulur. Mövzu Azərbaycanın
-unikal ekosistemlərinin və nadir canlı növlərinin qorunmasının
-əhəmiyyətini bir daha gündəmə gətirir.
+🌫️ Gecə və səhər saatlarında bəzi dağlıq ərazilərdə dumanın
+müşahidə olunması gözlənilir. Belə hava şəraiti dağ ekosistemlərində
+mövsümi təbii proseslərin davam etməsinə şərait yaradır.
 </p>
 
 <p>
-🐆 Xüsusilə Qafqaz bəbiri kimi nadir növlərin qorunması yaşayış
-mühitlərinin mühafizəsi, biomüxtəlifliyin saxlanılması və təbii
-ekosistemlərin davamlılığının təmin edilməsi baxımından mühümdür.
+🌱 Dağlıq ərazilərdə yağıntıların paylanması su ehtiyatlarının
+formalaşması, bitki örtüyünün vəziyyəti və torpaq rütubəti baxımından
+mühüm göstəricilərdən biridir.
 </p>
 
 <p style="color:#22c55e;font-size:20px;font-weight:bold;">
-🌱 Azərbaycanın təbii sərvətlərinin və biomüxtəlifliyinin qorunması
-gələcək nəsillər üçün ekoloji irsin saxlanılmasının əsas şərtlərindən biridir.
+🌍 Dağ ekosistemlərinin meteoroloji şəraitinin müntəzəm izlənməsi
+iqlim və ətraf mühit dəyişikliklərinin qiymətləndirilməsi üçün
+əhəmiyyətlidir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi təbiət, biomüxtəliflik, ekologiya,
-iqlim və meteoroloji hadisələrlə bağlı xəbərləri izləyir.
+📡 META Meteorologiya Mərkəzi Azərbaycanda hava, iqlim, təbiət və
+ekoloji prosesləri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Təbiət və ekologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Ekologiya və təbiət xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
