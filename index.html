@@ -332,7 +332,7 @@ td:last-child {
 /* Persistent navigation button and its expandable panel. */
 .menu-toggle{
     position:absolute;
-    top:140px;
+    top:165px;
     left:4px;
     z-index:30000;
     border:1px solid rgba(255,255,255,0.7);
@@ -377,6 +377,25 @@ td:last-child {
     line-height:1.15;
     box-sizing:border-box;
     flex:0 0 auto;
+}
+
+/* Slightly larger controls on phones. */
+@media (max-width:600px){
+    .menu-toggle{
+        padding:15px 20px;
+        font-size:18px;
+    }
+
+    #topMenu{
+        width:min(310px, calc(100vw - 24px));
+        gap:5px;
+        padding:8px;
+    }
+
+    #topMenu button{
+        padding:10px 12px;
+        font-size:16px;
+    }
 }
 
 /* ========================= */
@@ -1041,7 +1060,7 @@ body.app-page.app-mode .top-area {
 </div>
 
 <button class="menu-toggle" id="menuToggle" type="button" onclick="toggleMainMenu()" aria-controls="topMenu" aria-expanded="false">
-    ☰ MENÜ
+    ☰ MENYU
 </button>
 
 <div style="position:absolute; top:15px; right:15px; display:flex; gap:10px; z-index:10000;">
