@@ -1,72 +1,83 @@
-<h2 style="color:#60a5fa;">🌬️🌥️ Çərşənbə günü Bakıda külək güclənəcək</h2>
+<h2 style="color:#60a5fa;">🌬️🌥️ Cümə axşamı Bakıda külək güclənəcək</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 25 avqust 2026, 15:05 — Bakı vaxtı
+🕐 Əlavə olunub: 26 avqust 2026, 13:40 — Bakı vaxtı
 </p>
 
 <p>
-<strong>26 avqust, çərşənbə günü Azərbaycanda hava şəraiti əsasən
-sabit qalacaq.</strong> Bakıda küləyin güclənəcəyi, bəzi dağlıq və
-dağətəyi rayonlarda isə qısamüddətli yağış və şimşək çaxacağı gözlənilir.
+<strong>27 avqust, cümə axşamı Azərbaycanda hava əsasən yağmursuz olacaq.</strong>
+Bakıda şimal-qərb küləyinin arabir güclənəcəyi, bəzi dağlıq və
+dağətəyi rayonlarda isə qısamüddətli leysan, şimşək və dolu ehtimalı
+olduğu bildirilir.
 </p>
 
 <h3 style="color:#60a5fa;">🏙️ Bakı və Abşeron</h3>
 
 <p>
 Bakı və Abşeron yarımadasında hava dəyişkən buludlu, əsasən
-yağıntısız olacaq. Şimal küləyi əsəcək və gün ərzində arabir
-güclənəcək.
+yağıntısız olacaq. Şimal-qərb küləyi əsəcək və gün ərzində
+arabir güclənəcək.
 </p>
 
 <p>
-🌡️ <strong>Gecə:</strong> +22...+26°C<br>
-☀️ <strong>Gündüz:</strong> +29...+32°C
+🌡️ <strong>Gecə:</strong> +21...+24°C<br>
+☀️ <strong>Gündüz:</strong> +28...+31°C
 </p>
 
 <p>
-💧 <strong>Nisbi rütubət:</strong> gecə 70–80%, gündüz 50–60%.
+💧 <strong>Nisbi rütubət:</strong> gecə 70–75%, gündüz 45–50%.
 </p>
 
 <p>
-📉 <strong>Atmosfer təzyiqi:</strong> 760 mm civə sütunu
-(≈1013 hPa).
+📉 <strong>Atmosfer təzyiqi:</strong> 758 mm civə sütunu
+(≈1011 hPa).
 </p>
 
 <p>
-🌬️ <strong>Şimal küləyi:</strong> təxminən 6–9 m/s
+🌬️ <strong>Şimal-qərb küləyi:</strong> 6–9 m/s
 (22–32 km/saat).
 <br>
-💨 <strong>Güclənmə zamanı:</strong> 10–13 m/s
+💨 <strong>Küləyin güclənməsi zamanı:</strong> 10–13 m/s
 (36–47 km/saat).
+<br>
+⚡ <strong>Püləklər:</strong> 14–17 m/s
+(50–61 km/saat).
 </p>
 
 <h3 style="color:#f59e0b;">🏔️ Azərbaycanın rayonlarında</h3>
 
 <p>
-Rayonlarda hava əsasən yağmursuz olacaq. Lakin gün ərzində bəzi
-dağlıq və dağətəyi rayonlarda qısamüddətli yağışlar gözlənilir.
-Ayrı-ayrı yerlərdə yağışın leysan xarakterli olması, şimşək çaxması
-mümkündür. Gecə və səhər bəzi dağlıq ərazilərdə duman müşahidə
-olunacaq.
+Rayonların əksəriyyətində yağıntı gözlənilmir. Lakin bəzi dağlıq
+və dağətəyi rayonlarda arabir yağış yağacaq. Ayrı-ayrı yerlərdə
+yağıntının qısamüddətli leysan xarakterli olması, şimşək çaxması
+və dolu düşməsi mümkündür.
+</p>
+
+<p>
+Gecə və səhər saatlarında bəzi dağlıq rayonlarda arabir duman
+müşahidə olunacaq. Qərb küləyi bəzi yerlərdə arabir güclənəcək.
 </p>
 
 <p>
 🌡️ <strong>Gecə:</strong> +21...+26°C<br>
-🌡️ <strong>Gündüz:</strong> +32...+37°C
+🔥 <strong>Gündüz:</strong> +31...+36°C
 </p>
 
 <p>
 🏔️ <strong>Dağlıq rayonlarda:</strong><br>
-Gecə: +15...+20°C<br>
-Gündüz: +22...+27°C
+Gecə: +13...+18°C<br>
+Gündüz: +20...+25°C
 </p>
 
 <p>
-🌬️ <strong>Şərq küləyi:</strong> təxminən 4–7 m/s
-(14–25 km/saat).
+🌬️ <strong>Qərb küləyi:</strong> 5–8 m/s
+(18–29 km/saat).
 <br>
-💨 <strong>Güclənmə zamanı:</strong> 8–11 m/s
-(29–40 km/saat).
+💨 <strong>Güclənmə zamanı:</strong> 9–12 m/s
+(32–43 km/saat).
+<br>
+⚡ <strong>Püləklər:</strong> 13–16 m/s
+(47–58 km/saat).
 </p>
 
 <div style="background:#1e293b;padding:15px;border-radius:10px;margin:20px 0;">
@@ -74,19 +85,19 @@ Gündüz: +22...+27°C
 <h3 style="color:#60a5fa;margin-top:0;">📊 Əsas meteoroloji göstəricilər</h3>
 
 <p style="color:#fff;">
-🌡️ <strong>Bakı və Abşeron:</strong> +22...+26°C / +29...+32°C
+🌡️ <strong>Bakı və Abşeron:</strong> +21...+24°C / +28...+31°C
 </p>
 
 <p style="color:#fff;">
-🌡️ <strong>Rayonlar:</strong> +21...+26°C / +32...+37°C
+🌡️ <strong>Rayonlar:</strong> +21...+26°C / +31...+36°C
 </p>
 
 <p style="color:#fff;">
-🏔️ <strong>Dağlıq rayonlar:</strong> +15...+20°C / +22...+27°C
+🏔️ <strong>Dağlıq rayonlar:</strong> +13...+18°C / +20...+25°C
 </p>
 
 <p style="color:#fff;">
-📉 <strong>Təzyiq:</strong> 760 mm civə sütunu | ≈1013 hPa
+📉 <strong>Təzyiq:</strong> 758 mm civə sütunu | ≈1011 hPa
 </p>
 
 <p style="color:#fff;">
@@ -98,23 +109,29 @@ Gündüz: +22...+27°C
 </p>
 
 <p style="color:#fff;">
-💧 <strong>Rütubət:</strong> gecə 70–80% | gündüz 50–60%
+⚡ <strong>Bakı üzrə püləklər:</strong> 14–17 m/s | 50–61 km/saat
+</p>
+
+<p style="color:#fff;">
+💧 <strong>Rütubət:</strong> gecə 70–75% | gündüz 45–50%
 </p>
 
 </div>
 
-<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-⚠️ Dağlıq və dağətəyi rayonlarda qısamüddətli leysan, şimşək və
-duman ehtimalı olduğundan sürücülərə diqqətli olmaq tövsiyə olunur.
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+⚠️ XƏBƏRDARLIQ: Dağlıq və dağətəyi rayonlarda qısamüddətli
+leysan, şimşək və dolu ehtimalı var. Güclü külək zamanı açıq
+ərazilərdə və ağacların yaxınlığında ehtiyatlı olmaq tövsiyə olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava şəraitini, küləyi və təhlükəli
-meteoroloji hadisələri izləyir.
+📡 META Meteorologiya Mərkəzi Azərbaycanda hava şəraitini,
+külək sürətini və təhlükəli meteoroloji hadisələri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Hava proqnozları və meteoroloji xəbərlər üçün WhatsApp kanalımıza qoşulun:
+📲 Hava proqnozları və meteoroloji xəbərlər üçün WhatsApp kanalımıza
+qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
