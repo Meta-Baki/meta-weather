@@ -63,9 +63,28 @@ LAST_SAVE_FILE = "last_save.json"
 
 
 # ---------------- HOME ----------------
+MENU_INJECTION = r"""<style>
+.top-menu{display:none!important}
+.menu-toggle{position:fixed!important;top:145px!important;left:3px!important;z-index:999999!important;width:130px!important;height:58px!important;display:flex!important;align-items:center;justify-content:center;gap:9px!important;visibility:visible!important;opacity:1!important;border:2px solid rgba(255,255,255,.7)!important;border-radius:16px!important;background:linear-gradient(135deg,#0ea5e9,#0369a1)!important;color:#fff!important;font:700 21px Arial!important;cursor:pointer!important;box-shadow:0 8px 22px rgba(0,0,0,.4)!important}
+.menu-backdrop{position:fixed;inset:0;z-index:999990;background:rgba(2,6,23,.72);opacity:0;visibility:hidden;transition:.25s}.drawer{position:fixed;z-index:999999;top:0;left:0;width:min(390px,88vw);height:100dvh;display:flex;flex-direction:column;overflow-y:auto;background:#fff;color:#334155;box-shadow:12px 0 35px rgba(0,0,0,.38);transform:translateX(-105%);transition:.28s;text-align:left}.drawer.open{transform:translateX(0)}.menu-backdrop.open{opacity:1;visibility:visible}body.menu-open{overflow:hidden}.drawer-header{display:flex;align-items:center;gap:14px;padding:22px 20px;border-bottom:1px solid #e2e8f0}.drawer-header img{width:62px;height:62px;object-fit:contain}.drawer-title{font:700 21px/1.25 Arial}.drawer-close{margin-left:auto;border:0;background:transparent;color:#64748b;font-size:32px;cursor:pointer}.drawer-nav{display:grid;gap:10px;padding:20px}.drawer-nav button{border:0;border-radius:14px;padding:13px 16px;background:#1e293b;color:#fff;font:15px Arial;text-align:left;cursor:pointer}.drawer-nav button:hover{background:#0ea5e9}.drawer-actions{margin-top:auto;padding:20px;display:grid;gap:12px;border-top:1px solid #e2e8f0}.drawer-action{border:0;background:transparent;color:#64748b;padding:12px 8px;font-size:17px;text-align:left;cursor:pointer}
+</style>
+<button class="menu-toggle" id="menuToggle" type="button" aria-label="Open menu">☰ <span>MENÜ</span></button>
+<div class="menu-backdrop" id="menuBackdrop"></div>
+<aside class="drawer" id="sideMenu" aria-hidden="true"><div class="drawer-header"><img src="static/888-logo.png" alt="META logo"><div class="drawer-title">META<br>Hidrometeorologiya Departamenti</div><button class="drawer-close" type="button">×</button></div><nav class="drawer-nav"><button type="button" data-section="homeSection">🏠 Ana səhifə</button><button type="button" data-section="forecast7">🌦 7 günlük proqnoz</button><button type="button" data-section="forecast14Section">📅 14 günlük proqnoz</button><button type="button" data-section="chartSection">📊 Qrafiklər</button><button type="button" data-section="mapSection">🗺 Xəritələr</button><button type="button" data-section="radarSection">🌧 Radar</button><button type="button" data-section="historySection">📢 Hava haqqında</button><button type="button" data-section="spaceSection">☀️ Günəş və kosmos</button><button type="button" data-section="metaSection">⚡ META xəbər</button><button type="button" data-section="recordsSection">🏆 Rekordlar</button><button type="button" data-section="helpSection">📰 Məlumat</button></nav><div class="drawer-actions"><button class="drawer-action" id="refreshPage" type="button">⟳&nbsp;&nbsp; Обновить</button><button class="drawer-action" id="closeMenu" type="button">⊗&nbsp;&nbsp; Выход</button></div></aside>
+<script>(function(){const d=document.getElementById("sideMenu"),b=document.getElementById("menuBackdrop"),t=document.getElementById("menuToggle"),x=d.querySelector(".drawer-close");function c(){d.classList.remove("open");b.classList.remove("open");document.body.classList.remove("menu-open")}function o(){d.classList.add("open");b.classList.add("open");document.body.classList.add("menu-open")}t.onclick=o;x.onclick=c;b.onclick=c;document.getElementById("closeMenu").onclick=c;document.getElementById("refreshPage").onclick=function(){location.reload()};d.querySelectorAll("[data-section]").forEach(function(e){e.onclick=function(){openSection(e.dataset.section);c()}});document.addEventListener("keydown",function(e){if(e.key==="Escape")c()})}());</script>"""
+
+
 @app.route("/")
 def home():
-    return send_from_directory(".", "index.html")
+    index_path = os.path.join(app.root_path, "index.html")
+    with open(index_path, "r", encoding="utf-8") as f:
+        page = f.read()
+
+    if 'id="menuToggle"' not in page:
+        page = page.replace("</body>", MENU_INJECTION + "</body>")
+
+    return app.response_class(page, mimetype="text/html")
+
 
 
 # ---------------- HISTORY STORAGE ----------------
