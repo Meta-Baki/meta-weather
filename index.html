@@ -329,13 +329,43 @@ td:last-child {
     }
 }
 
-/* Keep the navigation visible above dynamically loaded widgets. */
+/* Persistent navigation button and its expandable panel. */
+.menu-toggle{
+    position:fixed;
+    top:145px;
+    left:4px;
+    z-index:30000;
+    border:1px solid rgba(255,255,255,0.7);
+    border-radius:14px;
+    background:#078cd0;
+    color:#fff;
+    padding:13px 17px;
+    font:700 16px/1 Arial, sans-serif;
+    cursor:pointer;
+    box-shadow:0 5px 16px rgba(0,0,0,0.3);
+}
+
 #topMenu{
-    display:flex !important;
-    visibility:visible !important;
-    opacity:1 !important;
-    position:relative !important;
-    z-index:20000 !important;
+    display:none;
+    position:fixed;
+    top:195px;
+    left:12px;
+    z-index:29999;
+    width:min(360px, calc(100vw - 24px));
+    max-height:calc(100vh - 215px);
+    overflow-y:auto;
+    margin:0;
+    flex-direction:column;
+    align-items:stretch;
+}
+
+#topMenu.menu-open{
+    display:flex;
+}
+
+#topMenu button{
+    width:100%;
+    min-width:0;
 }
 
 /* ========================= */
@@ -998,6 +1028,10 @@ body.app-page.app-mode .top-area {
     </div>
 
 </div>
+
+<button class="menu-toggle" id="menuToggle" type="button" onclick="toggleMainMenu()" aria-controls="topMenu" aria-expanded="false">
+    ☰ MENÜ
+</button>
 
 <div style="position:absolute; top:15px; right:15px; display:flex; gap:10px; z-index:10000;">
 
@@ -2942,6 +2976,11 @@ let chart;
 
 function openSection(id){
 
+    const topMenu = document.getElementById('topMenu');
+    const menuToggle = document.getElementById('menuToggle');
+    if (topMenu) topMenu.classList.remove('menu-open');
+    if (menuToggle) menuToggle.setAttribute('aria-expanded', 'false');
+
     document.querySelectorAll('.section')
     .forEach(el => {
         el.classList.remove('active');
@@ -3436,29 +3475,18 @@ window.addEventListener("load", () => {
 </div>
 
 <script>
+function toggleMainMenu() {
+    const menu = document.getElementById('topMenu');
+    const button = document.getElementById('menuToggle');
+    if (!menu || !button) return;
+
+    const isOpen = menu.classList.toggle('menu-open');
+    button.setAttribute('aria-expanded', String(isOpen));
+}
+
 if (window.location.search.includes("app=1")) {
     document.body.classList.add("app-mode");
 }
-</script>
-
-<script>
-/* Restore the navigation if an external widget changes its inline styles. */
-(function () {
-    function keepTopMenuVisible() {
-        const menu = document.getElementById("topMenu");
-        if (!menu) return;
-
-        menu.hidden = false;
-        menu.style.setProperty("display", "flex", "important");
-        menu.style.setProperty("visibility", "visible", "important");
-        menu.style.setProperty("opacity", "1", "important");
-    }
-
-    keepTopMenuVisible();
-    window.addEventListener("load", keepTopMenuVisible);
-    setTimeout(keepTopMenuVisible, 1000);
-    setTimeout(keepTopMenuVisible, 3000);
-})();
 </script>
       
 </body>
