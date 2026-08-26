@@ -387,11 +387,6 @@ td:last-child {
 
 /* Slightly larger controls on phones. */
 @media (max-width:600px), (max-device-width:600px){
-    .menu-toggle{
-        padding:15px 20px;
-        font-size:18px;
-    }
-
     #topMenu{
         width:min(310px, calc(100vw - 24px));
         gap:5px;
@@ -405,11 +400,6 @@ td:last-child {
 }
 
 /* The site's fixed 0.43 scale needs larger CSS values on physical phones. */
-html.phone-menu .menu-toggle{
-    padding:18px 25px;
-    font-size:28px;
-}
-
 html.phone-menu #topMenu{
     width:min(440px, calc(100vw - 24px));
     gap:6px;
@@ -455,6 +445,11 @@ html.phone-menu #topMenu button{
     min-height:320px;
 
     text-align:left;
+}
+
+/* Lower only the left weather card on the home page. */
+#homeSection .main-weather-card{
+    margin-top:100px;
 }
 
 .weather-status{
