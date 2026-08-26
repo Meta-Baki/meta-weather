@@ -329,6 +329,15 @@ td:last-child {
     }
 }
 
+/* Keep the navigation visible above dynamically loaded widgets. */
+#topMenu{
+    display:flex !important;
+    visibility:visible !important;
+    opacity:1 !important;
+    position:relative !important;
+    z-index:20000 !important;
+}
+
 /* ========================= */
 /* HOME DASHBOARD */
 /* ========================= */
@@ -1008,7 +1017,7 @@ body.app-page.app-mode .top-area {
 <h2>📡 Abşeron üçün hava proqnozu</h2>
 
 <!-- TOP MENU -->
-<div class="top-menu">
+<div class="top-menu" id="topMenu">
 
     <button onclick="openSection('homeSection')">
         🏠 Ana səhifə
@@ -3398,6 +3407,26 @@ window.addEventListener("load", () => {
 if (window.location.search.includes("app=1")) {
     document.body.classList.add("app-mode");
 }
+</script>
+
+<script>
+/* Restore the navigation if an external widget changes its inline styles. */
+(function () {
+    function keepTopMenuVisible() {
+        const menu = document.getElementById("topMenu");
+        if (!menu) return;
+
+        menu.hidden = false;
+        menu.style.setProperty("display", "flex", "important");
+        menu.style.setProperty("visibility", "visible", "important");
+        menu.style.setProperty("opacity", "1", "important");
+    }
+
+    keepTopMenuVisible();
+    window.addEventListener("load", keepTopMenuVisible);
+    setTimeout(keepTopMenuVisible, 1000);
+    setTimeout(keepTopMenuVisible, 3000);
+})();
 </script>
       
 </body>
