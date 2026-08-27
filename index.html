@@ -3057,9 +3057,9 @@ function openSection(id){
     if (topMenu) topMenu.classList.remove('menu-open');
     if (menuToggle) menuToggle.setAttribute('aria-expanded', 'false');
 
-    document.querySelectorAll('.section')
-    .forEach(el => {
+    document.querySelectorAll('.section').forEach(el => {
         el.classList.remove('active');
+        el.style.setProperty('display', 'none', 'important');
     });
 
     const section =
@@ -3067,6 +3067,7 @@ function openSection(id){
 
     if(section){
         section.classList.add('active');
+        section.style.setProperty('display', 'block', 'important');
     }
 
     window.scrollTo({
