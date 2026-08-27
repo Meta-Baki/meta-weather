@@ -3060,7 +3060,6 @@ function openSection(id){
 
     document.querySelectorAll('.section').forEach(el => {
         el.classList.remove('active');
-        el.style.setProperty('display', 'none', 'important');
     });
 
     const section =
@@ -3068,7 +3067,6 @@ function openSection(id){
 
     if(section){
         section.classList.add('active');
-        section.style.setProperty('display', 'block', 'important');
     }
 
     window.scrollTo({
@@ -3123,6 +3121,23 @@ function openSection(id){
         setTimeout(() => {
             if(window.loadWindguru7) window.loadWindguru7();
         }, 100);
+    }
+
+    // Refresh the weather information whenever the tab is opened.
+    if(id === "historySection"){
+        setTimeout(() => {
+            if(window.loadHistory) window.loadHistory();
+        }, 100);
+    }
+
+    if(id === "spaceSection"){
+        setTimeout(() => { if(window.loadSpace) window.loadSpace(); }, 100);
+    }
+    if(id === "metaSection"){
+        setTimeout(() => { if(window.loadMeta) window.loadMeta(); }, 100);
+    }
+    if(id === "recordsSection"){
+        setTimeout(() => { if(window.loadRecords) window.loadRecords(); }, 100);
     }
 
     // Load Windy only after the radar section is visible, so it gets its real size.
