@@ -1306,7 +1306,9 @@ body.app-page.app-mode .top-area {
     </div>
 
     <iframe
-        src="https://embed.windy.com/embed2.html?lat=40.45&lon=49.95&zoom=10&level=surface&overlay=wind&product=ecmwf&menu=false&message=false&type=map&location=coordinates&metricWind=km%2Fh&marker=true&lang=tr"
+        id="homeWindyFrame"
+        src="about:blank"
+        data-src="https://embed.windy.com/embed2.html?lat=40.45&lon=49.95&zoom=10&level=surface&overlay=wind&product=ecmwf&menu=false&message=false&type=map&location=coordinates&metricWind=km%2Fh&marker=true&lang=tr"
         width="100%"
         height="300"
         style="
@@ -1464,25 +1466,20 @@ body.app-page.app-mode .top-area {
         <h3>Temperatur, külək, rütubət və təzyiq dəyişiklikləri.</h3>
     </div>
 
-    <div style="height:480px; width:100%;">
+    <div style="height:360px; width:100%;">
         <canvas id="weatherChart"></canvas>
     </div>
 
-    <!-- Windguru: chart details -->
-    <div style="width:100%; margin-top:20px;">
-        <script id="wglive_16536_1787771128268">
-        (function (window, document) {
-            var loader = function () {
-                var arg = ["spot=16536", "uid=wglive_16536_1787771128268", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=1000", "msize=1000", "m=3", "show=n,g,f"];
-                var script = document.createElement("script");
-                var tag = document.getElementById("wglive_16536_1787771128268");
-                script.src = "https://www.windguru.cz/js/wglive.php?" + arg.join("&");
-                tag.parentNode.insertBefore(script, tag);
-            };
-            window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
-        })(window, document);
-        </script>
-    </div>
+    <!-- Windguru chart: loaded only after the charts tab is visible -->
+    <iframe
+        id="windguruChartFrame"
+        title="Windguru chart"
+        width="100%"
+        height="1000"
+        style="width:100%; min-height:1000px; border:0; margin-top:20px;"
+        src="about:blank"
+        data-src="https://www.windguru.cz/wglive-iframe.php?s=16536&wj=kmh&tj=c&m=3&gsize=800&msize=800&show=n,g,f&direct=1">
+    </iframe>
 
 </div>
 
@@ -1511,23 +1508,7 @@ body.app-page.app-mode .top-area {
         data-src="https://embed.windy.com/embed2.html?lat=40.3793&lon=49.9625&zoom=10&level=surface&overlay=radar&menu=&message=true&type=map&lang=tr">
     </iframe>
 
-    <!-- Windguru: live station radar -->
-    <div style="width:100%; margin-top:20px;">
-        <script id="wglive_16536_1787771295750">
-        (function (window, document) {
-            var loader = function () {
-                var arg = ["spot=16536", "uid=wglive_16536_1787771295750", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=1000", "msize=1000", "m=3", "show=n,c,m"];
-                var script = document.createElement("script");
-                var tag = document.getElementById("wglive_16536_1787771295750");
-                script.src = "https://www.windguru.cz/js/wglive.php?" + arg.join("&");
-                tag.parentNode.insertBefore(script, tag);
-            };
-            window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
-        })(window, document);
-        </script>
-    </div>
-
-    <div style="
+      <div style="
         margin-top:12px;
         text-align:center;
         font-size:15px;
@@ -1550,7 +1531,17 @@ body.app-page.app-mode .top-area {
         >
             🌐 Meteoroloji stansiyaya keçid →
         </a>
-    </div>
+
+    <!-- Windguru live graph: loaded only after the radar tab is visible -->
+    <iframe
+        id="windguruRadarFrame"
+        title="Windguru live graph"
+        width="100%"
+        height="1050"
+        style="width:100%; min-height:700px; border:0; margin-top:20px;"
+        src="about:blank"
+        data-src="https://www.windguru.cz/wglive-iframe.php?s=16536&wj=kmh&tj=c&m=3&gsize=1000&msize=1000&show=n,c,m&direct=1">
+    </iframe>
 </div>
 
 <!-- HISTORY -->
@@ -2807,7 +2798,10 @@ async function loadChart() {
 
     try {
 
-        const r = await fetch("/history_flat");
+        const historyUrl = location.protocol === "file:"
+            ? "https://meta-baki1.onrender.com/history_flat"
+            : "/history_flat";
+        const r = await fetch(historyUrl);
         const data = await r.json();
 
         if (!Array.isArray(data) || data.length === 0) {
@@ -3074,6 +3068,13 @@ function openSection(id){
             if(chart){
                 chart.resize();
             }
+            const windguruChart = document.getElementById("windguruChartFrame");
+            if(windguruChart){
+                const src = windguruChart.getAttribute("data-src");
+                if(src && windguruChart.getAttribute("src") !== src){
+                    windguruChart.setAttribute("src", src);
+                }
+            }
 
         }, 300);
     }
@@ -3086,6 +3087,25 @@ function openSection(id){
                 const src = radar.getAttribute("data-src");
                 if(src && radar.getAttribute("src") !== src){
                     radar.setAttribute("src", src);
+                }
+            }
+            const windguru = document.getElementById("windguruRadarFrame");
+            if(windguru){
+                const src = windguru.getAttribute("data-src");
+                if(src && windguru.getAttribute("src") !== src){
+                    windguru.setAttribute("src", src);
+                }
+            }
+        }, 300);
+    }
+
+    if(id === "homeSection"){
+        setTimeout(() => {
+            const homeRadar = document.getElementById("homeWindyFrame");
+            if(homeRadar){
+                const src = homeRadar.getAttribute("data-src");
+                if(src && homeRadar.getAttribute("src") !== src){
+                    homeRadar.setAttribute("src", src);
                 }
             }
         }, 300);
