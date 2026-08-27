@@ -1415,7 +1415,7 @@ body.app-page.app-mode .top-area {
         <script id="wglive_16536_1787771338267">
         (function (window, document) {
             var loader = function () {
-                var arg = ["spot=16536", "uid=wglive_16536_1787771338267", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=400", "msize=400", "m=3", "show=n,c,f"];
+                var arg = ["spot=16536", "uid=wglive_16536_1787771338267", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=1200", "msize=1200", "m=3", "show=n,c,f"];
                 var script = document.createElement("script");
                 var tag = document.getElementById("wglive_16536_1787771338267");
                 script.src = "https://www.windguru.cz/js/wglive.php?" + arg.join("&");
@@ -1442,7 +1442,7 @@ body.app-page.app-mode .top-area {
         <script id="wglive_16536_1787771338267_14">
         (function (window, document) {
             var loader = function () {
-                var arg = ["spot=16536", "uid=wglive_16536_1787771338267_14", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=400", "msize=400", "m=3", "show=n,c,f"];
+                var arg = ["spot=16536", "uid=wglive_16536_1787771338267_14", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=1200", "msize=1200", "m=3", "show=n,c,f"];
                 var script = document.createElement("script");
                 var tag = document.getElementById("wglive_16536_1787771338267_14");
                 script.src = "https://www.windguru.cz/js/wglive.php?" + arg.join("&");
@@ -1473,7 +1473,7 @@ body.app-page.app-mode .top-area {
         <script id="wglive_16536_1787771128268">
         (function (window, document) {
             var loader = function () {
-                var arg = ["spot=16536", "uid=wglive_16536_1787771128268", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=400", "msize=400", "m=3", "show=n,g,f"];
+                var arg = ["spot=16536", "uid=wglive_16536_1787771128268", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=1200", "msize=1200", "m=3", "show=n,g,f"];
                 var script = document.createElement("script");
                 var tag = document.getElementById("wglive_16536_1787771128268");
                 script.src = "https://www.windguru.cz/js/wglive.php?" + arg.join("&");
@@ -1503,6 +1503,7 @@ body.app-page.app-mode .top-area {
     </h3>
 
     <iframe
+        id="windyRadarFrame"
         width="100%"
         height="610"
         style="border-radius:10px;border:none;"
@@ -1514,7 +1515,7 @@ body.app-page.app-mode .top-area {
         <script id="wglive_16536_1787771295750">
         (function (window, document) {
             var loader = function () {
-                var arg = ["spot=16536", "uid=wglive_16536_1787771295750", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=400", "msize=400", "m=3", "show=n,c,m"];
+                var arg = ["spot=16536", "uid=wglive_16536_1787771295750", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=1200", "msize=1200", "m=3", "show=n,c,m"];
                 var script = document.createElement("script");
                 var tag = document.getElementById("wglive_16536_1787771295750");
                 script.src = "https://www.windguru.cz/js/wglive.php?" + arg.join("&");
@@ -2820,7 +2821,7 @@ async function loadChart() {
         // только сегодняшний день
         const now = new Date();
 
-        const sliced = data.filter(i => {
+        let sliced = data.filter(i => {
 
             const d = new Date(i.timestamp);
 
@@ -2830,6 +2831,12 @@ async function loadChart() {
                 d.getDate() === now.getDate()
             );
         });
+
+        // Сервер может отдавать UTC-время, а браузер работает по Баку.
+        // Если из-за разницы дат «сегодня» пусто, показываем последние точки.
+        if (sliced.length === 0) {
+            sliced = data.slice(-48);
+        }
 
         // подписи времени
         const labels = sliced.map(i =>
@@ -3055,6 +3062,31 @@ function openSection(id){
                 window.mapInstance.invalidateSize();
             }
 
+        }, 300);
+    }
+
+    // FIX CHART.JS when chart section becomes visible after being hidden
+    if(id === "chartSection"){
+
+        setTimeout(() => {
+
+            if(chart){
+                chart.resize();
+            }
+
+        }, 300);
+    }
+
+    // Windy iframe is loaded while this section is hidden (display:none).
+    // Reload it after the section becomes visible so it can calculate its size.
+    if(id === "radarSection"){
+        setTimeout(() => {
+            const radar = document.getElementById("windyRadarFrame");
+            if(radar){
+                const src = radar.getAttribute("src");
+                radar.setAttribute("src", "about:blank");
+                setTimeout(() => radar.setAttribute("src", src), 50);
+            }
         }, 300);
     }
 }
