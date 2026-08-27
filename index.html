@@ -21,6 +21,12 @@ maximum-scale=1.0,
 user-scalable=yes,
 viewport-fit=cover">
 
+<script>
+if (Math.min(screen.width, screen.height) <= 600) {
+    document.documentElement.classList.add('phone-menu');
+}
+</script>
+
 <meta name="google-site-verification" content="6VEhyVRxe_zaTiE8XVNvw-ZRP80zoCmWBAg1pGPry0c" />
 
 <title>META Abşeron Proqnozu</title>
@@ -329,6 +335,97 @@ td:last-child {
     }
 }
 
+/* Persistent navigation button and its expandable panel. */
+.menu-toggle{
+    position:absolute;
+    top:140px;
+    left:8px;
+    z-index:30000;
+    border:1px solid rgba(255,255,255,0.7);
+    border-radius:14px;
+    background:#078cd0;
+    color:#fff;
+    padding:22px 25px;
+    font:700 16px/1 Arial, sans-serif;
+    cursor:pointer;
+    box-shadow:0 5px 16px rgba(0,0,0,0.3);
+}
+
+#topMenu{
+    display:none;
+    position:absolute;
+    top:215px;
+    left:12px;
+    z-index:29999;
+    width:min(270px, calc(100vw - 24px));
+    max-height:calc(100vh - 235px);
+    overflow-y:auto;
+    overflow-x:hidden;
+    margin:0;
+    padding:6px;
+    box-sizing:border-box;
+    flex-direction:column;
+    flex-wrap:nowrap;
+    align-items:stretch;
+    justify-content:flex-start;
+    gap:4px;
+}
+
+#topMenu.menu-open{
+    display:flex;
+}
+
+#topMenu button{
+    width:100%;
+    min-width:0;
+    margin:0;
+    padding:8px 10px;
+    font-size:14px;
+    line-height:1.15;
+    box-sizing:border-box;
+    flex:0 0 auto;
+}
+
+/* Slightly larger controls on phones. */
+@media (max-width:600px), (max-device-width:600px){
+    #topMenu{
+        width:min(310px, calc(100vw - 24px));
+        gap:5px;
+        padding:8px;
+    }
+
+    #topMenu button{
+        padding:10px 12px;
+        font-size:16px;
+    }
+}
+
+/* The site's fixed 0.43 scale needs larger CSS values on physical phones. */
+html.phone-menu #topMenu{
+    width:min(440px, calc(100vw - 24px));
+    gap:6px;
+    padding:10px;
+}
+
+html.phone-menu #topMenu button{
+    padding:13px 16px;
+    font-size:24px;
+}
+
+/* Make Windguru's generated forecast content use the full site column. */
+.windguru-forecast-widget > div,
+.windguru-forecast-widget > table,
+.windguru-forecast-widget img,
+.windguru-forecast-widget canvas{
+    max-width:100% !important;
+}
+
+.windguru-forecast-widget img,
+.windguru-forecast-widget canvas{
+    width:100% !important;
+    height:auto !important;
+}
+
 /* ========================= */
 /* HOME DASHBOARD */
 /* ========================= */
@@ -363,6 +460,11 @@ td:last-child {
     min-height:320px;
 
     text-align:left;
+}
+
+/* Lower only the left weather card on the home page. */
+#homeSection .main-weather-card{
+    margin-top:100px;
 }
 
 .weather-status{
@@ -990,6 +1092,10 @@ body.app-page.app-mode .top-area {
 
 </div>
 
+<button class="menu-toggle" id="menuToggle" type="button" onclick="toggleMainMenu()" aria-controls="topMenu" aria-expanded="false">
+    ☰ MENYU
+</button>
+
 <div style="position:absolute; top:15px; right:15px; display:flex; gap:10px; z-index:10000;">
 
     <button class="share-btn" onclick="shareSite()" style="position:static;">
@@ -1008,7 +1114,7 @@ body.app-page.app-mode .top-area {
 <h2>📡 Abşeron üçün hava proqnozu</h2>
 
 <!-- TOP MENU -->
-<div class="top-menu">
+<div class="top-menu" id="topMenu">
 
     <button onclick="openSection('homeSection')">
         🏠 Ana səhifə
@@ -1027,11 +1133,11 @@ body.app-page.app-mode .top-area {
     </button>
 
     <button onclick="openSection('mapSection')">
-        🗺 Xəritələr
+        🗺 Xəritə
     </button>
 
     <button onclick="openSection('radarSection')">
-        🌧 Radar
+        🌧 Radarlar
     </button>
 
     <button onclick="openSection('historySection')">
@@ -1051,7 +1157,7 @@ body.app-page.app-mode .top-area {
     </button>
 
     <button onclick="openSection('helpSection')">
-        📰 Məlumat
+        📰 Sayt haqqında
     </button>
 
 </div>
@@ -1093,30 +1199,30 @@ body.app-page.app-mode .top-area {
     flex-wrap:wrap;
 ">
     <div class="mini-box" style="font-size:13px;">
-        ⚡ Real vaxt yeniləmələri
+        <h3>⚡ Real vaxt yeniləmələri</h3>
     </div>
 
     <div class="mini-box" style="font-size:13px;">
-        🌦 Model: Meta-Meteo
+        <h3>🌦 Model: Meta-Meteo</h3>
     </div>
 
     <div class="mini-box" style="font-size:13px;">
-        🔄 60 saniyə yenilənmə
+        <h3>🔄 60 saniyə yenilənmə</h3>
     </div>
 </div>
 
             <div class="mini-stats">
 
                 <div class="mini-box">
-                    💧 <span id="homeHum">--%</span>
+                    <h3>💧 <span id="homeHum">--%</span></h3>
                 </div>
 
                 <div class="mini-box">
-                    💨 <span id="homeWind">-- km/h</span>
+                    <h3>💨 <span id="homeWind">-- km/h</span></h3>
                 </div>
 
                 <div class="mini-box">
-                    📈 <span id="homePressure">-- hPa</span>
+                    <h3>📈 <span id="homePressure">-- hPa</span></h3>
                 </div>
 
             </div>
@@ -1134,8 +1240,8 @@ body.app-page.app-mode .top-area {
     opacity:0.85;
     line-height:1.5;
 ">
-    🌡 Bu məlumatlar Abşeron yarımadasında yerləşən META hava stansiyasından real vaxt rejimində toplanır.
-    Külək, təzyiq və rütubət sensorları avtomatik yenilənir.
+    <h4>🌡 Bu məlumatlar Abşeron yarımadasında yerləşən META hava stansiyasından real vaxt rejimində toplanır.
+    Külək, təzyiq və rütubət sensorları avtomatik yenilənir.</h4>
 </div>
 
 <a href="https://github.com/Meta-Baki/meta_baki_az/releases/latest/download/META.Weather.apk"
@@ -1215,7 +1321,9 @@ body.app-page.app-mode .top-area {
     </div>
 
     <iframe
-        src="https://embed.windy.com/embed2.html?lat=40.45&lon=49.95&zoom=10&level=surface&overlay=wind&product=ecmwf&menu=false&message=false&type=map&location=coordinates&metricWind=km%2Fh&marker=true&lang=tr"
+        id="homeWindyFrame"
+        src="about:blank"
+        data-src="https://embed.windy.com/embed2.html?lat=40.45&lon=49.95&zoom=10&level=surface&overlay=wind&product=ecmwf&menu=false&message=false&type=map&location=coordinates&metricWind=km%2Fh&marker=true&lang=tr"
         width="100%"
         height="300"
         style="
@@ -1276,6 +1384,22 @@ body.app-page.app-mode .top-area {
         🛰 Bağlantı: Real-time API • Open-Meteo Sync
     </div>
 
+    <!-- Windguru: current station conditions -->
+    <div id="wgs_widget_16536_1787768203067" style="width:100%; margin-top:14px;"></div>
+    <script src="https://www.windguru.cz/js/wgs_widget.php"></script>
+    <script>
+    WgsWidget({
+        id_station: 16536,
+        wj: 'kmh',
+        tj: 'c',
+        avg_min: 0,
+        tmprh: true,
+        date_format: 'Y-m-d H:i:s T',
+        divid: 'wgs_widget_16536_1787768203067',
+        type: 'curr'
+    });
+    </script>
+
 </div>
 
         </div>
@@ -1299,9 +1423,28 @@ body.app-page.app-mode .top-area {
 <div class="box section" id="forecast7">
     <h2>📊 7 günlük hava proqnozu</h2>
 <div style="margin-bottom:20px; opacity:0.8;">
-        Ən dəqiq proqnoz 3 günlük proqnozdur; onun dəqiqliyi 90%-dir.
+        <h3>Ən dəqiq proqnoz 3 günlük proqnozdur; onun dəqiqliyi 90%-dir.</h3>
     </div>
     <div id="forecast"></div>
+
+    <!-- Windguru forecast graph -->
+    <div id="windguru7Widget" class="windguru-forecast-widget" style="width:100%; margin-top:20px; overflow:hidden;">
+        <script id="wg_fwdg_1351852_100_1787833063050">
+        (function (window, document) {
+            window.loadWindguru7 = function () {
+                var host = document.getElementById("windguru7Widget");
+                if (!host || host.getAttribute("data-loaded") === "1") return;
+                host.setAttribute("data-loaded", "1");
+                var arg = ["s=1351852", "m=100", "uid=wg_fwdg_1351852_100_1787833063050", "wj=kmh", "tj=c", "waj=m", "tij=cm", "odh=0", "doh=24", "fhours=240", "hrsm=2", "vt=fcst_graph", "lng=tr", "idbs=1", "p="];
+                var script = document.createElement("script");
+                var tag = document.getElementById("wg_fwdg_1351852_100_1787833063050");
+                script.src = "https://www.windguru.cz/js/widget.php?" + arg.join("&");
+                tag.parentNode.insertBefore(script, tag);
+            };
+            window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
+        })(window, document);
+        </script>
+    </div>
 </div>
 
 <!-- 14 DAYS -->
@@ -1309,10 +1452,28 @@ body.app-page.app-mode .top-area {
     <h2>📅 14 günlük hava proqnozu</h2>
 
     <div style="margin-bottom:20px; opacity:0.8;">
-        Proqnoz uzaqlaşdıqca, dəqiqliyi azalır.
+        <h3>Proqnoz uzaqlaşdıqca, dəqiqliyi azalır.</h3>
     </div>
 
     <div id="forecast14Content"></div>
+
+    <!-- Windguru forecast graph -->
+    <div id="windguru14Widget" class="windguru-forecast-widget" style="width:100%; margin-top:20px; overflow:hidden;">
+        <script id="wg_fwdg_1351852_100_1787833063050_14">
+        (function (window, document) {
+            window.loadWindguru14 = function () {
+                var host = document.getElementById("windguru14Widget");
+                if (!host || host.getAttribute("data-loaded") === "1") return;
+                host.setAttribute("data-loaded", "1");
+                var arg = ["s=1351852", "m=100", "uid=wg_fwdg_1351852_100_1787833063050_14", "wj=kmh", "tj=c", "waj=m", "tij=cm", "odh=0", "doh=24", "fhours=240", "hrsm=2", "vt=fcst_graph", "lng=tr", "idbs=1", "p="];
+                var script = document.createElement("script");
+                var tag = document.getElementById("wg_fwdg_1351852_100_1787833063050_14");
+                script.src = "https://www.windguru.cz/js/widget.php?" + arg.join("&");
+                tag.parentNode.insertBefore(script, tag);
+            };
+        })(window, document);
+        </script>
+    </div>
 </div>
 
     <!-- 1. НАЗВАНИЕ -->
@@ -1322,11 +1483,29 @@ body.app-page.app-mode .top-area {
     <h2>📊 Hava məlumatlarının qrafiki 🟢 ONLINE 24/7</h2>
 
     <div style="margin-bottom:15px; opacity:0.8;">
-        Temperatur, külək, rütubət və təzyiq dəyişiklikləri.
+        <h3>Temperatur, külək, rütubət və təzyiq dəyişiklikləri.</h3>
     </div>
 
-    <div style="height:600px; width:100%;">
+    <div style="height:630px; width:100%;">
         <canvas id="weatherChart"></canvas>
+    </div>
+
+    <!-- Windguru live graph -->
+    <div id="windguruChartWidget" style="width:100%; margin-top:20px; overflow:hidden; touch-action:none; overscroll-behavior:none;">
+        <script id="wglive_16536_1787834533527">
+        (function (window, document) {
+            window.loadWindguruChart = function () {
+                var host = document.getElementById("windguruChartWidget");
+                if (!host || host.getAttribute("data-loaded") === "1") return;
+                host.setAttribute("data-loaded", "1");
+                var arg = ["spot=16536", "uid=wglive_16536_1787834533527", "direct=1", "wj=knots", "tj=c", "avg_min=0", "gsize=300", "msize=400", "m=3", "show=n,g,c"];
+                var script = document.createElement("script");
+                var tag = document.getElementById("wglive_16536_1787834533527");
+                script.src = "https://www.windguru.cz/js/wglive.php?" + arg.join("&");
+                tag.parentNode.insertBefore(script, tag);
+            };
+        })(window, document);
+        </script>
     </div>
 
 </div>
@@ -1348,13 +1527,15 @@ body.app-page.app-mode .top-area {
     </h3>
 
     <iframe
+        id="windyRadarFrame"
         width="100%"
-        height="610"
+        height="650"
         style="border-radius:10px;border:none;"
-        src="https://embed.windy.com/embed2.html?lat=40.3793&lon=49.9625&zoom=10&level=surface&overlay=radar&menu=&message=true&type=map&lang=tr">
+        src="about:blank"
+        data-src="https://embed.windy.com/embed2.html?lat=40.3793&lon=49.9625&zoom=10&level=surface&overlay=radar&menu=&message=true&type=map&lang=tr">
     </iframe>
 
-    <div style="
+      <div style="
         margin-top:12px;
         text-align:center;
         font-size:15px;
@@ -1377,7 +1558,17 @@ body.app-page.app-mode .top-area {
         >
             🌐 Meteoroloji stansiyaya keçid →
         </a>
-    </div>
+
+    <!-- Windguru live graph: loaded only after the radar tab is visible -->
+    <iframe
+        id="windguruRadarFrame"
+        title="Windguru live graph"
+        width="100%"
+        height="1050"
+        style="width:100%; min-height:700px; border:0; margin-top:20px;"
+        src="about:blank"
+        data-src="https://www.windguru.cz/wglive-iframe.php?s=16536&wj=kmh&tj=c&m=3&gsize=1000&msize=1000&show=n,c,m&direct=1">
+    </iframe>
 </div>
 
 <!-- HISTORY -->
@@ -1389,7 +1580,7 @@ body.app-page.app-mode .top-area {
         margin-bottom:70px;
         opacity:0.8;
     ">
-        Bakı üçün son hava xəbərləri .
+        <h3>Bakı üçün son hava xəbərləri.</h3>
     </div>
 
     <div id="historyContent" style="
@@ -1414,7 +1605,7 @@ body.app-page.app-mode .top-area {
         margin-bottom:70px;
         opacity:0.8;
     ">
-        Günəş aktivliyi, geomaqnit qasırğaları, zəlzələlər və digər təbiət hadisələri.
+        <h3>Günəş aktivliyi, geomaqnit qasırğaları, zəlzələlər və digər təbiət hadisələri.</h3>
     </div>
 
     <div id="spaceContent" style="
@@ -1433,13 +1624,13 @@ body.app-page.app-mode .top-area {
 
 <div class="box section" id="metaSection" style="margin-top:-40px;">
 
-    <h1>📰 META xəbər</h1>
+    <h1>📰 META xəbərlər</h1>
 
     <div style="
         margin-bottom:70px;
         opacity:0.8;
     ">
-        META platforması haqqında son xəbərlər və yeniliklər.
+        <h3>Azərbaycanın ətraf mühiti və təbiəti ilə bağlı son xəbərlər.</h3>
     </div>
 
     <div id="metaContent" style="
@@ -1462,7 +1653,7 @@ body.app-page.app-mode .top-area {
     <h1>🏆 Meteoroloji rekordlar</h1>
 
     <div style="margin-bottom:50px; opacity:0.8;">
-        Temperatur, rütubət, külək, təzyiq və digər meteoroloji rekordlar — hər ay üzrə.
+        <h3>Temperatur, rütubət, külək, təzyiq və digər meteoroloji rekordlar — hər ay üzrə.</h3>
     </div>
 
     <div id="recordsContent" style="
@@ -2634,7 +2825,10 @@ async function loadChart() {
 
     try {
 
-        const r = await fetch("/history_flat");
+        const historyUrl = location.protocol === "file:"
+            ? "https://meta-baki1.onrender.com/history_flat"
+            : "/history_flat";
+        const r = await fetch(historyUrl);
         const data = await r.json();
 
         if (!Array.isArray(data) || data.length === 0) {
@@ -2649,7 +2843,7 @@ async function loadChart() {
         // только сегодняшний день
         const now = new Date();
 
-        const sliced = data.filter(i => {
+        let sliced = data.filter(i => {
 
             const d = new Date(i.timestamp);
 
@@ -2659,6 +2853,12 @@ async function loadChart() {
                 d.getDate() === now.getDate()
             );
         });
+
+        // Сервер может отдавать UTC-время, а браузер работает по Баку.
+        // Если из-за разницы дат «сегодня» пусто, показываем последние точки.
+        if (sliced.length === 0) {
+            sliced = data.slice(-48);
+        }
 
         // подписи времени
         const labels = sliced.map(i =>
@@ -2853,8 +3053,12 @@ let chart;
 
 function openSection(id){
 
-    document.querySelectorAll('.section')
-    .forEach(el => {
+    const topMenu = document.getElementById('topMenu');
+    const menuToggle = document.getElementById('menuToggle');
+    if (topMenu) topMenu.classList.remove('menu-open');
+    if (menuToggle) menuToggle.setAttribute('aria-expanded', 'false');
+
+    document.querySelectorAll('.section').forEach(el => {
         el.classList.remove('active');
     });
 
@@ -2881,6 +3085,17 @@ function openSection(id){
 
         }, 300);
     }
+
+    // Resize the map after its section becomes visible.
+    if(id === "mapSection"){
+        setTimeout(() => {
+            if(window.mapInstance) window.mapInstance.invalidateSize();
+        }, 300);
+    }
+
+    if(id === "forecast7" && window.loadWindguru7) setTimeout(window.loadWindguru7, 100);
+    if(id === "forecast14Section" && window.loadWindguru14) setTimeout(window.loadWindguru14, 100);
+    if(id === "chartSection" && window.loadWindguruChart) setTimeout(window.loadWindguruChart, 100);
 }
 
 function update24hText(d){
@@ -3347,6 +3562,15 @@ window.addEventListener("load", () => {
 </div>
 
 <script>
+function toggleMainMenu() {
+    const menu = document.getElementById('topMenu');
+    const button = document.getElementById('menuToggle');
+    if (!menu || !button) return;
+
+    const isOpen = menu.classList.toggle('menu-open');
+    button.setAttribute('aria-expanded', String(isOpen));
+}
+
 if (window.location.search.includes("app=1")) {
     document.body.classList.add("app-mode");
 }
