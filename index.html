@@ -411,6 +411,20 @@ html.phone-menu #topMenu button{
     font-size:24px;
 }
 
+/* Make Windguru's generated forecast content use the full site column. */
+.windguru-forecast-widget > div,
+.windguru-forecast-widget > table,
+.windguru-forecast-widget img,
+.windguru-forecast-widget canvas{
+    max-width:100% !important;
+}
+
+.windguru-forecast-widget img,
+.windguru-forecast-widget canvas{
+    width:100% !important;
+    height:auto !important;
+}
+
 /* ========================= */
 /* HOME DASHBOARD */
 /* ========================= */
@@ -1471,11 +1485,11 @@ body.app-page.app-mode .top-area {
     </div>
 
     <!-- Windguru live graph -->
-    <div id="windguruChartWidget" style="width:100%; margin-top:20px; overflow:hidden; touch-action:none; overscroll-behavior:none;">
+    <div id="windguruChartWidget" style="width:100%; min-height:520px; margin-top:20px; overflow:hidden; touch-action:none; overscroll-behavior:none;">
         <script id="wglive_16536_1787834533527">
         (function (window, document) {
             var loader = function () {
-                var arg = ["spot=16536", "uid=wglive_16536_1787834533527", "direct=1", "wj=knots", "tj=c", "avg_min=0", "gsize=300", "msize=400", "m=3", "show=n,g,c"];
+                var arg = ["spot=16536", "uid=wglive_16536_1787834533527", "direct=1", "wj=knots", "tj=c", "avg_min=0", "gsize=1000", "msize=1000", "m=3", "show=n,g,c"];
                 var script = document.createElement("script");
                 var tag = document.getElementById("wglive_16536_1787834533527");
                 script.src = "https://www.windguru.cz/js/wglive.php?" + arg.join("&");
