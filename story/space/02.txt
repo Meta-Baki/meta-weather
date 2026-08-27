@@ -1,48 +1,51 @@
-<h2 style="color:#8b5cf6;">🌕🌑 Gecə səmasında qismən Ay tutulması müşahidə olunacaq</h2>
+<h2 style="color:#8b5cf6;">🚀🔭 NASA-nın yeni kosmik teleskopu “Nancy Grace Roman” buraxılışa hazırlaşır</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 26 avqust 2026 14:40 — Bakı vaxtı
+🕐 Əlavə olunub: 27 avqust 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>26-dən 27 avqusta keçən gecə Yer kürəsinin bir sıra
-ərazilərində qismən Ay tutulması müşahidə olunacaq.</strong>
-Ay Yer kürəsinin kölgəsindən keçərkən onun səthinin bir hissəsi
-tündləşəcək və tutulmuş hissədə mis-qırmızı çalarlar yarana bilər.
+<strong>NASA-nın “Nancy Grace Roman” kosmik teleskopunun buraxılışına
+hazırlıqlar son mərhələyə çatıb.</strong> Yeni nəsil kosmik rəsədxananın
+30 avqustda “SpaceX Falcon Heavy” raketi ilə Floridadakı Kennedi Kosmik
+Mərkəzindən orbitə göndərilməsi planlaşdırılır. :contentReference[oaicite:1]{index=1}
 </p>
 
 <p>
-🌍 NASA-nın məlumatına görə, hadisə əsasən Şimali və Cənubi Amerika,
-həmçinin Avropanın və Afrikanın bəzi hissələrindən müşahidə edilə
-biləcək. Tutulmanın maksimum mərhələsində Ay diskinin təxminən
-<strong>93 faizi</strong> Yerin qaranlıq kölgəsinə daxil olacaq.
+🌌 “Roman” teleskopunun əsas məqsədləri arasında <strong>qaranlıq
+enerjinin və qaranlıq maddənin öyrənilməsi, kainatın genişlənməsinin
+araşdırılması və Günəş sistemindən kənarda yerləşən planetlərin
+axtarışı</strong> var. :contentReference[oaicite:2]{index=2}
 </p>
 
 <p>
-🌕 Bu hadisə tam Ay tutulması olmayacaq. Ayın kiçik bir hissəsi
-Yerin əsas kölgəsindən kənarda qalacağı üçün onun bir hissəsi
-adi parlaqlığını qoruyacaq.
+🔭 Teleskopun ən mühüm üstünlüklərindən biri çox geniş səma sahəsini
+müşahidə edə bilməsidir. NASA-nın məlumatına görə, onun geniş sahəli
+kamerası Hubble teleskopundan təxminən <strong>100 dəfə daha böyük
+görüntü sahəsinə</strong> malik olacaq. :contentReference[oaicite:3]{index=3}
 </p>
 
 <p>
-🔭 Qismən Ay tutulmasını müşahidə etmək üçün xüsusi qoruyucu
-eynəklərə ehtiyac yoxdur. Açıq və işıqsız ərazidən adi gözlə,
-həmçinin durbin və teleskop vasitəsilə izləmək mümkündür.
+🛰️ Buraxılışdan sonra teleskop Yerdən təxminən <strong>1,5 milyon
+kilometr</strong> məsafədə yerləşən Günəş–Yer L2 Laqranj nöqtəsinə
+yönələcək. Oraya çatdıqdan və sistemlər yoxlanıldıqdan sonra “Roman”
+kainatın ən böyük kosmik tədqiqat proqramlarından birinə başlayacaq.
+:contentReference[oaicite:4]{index=4}
 </p>
 
 <p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🌌 Avqustun son günləri astronomiya həvəskarları üçün xüsusilə
-maraqlı keçir. Ay tutulması ayın səmasında baş verən əsas
-astronomik hadisələrdən biridir.
+🌠 Alimlər yeni teleskopun milyardlarla qalaktikanı müşahidə etməklə
+kainatın quruluşu və onun sürətlənən genişlənməsi haqqında mühüm
+məlumatlar əldə edəcəyinə ümid edirlər.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi kosmos, peyklər, Günəş aktivliyi
-və astronomik hadisələri izləyir.
+📡 META Meteorologiya Mərkəzi kosmos, peyklər, Günəş aktivliyi və
+astronomik hadisələrlə bağlı ən son xəbərləri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos və astronomiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Kosmos və elm xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
