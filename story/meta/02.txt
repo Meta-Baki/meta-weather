@@ -1,45 +1,43 @@
-<h2 style="color:#0ea5e9;">⛈️🏔️ Dağlıq və dağətəyi rayonlarda yağış və şimşək ehtimalı var</h2>
+<h2 style="color:#0ea5e9;">🌡️🌍 İqlim dəyişmələri Azərbaycanın təbii ekosistemlərinə təsir göstərir</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 26 avqust 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 27 avqust 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Azərbaycanda 26 avqustda bəzi dağlıq və dağətəyi ərazilərdə
-qısamüddətli yağış və leysan xarakterli yağıntılar müşahidə olunur.</strong>
-Ayrı-ayrı ərazilərdə şimşək çaxması ehtimalı da var.
+<strong>Azərbaycanda iqlim dəyişmələri və ətraf mühitin deqradasiyası
+təbii ekosistemlərin qarşılaşdığı əsas problemlər sırasında qalır.</strong>
+Ölkənin müxtəlif iqlim qurşaqları temperatur dəyişikliklərinə,
+quraqlıq dövrlərinə və su ehtiyatlarının vəziyyətindəki dəyişikliklərə
+həssasdır.
 </p>
 
 <p>
-🌧️ Yağıntılar xüsusilə dağlıq ərazilərdə torpağın rütubət səviyyəsinə,
-bitki örtüyünə və yerli su ehtiyatlarına təsir göstərə bilər.
+💧 Temperaturun yüksəlməsi və yağıntı rejimində dəyişikliklər çayların,
+göllərin və digər su mənbələrinin vəziyyətinə təsir göstərə bilər.
+Bu proseslər kənd təsərrüfatı, meşələr və təbii yaşayış mühitləri üçün
+də əlavə risklər yaradır.
 </p>
 
 <p>
-🌫️ Gecə və səhər saatlarında bəzi dağlıq ərazilərdə dumanın
-müşahidə olunması gözlənilir. Belə hava şəraiti dağ ekosistemlərində
-mövsümi təbii proseslərin davam etməsinə şərait yaradır.
-</p>
-
-<p>
-🌱 Dağlıq ərazilərdə yağıntıların paylanması su ehtiyatlarının
-formalaşması, bitki örtüyünün vəziyyəti və torpaq rütubəti baxımından
-mühüm göstəricilərdən biridir.
+🌱 Ekosistemlərin bərpası, yaşıllıqların artırılması, su ehtiyatlarının
+səmərəli idarə olunması və biomüxtəlifliyin qorunması iqlim risklərinin
+azaldılması istiqamətində mühüm tədbirlər hesab olunur.
 </p>
 
 <p style="color:#22c55e;font-size:20px;font-weight:bold;">
-🌍 Dağ ekosistemlərinin meteoroloji şəraitinin müntəzəm izlənməsi
-iqlim və ətraf mühit dəyişikliklərinin qiymətləndirilməsi üçün
-əhəmiyyətlidir.
+🌿 Təbii ekosistemlərin qorunması iqlim dəyişmələrinin təsirlərinə
+uyğunlaşmaq və Azərbaycanın ekoloji dayanıqlığını artırmaq üçün
+mühüm vasitələrdən biridir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanda hava, iqlim, təbiət və
-ekoloji prosesləri izləyir.
+📡 META Meteorologiya Mərkəzi hava, iqlim, təbiət və ekoloji
+prosesləri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ekologiya və təbiət xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Ekologiya və iqlim xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
