@@ -1415,7 +1415,7 @@ body.app-page.app-mode .top-area {
         <script id="wglive_16536_1787771338267">
         (function (window, document) {
             var loader = function () {
-                var arg = ["spot=16536", "uid=wglive_16536_1787771338267", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=1200", "msize=1200", "m=3", "show=n,c,f"];
+                var arg = ["spot=16536", "uid=wglive_16536_1787771338267", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=1000", "msize=1000", "m=3", "show=n,c,f"];
                 var script = document.createElement("script");
                 var tag = document.getElementById("wglive_16536_1787771338267");
                 script.src = "https://www.windguru.cz/js/wglive.php?" + arg.join("&");
@@ -1442,7 +1442,7 @@ body.app-page.app-mode .top-area {
         <script id="wglive_16536_1787771338267_14">
         (function (window, document) {
             var loader = function () {
-                var arg = ["spot=16536", "uid=wglive_16536_1787771338267_14", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=1200", "msize=1200", "m=3", "show=n,c,f"];
+                var arg = ["spot=16536", "uid=wglive_16536_1787771338267_14", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=1000", "msize=1000", "m=3", "show=n,c,f"];
                 var script = document.createElement("script");
                 var tag = document.getElementById("wglive_16536_1787771338267_14");
                 script.src = "https://www.windguru.cz/js/wglive.php?" + arg.join("&");
@@ -1464,7 +1464,7 @@ body.app-page.app-mode .top-area {
         <h3>Temperatur, külək, rütubət və təzyiq dəyişiklikləri.</h3>
     </div>
 
-    <div style="height:600px; width:100%;">
+    <div style="height:480px; width:100%;">
         <canvas id="weatherChart"></canvas>
     </div>
 
@@ -1473,7 +1473,7 @@ body.app-page.app-mode .top-area {
         <script id="wglive_16536_1787771128268">
         (function (window, document) {
             var loader = function () {
-                var arg = ["spot=16536", "uid=wglive_16536_1787771128268", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=1200", "msize=1200", "m=3", "show=n,g,f"];
+                var arg = ["spot=16536", "uid=wglive_16536_1787771128268", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=1000", "msize=1000", "m=3", "show=n,g,f"];
                 var script = document.createElement("script");
                 var tag = document.getElementById("wglive_16536_1787771128268");
                 script.src = "https://www.windguru.cz/js/wglive.php?" + arg.join("&");
@@ -1505,9 +1505,10 @@ body.app-page.app-mode .top-area {
     <iframe
         id="windyRadarFrame"
         width="100%"
-        height="610"
+        height="520"
         style="border-radius:10px;border:none;"
-        src="https://embed.windy.com/embed2.html?lat=40.3793&lon=49.9625&zoom=10&level=surface&overlay=radar&menu=&message=true&type=map&lang=tr">
+        src="about:blank"
+        data-src="https://embed.windy.com/embed2.html?lat=40.3793&lon=49.9625&zoom=10&level=surface&overlay=radar&menu=&message=true&type=map&lang=tr">
     </iframe>
 
     <!-- Windguru: live station radar -->
@@ -1515,7 +1516,7 @@ body.app-page.app-mode .top-area {
         <script id="wglive_16536_1787771295750">
         (function (window, document) {
             var loader = function () {
-                var arg = ["spot=16536", "uid=wglive_16536_1787771295750", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=1200", "msize=1200", "m=3", "show=n,c,m"];
+                var arg = ["spot=16536", "uid=wglive_16536_1787771295750", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=1000", "msize=1000", "m=3", "show=n,c,m"];
                 var script = document.createElement("script");
                 var tag = document.getElementById("wglive_16536_1787771295750");
                 script.src = "https://www.windguru.cz/js/wglive.php?" + arg.join("&");
@@ -3077,15 +3078,15 @@ function openSection(id){
         }, 300);
     }
 
-    // Windy iframe is loaded while this section is hidden (display:none).
-    // Reload it after the section becomes visible so it can calculate its size.
+    // Load Windy only after the radar section is visible, so it gets its real size.
     if(id === "radarSection"){
         setTimeout(() => {
             const radar = document.getElementById("windyRadarFrame");
             if(radar){
-                const src = radar.getAttribute("src");
-                radar.setAttribute("src", "about:blank");
-                setTimeout(() => radar.setAttribute("src", src), 50);
+                const src = radar.getAttribute("data-src");
+                if(src && radar.getAttribute("src") !== src){
+                    radar.setAttribute("src", src);
+                }
             }
         }, 300);
     }
