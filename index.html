@@ -1412,19 +1412,21 @@ body.app-page.app-mode .top-area {
     </div>
     <div id="forecast"></div>
 
-<!-- Windguru: 7-day forecast details -->
-<script id="wg_fwdg_1351852_100_1787833063050">
-(function (window, document) {
-  var loader = function () {
-    var arg = ["s=1351852" ,"m=100","uid=wg_fwdg_1351852_100_1787833063050" ,"wj=kmh" ,"tj=c" ,"waj=m" ,"tij=cm" ,"odh=0" ,"doh=24" ,"fhours=240" ,"hrsm=2" ,"vt=fcst_graph" ,"lng=tr" ,"idbs=1" ,"p="];
-    var script = document.createElement("script");
-    var tag = document.getElementsByTagName("script")[0];
-    script.src = "https://www.windguru.cz/js/widget.php?"+(arg.join("&"));
-    tag.parentNode.insertBefore(script, tag);
-  };
-  window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
-  })(window, document);
-   </script>
+    <!-- Windguru forecast graph -->
+    <div class="windguru-forecast-widget" style="width:100%; margin-top:20px; overflow:hidden;">
+        <script id="wg_fwdg_1351852_100_1787833063050">
+        (function (window, document) {
+            var loader = function () {
+                var arg = ["s=1351852", "m=100", "uid=wg_fwdg_1351852_100_1787833063050", "wj=kmh", "tj=c", "waj=m", "tij=cm", "odh=0", "doh=24", "fhours=240", "hrsm=2", "vt=fcst_graph", "lng=tr", "idbs=1", "p="];
+                var script = document.createElement("script");
+                var tag = document.getElementById("wg_fwdg_1351852_100_1787833063050");
+                script.src = "https://www.windguru.cz/js/widget.php?" + arg.join("&");
+                tag.parentNode.insertBefore(script, tag);
+            };
+            window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
+        })(window, document);
+        </script>
+    </div>
 </div>
 
 <!-- 14 DAYS -->
@@ -1437,15 +1439,15 @@ body.app-page.app-mode .top-area {
 
     <div id="forecast14Content"></div>
 
-    <!-- Windguru: 14-day forecast details -->
-    <div style="width:100%; margin-top:20px;">
-        <script id="wglive_16536_1787771338267_14">
+    <!-- Windguru forecast graph -->
+    <div class="windguru-forecast-widget" style="width:100%; margin-top:20px; overflow:hidden;">
+        <script id="wg_fwdg_1351852_100_1787833063050_14">
         (function (window, document) {
             var loader = function () {
-                var arg = ["spot=16536", "uid=wglive_16536_1787771338267_14", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=1000", "msize=1000", "m=3", "show=n,c,f"];
+                var arg = ["s=1351852", "m=100", "uid=wg_fwdg_1351852_100_1787833063050_14", "wj=kmh", "tj=c", "waj=m", "tij=cm", "odh=0", "doh=24", "fhours=240", "hrsm=2", "vt=fcst_graph", "lng=tr", "idbs=1", "p="];
                 var script = document.createElement("script");
-                var tag = document.getElementById("wglive_16536_1787771338267_14");
-                script.src = "https://www.windguru.cz/js/wglive.php?" + arg.join("&");
+                var tag = document.getElementById("wg_fwdg_1351852_100_1787833063050_14");
+                script.src = "https://www.windguru.cz/js/widget.php?" + arg.join("&");
                 tag.parentNode.insertBefore(script, tag);
             };
             window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
@@ -1468,16 +1470,21 @@ body.app-page.app-mode .top-area {
         <canvas id="weatherChart"></canvas>
     </div>
 
-    <!-- Windguru chart: loaded only after the charts tab is visible -->
-    <iframe
-        id="windguruChartFrame"
-        title="Windguru chart"
-        width="100%"
-        height="500"
-        style="width:100%; min-height:500px; border:0; margin-top:20px;"
-        src="about:blank"
-        data-src="https://www.windguru.cz/wglive-iframe.php?s=16536&wj=kmh&tj=c&m=3&gsize=800&msize=800&show=n,g,f&direct=1">
-    </iframe>
+    <!-- Windguru live graph -->
+    <div id="windguruChartWidget" style="width:100%; margin-top:20px; overflow:hidden; touch-action:none; overscroll-behavior:none;">
+        <script id="wglive_16536_1787834533527">
+        (function (window, document) {
+            var loader = function () {
+                var arg = ["spot=16536", "uid=wglive_16536_1787834533527", "direct=1", "wj=knots", "tj=c", "avg_min=0", "gsize=300", "msize=400", "m=3", "show=n,g,c"];
+                var script = document.createElement("script");
+                var tag = document.getElementById("wglive_16536_1787834533527");
+                script.src = "https://www.windguru.cz/js/wglive.php?" + arg.join("&");
+                tag.parentNode.insertBefore(script, tag);
+            };
+            window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
+        })(window, document);
+        </script>
+    </div>
 
 </div>
 
