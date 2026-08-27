@@ -1412,21 +1412,19 @@ body.app-page.app-mode .top-area {
     </div>
     <div id="forecast"></div>
 
-    <!-- Windguru: 7-day forecast details -->
-    <div style="width:100%; margin-top:20px;">
-        <script id="wglive_16536_1787771338267">
-        (function (window, document) {
-            var loader = function () {
-                var arg = ["spot=16536", "uid=wglive_16536_1787771338267", "direct=1", "wj=kmh", "tj=c", "avg_min=0", "gsize=1000", "msize=1000", "m=3", "show=n,c,f"];
-                var script = document.createElement("script");
-                var tag = document.getElementById("wglive_16536_1787771338267");
-                script.src = "https://www.windguru.cz/js/wglive.php?" + arg.join("&");
-                tag.parentNode.insertBefore(script, tag);
-            };
-            window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
-        })(window, document);
-        </script>
-    </div>
+<!-- Windguru: 7-day forecast details -->
+<script id="wg_fwdg_1351852_100_1787833063050">
+(function (window, document) {
+  var loader = function () {
+    var arg = ["s=1351852" ,"m=100","uid=wg_fwdg_1351852_100_1787833063050" ,"wj=kmh" ,"tj=c" ,"waj=m" ,"tij=cm" ,"odh=0" ,"doh=24" ,"fhours=240" ,"hrsm=2" ,"vt=fcst_graph" ,"lng=tr" ,"idbs=1" ,"p="];
+    var script = document.createElement("script");
+    var tag = document.getElementsByTagName("script")[0];
+    script.src = "https://www.windguru.cz/js/widget.php?"+(arg.join("&"));
+    tag.parentNode.insertBefore(script, tag);
+  };
+  window.addEventListener ? window.addEventListener("load", loader, false) : window.attachEvent("onload", loader);
+  })(window, document);
+   </script>
 </div>
 
 <!-- 14 DAYS -->
