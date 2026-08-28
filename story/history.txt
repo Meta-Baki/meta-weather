@@ -1,114 +1,101 @@
-<h2 style="color:#0ea5e9;">🌧️⛈️ Leysan yağışları, şimşək və duman: Azərbaycanın bəzi rayonlarında hava dəyişib</h2>
+<h2 style="color:#0ea5e9;">💨🌤️ Şənbə günü hava: Bakıda güclü külək gözlənilir</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 27 avqust 2026, 10:35 — Bakı vaxtı
+🕐 Əlavə olunub: 28 avqust 2026, 13:28 — Bakı vaxtı
 </p>
 
 <p>
-<strong>27 avqust saat 10:00-a olan faktiki meteoroloji məlumatlara əsasən,
-Azərbaycanın bəzi dağlıq və dağətəyi rayonlarında gecə və axşam saatlarında
-qısamüddətli leysan yağışları və şimşək müşahidə olunub.</strong>
+<strong>META Hidrometeorologiya Departamenti 29 avqust, şənbə günü üçün hava proqnozunu açıqlayıb.</strong>
+</p>
+
+<h3 style="color:#60a5fa;">🌆 Bakı və Abşeron</h3>
+
+<p>
+Bakıda və Abşeron yarımadasında hava dəyişkən buludlu olacaq, əsasən yağıntı gözlənilmir. Gün ərzində şimal-qərb küləyi arabir güclənəcək.
 </p>
 
 <p>
-🌧️ Ən çox yağıntı <strong>Sarıbaşda (Qax) və Gədəbəydə 2 mm</strong>
-olub. Kəlbəcər, Laçın, Qubadlı, Şuşa, Xankəndi, Mingəçevir, Zaqatala,
-Goranboy, Şahdağ, Şəki, Oğuz, Şəmkir və Şərurda isə yağıntının miqdarı
-<strong>1 mm-ə qədər</strong> qeydə alınıb.
+🌡️ <strong>Gecə:</strong> +21…+25°C<br>
+☀️ <strong>Gündüz:</strong> +28…+31°C<br>
+🧭 <strong>Atmosfer təzyiqi:</strong> 758 mm civə sütunu<br>
+💧 <strong>Nisbi rütubət:</strong> gecə 60–70%, gündüz 50–55%
 </p>
 
-<h3 style="color:#60a5fa;">💨 Külək bəzi ərazilərdə güclənib</h3>
+<h3 style="color:#60a5fa;">⛈️ Azərbaycanın rayonlarında hava</h3>
 
 <p>
-Bəzi ərazilərdə şimal-qərb küləyi əsib. Gün ərzində ən yüksək külək sürəti
-<strong>Culfada 22 m/s (79 km/saat)</strong> təşkil edib.
-</p>
-
-<p>
-🌬️ <strong>Goranboy:</strong> 19 m/s (68 km/saat)<br>
-🌬️ <strong>Bakı, Abşeron və Naftalan:</strong> 18 m/s (65 km/saat)<br>
-🌬️ <strong>Tərtər:</strong> 16 m/s (58 km/saat)
+Ölkənin əksər rayonlarında əsasən yağmursuz hava şəraiti gözlənilir. Lakin bəzi dağlıq və dağətəyi rayonlarda arabir yağış yağacağı ehtimal olunur.
 </p>
 
 <p>
-💨 Bu göstəricilər faktiki ölçülmüş maksimal külək sürətləridir.
+🌧️ Gecə və axşam saatlarında ayrı-ayrı yerlərdə qısamüddətli leysan yağışları, bəzi yerlərdə <strong>intensiv leysan</strong>, şimşək və dolu müşahidə oluna bilər.
 </p>
 
-<h3 style="color:#94a3b8;">🌫️ Duman müşahidə olunan ərazilər</h3>
-
 <p>
-Günün səhər saatlarında <strong>Qusar, Göygöl, Xankəndi, Şahbuz və
-Lerikdə</strong> duman müşahidə olunub.
+🌫️ Gecə və səhər saatlarında bəzi dağlıq rayonlarda arabir duman olacaq.
 </p>
 
-<h3 style="color:#f59e0b;">🌡️ Maksimal temperatur</h3>
+<p>
+💨 Qərb küləyi ayrı-ayrı yerlərdə güclənəcək.
+</p>
+
+<h3 style="color:#f59e0b;">🌡️ Temperatur</h3>
 
 <p>
-☀️ <strong>Bakı və Abşeron:</strong> +31°C-yə qədər<br>
-🔥 <strong>Naxçıvan MR və aran rayonları:</strong> +39°C-yə qədər<br>
-🏔️ <strong>Dağlıq rayonlar:</strong> +28°C-yə qədər
+🌙 <strong>Rayonlarda gecə:</strong> +20…+25°C<br>
+☀️ <strong>Rayonlarda gündüz:</strong> +32…+36°C<br>
+🏔️ <strong>Dağlarda gecə:</strong> +13…+18°C<br>
+🏔️ <strong>Dağlarda gündüz:</strong> +20…+25°C
 </p>
 
 <div style="background:#1e293b;padding:15px;border-radius:10px;margin:20px 0;">
 
-<h3 style="color:#60a5fa;margin-top:0;">📊 27 avqust — faktiki hava göstəriciləri</h3>
+<h3 style="color:#60a5fa;margin-top:0;">📊 29 avqust — gözlənilən hava göstəriciləri</h3>
 
 <p style="color:#fff;">
-🌧️ <strong>Sarıbaş (Qax):</strong> 2 mm yağıntı
+🌆 <strong>Bakı və Abşeron:</strong> +21…+25°C gecə | +28…+31°C gündüz
 </p>
 
 <p style="color:#fff;">
-🌧️ <strong>Gədəbəy:</strong> 2 mm yağıntı
+💨 <strong>Külək:</strong> şimal-qərb küləyi, arabir güclənəcək
 </p>
 
 <p style="color:#fff;">
-💨 <strong>Culfa:</strong> 22 m/s | 79 km/saat
+🌧️ <strong>Dağlıq və dağətəyi rayonlar:</strong> arabir yağış, gecə və axşam leysan
 </p>
 
 <p style="color:#fff;">
-💨 <strong>Goranboy:</strong> 19 m/s | 68 km/saat
+⛈️ <strong>Təhlükəli hadisələr:</strong> intensiv leysan, şimşək və dolu ehtimalı
 </p>
 
 <p style="color:#fff;">
-💨 <strong>Bakı, Abşeron, Naftalan:</strong> 18 m/s | 65 km/saat
+🌫️ <strong>Duman:</strong> bəzi dağlıq rayonlarda gecə və səhər
 </p>
 
 <p style="color:#fff;">
-💨 <strong>Tərtər:</strong> 16 m/s | 58 km/saat
-</p>
-
-<p style="color:#fff;">
-🌡️ <strong>Ən yüksək temperatur:</strong> +39°C
-</p>
-
-<p style="color:#fff;">
-🌫️ <strong>Duman:</strong> Qusar, Göygöl, Xankəndi, Şahbuz, Lerik
+🌡️ <strong>Ən yüksək temperatur:</strong> +36°C
 </p>
 
 </div>
 
 <p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Güclü külək qeydə alınan ərazilərdə açıq sahələrdə, ağacların
-və reklam konstruksiyalarının yaxınlığında ehtiyatlı olmaq tövsiyə olunur.
-Dağlıq ərazilərdə isə leysan və duman səbəbindən görünüş məsafəsi
-azala bilər.
+⚠️ Bakıda və Abşeronda güclənən şimal-qərb küləyi zamanı açıq ərazilərdə, ağacların və reklam konstruksiyalarının yaxınlığında ehtiyatlı olmaq tövsiyə olunur. Dağlıq rayonlarda isə leysan, şimşək, dolu və duman səbəbindən görünüş məsafəsi azala bilər.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanda faktiki hava şəraitini,
-külək göstəricilərini və təhlükəli meteoroloji hadisələri izləyir.
+📡 META Meteorologiya Mərkəzi Azərbaycanda hava şəraitini, külək göstəricilərini və təhlükəli meteoroloji hadisələri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
 📲 Hava və meteoroloji xəbərlər üçün WhatsApp kanalımıza qoşulun:
 <br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank"
-style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı
-</a>
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" 
+target="_blank" 
+style="color:#25D366;font-weight:bold;text-decoration:none;"> 
+➡️ META WhatsApp Kanalı 
+</a> 
 </p>
 
-<p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Müəllif: Edelman Əliyev
+<p style="color:#22c55e;font-size:22px;font-weight:bold;"> 
+👨‍💼 Müəllif: Edelman Əliyev 
 </p>
