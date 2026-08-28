@@ -1,47 +1,58 @@
-<h2 style="color:#8b5cf6;">🚀🔭 NASA-nın yeni kosmik teleskopu “Nancy Grace Roman” buraxılışa hazırlaşır</h2>
+<h2 style="color:#8b5cf6;">🚀🔭 NASA "Nancy Grace Roman" teleskopunun buraxılışı ilə bağlı hazırlıqları yekunlaşdırır.</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 27 avqust 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 28 avqust 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>NASA-nın “Nancy Grace Roman” kosmik teleskopunun buraxılışına
-hazırlıqlar son mərhələyə çatıb.</strong> Yeni nəsil kosmik rəsədxananın
-30 avqustda “SpaceX Falcon Heavy” raketi ilə Floridadakı Kennedi Kosmik
-Mərkəzindən orbitə göndərilməsi planlaşdırılır. :contentReference[oaicite:1]{index=1}
+<strong>NASA-nın yeni nəsil “Nancy Grace Roman” kosmik teleskopunun
+buraxılışına hazırlıqlar son mərhələyə daxil olub.</strong> NASA və
+“SpaceX” teleskopun 30 avqust 2026-cı ildə Floridadakı Kennedi Kosmik
+Mərkəzindən “Falcon Heavy” raketi ilə orbitə göndərilməsini planlaşdırır.
+Buraxılış üçün nəzərdə tutulan vaxt 07:26 EDT-dir.
 </p>
 
 <p>
-🌌 “Roman” teleskopunun əsas məqsədləri arasında <strong>qaranlıq
-enerjinin və qaranlıq maddənin öyrənilməsi, kainatın genişlənməsinin
-araşdırılması və Günəş sistemindən kənarda yerləşən planetlərin
-axtarışı</strong> var. :contentReference[oaicite:2]{index=2}
+🛰️ Teleskop artıq “Falcon Heavy” raketinin yük örtüyü daxilində
+Kennedi Kosmik Mərkəzindəki buraxılış kompleksinə çatdırılıb. Bu gün
+missiya komandası son <strong>“uçuşa hazır / hazır deyil”</strong>
+qiymətləndirməsini həyata keçirir.
 </p>
 
 <p>
-🔭 Teleskopun ən mühüm üstünlüklərindən biri çox geniş səma sahəsini
-müşahidə edə bilməsidir. NASA-nın məlumatına görə, onun geniş sahəli
-kamerası Hubble teleskopundan təxminən <strong>100 dəfə daha böyük
-görüntü sahəsinə</strong> malik olacaq. :contentReference[oaicite:3]{index=3}
+🌌 “Roman” teleskopunun əsas elmi məqsədləri arasında
+<strong>qaranlıq enerji, qaranlıq maddə, kainatın genişlənməsi və
+ekzoplanetlərin araşdırılması</strong> yer alır. Teleskop geniş səma
+sahələrini müşahidə edərək milyardlarla qalaktikanın öyrənilməsinə
+imkan verəcək.
 </p>
 
 <p>
-🛰️ Buraxılışdan sonra teleskop Yerdən təxminən <strong>1,5 milyon
-kilometr</strong> məsafədə yerləşən Günəş–Yer L2 Laqranj nöqtəsinə
-yönələcək. Oraya çatdıqdan və sistemlər yoxlanıldıqdan sonra “Roman”
-kainatın ən böyük kosmik tədqiqat proqramlarından birinə başlayacaq.
-:contentReference[oaicite:4]{index=4}
+🔭 Teleskopun geniş sahəli kamerası Hubble ilə müqayisədə təxminən
+<strong>100 dəfə daha böyük görüntü sahəsini</strong> müşahidə edə
+biləcək. Bu xüsusiyyət alimlərə kainatın böyük miqyaslı quruluşunu
+daha sürətlə və geniş əhatə ilə araşdırmağa imkan verəcək.
+</p>
+
+<p>
+🛰️ Buraxılışdan sonra “Roman” Günəş–Yer sisteminin təxminən
+<strong>1,5 milyon kilometr</strong> uzaqlıqdakı L2 Laqranj nöqtəsinə
+yönələcək. Teleskopun oraya çatması və sistemlərinin yoxlanılması
+başa çatdıqdan sonra əsas elmi müşahidələrə başlaması planlaşdırılır.
+
 </p>
 
 <p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🌠 Alimlər yeni teleskopun milyardlarla qalaktikanı müşahidə etməklə
-kainatın quruluşu və onun sürətlənən genişlənməsi haqqında mühüm
-məlumatlar əldə edəcəyinə ümid edirlər.
+🌠 “Nancy Grace Roman” teleskopunun fəaliyyəti kainatın sürətlənən
+genişlənməsinin səbəbləri, qaranlıq maddənin paylanması və uzaq
+planet sistemləri haqqında yeni məlumatların əldə edilməsinə kömək
+edə bilər.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi kosmos, peyklər, Günəş aktivliyi və
-astronomik hadisələrlə bağlı ən son xəbərləri izləyir.
+📡 META Meteorologiya Mərkəzi kosmos, peyklər, Günəş aktivliyi,
+astronomik hadisələr və kosmik missiyalarla bağlı ən son xəbərləri
+izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
