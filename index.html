@@ -1101,6 +1101,10 @@ body.app-page.app-mode .top-area {
 <!-- TOP MENU -->
 <div class="top-menu" id="topMenu">
 
+    <button onclick="openCitySearch()">
+        🔎 Axtarış
+    </button>
+
     <button onclick="openSection('homeSection')">
         🏠 Ana səhifə
     </button>
@@ -1159,6 +1163,26 @@ body.app-page.app-mode .top-area {
 
 </div>
 
+</div>
+
+<!-- CITY SEARCH -->
+<div class="box section" id="citySearchSection" style="margin-top:-40px;">
+    <h1>🔎 Şəhər və rayon üzrə axtarış</h1>
+
+    <div style="max-width:900px; margin:0 auto 20px; text-align:left; line-height:1.7; opacity:0.9;">
+        Abşeron yarımadası ərazisində yerləşən rayonları və Azərbaycanın tanınmış şəhər və rayonlarını axtara bilərsiniz.<br>
+        <strong>Ən dəqiq proqnoz Abşeron yarımadası ərazisində yerləşən rayonlar üçündür.</strong>
+    </div>
+
+    <div style="max-width:900px; margin:0 auto;">
+        <input id="citySearchInput" type="search" autocomplete="off" oninput="filterCitySearch()"
+            placeholder="Şəhər və ya rayonun adını yazın..."
+            style="width:100%; box-sizing:border-box; padding:16px 18px; border:1px solid rgba(255,255,255,.3); border-radius:14px; background:rgba(15,23,42,.75); color:#fff; font-size:18px; outline:none;">
+        <div id="citySearchResults" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(180px, 1fr)); gap:10px; margin-top:15px;"></div>
+    </div>
+
+    <div id="cityForecastTitle" style="display:none; margin:45px 0 15px;"></div>
+    <div id="cityForecastContent"></div>
 </div>
 
 <!-- HOME -->
@@ -2280,7 +2304,7 @@ if(d.wind_ms * 3.6 > 45){
 
 async function loadForecast(){
     let r = await fetch(
-        "https://api.open-meteo.com/v1/forecast?latitude=40.379228&longitude=49.9625323&daily=weathercode,temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,precipitation_probability_max,wind_speed_10m_mean,cloud_cover_mean,uv_index_max,sunrise,sunset,windspeed_10m_max,winddirection_10m_dominant,windgusts_10m_max,surface_pressure_mean,precipitation_sum&timezone=Asia/Baku&forecast_days=7"
+        "https://api.open-meteo.com/v1/forecast?latitude=40.4093&longitude=49.8671&daily=weathercode,temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,precipitation_probability_max,wind_speed_10m_mean,cloud_cover_mean,uv_index_max,sunrise,sunset,windspeed_10m_max,winddirection_10m_dominant,windgusts_10m_max,surface_pressure_mean,precipitation_sum&timezone=Asia/Baku&forecast_days=7"
     );
 
     let d = await r.json();
@@ -2469,7 +2493,7 @@ document.getElementById("forecast").innerHTML = html;
   
 async function loadForecast14(){
     let r = await fetch(
-"https://api.open-meteo.com/v1/forecast?latitude=40.3793&longitude=49.9625&daily=weathercode,temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,precipitation_probability_max,snowfall_sum,wind_speed_10m_mean,cloud_cover_mean,uv_index_max,precipitation_sum,sunrise,sunset,wind_speed_10m_max,wind_direction_10m_dominant,wind_gusts_10m_max,surface_pressure_mean&timezone=auto&forecast_days=14"
+"https://api.open-meteo.com/v1/forecast?latitude=40.4093&longitude=49.8671&daily=weathercode,temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,precipitation_probability_max,snowfall_sum,wind_speed_10m_mean,cloud_cover_mean,uv_index_max,precipitation_sum,sunrise,sunset,wind_speed_10m_max,wind_direction_10m_dominant,wind_gusts_10m_max,surface_pressure_mean&timezone=auto&forecast_days=14"
 );
     let d = await r.json();
 
@@ -3506,6 +3530,54 @@ async function loadTextStory(containerId, filePath) {
     } catch (error) {
         console.error("Story load error:", error);
         container.innerHTML = "❌ Məlumat tapılmadı.";
+    }
+}
+
+const searchableCities = [
+    {name:'Bakı',lat:40.4093,lon:49.8671},{name:'İçərişəhər',lat:40.3668,lon:49.8360},{name:'Nərimanov',lat:40.4025,lon:49.8723},{name:'Nəsimi',lat:40.3834,lon:49.8489},{name:'Səbail',lat:40.3523,lon:49.8332},{name:'Yasamal',lat:40.3771,lon:49.8046},{name:'Xətai',lat:40.3770,lon:49.9430},{name:'Binəqədi',lat:40.4675,lon:49.8270},{name:'Sabunçu',lat:40.4280,lon:49.9480},{name:'Suraxanı',lat:40.4220,lon:50.0320},{name:'Əhmədli',lat:40.3830,lon:49.9550},{name:'Ramana',lat:40.4510,lon:49.9680},{name:'Zabrat',lat:40.4780,lon:49.9480},{name:'Balaxanı',lat:40.4560,lon:49.9110},{name:'Bakıxanov',lat:40.4250,lon:49.9480},
+    {name:'Sumqayıt',lat:40.5897,lon:49.6686},{name:'Xırdalan',lat:40.4481,lon:49.7550},{name:'Masazır',lat:40.4210,lon:49.7922},{name:'Saray',lat:40.5280,lon:49.7200},{name:'Ceyranbatan',lat:40.4810,lon:49.7050},{name:'Qobu',lat:40.4040,lon:49.7380},{name:'Lökbatan',lat:40.3233,lon:49.7361},{name:'Fatmayı',lat:40.5560,lon:49.7640},{name:'Mehdiabad',lat:40.5540,lon:49.7290},{name:'Digah',lat:40.5090,lon:49.7880},{name:'Hövsan',lat:40.3740,lon:50.0850},{name:'Binə',lat:40.4508,lon:50.0856},{name:'Qala',lat:40.4530,lon:50.1840},{name:'Şüvəlan',lat:40.4888,lon:50.1681},{name:'Mərdəkan',lat:40.4918,lon:50.1429},{name:'Buzovna',lat:40.5196,lon:50.1144},{name:'Bilgəh',lat:40.5828,lon:50.0401},{name:'Nardaran',lat:40.5680,lon:50.0050},{name:'Pirşağı',lat:40.5563,lon:49.7382},{name:'Zirə',lat:40.2982,lon:50.2917},{name:'Pirallahı',lat:40.4620,lon:50.3230},{name:'Novxanı',lat:40.5705,lon:49.6761},{name:'Corat',lat:40.5960,lon:49.6860},{name:'Güzdək',lat:40.4730,lon:49.7360},
+    {name:'Şirvan',lat:39.9320,lon:48.9200},{name:'Hacıqabul',lat:40.0400,lon:48.9400},{name:'Salyan',lat:39.5950,lon:48.9800},{name:'Neftçala',lat:39.3740,lon:49.2470},{name:'Lənkəran',lat:38.7540,lon:48.8510},{name:'Astara',lat:38.4550,lon:48.8750},{name:'Biləsuvar',lat:39.4580,lon:48.5440},{name:'Cəlilabad',lat:39.2090,lon:48.4980},{name:'Masallı',lat:39.0350,lon:48.6550},{name:'Yevlax',lat:40.6170,lon:47.1500},
+    {name:'Quba',lat:41.3625,lon:48.5123},{name:'Qusar',lat:41.4265,lon:48.4300},{name:'Xaçmaz',lat:41.4640,lon:48.8060},{name:'Şabran',lat:41.2000,lon:48.9830},{name:'Siyəzən',lat:41.0765,lon:49.1117},{name:'Xızı',lat:40.8730,lon:49.3800},{name:'Qobustan',lat:40.0825,lon:49.4120},{name:'Şamaxı',lat:40.6310,lon:48.6414},{name:'İsmayıllı',lat:40.7840,lon:48.1510},{name:'Ağsu',lat:40.5700,lon:48.4000},{name:'Göyçay',lat:40.6500,lon:47.7400},{name:'Ucar',lat:40.5100,lon:47.6500},{name:'Zərdab',lat:40.2200,lon:47.7100},{name:'Bərdə',lat:40.3770,lon:47.1260},{name:'Tərtər',lat:40.3410,lon:46.9290},
+    {name:'Kürdəxanı',lat:40.5480,lon:49.9110},{name:'Böyük Şor',lat:40.4200,lon:49.9000},{name:'Sulutəpə',lat:40.4700,lon:49.8100},{name:'Bibiheybət',lat:40.3300,lon:49.8180},{name:'Zığ',lat:40.3570,lon:50.0630},{name:'Ələt',lat:39.9700,lon:49.4050},{name:'Hökməli',lat:40.4840,lon:49.7390},{name:'Müşfiqabad',lat:40.4850,lon:49.7490},{name:'Görədil',lat:40.5750,lon:49.7150},{name:'Nübar',lat:40.5000,lon:49.7000},{name:'Sahil',lat:40.4500,lon:49.6800},{name:'Xocəsən',lat:40.4480,lon:49.8120},{name:'Qızıldaş',lat:40.3200,lon:49.7500},{name:'Daşqıl',lat:40.4100,lon:49.7800},{name:'Çaxmaqlı',lat:40.4600,lon:49.7600}
+];
+
+function normalizeCityName(value) {
+    return value.toLocaleLowerCase('az-AZ').replace(/[ə]/g, 'e').replace(/[ı]/g, 'i').replace(/[ş]/g, 's').replace(/[ç]/g, 'c').replace(/[ğ]/g, 'g').replace(/[ö]/g, 'o').replace(/[ü]/g, 'u');
+}
+
+function openCitySearch() {
+    openSection('citySearchSection');
+    setTimeout(() => document.getElementById('citySearchInput').focus(), 300);
+}
+
+function filterCitySearch() {
+    const query = normalizeCityName(document.getElementById('citySearchInput').value.trim());
+    const cities = query ? searchableCities.filter(city => normalizeCityName(city.name).includes(query)) : [];
+    document.getElementById('citySearchResults').innerHTML = cities.map(city =>
+        `<button type="button" onclick="showCityForecast(${city.lat}, ${city.lon}, '${city.name}')" style="border:0; border-radius:12px; padding:12px; cursor:pointer; color:white; background:rgba(14,165,233,.75); font-size:16px;">${city.name}</button>`
+    ).join('') || (query ? '<div style="grid-column:1/-1; opacity:.8; padding:10px;">Nəticə tapılmadı.</div>' : '');
+}
+
+async function showCityForecast(lat, lon, name) {
+    const title = document.getElementById('cityForecastTitle');
+    const container = document.getElementById('cityForecastContent');
+    title.style.display = 'block';
+    title.innerHTML = `<h2>📊 ${name} üçün 7 günlük hava proqnozu</h2>`;
+    container.innerHTML = '<div style="padding:25px;">Yüklənir...</div>';
+
+    try {
+        const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&daily=weathercode,temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,precipitation_probability_max,wind_speed_10m_mean,cloud_cover_mean,uv_index_max,sunrise,sunset,wind_speed_10m_max,wind_direction_10m_dominant,wind_gusts_10m_max,surface_pressure_mean,precipitation_sum&timezone=Asia%2FBaku&forecast_days=7`;
+        const response = await fetch(url);
+        if (!response.ok) throw new Error('Forecast HTTP ' + response.status);
+        const d = await response.json();
+        let html = `<div class="forecast-table-wrap"><table class="forecast-table"><thead><tr><th>📅 Tarix</th><th>🌤 Hava</th><th>🌡 Temperatur [°C]</th><th>🥵 Hiss edilən [°C]</th><th>🌧 Yağış ehtimalı [%]</th><th>☁️ Bulud [%]</th><th>☀️ UV indeks</th><th>💧 Yağıntı [mm]</th><th>💨 Maks. külək [km/h]</th><th>🌬 Orta külək [km/h]</th><th>🧭 İstiqamət</th><th>💨 Maks. zərbə [km/h]</th><th>📊 Təzyiq [hPa]</th><th>🌅 Günəş</th></tr></thead><tbody>`;
+        for (let i = 0; i < 7; i++) {
+            html += `<tr><td><strong>${d.daily.time[i]}</strong></td><td>${icon(d.daily.weathercode[i])}</td><td><strong>${f(d.daily.temperature_2m_max[i])}°</strong> / ${f(d.daily.temperature_2m_min[i])}°</td><td>${f(d.daily.apparent_temperature_max[i])}° / ${f(d.daily.apparent_temperature_min[i])}°</td><td>${f(d.daily.precipitation_probability_max[i])}%</td><td>${f(d.daily.cloud_cover_mean[i])}%</td><td><strong>${f(d.daily.uv_index_max[i])}</strong></td><td>${f(d.daily.precipitation_sum[i])} mm</td><td>${f(d.daily.wind_speed_10m_max[i])} km/h</td><td>${f(d.daily.wind_speed_10m_mean[i])} km/h</td><td>${windDir(d.daily.wind_direction_10m_dominant[i])}</td><td>${f(d.daily.wind_gusts_10m_max[i])} km/h</td><td>${f(d.daily.surface_pressure_mean[i])} hPa</td><td>🌅 ${d.daily.sunrise[i].split('T')[1].slice(0,5)}<br>🌇 ${d.daily.sunset[i].split('T')[1].slice(0,5)}</td></tr>`;
+        }
+        container.innerHTML = html + '</tbody></table></div>';
+    } catch (error) {
+        console.error('City forecast error:', error);
+        container.innerHTML = '<div style="padding:25px;">❌ Proqnoz məlumatı yüklənmədi.</div>';
     }
 }
 
