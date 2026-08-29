@@ -1,101 +1,53 @@
-<h2 style="color:#0ea5e9;">💨🌤️ Şənbə günü hava: Bakıda güclü külək gözlənilir</h2>
+<h2 style="color:#0ea5e9;">🚗🌧️ Yağışlı və küləkli hava ilə əlaqədar sürücülərə xəbərdarlıq</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 28 avqust 2026, 13:28 — Bakı vaxtı
+🕐 Əlavə olunub: 29 avqust 2026 17:00 — Bakı vaxtı
 </p>
 
 <p>
-<strong>META Hidrometeorologiya Departamenti 29 avqust, şənbə günü üçün hava proqnozunu açıqlayıb.</strong>
-</p>
-
-<h3 style="color:#60a5fa;">🌆 Bakı və Abşeron</h3>
-
-<p>
-Bakıda və Abşeron yarımadasında hava dəyişkən buludlu olacaq, əsasən yağıntı gözlənilmir. Gün ərzində şimal-qərb küləyi arabir güclənəcək.
+<strong>Azərbaycanda bəzi ərazilərdə müşahidə olunan yağışlı və küləkli hava şəraiti ilə əlaqədar sürücülərə yollarda daha diqqətli və ehtiyatlı olmaları tövsiyə edilib.</strong>
 </p>
 
 <p>
-🌡️ <strong>Gecə:</strong> +21…+25°C<br>
-☀️ <strong>Gündüz:</strong> +28…+31°C<br>
-🧭 <strong>Atmosfer təzyiqi:</strong> 758 mm civə sütunu<br>
-💧 <strong>Nisbi rütubət:</strong> gecə 60–70%, gündüz 50–55%
-</p>
-
-<h3 style="color:#60a5fa;">⛈️ Azərbaycanın rayonlarında hava</h3>
-
-<p>
-Ölkənin əksər rayonlarında əsasən yağmursuz hava şəraiti gözlənilir. Lakin bəzi dağlıq və dağətəyi rayonlarda arabir yağış yağacağı ehtimal olunur.
+Dövlət Yol Polisi Baş İdarəsi həftəsonu yollarda hərəkət intensivliyinin artdığını nəzərə alaraq sürücülərə hava və yol şəraitini düzgün qiymətləndirməyi, sürət həddini mövcud şəraitə uyğun seçməyi və nəqliyyat vasitələri arasında məsafəni artırmağı tövsiyə edib.
 </p>
 
 <p>
-🌧️ Gecə və axşam saatlarında ayrı-ayrı yerlərdə qısamüddətli leysan yağışları, bəzi yerlərdə <strong>intensiv leysan</strong>, şimşək və dolu müşahidə oluna bilər.
+🌧️ Yağıntı zamanı yol örtüyü ilə təkərlər arasındakı ilişmənin zəifləməsi və görünüş məsafəsinin azalması nəzərə alınmalıdır. Buna görə sürücülər qəfil manevrlərdən və kəskin əyləcləmədən çəkinməlidirlər.
 </p>
 
 <p>
-🌫️ Gecə və səhər saatlarında bəzi dağlıq rayonlarda arabir duman olacaq.
+💨 Güclü külək və küləyin ani güclənməsi zamanı isə avtomobil üzərində idarəetmənin itirilməsi riski arta bilər. Xüsusilə açıq ərazilərdə və küləyə həssas yollarda sürücülər daha diqqətli olmalıdırlar.
+</p>
+
+<h3 style="color:#f59e0b;">🔧 Səfərdən əvvəl avtomobili yoxlayın</h3>
+
+<p>
+Sürücülərə yola çıxmazdan əvvəl nəqliyyat vasitəsinin texniki vəziyyətini yoxlamaq da tövsiyə olunur. Xüsusilə <strong>şinlərin vəziyyətinə, işıqlandırma sistemlərinə və şüşəsilənlərə</strong> diqqət yetirmək vacibdir.
 </p>
 
 <p>
-💨 Qərb küləyi ayrı-ayrı yerlərdə güclənəcək.
+🚘 Yağışlı və küləkli hava şəraitində təhlükəsiz hərəkətin əsas şərtləri arasında sürətin azaldılması, təhlükəsiz məsafənin qorunması və yol şəraitinə uyğun hərəkət etmək dayanır.
 </p>
-
-<h3 style="color:#f59e0b;">🌡️ Temperatur</h3>
-
-<p>
-🌙 <strong>Rayonlarda gecə:</strong> +20…+25°C<br>
-☀️ <strong>Rayonlarda gündüz:</strong> +32…+36°C<br>
-🏔️ <strong>Dağlarda gecə:</strong> +13…+18°C<br>
-🏔️ <strong>Dağlarda gündüz:</strong> +20…+25°C
-</p>
-
-<div style="background:#1e293b;padding:15px;border-radius:10px;margin:20px 0;">
-
-<h3 style="color:#60a5fa;margin-top:0;">📊 29 avqust — gözlənilən hava göstəriciləri</h3>
-
-<p style="color:#fff;">
-🌆 <strong>Bakı və Abşeron:</strong> +21…+25°C gecə | +28…+31°C gündüz
-</p>
-
-<p style="color:#fff;">
-💨 <strong>Külək:</strong> şimal-qərb küləyi, arabir güclənəcək
-</p>
-
-<p style="color:#fff;">
-🌧️ <strong>Dağlıq və dağətəyi rayonlar:</strong> arabir yağış, gecə və axşam leysan
-</p>
-
-<p style="color:#fff;">
-⛈️ <strong>Təhlükəli hadisələr:</strong> intensiv leysan, şimşək və dolu ehtimalı
-</p>
-
-<p style="color:#fff;">
-🌫️ <strong>Duman:</strong> bəzi dağlıq rayonlarda gecə və səhər
-</p>
-
-<p style="color:#fff;">
-🌡️ <strong>Ən yüksək temperatur:</strong> +36°C
-</p>
-
-</div>
 
 <p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Bakıda və Abşeronda güclənən şimal-qərb küləyi zamanı açıq ərazilərdə, ağacların və reklam konstruksiyalarının yaxınlığında ehtiyatlı olmaq tövsiyə olunur. Dağlıq rayonlarda isə leysan, şimşək, dolu və duman səbəbindən görünüş məsafəsi azala bilər.
+⚠️ Sürücülərə həftəsonu yollarda xüsusilə diqqətli olmaq, hava şəraitini nəzərə almaq və yol hərəkəti qaydalarına ciddi əməl etmək tövsiyə olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanda hava şəraitini, külək göstəricilərini və təhlükəli meteoroloji hadisələri izləyir.
+📡 META Meteorologiya Mərkəzi Azərbaycanda hava şəraitini, güclü külək və yağıntı hadisələrini izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
 📲 Hava və meteoroloji xəbərlər üçün WhatsApp kanalımıza qoşulun:
 <br><br>
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" 
-target="_blank" 
-style="color:#25D366;font-weight:bold;text-decoration:none;"> 
-➡️ META WhatsApp Kanalı 
-</a> 
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
+target="_blank"
+style="color:#25D366;font-weight:bold;text-decoration:none;">
+➡️ META WhatsApp Kanalı
+</a>
 </p>
 
-<p style="color:#22c55e;font-size:22px;font-weight:bold;"> 
-👨‍💼 Müəllif: Edelman Əliyev 
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">
+👨‍💼 Müəllif: Edelman Əliyev
 </p>
