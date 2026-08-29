@@ -1105,6 +1105,10 @@ body.app-page.app-mode .top-area {
         🔎 Axtarış
     </button>
 
+    <button onclick="openSection('settingsSection')">
+        ⚙️ Ayarlar
+    </button>
+
     <button onclick="openSection('homeSection')">
         🏠 Ana səhifə
     </button>
@@ -1163,6 +1167,26 @@ body.app-page.app-mode .top-area {
 
 </div>
 
+</div>
+
+<!-- SETTINGS -->
+<div class="box section" id="settingsSection" style="margin-top:-40px;">
+    <h1>⚙️ Ölçü vahidləri</h1>
+    <div style="max-width:620px; margin:0 auto; display:grid; gap:16px; text-align:left;">
+        <label style="display:grid; gap:7px; font-size:18px;">🌡 Temperatur
+            <select id="temperatureUnit" onchange="saveUnitSettings()" style="padding:12px; border-radius:10px; font-size:16px;"><option value="C">°C</option><option value="F">°F</option></select>
+        </label>
+        <label style="display:grid; gap:7px; font-size:18px;">💨 Külək sürəti
+            <select id="windUnit" onchange="saveUnitSettings()" style="padding:12px; border-radius:10px; font-size:16px;"><option value="km/h">km/h</option><option value="m/s">m/s</option><option value="mph">mph</option></select>
+        </label>
+        <label style="display:grid; gap:7px; font-size:18px;">📊 Təzyiq
+            <select id="pressureUnit" onchange="saveUnitSettings()" style="padding:12px; border-radius:10px; font-size:16px;"><option value="hPa">hPa</option><option value="mmHg">mmHg</option><option value="inHg">inHg</option></select>
+        </label>
+        <label style="display:grid; gap:7px; font-size:18px;">💧 Yağıntı
+            <select id="precipitationUnit" onchange="saveUnitSettings()" style="padding:12px; border-radius:10px; font-size:16px;"><option value="mm">mm</option><option value="cm">cm</option><option value="in">in</option></select>
+        </label>
+    </div>
+    <p style="margin-top:25px; opacity:.8;">Seçim yadda saxlanılır və proqnozlar, kartlar və qrafiklərdə dərhal tətbiq olunur.</p>
 </div>
 
 <!-- CITY SEARCH -->
@@ -2064,6 +2088,38 @@ function f(x){
     return Number(x || 0).toFixed(1);
 }
 
+const unitSettings = { temperature: 'C', wind: 'km/h', pressure: 'hPa', precipitation: 'mm' };
+let activeCityForecast = null;
+
+function readUnitSettings() {
+    try { Object.assign(unitSettings, JSON.parse(localStorage.getItem('metaUnitSettings')) || {}); } catch (_) {}
+    document.getElementById('temperatureUnit').value = unitSettings.temperature;
+    document.getElementById('windUnit').value = unitSettings.wind;
+    document.getElementById('pressureUnit').value = unitSettings.pressure;
+    document.getElementById('precipitationUnit').value = unitSettings.precipitation;
+}
+
+function temperatureValue(c) { return unitSettings.temperature === 'F' ? Number(c) * 9 / 5 + 32 : Number(c); }
+function windValue(kmh) { return unitSettings.wind === 'm/s' ? Number(kmh) / 3.6 : unitSettings.wind === 'mph' ? Number(kmh) * 0.621371 : Number(kmh); }
+function pressureValue(hpa) { return unitSettings.pressure === 'mmHg' ? Number(hpa) * 0.750062 : unitSettings.pressure === 'inHg' ? Number(hpa) * 0.02952998 : Number(hpa); }
+function precipitationValue(mm) { return unitSettings.precipitation === 'cm' ? Number(mm) / 10 : unitSettings.precipitation === 'in' ? Number(mm) / 25.4 : Number(mm); }
+function tempText(c) { return `${f(temperatureValue(c))}°${unitSettings.temperature}`; }
+function windText(kmh) { return `${f(windValue(kmh))} ${unitSettings.wind}`; }
+function pressureText(hpa) { return `${f(pressureValue(hpa))} ${unitSettings.pressure}`; }
+function precipitationText(mm) { return `${f(precipitationValue(mm))} ${unitSettings.precipitation}`; }
+
+function saveUnitSettings() {
+    unitSettings.temperature = document.getElementById('temperatureUnit').value;
+    unitSettings.wind = document.getElementById('windUnit').value;
+    unitSettings.pressure = document.getElementById('pressureUnit').value;
+    unitSettings.precipitation = document.getElementById('precipitationUnit').value;
+    localStorage.setItem('metaUnitSettings', JSON.stringify(unitSettings));
+    loadStation(); loadForecast(); loadForecast14(); loadChart(); loadMiniChart();
+    if (activeCityForecast) showCityForecast(activeCityForecast.lat, activeCityForecast.lon, activeCityForecast.name);
+}
+
+readUnitSettings();
+
 function windDir(deg){
     const d = ["N","NE","E","SE","S","SW","W","NW"];
     return d[Math.round(deg / 45) % 8];
@@ -2210,38 +2266,38 @@ async function loadStation(){
     let d = await r.json();
 
 document.getElementById("homeTemp").innerHTML =
-    `${f(d.temp)}°C`;
+    tempText(d.temp);
 
 document.getElementById("homeFeels").innerHTML =
-    `Hiss edilən ${f(d.temp - 1.5)}°C`;
+    `Hiss edilən ${tempText(d.temp - 1.5)}`;
 
 document.getElementById("homeHum").innerHTML =
     `${f(d.humidity)}%`;
 
 document.getElementById("homeWind").innerHTML =
-    `${f(d.wind_ms * 3.6)} km/h`;
+    windText(d.wind_ms * 3.6);
 
 document.getElementById("homePressure").innerHTML =
-    `${f(d.pressure)} hPa`;
+    pressureText(d.pressure);
 
     document.getElementById("station").innerHTML = `
-    <div class="card">TEMP: ${f(d.temp)} °C</div>
+    <div class="card">TEMP: ${tempText(d.temp)}</div>
     <div class="card">HUM: ${f(d.humidity)} %</div>
 
     <div class="card">
-        WIND: ${f(d.wind_ms * 3.6)} km/h
+        WIND: ${windText(d.wind_ms * 3.6)}
     </div>
 
     <div class="card">
-        GUST: ${f(d.wind_gust_ms * 3.6)} km/h
+        GUST: ${windText(d.wind_gust_ms * 3.6)}
     </div>
 
     <div class="card">
         DIR: ${windDir(d.wind_dir)}
     </div>
 
-    <div class="card">BARO: ${f(d.pressure)} hPa</div>
-    <div class="card">RAIN 1H: ${f(d.rain_24h)} mm</div>
+    <div class="card">BARO: ${pressureText(d.pressure)}</div>
+    <div class="card">RAIN 1H: ${precipitationText(d.rain_24h)}</div>
 `;
 
     document.getElementById("lastUpdate").innerHTML =
@@ -2328,7 +2384,7 @@ let textForecast = "";
 if(tomorrowCode === 0){
 
     textForecast =
-    `☀️ Sabah Bakıda hava əsasən açıq olacaq. Temperatur ${f(tomorrowTemp)}°C ətrafında gözlənilir.`;
+    `☀️ Sabah Bakıda hava əsasən açıq olacaq. Temperatur ${tempText(tomorrowTemp)} ətrafında gözlənilir.`;
 }
 
 // ☁️ CLOUDY
@@ -2349,7 +2405,7 @@ else if(tomorrowCode >= 45 && tomorrowCode <= 48){
 else if(tomorrowCode >= 51 && tomorrowCode <= 67){
 
     textForecast =
-    `🌧 Sabah yağış gözlənilir. Yağıntı ehtimalı ${f(tomorrowRain)}%-dir. Temperatur ${f(tomorrowTemp)}°C olacaq.`;
+    `🌧 Sabah yağış gözlənilir. Yağıntı ehtimalı ${f(tomorrowRain)}%-dir. Temperatur ${tempText(tomorrowTemp)} olacaq.`;
 }
 
 // ❄️ SNOW
@@ -2391,17 +2447,17 @@ let html = `
 <tr>
     <th>📅 Tarix</th>
     <th>🌤 Hava</th>
-    <th>🌡 Temperatur [°C]</th>
-    <th>🥵 Hiss edilən [°C]</th>
+    <th>🌡 Temperatur [°${unitSettings.temperature}]</th>
+    <th>🥵 Hiss edilən [°${unitSettings.temperature}]</th>
     <th>🌧 Yağış ehtimalı [%]</th>
     <th>☁️ Bulud [%]</th>
     <th>☀️ UV indeks</th>
-    <th>💧 Yağıntı [mm]</th>
-    <th>💨 Maks. külək [km/h]</th>
-    <th>🌬 Orta külək [km/h]</th>
+    <th>💧 Yağıntı [${unitSettings.precipitation}]</th>
+    <th>💨 Maks. külək [${unitSettings.wind}]</th>
+    <th>🌬 Orta külək [${unitSettings.wind}]</th>
     <th>🧭 İstiqamət</th>
-    <th>💨 Maks. zərbə [km/h]</th>
-    <th>📊 Təzyiq [hPa]</th>
+    <th>💨 Maks. zərbə [${unitSettings.wind}]</th>
+    <th>📊 Təzyiq [${unitSettings.pressure}]</th>
     <th>🌅 Günəş</th>
 </tr>
 </thead>
@@ -2424,16 +2480,16 @@ for(let i=0;i<7;i++){
 
         <td>
             <strong>
-                ${f(d.daily.temperature_2m_max[i])}°
+                ${tempText(d.daily.temperature_2m_max[i])}
             </strong>
             /
-            ${f(d.daily.temperature_2m_min[i])}°
+            ${tempText(d.daily.temperature_2m_min[i])}
         </td>
 
         <td>
-            ${f(d.daily.apparent_temperature_max[i])}°
+            ${tempText(d.daily.apparent_temperature_max[i])}
             /
-            ${f(d.daily.apparent_temperature_min[i])}°
+            ${tempText(d.daily.apparent_temperature_min[i])}
         </td>
 
         <td>
@@ -2449,15 +2505,15 @@ for(let i=0;i<7;i++){
         </td>
 
         <td>
-            ${f(d.daily.precipitation_sum[i])} mm
+            ${precipitationText(d.daily.precipitation_sum[i])}
         </td>
 
         <td>
-            ${f(d.daily.windspeed_10m_max[i])} km/h
+            ${windText(d.daily.windspeed_10m_max[i])}
         </td>
 
         <td>
-            ${f(d.daily.wind_speed_10m_mean[i])} km/h
+            ${windText(d.daily.wind_speed_10m_mean[i])}
         </td>
 
         <td>
@@ -2465,11 +2521,11 @@ for(let i=0;i<7;i++){
         </td>
 
         <td>
-            ${f(d.daily.windgusts_10m_max[i])} km/h
+            ${windText(d.daily.windgusts_10m_max[i])}
         </td>
 
         <td>
-            ${f(d.daily.surface_pressure_mean[i])} hPa
+            ${pressureText(d.daily.surface_pressure_mean[i])}
         </td>
 
         <td>
@@ -2505,17 +2561,17 @@ let html = `
 <tr>
     <th>📅 Tarix</th>
     <th>🌤 Hava</th>
-    <th>🌡 Temperatur [°C]</th>
-    <th>🥵 Hiss edilən [°C]</th>
+    <th>🌡 Temperatur [°${unitSettings.temperature}]</th>
+    <th>🥵 Hiss edilən [°${unitSettings.temperature}]</th>
     <th>🌧 Yağış ehtimalı [%]</th>
     <th>☁️ Bulud [%]</th>
     <th>☀️ UV indeks</th>
-    <th>💧 Yağıntı [mm]</th>
-    <th>💨 Maks. külək [km/h]</th>
-    <th>🌬 Orta külək [km/h]</th>
+    <th>💧 Yağıntı [${unitSettings.precipitation}]</th>
+    <th>💨 Maks. külək [${unitSettings.wind}]</th>
+    <th>🌬 Orta külək [${unitSettings.wind}]</th>
     <th>🧭 İstiqamət</th>
-    <th>💨 Maks. zərbə [km/h]</th>
-    <th>📊 Təzyiq [hPa]</th>
+    <th>💨 Maks. zərbə [${unitSettings.wind}]</th>
+    <th>📊 Təzyiq [${unitSettings.pressure}]</th>
     <th>🌅 Günəş</th>
 </tr>
 </thead>
@@ -2538,16 +2594,16 @@ for(let i=7;i<14;i++){
 
         <td>
             <strong>
-                ${f(d.daily.temperature_2m_max[i])}°
+                ${tempText(d.daily.temperature_2m_max[i])}
             </strong>
             /
-            ${f(d.daily.temperature_2m_min[i])}°
+            ${tempText(d.daily.temperature_2m_min[i])}
         </td>
 
         <td>
-            ${f(d.daily.apparent_temperature_max[i])}°
+            ${tempText(d.daily.apparent_temperature_max[i])}
             /
-            ${f(d.daily.apparent_temperature_min[i])}°
+            ${tempText(d.daily.apparent_temperature_min[i])}
         </td>
 
         <td>
@@ -2563,15 +2619,15 @@ for(let i=7;i<14;i++){
         </td>
 
         <td>
-            ${f(d.daily.precipitation_sum[i])} mm
+            ${precipitationText(d.daily.precipitation_sum[i])}
         </td>
 
         <td>
-            ${f(d.daily.wind_speed_10m_max[i])} km/h
+            ${windText(d.daily.wind_speed_10m_max[i])}
         </td>
 
         <td>
-            ${f(d.daily.wind_speed_10m_mean[i])} km/h
+            ${windText(d.daily.wind_speed_10m_mean[i])}
         </td>
 
         <td>
@@ -2579,11 +2635,11 @@ for(let i=7;i<14;i++){
         </td>
 
         <td>
-            ${f(d.daily.wind_gusts_10m_max[i])} km/h
+            ${windText(d.daily.wind_gusts_10m_max[i])}
         </td>
 
         <td>
-            ${f(d.daily.surface_pressure_mean[i])} hPa
+            ${pressureText(d.daily.surface_pressure_mean[i])}
         </td>
 
         <td>
@@ -2667,9 +2723,9 @@ window.mapInstance = map;
 
             <div style="font-size:13px;line-height:1.6;color:#333;">
                 Rütubət: <b>${f(d.humidity)}%</b><br>
-                Külək: <b>${f(d.wind_ms * 3.6)} km/h</b><br>
-                Təzyiq: <b>${f(d.pressure)} hPa</b><br>
-                Yağıntı: <b>${f(d.rain_24h)} mm</b>
+                Külək: <b>${windText(d.wind_ms * 3.6)}</b><br>
+                Təzyiq: <b>${pressureText(d.pressure)}</b><br>
+                Yağıntı: <b>${precipitationText(d.rain_24h)}</b>
             </div>
 
         </div>
@@ -2786,7 +2842,7 @@ window.mapInstance = map;
                 let temp = await getTemp(c.lat, c.lon);
                 marker.setPopupContent(`
                     <b>${c.name}</b><br>
-                    🌡 ${temp} °C
+                    🌡 ${tempText(temp)}
                 `);
             } catch (e) {
                 marker.setPopupContent(`
@@ -2847,11 +2903,11 @@ async function loadChart() {
         );
 
         // данные
-        const temp = sliced.map(i => Number(i.temp));
-        const wind = sliced.map(i => Number(i.wind));
-        const gust = sliced.map(i => Number(i.gust));
+        const temp = sliced.map(i => temperatureValue(i.temp));
+        const wind = sliced.map(i => windValue(i.wind));
+        const gust = sliced.map(i => windValue(i.gust));
         const humidity = sliced.map(i => Number(i.humidity));
-        const pressure = sliced.map(i => Number(i.pressure));
+        const pressure = sliced.map(i => pressureValue(i.pressure));
 
         // удалить старый график
         if (chart) {
@@ -2872,7 +2928,7 @@ async function loadChart() {
 
                         // температура
                         {
-                            label: "Temperatur (°C)",
+                            label: `Temperatur (°${unitSettings.temperature})`,
                             data: temp,
                             borderColor: "#ff5733",
                             backgroundColor: "#ff5733",
@@ -2884,7 +2940,7 @@ async function loadChart() {
 
                         // ветер
                         {
-                            label: "Külək (km/h)",
+                            label: `Külək (${unitSettings.wind})`,
                             data: wind,
                             borderColor: "#7649fb",
                             backgroundColor: "#7649fb",
@@ -2896,7 +2952,7 @@ async function loadChart() {
 
                         // порывы
                         {
-                            label: "Qasırğa (km/h)",
+                            label: `Qasırğa (${unitSettings.wind})`,
                             data: gust,
                             borderColor: "#ffd700",
                             backgroundColor: "#ffd700",
@@ -2920,7 +2976,7 @@ async function loadChart() {
 
                         // давление
                         {
-                            label: "Təzyiq (hPa)",
+                            label: `Təzyiq (${unitSettings.pressure})`,
                             data: pressure,
                             borderColor: "#ff00a3",
                             backgroundColor: "#ff00a3",
@@ -3164,7 +3220,7 @@ async function loadMiniChart() {
         })
     );
 
-    const temp = sliced.map(i => Number(i.temp));
+    const temp = sliced.map(i => temperatureValue(i.temp));
 
     if (miniChart) miniChart.destroy();
 
@@ -3175,7 +3231,7 @@ async function loadMiniChart() {
             data: {
                 labels: labels,
                 datasets: [{
-                    label: "Temp",
+                    label: `Temperatur (°${unitSettings.temperature})`,
                     data: temp,
                     borderColor: "#0ea5e9",
                     borderWidth: 2,
@@ -3559,6 +3615,7 @@ function filterCitySearch() {
 }
 
 async function showCityForecast(lat, lon, name) {
+    activeCityForecast = { lat, lon, name };
     const title = document.getElementById('cityForecastTitle');
     const container = document.getElementById('cityForecastContent');
     title.style.display = 'block';
@@ -3570,9 +3627,9 @@ async function showCityForecast(lat, lon, name) {
         const response = await fetch(url);
         if (!response.ok) throw new Error('Forecast HTTP ' + response.status);
         const d = await response.json();
-        let html = `<div class="forecast-table-wrap"><table class="forecast-table"><thead><tr><th>📅 Tarix</th><th>🌤 Hava</th><th>🌡 Temperatur [°C]</th><th>🥵 Hiss edilən [°C]</th><th>🌧 Yağış ehtimalı [%]</th><th>☁️ Bulud [%]</th><th>☀️ UV indeks</th><th>💧 Yağıntı [mm]</th><th>💨 Maks. külək [km/h]</th><th>🌬 Orta külək [km/h]</th><th>🧭 İstiqamət</th><th>💨 Maks. zərbə [km/h]</th><th>📊 Təzyiq [hPa]</th><th>🌅 Günəş</th></tr></thead><tbody>`;
+        let html = `<div class="forecast-table-wrap"><table class="forecast-table"><thead><tr><th>📅 Tarix</th><th>🌤 Hava</th><th>🌡 Temperatur [°${unitSettings.temperature}]</th><th>🥵 Hiss edilən [°${unitSettings.temperature}]</th><th>🌧 Yağış ehtimalı [%]</th><th>☁️ Bulud [%]</th><th>☀️ UV indeks</th><th>💧 Yağıntı [${unitSettings.precipitation}]</th><th>💨 Maks. külək [${unitSettings.wind}]</th><th>🌬 Orta külək [${unitSettings.wind}]</th><th>🧭 İstiqamət</th><th>💨 Maks. zərbə [${unitSettings.wind}]</th><th>📊 Təzyiq [${unitSettings.pressure}]</th><th>🌅 Günəş</th></tr></thead><tbody>`;
         for (let i = 0; i < 7; i++) {
-            html += `<tr><td><strong>${d.daily.time[i]}</strong></td><td>${icon(d.daily.weathercode[i])}</td><td><strong>${f(d.daily.temperature_2m_max[i])}°</strong> / ${f(d.daily.temperature_2m_min[i])}°</td><td>${f(d.daily.apparent_temperature_max[i])}° / ${f(d.daily.apparent_temperature_min[i])}°</td><td>${f(d.daily.precipitation_probability_max[i])}%</td><td>${f(d.daily.cloud_cover_mean[i])}%</td><td><strong>${f(d.daily.uv_index_max[i])}</strong></td><td>${f(d.daily.precipitation_sum[i])} mm</td><td>${f(d.daily.wind_speed_10m_max[i])} km/h</td><td>${f(d.daily.wind_speed_10m_mean[i])} km/h</td><td>${windDir(d.daily.wind_direction_10m_dominant[i])}</td><td>${f(d.daily.wind_gusts_10m_max[i])} km/h</td><td>${f(d.daily.surface_pressure_mean[i])} hPa</td><td>🌅 ${d.daily.sunrise[i].split('T')[1].slice(0,5)}<br>🌇 ${d.daily.sunset[i].split('T')[1].slice(0,5)}</td></tr>`;
+            html += `<tr><td><strong>${d.daily.time[i]}</strong></td><td>${icon(d.daily.weathercode[i])}</td><td><strong>${tempText(d.daily.temperature_2m_max[i])}</strong> / ${tempText(d.daily.temperature_2m_min[i])}</td><td>${tempText(d.daily.apparent_temperature_max[i])} / ${tempText(d.daily.apparent_temperature_min[i])}</td><td>${f(d.daily.precipitation_probability_max[i])}%</td><td>${f(d.daily.cloud_cover_mean[i])}%</td><td><strong>${f(d.daily.uv_index_max[i])}</strong></td><td>${precipitationText(d.daily.precipitation_sum[i])}</td><td>${windText(d.daily.wind_speed_10m_max[i])}</td><td>${windText(d.daily.wind_speed_10m_mean[i])}</td><td>${windDir(d.daily.wind_direction_10m_dominant[i])}</td><td>${windText(d.daily.wind_gusts_10m_max[i])}</td><td>${pressureText(d.daily.surface_pressure_mean[i])}</td><td>🌅 ${d.daily.sunrise[i].split('T')[1].slice(0,5)}<br>🌇 ${d.daily.sunset[i].split('T')[1].slice(0,5)}</td></tr>`;
         }
         container.innerHTML = html + '</tbody></table></div>';
     } catch (error) {
