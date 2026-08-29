@@ -1,0 +1,183 @@
+<h2 style="color:#8b5cf6;">📚 Meteorologiya nədir və hansı sahələrə bölünür?</h2>
+
+<p style="text-align:right;color:#94a3b8;font-size:14px;">
+🕐 Əlavə olunub: 29 avqust 2026 — Bakı vaxtı
+</p>
+
+<p>
+<strong>Meteorologiya Yer atmosferini, atmosferdə baş verən fiziki prosesləri,
+hava hadisələrini və onların dəyişməsini öyrənən elm sahəsidir.</strong>
+Meteorologiyanın əsas məqsədlərindən biri atmosferin mövcud vəziyyətini
+müşahidə etmək və gələcək hava şəraitini proqnozlaşdırmaqdır.
+</p>
+
+<p>
+🌡️ Meteoroloji müşahidələr zamanı havanın temperaturu, nisbi rütubət,
+atmosfer təzyiqi, küləyin sürəti və istiqaməti, yağıntı, buludluluq,
+görünüş məsafəsi və digər göstəricilər ölçülür.
+</p>
+
+<h3>🌊 Hidrometeorologiya nədir?</h3>
+
+<p>
+<strong>Hidrometeorologiya</strong> atmosfer və su mühitində baş verən prosesləri,
+həmçinin onların qarşılıqlı əlaqəsini öyrənən geniş elm sahəsidir.
+Bu sahəyə meteorologiya ilə yanaşı hidrologiya, iqlimşünaslıq,
+dəniz və su obyektlərinin müşahidəsi də daxildir.
+</p>
+
+<p>
+🌧️ Hidrometeoroloji məlumatlar hava proqnozlarının hazırlanması,
+daşqın və sel riskinin qiymətləndirilməsi, kənd təsərrüfatı,
+energetika, aviasiya və dəniz nəqliyyatı üçün mühüm əhəmiyyət daşıyır.
+</p>
+
+<h3>🔬 Meteorologiyanın əsas sahələri</h3>
+
+<p>
+<strong>🌡️ Fiziki meteorologiya</strong> — atmosferdə baş verən fiziki prosesləri,
+Günəş radiasiyasını, istilik mübadiləsini, buludların və yağıntının
+yaranmasını öyrənir.
+</p>
+
+<p>
+<strong>🌀 Dinamik meteorologiya</strong> — atmosfer havasının hərəkətini,
+küləkləri, siklonları, antisiklonları və atmosferin ümumi
+sirkulyasiyasını araşdırır.
+</p>
+
+<p>
+<strong>🗺️ Sinoptik meteorologiya</strong> — hava xəritələri, meteoroloji
+müşahidələr, peyk və radar məlumatları əsasında atmosferin vəziyyətini
+təhlil edir və hava proqnozlarının hazırlanmasında istifadə olunur.
+</p>
+
+<p>
+<strong>💻 Rəqəmsal meteorologiya</strong> — atmosferin gələcək vəziyyətini
+riyazi modellər və güclü kompüter sistemləri vasitəsilə hesablamağa
+əsaslanır. Müasir hava proqnozlarının böyük hissəsi rəqəmsal
+proqnoz modellərindən istifadə etməklə hazırlanır.
+</p>
+
+<p>
+<strong>🌍 İqlimşünaslıq</strong> — müəyyən ərazidə uzun illər ərzində
+müşahidə olunan hava şəraitini, orta temperaturu, yağıntıları,
+külək rejimini və uzunmüddətli iqlim dəyişikliklərini öyrənir.
+</p>
+
+<p>
+<strong>🌾 Aqrometeorologiya</strong> — hava və iqlim şəraitinin kənd
+təsərrüfatına, bitkilərə, torpağın rütubətinə, şaxta və quraqlıq
+hadisələrinə təsirini araşdırır.
+</p>
+
+<p>
+<strong>✈️ Aviasiya meteorologiyası</strong> — hava şəraitinin aviasiyaya
+təsirini öyrənir. Güclü külək, duman, buzlaşma, turbulentlik,
+göy gurultusu və zəif görünüş uçuşlar üçün mühüm meteoroloji amillərdir.
+</p>
+
+<p>
+<strong>🌊 Dəniz meteorologiyası</strong> — dənizlər və okeanlar üzərində
+hava şəraitini, küləyi, dalğaları, fırtınaları, dumanı və suyun
+temperaturunu öyrənir. Azərbaycan üçün Xəzər dənizində aparılan
+hidrometeoroloji müşahidələr xüsusi əhəmiyyət daşıyır.
+</p>
+
+<p>
+<strong>💧 Hidrologiya</strong> — çayları, gölləri, su ehtiyatlarını,
+qar örtüyünü, su səviyyəsini, daşqın və sel hadisələrini öyrənən
+elm sahəsidir.
+</p>
+
+<p>
+<strong>🌊 Okeanologiya</strong> — dəniz və okeanlarda baş verən fiziki,
+kimyəvi və bioloji prosesləri, dəniz cərəyanlarını, dalğaları,
+suyun temperaturunu və səviyyə dəyişikliklərini araşdırır.
+</p>
+
+<p>
+<strong>🛰️ Peyk meteorologiyası</strong> — meteoroloji peyklər vasitəsilə
+bulud sistemlərini, siklonları, güclü konvektiv prosesləri, dumanı
+və digər atmosfer hadisələrini müşahidə etməyə imkan verir.
+</p>
+
+<p>
+<strong>📡 Radar meteorologiyası</strong> — meteoroloji radarlar vasitəsilə
+yağış, qar, güclü leysan, dolu ehtimalı və göy gurultulu sistemlərin
+hərəkətini izləyir.
+</p>
+
+<p>
+<strong>🌆 Şəhər meteorologiyası</strong> — şəhər tikililərinin,
+asfalt səthlərin, nəqliyyatın və digər şəhər amillərinin yerli
+temperatura və hava dövranına təsirini araşdırır.
+</p>
+
+<p>
+<strong>🌱 Biometeorologiya</strong> — temperatur, rütubət, külək və
+Günəş radiasiyası kimi meteoroloji amillərin insanlara, heyvanlara
+və bitkilərə təsirini öyrənir.
+</p>
+
+<h3>⛈️ Təhlükəli meteoroloji hadisələr</h3>
+
+<p>
+Meteorologiyanın mühüm vəzifələrindən biri təhlükəli hava hadisələrinin
+vaxtında müşahidə və proqnozlaşdırılmasıdır.
+</p>
+
+<p>
+Belə hadisələrə güclü külək, fırtına, intensiv yağış, dolu, göy gurultusu,
+duman, güclü qar, buzlaşma, anomal istilər, şaxta və quraqlıq daxildir.
+</p>
+
+<h3>🌡️ Meteoroloji cihazlar</h3>
+
+<p>
+Meteoroloji stansiyalarda müxtəlif cihaz və sensorlardan istifadə olunur.
+<strong>Termometr</strong> temperaturu, <strong>hiqrometr</strong> rütubəti,
+<strong>barometr</strong> atmosfer təzyiqini, <strong>anemometr</strong>
+küləyin sürətini, <strong>yağıntıölçən</strong> isə yağıntının miqdarını ölçür.
+</p>
+
+<p>
+🎈 Atmosferin yuxarı qatlarının öyrənilməsi üçün radiosondlardan da istifadə
+olunur. Radiosond meteoroloji şarla atmosferə qaldırılır və müxtəlif
+hündürlüklərdə temperatur, rütubət, təzyiq və külək haqqında məlumat toplayır.
+</p>
+
+<h3>🌦️ Hava proqnozu necə hazırlanır?</h3>
+
+<p>
+Müasir hava proqnozları yalnız bir meteoroloji stansiyanın məlumatına
+əsaslanmır. Proqnoz hazırlanarkən yerüstü müşahidələr, peyk təsvirləri,
+meteoroloji radarlar, radiosond məlumatları və rəqəmsal hava modelləri
+birlikdə təhlil edilir.
+</p>
+
+<p>
+Meteoroloq müxtəlif məlumat mənbələrini müqayisə edir və atmosferdə
+gözlənilən dəyişiklikləri qiymətləndirərək yekun hava proqnozunu hazırlayır.
+</p>
+
+<p style="font-size:20px;font-weight:bold;">
+🌍 Meteorologiya yalnız gündəlik hava proqnozları üçün deyil, aviasiya,
+kənd təsərrüfatı, energetika, dəniz nəqliyyatı, fövqəladə hallar,
+şəhər planlaşdırılması və ətraf mühitin öyrənilməsi üçün də mühüm
+əhəmiyyət daşıyır.
+</p>
+
+<p style="color:#25D366;font-size:20px;font-weight:bold;">
+📲 Meteorologiya, hava proqnozları və təbiət hadisələri haqqında yeniliklər üçün WhatsApp kanalımıza qoşulun:
+<br><br>
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
+target="_blank"
+style="color:#25D366;font-weight:bold;text-decoration:none;">
+➡️ META WhatsApp Kanalı
+</a>
+</p>
+
+<p style="color:#22c55e;font-size:22px;font-weight:bold;">
+👨‍💼 Müəllif: Edelman Əliyev
+</p>
