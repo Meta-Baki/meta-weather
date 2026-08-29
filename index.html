@@ -2672,6 +2672,17 @@ async function getTemp(lat, lon){
     return d.current.temperature_2m;
 }
 
+// Əlavə yaşayış məntəqələri: həm xəritə, həm də axtarış üçün vahid siyahıdır.
+const nationwideCities = [
+    // Abşeron yarımadası və Bakı ətrafı
+    {name:'Maştağa',lat:40.5290,lon:50.0060},{name:'Şağan',lat:40.4970,lon:50.1510},{name:'Türkan',lat:40.3650,lon:50.2010},{name:'Dübəndi',lat:40.4430,lon:50.2160},{name:'Şıxov',lat:40.3110,lon:49.7830},{name:'Badamdar',lat:40.3480,lon:49.7990},{name:'Bayıl',lat:40.3200,lon:49.8280},{name:'Keşlə',lat:40.3930,lon:49.8910},{name:'Qaraçuxur',lat:40.3960,lon:49.9730},{name:'Yeni Suraxanı',lat:40.4110,lon:50.0450},{name:'Qara Qarayev',lat:40.4210,lon:49.9500},{name:'8-ci kilometr',lat:40.4140,lon:49.9540},{name:'Məhəmmədi',lat:40.4960,lon:49.9380},{name:'Kürdəmir qəsəbəsi',lat:40.4550,lon:49.7760},{name:'Abşeron',lat:40.4810,lon:49.7610},{name:'Jorat',lat:40.6060,lon:49.6920},
+    // Böyük şəhərlər və rayon mərkəzləri
+    {name:'Gəncə',lat:40.6828,lon:46.3606},{name:'Mingəçevir',lat:40.7700,lon:47.0490},{name:'Naxçıvan',lat:39.2089,lon:45.4122},{name:'Şəki',lat:41.1919,lon:47.1706},{name:'Qəbələ',lat:40.9814,lon:47.8458},{name:'Oğuz',lat:41.0710,lon:47.4650},{name:'Zaqatala',lat:41.6336,lon:46.6448},{name:'Balakən',lat:41.7250,lon:46.4080},{name:'Qax',lat:41.4180,lon:46.9200},{name:'Goranboy',lat:40.6110,lon:46.7890},{name:'Naftalan',lat:40.5060,lon:46.8250},{name:'Daşkəsən',lat:40.5200,lon:46.0780},{name:'Göygöl',lat:40.5860,lon:46.3190},{name:'Samux',lat:40.7650,lon:46.4080},{name:'Tovuz',lat:40.9950,lon:45.6280},{name:'Ağstafa',lat:41.1190,lon:45.4450},{name:'Qazax',lat:41.0920,lon:45.3660},{name:'Gədəbəy',lat:40.5700,lon:45.8160},{name:'Şəmkir',lat:40.8290,lon:46.0170},
+    {name:'Ağcabədi',lat:40.0520,lon:47.4600},{name:'Ağdam',lat:39.9930,lon:46.9290},{name:'Ağdaş',lat:40.6460,lon:47.4730},{name:'Beyləqan',lat:39.7750,lon:47.6180},{name:'Bərdə',lat:40.3750,lon:47.1260},{name:'Füzuli',lat:39.6000,lon:47.1450},{name:'Tərtər',lat:40.3420,lon:46.9310},{name:'Xankəndi',lat:39.8150,lon:46.7520},{name:'Xocalı',lat:39.9130,lon:46.7900},{name:'Xocavənd',lat:39.7940,lon:47.1120},{name:'Şuşa',lat:39.7600,lon:46.7500},{name:'Laçın',lat:39.6380,lon:46.5460},{name:'Kəlbəcər',lat:40.1090,lon:46.0450},{name:'Qubadlı',lat:39.3440,lon:46.5810},{name:'Zəngilan',lat:39.0850,lon:46.6590},{name:'Cəbrayıl',lat:39.3990,lon:47.0290},
+    {name:'İmişli',lat:39.8700,lon:48.0600},{name:'Kürdəmir',lat:40.3440,lon:48.1510},{name:'Saatlı',lat:39.9320,lon:48.3690},{name:'Sabirabad',lat:40.0090,lon:48.4770},{name:'Hacıqabul',lat:40.0380,lon:48.9400},{name:'Şirvan',lat:39.9370,lon:48.9290},{name:'Ağsu',lat:40.5710,lon:48.4010},{name:'Göyçay',lat:40.6500,lon:47.7420},{name:'Ucar',lat:40.5190,lon:47.6550},{name:'Zərdab',lat:40.2180,lon:47.7090},{name:'Yardımlı',lat:38.9070,lon:48.2490},{name:'Lerik',lat:38.7740,lon:48.4150},{name:'Cəlilabad',lat:39.2090,lon:48.4910},{name:'Masallı',lat:39.0350,lon:48.6660},{name:'Biləsuvar',lat:39.4590,lon:48.5450},{name:'Neftçala',lat:39.3760,lon:49.2470},
+    {name:'Ordubad',lat:38.9100,lon:46.0240},{name:'Culfa',lat:38.9530,lon:45.6300},{name:'Şahbuz',lat:39.4070,lon:45.5730},{name:'Babək',lat:39.1500,lon:45.4500},{name:'Kəngərli',lat:39.3900,lon:45.0900},{name:'Sədərək',lat:39.7100,lon:44.8870}
+];
+
 function initMap(){
 
 const map = L.map('map',{
@@ -2688,15 +2699,20 @@ window.mapInstance = map;
         }
     ).addTo(map);
 
-    // 📍 иконка станции
-    const stationIcon = L.icon({
-        iconUrl: 'https://cdn-icons-png.flaticon.com/512/684/684908.png',
+    // META hava stansiyası: daimi, parlaq qırmızı pin.
+    const stationIcon = L.divIcon({
+        className: '',
+        html: '<div style="width:28px;height:28px;background:#ef4444;border:3px solid #fff;border-radius:50% 50% 50% 0;transform:rotate(-45deg);box-shadow:0 2px 8px rgba(0,0,0,.55);"></div>',
         iconSize: [34, 34],
         iconAnchor: [17, 34],
         popupAnchor: [0, -30]
     });
 
-    // 🌡 СТАНЦИЯ
+    const stationMarker = L.marker([40.37923, 49.96253], {icon: stationIcon})
+        .addTo(map)
+        .bindPopup('<b>META hava stansiyası — Əhmədli</b><br>Yüklənir...');
+
+    // Stansiya məlumatları yüklənməsə belə, qırmızı pin xəritədə qalır.
     fetch('/station')
     .then(r => r.json())
     .then(d => {
@@ -2705,7 +2721,7 @@ window.mapInstance = map;
         <div style="width:230px;font-family:Arial;">
 
             <div style="font-size:18px;font-weight:bold;margin-bottom:10px;">
-                META hava Stansiyası
+                META hava stansiyası — Əhmədli
             </div>
 
             <div style="
@@ -2718,7 +2734,7 @@ window.mapInstance = map;
                 font-weight:bold;
                 margin-bottom:10px;
             ">
-                ${f(d.temp)}°C
+                ${tempText(d.temp)}
             </div>
 
             <div style="font-size:13px;line-height:1.6;color:#333;">
@@ -2731,9 +2747,16 @@ window.mapInstance = map;
         </div>
         `;
 
-        L.marker([40.37923, 49.96253], {icon: stationIcon})
-            .addTo(map)
-            .bindPopup(popup);
+        stationMarker.setPopupContent(popup + `
+            <button type="button" onclick="openSection('citySearchSection');showCityForecast(40.3830,49.9550,'Əhmədli')" style="margin-top:12px;border:0;border-radius:8px;padding:9px 11px;background:#0ea5e9;color:#fff;cursor:pointer;">Əhmədli üçün 7 günlük proqnoz</button>
+        `);
+    })
+    .catch(() => {
+        stationMarker.setPopupContent(`
+            <b>META hava stansiyası — Əhmədli</b><br>
+            ❌ Stansiya məlumatı hazırda yüklənmir.<br>
+            <button type="button" onclick="openSection('citySearchSection');showCityForecast(40.3830,49.9550,'Əhmədli')" style="margin-top:12px;border:0;border-radius:8px;padding:9px 11px;background:#0ea5e9;color:#fff;cursor:pointer;">Əhmədli üçün 7 günlük proqnoz</button>
+        `);
     });
 
     // 🏙 ГОРОДА
@@ -2827,11 +2850,12 @@ window.mapInstance = map;
     {name:'Qızıldaş',lat:40.3200,lon:49.7500},
     {name:'Daşqıl',lat:40.4100,lon:49.7800},
     {name:'Çaxmaqlı',lat:40.4600,lon:49.7600},
+    ...nationwideCities,
 
 ];
 
     // 📍 ДОБАВЛЕНИЕ ГОРОДОВ
-    absheronCities.forEach(c => {
+    [...new Map(absheronCities.map(city => [city.name, city])).values()].forEach(c => {
 
         const marker = L.marker([c.lat, c.lon]).addTo(map);
 
@@ -2842,7 +2866,8 @@ window.mapInstance = map;
                 let temp = await getTemp(c.lat, c.lon);
                 marker.setPopupContent(`
                     <b>${c.name}</b><br>
-                    🌡 ${tempText(temp)}
+                    🌡 ${tempText(temp)}<br>
+                    <button type="button" onclick="openSection('citySearchSection');showCityForecast(${c.lat},${c.lon},'${c.name}')" style="margin-top:8px;border:0;border-radius:7px;padding:7px 10px;background:#0ea5e9;color:#fff;cursor:pointer;">7 günlük proqnoz</button>
                 `);
             } catch (e) {
                 marker.setPopupContent(`
@@ -3594,7 +3619,8 @@ const searchableCities = [
     {name:'Sumqayıt',lat:40.5897,lon:49.6686},{name:'Xırdalan',lat:40.4481,lon:49.7550},{name:'Masazır',lat:40.4210,lon:49.7922},{name:'Saray',lat:40.5280,lon:49.7200},{name:'Ceyranbatan',lat:40.4810,lon:49.7050},{name:'Qobu',lat:40.4040,lon:49.7380},{name:'Lökbatan',lat:40.3233,lon:49.7361},{name:'Fatmayı',lat:40.5560,lon:49.7640},{name:'Mehdiabad',lat:40.5540,lon:49.7290},{name:'Digah',lat:40.5090,lon:49.7880},{name:'Hövsan',lat:40.3740,lon:50.0850},{name:'Binə',lat:40.4508,lon:50.0856},{name:'Qala',lat:40.4530,lon:50.1840},{name:'Şüvəlan',lat:40.4888,lon:50.1681},{name:'Mərdəkan',lat:40.4918,lon:50.1429},{name:'Buzovna',lat:40.5196,lon:50.1144},{name:'Bilgəh',lat:40.5828,lon:50.0401},{name:'Nardaran',lat:40.5680,lon:50.0050},{name:'Pirşağı',lat:40.5563,lon:49.7382},{name:'Zirə',lat:40.2982,lon:50.2917},{name:'Pirallahı',lat:40.4620,lon:50.3230},{name:'Novxanı',lat:40.5705,lon:49.6761},{name:'Corat',lat:40.5960,lon:49.6860},{name:'Güzdək',lat:40.4730,lon:49.7360},
     {name:'Şirvan',lat:39.9320,lon:48.9200},{name:'Hacıqabul',lat:40.0400,lon:48.9400},{name:'Salyan',lat:39.5950,lon:48.9800},{name:'Neftçala',lat:39.3740,lon:49.2470},{name:'Lənkəran',lat:38.7540,lon:48.8510},{name:'Astara',lat:38.4550,lon:48.8750},{name:'Biləsuvar',lat:39.4580,lon:48.5440},{name:'Cəlilabad',lat:39.2090,lon:48.4980},{name:'Masallı',lat:39.0350,lon:48.6550},{name:'Yevlax',lat:40.6170,lon:47.1500},
     {name:'Quba',lat:41.3625,lon:48.5123},{name:'Qusar',lat:41.4265,lon:48.4300},{name:'Xaçmaz',lat:41.4640,lon:48.8060},{name:'Şabran',lat:41.2000,lon:48.9830},{name:'Siyəzən',lat:41.0765,lon:49.1117},{name:'Xızı',lat:40.8730,lon:49.3800},{name:'Qobustan',lat:40.0825,lon:49.4120},{name:'Şamaxı',lat:40.6310,lon:48.6414},{name:'İsmayıllı',lat:40.7840,lon:48.1510},{name:'Ağsu',lat:40.5700,lon:48.4000},{name:'Göyçay',lat:40.6500,lon:47.7400},{name:'Ucar',lat:40.5100,lon:47.6500},{name:'Zərdab',lat:40.2200,lon:47.7100},{name:'Bərdə',lat:40.3770,lon:47.1260},{name:'Tərtər',lat:40.3410,lon:46.9290},
-    {name:'Kürdəxanı',lat:40.5480,lon:49.9110},{name:'Böyük Şor',lat:40.4200,lon:49.9000},{name:'Sulutəpə',lat:40.4700,lon:49.8100},{name:'Bibiheybət',lat:40.3300,lon:49.8180},{name:'Zığ',lat:40.3570,lon:50.0630},{name:'Ələt',lat:39.9700,lon:49.4050},{name:'Hökməli',lat:40.4840,lon:49.7390},{name:'Müşfiqabad',lat:40.4850,lon:49.7490},{name:'Görədil',lat:40.5750,lon:49.7150},{name:'Nübar',lat:40.5000,lon:49.7000},{name:'Sahil',lat:40.4500,lon:49.6800},{name:'Xocəsən',lat:40.4480,lon:49.8120},{name:'Qızıldaş',lat:40.3200,lon:49.7500},{name:'Daşqıl',lat:40.4100,lon:49.7800},{name:'Çaxmaqlı',lat:40.4600,lon:49.7600}
+    {name:'Kürdəxanı',lat:40.5480,lon:49.9110},{name:'Böyük Şor',lat:40.4200,lon:49.9000},{name:'Sulutəpə',lat:40.4700,lon:49.8100},{name:'Bibiheybət',lat:40.3300,lon:49.8180},{name:'Zığ',lat:40.3570,lon:50.0630},{name:'Ələt',lat:39.9700,lon:49.4050},{name:'Hökməli',lat:40.4840,lon:49.7390},{name:'Müşfiqabad',lat:40.4850,lon:49.7490},{name:'Görədil',lat:40.5750,lon:49.7150},{name:'Nübar',lat:40.5000,lon:49.7000},{name:'Sahil',lat:40.4500,lon:49.6800},{name:'Xocəsən',lat:40.4480,lon:49.8120},{name:'Qızıldaş',lat:40.3200,lon:49.7500},{name:'Daşqıl',lat:40.4100,lon:49.7800},{name:'Çaxmaqlı',lat:40.4600,lon:49.7600},
+    ...nationwideCities
 ];
 
 function normalizeCityName(value) {
@@ -3608,7 +3634,8 @@ function openCitySearch() {
 
 function filterCitySearch() {
     const query = normalizeCityName(document.getElementById('citySearchInput').value.trim());
-    const cities = query ? searchableCities.filter(city => normalizeCityName(city.name).includes(query)) : [];
+    const uniqueCities = [...new Map(searchableCities.map(city => [city.name, city])).values()];
+    const cities = query ? uniqueCities.filter(city => normalizeCityName(city.name).includes(query)) : [];
     document.getElementById('citySearchResults').innerHTML = cities.map(city =>
         `<button type="button" onclick="showCityForecast(${city.lat}, ${city.lon}, '${city.name}')" style="border:0; border-radius:12px; padding:12px; cursor:pointer; color:white; background:rgba(14,165,233,.75); font-size:16px;">${city.name}</button>`
     ).join('') || (query ? '<div style="grid-column:1/-1; opacity:.8; padding:10px;">Nəticə tapılmadı.</div>' : '');
