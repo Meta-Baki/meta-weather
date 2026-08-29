@@ -1,46 +1,45 @@
-<h2 style="color:#0ea5e9;">⛈️🏔️ Azərbaycanın bəzi dağlıq rayonlarında leysan və dolu ehtimalı var</h2>
+<h2 style="color:#16a34a;">🌳⚠️ Bakı və İmişlidə qanunsuz ağac kəsilməsi nəticəsində 49 400 manat ziyan müəyyən edilib</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 28 avqust 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 29 avqust 2026 16:30— Bakı vaxtı
 </p>
 
 <p>
-<strong>28 avqustda Azərbaycanın bəzi dağlıq və dağətəyi rayonlarında
-fasilələrlə yağış, ayrı-ayrı yerlərdə intensiv leysan, şimşək və dolu
-ehtimal olunur.</strong> Gecə və səhər saatlarında bəzi dağlıq ərazilərdə
-duman da müşahidə oluna bilər. :contentReference[oaicite:2]{index=2}
+<strong>Dövlət Ekoloji Təhlükəsizlik Xidmətinin əməkdaşları Bakı şəhəri və İmişli rayonu ərazisində qanunsuz ağac kəsilməsi faktları aşkarlayıb.</strong>
 </p>
 
 <p>
-🌧️ Qısamüddətli intensiv yağıntılar dağlıq ərazilərdə çayların və
-kiçik su axınlarının səviyyəsinin müvəqqəti yüksəlməsinə, torpaq
-rütubətinin artmasına səbəb ola bilər.
+🌳 Son bir həftə ərzində aparılan nəzarət tədbirləri zamanı Bakı şəhərinin
+Zabrat qəsəbəsində, Nizami rayonunda, Suraxanı rayonunun Qaraçuxur
+qəsəbəsində və İmişli rayonunun inzibati ərazisində yaşıllıqların
+qanunsuz məhv edilməsi müəyyən olunub.
 </p>
 
 <p>
-🌫️ Duman isə xüsusilə yüksək və dağlıq ərazilərdə görünüş məsafəsini
-azalda bilər. Güclü küləklə birlikdə belə hava şəraiti dağ yollarında
-və açıq ərazilərdə əlavə risk yaradır.
+💰 Araşdırmalar nəticəsində yaşıllıqlara ümumilikdə
+<strong>49 400 manat</strong> məbləğində ziyan dəydiyi müəyyən edilib.
 </p>
 
-<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-⚠️ Dağlıq rayonlarda yaşayan və səyahət edən şəxslərə qısamüddətli
-leysan, şimşək, dolu və güclü külək ehtimalını nəzərə almaq tövsiyə olunur.
+<p>
+⚖️ Aşkarlanmış faktlarla bağlı toplanan materiallar hüquqi qiymət
+verilməsi üçün hüquq-mühafizə orqanlarına göndərilib.
+Nazirliyin məlumatına görə, müəyyən edilmiş ziyanın məbləği hər bir
+fakt üzrə cinayət tərkibi yaradır.
 </p>
 
 <p style="color:#22c55e;font-size:20px;font-weight:bold;">
-🌱 Yağıntıların və təbii hadisələrin monitorinqi dağ ekosistemlərinin,
-su ehtiyatlarının və torpaq rütubətinin vəziyyətinin qiymətləndirilməsi
-üçün mühüm əhəmiyyət daşıyır.
+🌱 Yaşıllıqların qorunması şəhərlərdə ekoloji tarazlığın, havanın
+keyfiyyətinin və yaşayış mühitinin sağlamlığının qorunması baxımından
+mühüm əhəmiyyət daşıyır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanda hava şəraiti, iqlim və
-təbii hadisələri operativ şəkildə izləyir.
+📡 META Meteorologiya Mərkəzi Azərbaycan ərazisində təbiət və ekologiya
+ilə bağlı mühüm hadisələri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Hava, təbiət və ekologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Təbiət və ekologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
