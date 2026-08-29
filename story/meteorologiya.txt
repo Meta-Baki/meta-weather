@@ -332,5 +332,19 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Müəllif: Edelman Əliyev
+👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
+</p>
+
+<hr>
+
+<p style="color:#94a3b8;font-size:14px;">
+<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
+Saytda təqdim olunan avtomatlaşdırılmış meteoroloji məlumatlar və hava proqnozları
+atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya
+təhlükəli hava hadisələri zamanı META saytındakı rəsmi məlumatları və
+xəbərdarlıqları izləmək tövsiyə olunur.
+</p>
+
+<p style="text-align:center;color:#94a3b8;font-size:14px;">
+© 2026 META Abşeron. Bütün hüquqlar qorunur.
 </p>
