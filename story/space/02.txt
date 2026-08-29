@@ -1,62 +1,55 @@
-<h2 style="color:#8b5cf6;">🚀🔭 NASA "Nancy Grace Roman" teleskopunun buraxılışı ilə bağlı hazırlıqları yekunlaşdırır.</h2>
+<h2 style="color:#8b5cf6;">🌌☀️ Yer kürəsində maqnit qasırğası müşahidə olunur</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 28 avqust 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 29 avqust 2026 17:00 — Bakı vaxtı
 </p>
 
 <p>
-<strong>NASA-nın yeni nəsil “Nancy Grace Roman” kosmik teleskopunun
-buraxılışına hazırlıqlar son mərhələyə daxil olub.</strong> NASA və
-“SpaceX” teleskopun 30 avqust 2026-cı ildə Floridadakı Kennedi Kosmik
-Mərkəzindən “Falcon Heavy” raketi ilə orbitə göndərilməsini planlaşdırır.
-Buraxılış üçün nəzərdə tutulan vaxt 07:26 EDT-dir.
+<strong>29 avqustda Yer kürəsinin maqnit sahəsində güclü geomaqnit
+aktivlik müşahidə olunur.</strong> Günəşdə baş verən aktiv proseslər
+nəticəsində yaranan plazma axınlarının Yerə çatması planetin
+maqnitosferində güclü dəyişikliklərə səbəb olub.
 </p>
 
 <p>
-🛰️ Teleskop artıq “Falcon Heavy” raketinin yük örtüyü daxilində
-Kennedi Kosmik Mərkəzindəki buraxılış kompleksinə çatdırılıb. Bu gün
-missiya komandası son <strong>“uçuşa hazır / hazır deyil”</strong>
-qiymətləndirməsini həyata keçirir.
+☀️ Alimlərin proqnozlarına əsasən, şənbə günü səhər və günorta
+saatlarında geomaqnit aktivliyin <strong>G1 səviyyəsinə</strong> çatması,
+bəzi dövrlərdə isə <strong>G2 səviyyəsinə yaxınlaşması</strong> mümkündür.
 </p>
 
 <p>
-🌌 “Roman” teleskopunun əsas elmi məqsədləri arasında
-<strong>qaranlıq enerji, qaranlıq maddə, kainatın genişlənməsi və
-ekzoplanetlərin araşdırılması</strong> yer alır. Teleskop geniş səma
-sahələrini müşahidə edərək milyardlarla qalaktikanın öyrənilməsinə
-imkan verəcək.
+🌍 Geomaqnit qasırğaları Günəşdən gələn yüklü hissəciklərin Yer
+maqnitosferi ilə qarşılıqlı təsiri nəticəsində yaranır. Belə hadisələr
+peyk sistemlərinə, radio rabitəsinə və bəzi naviqasiya sistemlərinə
+müvəqqəti təsir göstərə bilər.
 </p>
 
 <p>
-🔭 Teleskopun geniş sahəli kamerası Hubble ilə müqayisədə təxminən
-<strong>100 dəfə daha böyük görüntü sahəsini</strong> müşahidə edə
-biləcək. Bu xüsusiyyət alimlərə kainatın böyük miqyaslı quruluşunu
-daha sürətlə və geniş əhatə ilə araşdırmağa imkan verəcək.
+🌌 Güclü geomaqnit aktivlik zamanı yüksək enliklərdə qütb parıltılarının
+— <strong>auroraların</strong> — müşahidə olunma ehtimalı da artır.
+Azərbaycan isə yüksək enliklərdən uzaqda yerləşdiyi üçün auroranın
+buradan görünməsi adətən çox çətin olur.
 </p>
 
 <p>
-🛰️ Buraxılışdan sonra “Roman” Günəş–Yer sisteminin təxminən
-<strong>1,5 milyon kilometr</strong> uzaqlıqdakı L2 Laqranj nöqtəsinə
-yönələcək. Teleskopun oraya çatması və sistemlərinin yoxlanılması
-başa çatdıqdan sonra əsas elmi müşahidələrə başlaması planlaşdırılır.
-
+📉 Proqnozlara görə, 29 avqustun axşamından etibarən geomaqnit
+vəziyyətin tədricən sakitləşməsi və 30 avqustda daha sabit şəraitin
+formalaşması gözlənilir. :contentReference[oaicite:2]{index=2}
 </p>
 
 <p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🌠 “Nancy Grace Roman” teleskopunun fəaliyyəti kainatın sürətlənən
-genişlənməsinin səbəbləri, qaranlıq maddənin paylanması və uzaq
-planet sistemləri haqqında yeni məlumatların əldə edilməsinə kömək
-edə bilər.
+🛰️ Geomaqnit qasırğalarının monitorinqi peyklərin, rabitə və
+naviqasiya sistemlərinin təhlükəsiz fəaliyyəti baxımından mühüm
+əhəmiyyət daşıyır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi kosmos, peyklər, Günəş aktivliyi,
-astronomik hadisələr və kosmik missiyalarla bağlı ən son xəbərləri
-izləyir.
+📡 META Meteorologiya Mərkəzi Günəş aktivliyini, maqnit qasırğalarını,
+kosmik hava şəraitini və astronomik hadisələri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos və elm xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Kosmos və Günəş aktivliyi xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
