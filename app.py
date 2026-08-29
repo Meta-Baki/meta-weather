@@ -263,8 +263,8 @@ def forecast7():
 
         params = {
 
-            "latitude": 40.379228,
-            "longitude": 49.9625323,
+            "latitude": 40.4093,
+            "longitude": 49.8671,
 
             "daily":
                 "weather_code,"
