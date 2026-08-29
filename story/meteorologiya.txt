@@ -1,171 +1,324 @@
-<h2 style="color:#8b5cf6;">📚 Meteorologiya nədir və hansı sahələrə bölünür?</h2>
+<h2 style="color:#8b5cf6;">📚 Meteorologiya — hava və atmosfer elmi</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 29 avqust 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 29 avqust 2026, 22:30 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Meteorologiya Yer atmosferini, atmosferdə baş verən fiziki prosesləri,
-hava hadisələrini və onların dəyişməsini öyrənən elm sahəsidir.</strong>
+<strong>Meteorologiya Yer atmosferini, atmosferdə baş verən fiziki prosesləri
+və hava hadisələrini öyrənən elm sahəsidir.</strong>
 Meteorologiyanın əsas məqsədlərindən biri atmosferin mövcud vəziyyətini
-müşahidə etmək və gələcək hava şəraitini proqnozlaşdırmaqdır.
+müşahidə etmək, onun dəyişməsini öyrənmək və gələcək hava şəraitini
+proqnozlaşdırmaqdır.
 </p>
 
 <p>
-🌡️ Meteoroloji müşahidələr zamanı havanın temperaturu, nisbi rütubət,
-atmosfer təzyiqi, küləyin sürəti və istiqaməti, yağıntı, buludluluq,
-görünüş məsafəsi və digər göstəricilər ölçülür.
+🌡️ Meteorologiyada havanın temperaturu, nisbi rütubət, atmosfer təzyiqi,
+küləyin sürəti və istiqaməti, yağıntının miqdarı və növü, buludluluq,
+görünüş məsafəsi, Günəş radiasiyası, qar örtüyü və digər atmosfer hadisələri
+müşahidə və təhlil edilir.
 </p>
 
 <h3>🌊 Hidrometeorologiya nədir?</h3>
 
 <p>
 <strong>Hidrometeorologiya</strong> atmosfer və su mühitində baş verən prosesləri,
-həmçinin onların qarşılıqlı əlaqəsini öyrənən geniş elm sahəsidir.
-Bu sahəyə meteorologiya ilə yanaşı hidrologiya, iqlimşünaslıq,
-dəniz və su obyektlərinin müşahidəsi də daxildir.
+həmçinin onların qarşılıqlı əlaqəsini öyrənən geniş elm və fəaliyyət sahəsidir.
+</p>
+
+<p>
+Bu sahə meteorologiya ilə yanaşı hidrologiya, iqlimşünaslıq, okeanologiya
+və digər əlaqəli istiqamətləri birləşdirir.
 </p>
 
 <p>
 🌧️ Hidrometeoroloji məlumatlar hava proqnozlarının hazırlanması,
-daşqın və sel riskinin qiymətləndirilməsi, kənd təsərrüfatı,
-energetika, aviasiya və dəniz nəqliyyatı üçün mühüm əhəmiyyət daşıyır.
+daşqın və sel riskinin qiymətləndirilməsi, kənd təsərrüfatı, aviasiya,
+gəmiçilik, energetika və digər sahələr üçün mühüm əhəmiyyət daşıyır.
 </p>
 
-<h3>🔬 Meteorologiyanın əsas sahələri</h3>
+<h3>🔬 Meteorologiyanın əsas istiqamətləri</h3>
 
 <p>
-<strong>🌡️ Fiziki meteorologiya</strong> — atmosferdə baş verən fiziki prosesləri,
-Günəş radiasiyasını, istilik mübadiləsini, buludların və yağıntının
-yaranmasını öyrənir.
+Meteorologiya çox geniş elm sahəsidir və müxtəlif istiqamətlərə bölünür.
 </p>
 
-<p>
-<strong>🌀 Dinamik meteorologiya</strong> — atmosfer havasının hərəkətini,
-küləkləri, siklonları, antisiklonları və atmosferin ümumi
-sirkulyasiyasını araşdırır.
-</p>
+<h3>🌡️ 1. Fiziki meteorologiya</h3>
 
 <p>
-<strong>🗺️ Sinoptik meteorologiya</strong> — hava xəritələri, meteoroloji
-müşahidələr, peyk və radar məlumatları əsasında atmosferin vəziyyətini
-təhlil edir və hava proqnozlarının hazırlanmasında istifadə olunur.
+<strong>Fiziki meteorologiya</strong> atmosferdə baş verən fiziki prosesləri
+öyrənir.
 </p>
 
 <p>
-<strong>💻 Rəqəmsal meteorologiya</strong> — atmosferin gələcək vəziyyətini
-riyazi modellər və güclü kompüter sistemləri vasitəsilə hesablamağa
-əsaslanır. Müasir hava proqnozlarının böyük hissəsi rəqəmsal
-proqnoz modellərindən istifadə etməklə hazırlanır.
+Buraya Günəş radiasiyası, atmosferin isinməsi və soyuması, su buxarının
+kondensasiyası, buludların yaranması, yağış və qarın əmələ gəlməsi,
+istilik mübadiləsi, optik və elektrik hadisələri daxildir.
+</p>
+
+<h3>🌀 2. Dinamik meteorologiya</h3>
+
+<p>
+<strong>Dinamik meteorologiya</strong> atmosfer havasının hərəkətini və bu
+hərəkəti yaradan fiziki qüvvələri öyrənir.
 </p>
 
 <p>
-<strong>🌍 İqlimşünaslıq</strong> — müəyyən ərazidə uzun illər ərzində
-müşahidə olunan hava şəraitini, orta temperaturu, yağıntıları,
-külək rejimini və uzunmüddətli iqlim dəyişikliklərini öyrənir.
+Bu sahədə küləklər, siklonlar, antisiklonlar, atmosferin ümumi
+sirkulyasiyası, hava kütlələri və atmosfer axınları araşdırılır.
+</p>
+
+<h3>🗺️ 3. Sinoptik meteorologiya</h3>
+
+<p>
+<strong>Sinoptik meteorologiya</strong> böyük ərazilərdə atmosferin vəziyyətini
+təhlil etməklə hava proqnozlarının hazırlanmasına xidmət edir.
 </p>
 
 <p>
-<strong>🌾 Aqrometeorologiya</strong> — hava və iqlim şəraitinin kənd
-təsərrüfatına, bitkilərə, torpağın rütubətinə, şaxta və quraqlıq
-hadisələrinə təsirini araşdırır.
+Sinoptik meteoroloqlar hava xəritələrini, siklon və antisiklonları,
+atmosfer cəbhələrini, hava kütlələrini, radar məlumatlarını,
+peyk təsvirlərini və meteoroloji stansiyaların müşahidələrini təhlil edirlər.
+</p>
+
+<h3>💻 4. Rəqəmsal meteorologiya və hava modelləri</h3>
+
+<p>
+Müasir hava proqnozlarının böyük hissəsi güclü kompüter sistemlərində
+hesablanan <strong>rəqəmsal hava proqnozu modelləri</strong> vasitəsilə hazırlanır.
 </p>
 
 <p>
-<strong>✈️ Aviasiya meteorologiyası</strong> — hava şəraitinin aviasiyaya
-təsirini öyrənir. Güclü külək, duman, buzlaşma, turbulentlik,
-göy gurultusu və zəif görünüş uçuşlar üçün mühüm meteoroloji amillərdir.
+Modellər atmosferin ilkin vəziyyətini nəzərə alaraq temperatur, yağıntı,
+külək, atmosfer təzyiqi, buludluluq və digər göstəricilərin gələcəkdə necə
+dəyişəcəyini hesablayır.
+</p>
+
+<h3>🌍 5. İqlimşünaslıq</h3>
+
+<p>
+<strong>İqlimşünaslıq</strong> müəyyən ərazidə uzun müddət ərzində müşahidə olunan
+atmosfer şəraitini öyrənir.
 </p>
 
 <p>
-<strong>🌊 Dəniz meteorologiyası</strong> — dənizlər və okeanlar üzərində
-hava şəraitini, küləyi, dalğaları, fırtınaları, dumanı və suyun
-temperaturunu öyrənir. Azərbaycan üçün Xəzər dənizində aparılan
-hidrometeoroloji müşahidələr xüsusi əhəmiyyət daşıyır.
+<strong>Hava</strong> müəyyən anda və ya qısa müddətdə atmosferin vəziyyətidir,
+<strong>iqlim</strong> isə müəyyən ərazi üçün uzunmüddətli hava şəraitinin
+xüsusiyyətlərini ifadə edir.
+</p>
+
+<h3>🌾 6. Aqrometeorologiya</h3>
+
+<p>
+<strong>Aqrometeorologiya</strong> hava və iqlim şəraitinin kənd təsərrüfatına
+təsirini öyrənir.
 </p>
 
 <p>
-<strong>💧 Hidrologiya</strong> — çayları, gölləri, su ehtiyatlarını,
-qar örtüyünü, su səviyyəsini, daşqın və sel hadisələrini öyrənən
-elm sahəsidir.
+Bu istiqamətdə bitkilərin inkişafı, temperatur, yağıntı, torpağın rütubəti,
+Günəş radiasiyası, şaxta və quraqlıq kimi amillər araşdırılır.
+</p>
+
+<h3>✈️ 7. Aviasiya meteorologiyası</h3>
+
+<p>
+<strong>Aviasiya meteorologiyası</strong> hava şəraitinin aviasiyaya təsirini
+öyrənir və uçuşların meteoroloji təminatında istifadə olunur.
 </p>
 
 <p>
-<strong>🌊 Okeanologiya</strong> — dəniz və okeanlarda baş verən fiziki,
-kimyəvi və bioloji prosesləri, dəniz cərəyanlarını, dalğaları,
-suyun temperaturunu və səviyyə dəyişikliklərini araşdırır.
+Güclü külək, duman, buzlaşma, turbulentlik, göy gurultulu leysan,
+aşağı buludluluq və zəif görünüş aviasiya üçün mühüm meteoroloji
+amillər hesab olunur.
+</p>
+
+<h3>🌊 8. Dəniz meteorologiyası</h3>
+
+<p>
+<strong>Dəniz meteorologiyası</strong> atmosferlə dəniz və okeanların
+qarşılıqlı əlaqəsini öyrənir.
 </p>
 
 <p>
-<strong>🛰️ Peyk meteorologiyası</strong> — meteoroloji peyklər vasitəsilə
-bulud sistemlərini, siklonları, güclü konvektiv prosesləri, dumanı
-və digər atmosfer hadisələrini müşahidə etməyə imkan verir.
+Burada dəniz üzərində külək, dalğalar, suyun temperaturu, atmosfer təzyiqi,
+duman və fırtınalar araşdırılır.
 </p>
 
 <p>
-<strong>📡 Radar meteorologiyası</strong> — meteoroloji radarlar vasitəsilə
-yağış, qar, güclü leysan, dolu ehtimalı və göy gurultulu sistemlərin
-hərəkətini izləyir.
+Azərbaycan üçün bu istiqamət xüsusilə <strong>Xəzər dənizində</strong>
+hidrometeoroloji şəraitin öyrənilməsi baxımından böyük əhəmiyyət daşıyır.
+</p>
+
+<h3>💧 9. Hidrologiya</h3>
+
+<p>
+<strong>Hidrologiya</strong> Yer üzərində suyun yayılmasını, hərəkətini və
+xüsusiyyətlərini öyrənən elm sahəsidir.
 </p>
 
 <p>
-<strong>🌆 Şəhər meteorologiyası</strong> — şəhər tikililərinin,
-asfalt səthlərin, nəqliyyatın və digər şəhər amillərinin yerli
-temperatura və hava dövranına təsirini araşdırır.
+Hidrologiyada çaylar, göllər, su ehtiyatları, yağıntı və axım,
+qar örtüyü, daşqın və sel hadisələri öyrənilir.
+</p>
+
+<h3>🌊 10. Okeanologiya</h3>
+
+<p>
+<strong>Okeanologiya</strong> dəniz və okeanlarda baş verən fiziki,
+kimyəvi və bioloji prosesləri öyrənir.
 </p>
 
 <p>
-<strong>🌱 Biometeorologiya</strong> — temperatur, rütubət, külək və
-Günəş radiasiyası kimi meteoroloji amillərin insanlara, heyvanlara
-və bitkilərə təsirini öyrənir.
+Bu sahədə dalğalar, dəniz cərəyanları, suyun temperaturu, duzluluq və
+su səviyyəsinin dəyişməsi kimi göstəricilər araşdırılır.
+</p>
+
+<h3>🛰️ 11. Peyk meteorologiyası</h3>
+
+<p>
+<strong>Peyk meteorologiyası</strong> Yer atmosferini kosmosdan müşahidə
+etməyə imkan verir.
+</p>
+
+<p>
+Peyk məlumatları vasitəsilə bulud sistemləri, siklonlar, güclü konvektiv
+proseslər, duman, meşə yanğınlarının tüstüsü və səth temperaturu kimi
+hadisələr izlənilə bilər.
+</p>
+
+<h3>📡 12. Radar meteorologiyası</h3>
+
+<p>
+<strong>Radar meteorologiyası</strong> atmosferdəki yağıntı hissəciklərinin
+müşahidəsində istifadə olunur.
+</p>
+
+<p>
+Meteoroloji radar vasitəsilə yağış, qar, güclü leysan, dolu ehtimalı
+və göy gurultulu sistemlərin hərəkəti izlənilə bilər.
+</p>
+
+<h3>🌆 13. Şəhər meteorologiyası</h3>
+
+<p>
+<strong>Şəhər meteorologiyası</strong> böyük şəhərlərdə binaların, yolların,
+nəqliyyatın və digər şəhər amillərinin atmosferə təsirini öyrənir.
+</p>
+
+<p>
+Şəhərlər ətraf ərazilərlə müqayisədə daha isti ola bilər.
+Bu hadisə <strong>şəhər istilik adası</strong> effekti adlanır.
+</p>
+
+<h3>🌱 14. Biometeorologiya</h3>
+
+<p>
+<strong>Biometeorologiya</strong> atmosfer və iqlim şəraitinin canlı
+orqanizmlərə təsirini öyrənir.
+</p>
+
+<p>
+Temperatur, rütubət, külək və Günəş radiasiyası insanların, heyvanların
+və bitkilərin ümumi vəziyyətinə və istilik mübadiləsinə təsir göstərə bilər.
+</p>
+
+<h3>🌫️ 15. Atmosfer kimyası və havanın keyfiyyəti</h3>
+
+<p>
+Bu istiqamət atmosferdə olan qazları, aerozolları və çirkləndirici
+maddələri araşdırır.
+</p>
+
+<p>
+Buraya toz və aerozollar, azot oksidləri, ozon, karbonmonoksid,
+kükürd dioksid və digər atmosfer çirkləndiriciləri daxil ola bilər.
 </p>
 
 <h3>⛈️ Təhlükəli meteoroloji hadisələr</h3>
 
 <p>
-Meteorologiyanın mühüm vəzifələrindən biri təhlükəli hava hadisələrinin
-vaxtında müşahidə və proqnozlaşdırılmasıdır.
+Meteorologiyanın ən vacib vəzifələrindən biri təhlükəli hava hadisələrinin
+əvvəlcədən müəyyən edilməsi və proqnozlaşdırılmasıdır.
 </p>
 
 <p>
-Belə hadisələrə güclü külək, fırtına, intensiv yağış, dolu, göy gurultusu,
-duman, güclü qar, buzlaşma, anomal istilər, şaxta və quraqlıq daxildir.
+Belə hadisələrə güclü göy gurultusu, intensiv yağış, dolu, fırtına,
+güclü külək, tornado və digər burulğanlar, sıx duman, güclü qar,
+buzlaşma, anomal istilər, kəskin şaxta və quraqlıq daxildir.
 </p>
 
 <h3>🌡️ Meteoroloji cihazlar</h3>
 
 <p>
-Meteoroloji stansiyalarda müxtəlif cihaz və sensorlardan istifadə olunur.
-<strong>Termometr</strong> temperaturu, <strong>hiqrometr</strong> rütubəti,
-<strong>barometr</strong> atmosfer təzyiqini, <strong>anemometr</strong>
-küləyin sürətini, <strong>yağıntıölçən</strong> isə yağıntının miqdarını ölçür.
+Meteoroloji stansiyalarda müxtəlif ölçü cihazlarından istifadə olunur.
 </p>
 
 <p>
-🎈 Atmosferin yuxarı qatlarının öyrənilməsi üçün radiosondlardan da istifadə
-olunur. Radiosond meteoroloji şarla atmosferə qaldırılır və müxtəlif
-hündürlüklərdə temperatur, rütubət, təzyiq və külək haqqında məlumat toplayır.
+<strong>🌡️ Termometr</strong> — havanın temperaturunu ölçür.<br>
+<strong>💧 Hiqrometr</strong> — havanın rütubətini ölçür.<br>
+<strong>🔵 Barometr</strong> — atmosfer təzyiqini ölçür.<br>
+<strong>💨 Anemometr</strong> — küləyin sürətini ölçür.<br>
+<strong>🧭 Külək istiqaməti göstəricisi</strong> — küləyin istiqamətini müəyyən edir.<br>
+<strong>🌧️ Yağıntıölçən</strong> — yağıntının miqdarını ölçür.<br>
+<strong>☀️ Radiometr və piranometr</strong> — Günəş radiasiyasının ölçülməsində istifadə olunur.
+</p>
+
+<h3>🎈 Atmosferin yuxarı qatları necə ölçülür?</h3>
+
+<p>
+Meteoroloqlar atmosferin yalnız Yer səthinə yaxın hissəsini deyil,
+yuxarı qatlarını da müşahidə edirlər.
+</p>
+
+<p>
+Bunun üçün <strong>radiosond</strong> adlanan cihaz meteoroloji şarla
+atmosferə qaldırılır. Radiosond müxtəlif hündürlüklərdə temperatur,
+rütubət, atmosfer təzyiqi və külək haqqında məlumat əldə etməyə imkan verir.
 </p>
 
 <h3>🌦️ Hava proqnozu necə hazırlanır?</h3>
 
 <p>
-Müasir hava proqnozları yalnız bir meteoroloji stansiyanın məlumatına
-əsaslanmır. Proqnoz hazırlanarkən yerüstü müşahidələr, peyk təsvirləri,
-meteoroloji radarlar, radiosond məlumatları və rəqəmsal hava modelləri
-birlikdə təhlil edilir.
+Müasir hava proqnozu yalnız bir meteoroloji stansiyanın məlumatına
+əsaslanmır.
 </p>
 
 <p>
-Meteoroloq müxtəlif məlumat mənbələrini müqayisə edir və atmosferdə
-gözlənilən dəyişiklikləri qiymətləndirərək yekun hava proqnozunu hazırlayır.
+Proqnoz hazırlanarkən meteoroloji stansiyaların müşahidələri,
+radiosond məlumatları, meteoroloji radarlar, peyk təsvirləri,
+dəniz müşahidələri və rəqəmsal hava modelləri birlikdə təhlil edilir.
+</p>
+
+<p>
+Meteoroloq müxtəlif məlumatları müqayisə edir və atmosferdə gözlənilən
+dəyişiklikləri qiymətləndirərək yekun hava proqnozunu hazırlayır.
+</p>
+
+<h3>🌍 Meteorologiya niyə vacibdir?</h3>
+
+<p>
+Meteorologiya yalnız sabah yağış yağıb-yağmayacağını öyrənmək üçün
+lazım deyil.
+</p>
+
+<p>
+Meteoroloji və hidrometeoroloji məlumatlardan aviasiyada, dəniz
+nəqliyyatında, kənd təsərrüfatında, energetikada, tikintidə,
+nəqliyyatda, su ehtiyatlarının idarə edilməsində, fövqəladə hallara
+hazırlıqda, ətraf mühitin öyrənilməsində və şəhər planlaşdırılmasında
+istifadə olunur.
 </p>
 
 <p style="font-size:20px;font-weight:bold;">
-🌍 Meteorologiya yalnız gündəlik hava proqnozları üçün deyil, aviasiya,
-kənd təsərrüfatı, energetika, dəniz nəqliyyatı, fövqəladə hallar,
-şəhər planlaşdırılması və ətraf mühitin öyrənilməsi üçün də mühüm
-əhəmiyyət daşıyır.
+📚 META Baki-nin “Meteorologiya” bölməsinin məqsədi meteorologiya,
+hidrometeorologiya, iqlim, atmosfer və hava proqnozlaşdırılması haqqında
+məlumatları sadə və anlaşıqlı şəkildə təqdim etməkdir.
+</p>
+
+<p>
+Gələcəkdə bu bölmədə siklon və antisiklonlar, atmosfer cəbhələri,
+bulud növləri, küləyin yaranması, atmosfer təzyiqi, hava modelləri,
+radar və peyk meteorologiyası haqqında ayrıca məlumatlar da yayımlana bilər.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
