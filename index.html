@@ -1141,6 +1141,18 @@ body.app-page.app-mode .top-area {
         🏆 Rekordlar
     </button>
 
+    <button onclick="openSection('contactSection')">
+        📞 Əlaqə
+    </button>
+
+    <button onclick="openSection('aboutSection')">
+        ℹ️ Haqqımızda
+    </button>
+
+    <button onclick="openSection('meteorologySection')">
+        📚 Meteorologiya
+    </button>
+
     <button onclick="openSection('helpSection')">
         📰 Sayt haqqında
     </button>
@@ -1653,6 +1665,63 @@ body.app-page.app-mode .top-area {
         text-align:left;
         line-height:1.7;
         font-size:18px;
+        background:rgba(15,23,42,0.25);
+        padding:25px;
+        border-radius:18px;
+        position:relative;
+    ">
+        Yüklənir...
+    </div>
+
+</div>
+
+<!-- CONTACT -->
+<div class="box section" id="contactSection" style="margin-top:-40px;">
+
+    <h1>📞 Əlaqə</h1>
+
+    <div id="contactContent" style="
+        text-align:left;
+        line-height:1.9;
+        font-size:20px;
+        background:rgba(15,23,42,0.25);
+        padding:25px;
+        border-radius:18px;
+        position:relative;
+    ">
+        Yüklənir...
+    </div>
+
+</div>
+
+<!-- ABOUT -->
+<div class="box section" id="aboutSection" style="margin-top:-40px;">
+
+    <h1>ℹ️ Haqqımızda</h1>
+
+    <div id="aboutContent" style="
+        text-align:left;
+        line-height:1.9;
+        font-size:20px;
+        background:rgba(15,23,42,0.25);
+        padding:25px;
+        border-radius:18px;
+        position:relative;
+    ">
+        Yüklənir...
+    </div>
+
+</div>
+
+<!-- METEOROLOGY -->
+<div class="box section" id="meteorologySection" style="margin-top:-40px;">
+
+    <h1>📚 Meteorologiya</h1>
+
+    <div id="meteorologyContent" style="
+        text-align:left;
+        line-height:1.9;
+        font-size:20px;
         background:rgba(15,23,42,0.25);
         padding:25px;
         border-radius:18px;
@@ -3560,6 +3629,30 @@ async function loadRecords() {
     }
 }
 
+async function loadTextStory(containerId, filePath) {
+    const container = document.getElementById(containerId);
+
+    try {
+        const response = await fetch(filePath, { cache: "no-cache" });
+
+        if (!response.ok) {
+            throw new Error(filePath + " HTTP " + response.status);
+        }
+
+        const content = (await response.text()).trim();
+
+        if (!content) {
+            throw new Error(filePath + " boşdur");
+        }
+
+        // TXT fayllarında HTML istifadə oluna bilər; digər xəbər bölmələri ilə eyni qaydada göstərilir.
+        container.innerHTML = content;
+    } catch (error) {
+        console.error("Story load error:", error);
+        container.innerHTML = "❌ Məlumat tapılmadı.";
+    }
+}
+
 window.onload = function () {
 
     loadStation();
@@ -3572,6 +3665,9 @@ window.onload = function () {
     loadSpace();
     loadMeta();
     loadRecords();
+    loadTextStory("contactContent", "/story/əlaqə.txt");
+    loadTextStory("aboutContent", "/story/haqqımızda.txt");
+    loadTextStory("meteorologyContent", "/story/meteorologiya.txt");
 
     setInterval(loadMiniChart, 60000);
 
