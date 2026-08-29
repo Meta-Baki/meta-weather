@@ -1,40 +1,55 @@
-<h2 style="color:#16a34a;">🌳🏞️ Altıağac Milli Parkında “Açıq qapı” günü keçiriləcək</h2>
+<h2 style="color:#0ea5e9;">✈️⛈️ AZAL Bakı–Naxçıvan reyslərini göy gurultulu hava səbəbindən təxirə salıb</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 28 avqust 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 29 avqust 2026 17:00 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Altıağac Milli Parkında 31 avqust tarixində “Açıq qapı” günü keçiriləcək.</strong>
-Tədbir “Milli parkları yaxından tanıyaq” devizi ilə təşkil olunur və
-ziyarətçilərin qorunan təbiət əraziləri ilə daha yaxından tanış olmasına
-imkan yaradacaq.
+<strong>29 avqust 2026-cı il tarixində Bakı–Naxçıvan–Bakı marşrutu üzrə
+bir sıra aviareyslərin icrası göy gurultulu hava şəraiti səbəbindən
+təxirə salınıb.</strong>
 </p>
 
 <p>
-🌿 Milli parklar Azərbaycanın biomüxtəlifliyinin qorunmasında mühüm rol
-oynayır. Bu ərazilər meşələrin, dağ landşaftlarının, bitki örtüyünün və
-vəhşi heyvanların mühafizəsi baxımından xüsusi əhəmiyyət daşıyır.
+✈️ Uçuşların meteoroloji şərait sabitləşdikdən sonra bərpa olunması
+planlaşdırılır. Sərnişinlər reyslərin vəziyyəti və mümkün dəyişikliklər
+barədə ətraflı məlumatlandırılacaqlar.
 </p>
 
 <p>
-🏞️ “Açıq qapı” gününün keçirilməsi həmçinin əhalinin təbiətin qorunması,
-milli parkların əhəmiyyəti və ekoloji məsuliyyət barədə məlumatlılığının
-artırılmasına xidmət edir.
+⛈️ Naxçıvan Muxtar Respublikasının coğrafi mövqeyi və dağlıq relyefi
+burada meteoroloji şəraitə təsir göstərən əsas amillərdəndir. Güclü
+külək, küləyin istiqamətinin qəfil dəyişməsi və göy gurultulu
+hadisələr uçuşların, xüsusilə qalxma və enmə mərhələlərinin
+təhlükəsizliyinə əlavə risklər yarada bilər.
 </p>
 
-<p style="color:#22c55e;font-size:20px;font-weight:bold;">
-🌱 Təbiətlə tanış olmaqla yanaşı, onun qorunmasının vacibliyini
-gənc nəsilə çatdırmaq ekoloji maarifləndirmənin əsas istiqamətlərindən biridir.
+<p>
+🌩️ Reysin təxirə salınması yalnız sərnişinin hava limanında gördüyü
+hava şəraitinə əsasən müəyyən edilmir. Aviasiya xidmətləri bütün
+marşrut üzrə mövcud və gözlənilən meteoroloji şəraiti, həmçinin
+uçuşun başlanğıc və təyinat hava limanlarındakı vəziyyəti nəzərə alır.
+</p>
+
+<p>
+🛫 Güclü göy gurultulu hadisələr, külək dəyişmələri və digər təhlükəli
+meteoroloji şərait uçuş təhlükəsizliyinə ciddi təsir göstərə bildiyi
+üçün ekipaj və aviasiya xidmətləri qərarları beynəlxalq uçuş
+təhlükəsizliyi standartlarına uyğun qəbul edir.
+</p>
+
+<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
+⚠️ Sərnişinlərə reysə yola düşməzdən əvvəl uçuş statusunu yoxlamaq
+və aviaşirkətin rəsmi məlumatlarını izləmək tövsiyə olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanın təbiəti, ekologiyası və
-milli parkları ilə bağlı xəbərləri izləyir.
+📡 META Meteorologiya Mərkəzi təhlükəli hava hadisələrini, güclü
+küləkləri və göy gurultulu sistemləri izləyir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Təbiət və ekologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Hava və meteoroloji xəbərlər üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
