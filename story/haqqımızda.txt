@@ -211,11 +211,11 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 <hr>
 
 <p style="color:#94a3b8;font-size:14px;">
-<strong>Qeyd:</strong> META Abşeron müstəqil meteoroloji informasiya layihəsidir.
-Saytda təqdim olunan avtomatik meteoroloji məlumatlar və hava proqnozları
-atmosfer şəraitinin dəyişməsi ilə əlaqədar yenilənə bilər. Fövqəladə və
-təhlükəli hava şəraiti zamanı Azərbaycan Respublikasının aidiyyəti dövlət
-qurumlarının rəsmi məlumat və xəbərdarlıqlarını da izləmək tövsiyə olunur.
+<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
+Saytda təqdim olunan avtomatlaşdırılmış meteoroloji məlumatlar və hava proqnozları
+atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya
+təhlükəli hava hadisələri zamanı META saytındakı rəsmi məlumatları və
+xəbərdarlıqları izləmək tövsiyə olunur.
 </p>
 
 <p style="text-align:center;color:#94a3b8;font-size:14px;">
