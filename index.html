@@ -446,6 +446,7 @@ html.phone-menu #topMenu button{
 .station-hero{padding:30px;position:relative;overflow:hidden}.station-hero:after{content:"";position:absolute;width:260px;height:260px;right:-110px;top:-130px;background:radial-gradient(circle,rgba(56,189,248,.28),transparent 68%)}
 .eyebrow{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:#7dd3fc;font-weight:800}.station-title{margin:10px 0 4px;font-size:clamp(27px,4vw,45px);line-height:1.05}.station-subtitle{margin:0;color:#cbd5e1;font-size:16px}.live-dot{display:inline-flex;align-items:center;gap:7px;padding:8px 12px;border-radius:999px;background:rgba(34,197,94,.13);color:#bbf7d0;font-weight:700;font-size:13px}.live-dot i{width:8px;height:8px;border-radius:50%;background:#4ade80;box-shadow:0 0 0 5px rgba(74,222,128,.12)}
 .station-reading{display:flex;align-items:end;gap:16px;margin:26px 0 20px;position:relative;z-index:1}.station-temperature{font-size:clamp(62px,10vw,104px);font-weight:800;line-height:.85;letter-spacing:-.07em}.station-feels{padding-bottom:7px;color:#bae6fd;font-size:16px}.quick-readings{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;position:relative;z-index:1}.quick-reading{padding:14px;border-radius:15px;background:rgba(255,255,255,.06)}.quick-reading span{display:block;color:#94a3b8;font-size:12px;margin-bottom:6px}.quick-reading strong{font-size:18px}
+.station-app-download{position:relative;z-index:1;display:flex;align-items:center;gap:13px;margin-top:20px;padding:14px 16px;border-radius:17px;background:linear-gradient(100deg,rgba(37,99,235,.38),rgba(14,165,233,.18));border:1px solid rgba(125,211,252,.3);color:#fff;text-decoration:none;transition:transform .2s,background .2s}.station-app-download:hover{transform:translateY(-2px);background:linear-gradient(100deg,rgba(37,99,235,.58),rgba(14,165,233,.32))}.station-app-icon{font-size:30px}.station-app-download strong,.station-app-download small{display:block}.station-app-download small{margin-top:4px;color:#cbd5e1;font-size:12px}.station-app-download b{margin-left:auto;color:#7dd3fc;white-space:nowrap;font-size:13px}
 .health-panel{padding:20px}.panel-heading{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:14px}.panel-heading h3{margin:0;font-size:18px}.health-list{display:grid;gap:10px}.health-row{display:flex;justify-content:space-between;align-items:center;padding:13px 14px;border-radius:14px;background:rgba(255,255,255,.055)}.health-row span{color:#cbd5e1;font-size:14px}.health-row strong{font-size:14px}.state-good{color:#86efac}.state-wait{color:#fde68a}.sensor-strip{width:min(1180px,calc(100% - 28px));margin:0 auto 28px;display:grid;grid-template-columns:repeat(6,1fr);gap:12px}.sensor-tile{border-radius:17px;padding:17px;background:rgba(15,23,42,.72);border:1px solid rgba(255,255,255,.09);text-align:left}.sensor-tile small{display:block;color:#94a3b8;margin-bottom:8px}.sensor-tile strong{font-size:20px}.sensor-ok{display:inline-block;margin-top:8px;color:#86efac;font-size:12px}.station-tools{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:12px}.station-tool{padding:12px;border-radius:14px;background:rgba(255,255,255,.055);font-size:13px}.station-tool span{display:block;color:#94a3b8;margin-bottom:5px}.refresh-station{margin-top:12px;width:100%;min-height:41px;border:1px solid rgba(125,211,252,.35);border-radius:11px;background:rgba(14,165,233,.16);color:#e0f2fe;font-weight:800;cursor:pointer}.refresh-station:hover{background:rgba(14,165,233,.3)}.home-forecast{margin-top:18px;padding:16px;border-radius:16px;background:linear-gradient(135deg,rgba(14,116,144,.38),rgba(30,41,59,.35));border:1px solid rgba(125,211,252,.22)}.home-forecast h3{font-size:15px;margin:0 0 9px}.home-forecast-text{font-size:16px;font-weight:700;line-height:1.45}.whatsapp-home{display:flex;justify-content:center;align-items:center;margin-top:12px;min-height:42px;border-radius:11px;background:#25D366;color:#fff;text-decoration:none;font-size:14px;font-weight:800}.dashboard-grid,.legacy-station-panel{display:none!important}
 .system-summary{max-width:1180px;margin:0 auto 18px;text-align:left;color:#cbd5e1}.system-grid{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.system-card{padding:18px;border-radius:18px;background:rgba(15,23,42,.56);border:1px solid rgba(125,211,252,.13);text-align:left}.system-card h3{margin:0 0 9px;font-size:16px}.system-card p{margin:0;color:#cbd5e1;line-height:1.55}.system-file{max-width:1180px;margin:18px auto 0;text-align:left;line-height:1.75;padding:22px;border-radius:18px;background:rgba(2,6,23,.5);border:1px dashed rgba(125,211,252,.35)}
 @media(max-width:800px){.station-overview{grid-template-columns:1fr}.sensor-strip{grid-template-columns:repeat(2,1fr)}.system-grid{grid-template-columns:1fr}.station-hero{padding:23px}.quick-readings{grid-template-columns:1fr}.station-reading{align-items:start;flex-direction:column;gap:8px}.station-feels{padding:0}.menu-toggle{position:relative;top:auto;left:auto;margin:12px;z-index:30000}#topMenu{position:absolute;top:70px;left:10px;width:calc(100vw - 20px)}}
@@ -1283,6 +1284,9 @@ body.app-page.app-mode .top-area {
             <p class="station-subtitle">Canlı meteoroloji müşahidə və avadanlıq vəziyyəti bir ekranda.</p>
             <div class="station-reading"><div class="station-temperature" id="dashTemp">--°</div><div class="station-feels" id="dashFeels">Hiss edilən: --°C<br><span id="dashCondition">Məlumat gözlənilir</span></div></div>
             <div class="quick-readings"><div class="quick-reading"><span>Rütubət</span><strong id="dashHumidity">--%</strong></div><div class="quick-reading"><span>Külək</span><strong id="dashWind">--</strong></div><div class="quick-reading"><span>Təzyiq</span><strong id="dashPressure">--</strong></div></div>
+            <a href="https://github.com/Meta-Baki/meta_baki_az/releases/latest/download/META.Weather.apk" class="station-app-download" download>
+                <span class="station-app-icon">📱</span><span><strong>META Weather tətbiqini yüklə</strong><small>Android üçün canlı hava məlumatları və xəbərdarlıqlar</small></span><b>Yüklə →</b>
+            </a>
         </section>
         <aside class="health-panel">
             <div class="panel-heading"><h3>📡 Stansiyanın vəziyyəti</h3><span class="state-good" id="healthOverall">● Normal</span></div>
@@ -2540,8 +2544,18 @@ function updateStationAge() {
 async function refreshStationNow() {
     const button = document.querySelector(".refresh-station");
     if (button) { button.disabled = true; button.textContent = "Yenilənir…"; }
-    await Promise.allSettled([loadStation(), loadForecast()]);
-    if (button) { button.disabled = false; button.textContent = "↻ İndi yenilə"; }
+    const results = await Promise.allSettled([
+        loadStation(),
+        loadForecast(),
+        loadMiniChart(),
+        loadSystemStatus(),
+    ]);
+    const succeeded = results.some(result => result.status === "fulfilled");
+    if (button) {
+        button.disabled = false;
+        button.textContent = succeeded ? "✓ Yeniləndi" : "↻ Yenidən cəhd et";
+        setTimeout(() => { button.textContent = "↻ İndi yenilə"; }, 1400);
+    }
 }
 
 async function loadForecast(){
@@ -2634,6 +2648,14 @@ else{
 
 document.getElementById("dailyTextForecast").innerHTML =
     textForecast;
+
+const dailyExtra = document.getElementById("dailyExtraInfo");
+if (dailyExtra) {
+    dailyExtra.textContent =
+        `🌡 ${tempText(d.daily.temperature_2m_min[1])} — ${tempText(d.daily.temperature_2m_max[1])}` +
+        `   •   💨 ${windText(d.daily.windspeed_10m_max[1])}` +
+        `   •   💧 ${precipitationText(d.daily.precipitation_sum[1])}`;
+}
 
 let html = `
 <div class="forecast-table-wrap">
