@@ -86,7 +86,7 @@ body.live-weather-background {
         background-position: center center;
         background-repeat: no-repeat;
     }
-    body.live-weather-background { animation-duration: 24s; }
+    body.live-weather-background { animation: none; }
 }
 
  body::before {
@@ -2199,16 +2199,15 @@ function setBackground(temp, rain, weathercode){
         timeZone: 'Asia/Baku', hour: '2-digit', hourCycle: 'h23'
     }).format(new Date()));
     const windKmh = Number(arguments[3] || 0);
-    const mobile = window.matchMedia('(max-width: 900px)').matches;
-    let background = mobile ? 'static/weather-clear-mobile.png' : 'static/weather-clear.png';
+    let background = 'static/weather-clear.png';
 
-    if (weathercode >= 95 && weathercode <= 99) background = mobile ? 'static/weather-rain-mobile.png' : 'static/weather-storm.png';
-    else if (weathercode >= 71 && weathercode <= 77) background = mobile ? 'static/weather-snow-mobile.png' : 'static/weather-snow.png';
-    else if (weathercode >= 45 && weathercode <= 48) background = mobile ? 'static/weather-rain-mobile.png' : 'static/weather-fog.png';
-    else if (windKmh >= 45) background = mobile ? 'static/weather-rain-mobile.png' : 'static/weather-wind.png';
-    else if (hour < 6 || hour >= 20) background = mobile ? 'static/weather-night-mobile.png' : 'static/weather-night.png';
-    else if (rain > 0.2 || weathercode >= 51) background = mobile ? 'static/weather-rain-mobile.png' : 'static/weather-rain.png';
-    else if (weathercode >= 1 && weathercode <= 48) background = mobile ? 'static/weather-clear-mobile.png' : 'static/weather-clouds.png';
+    if (weathercode >= 95 && weathercode <= 99) background = 'static/weather-storm.png';
+    else if (weathercode >= 71 && weathercode <= 77) background = 'static/weather-snow.png';
+    else if (weathercode >= 45 && weathercode <= 48) background = 'static/weather-fog.png';
+    else if (windKmh >= 45) background = 'static/weather-wind.png';
+    else if (hour < 6 || hour >= 20) background = 'static/weather-night.png';
+    else if (rain > 0.2 || weathercode >= 51) background = 'static/weather-rain.png';
+    else if (weathercode >= 1 && weathercode <= 48) background = 'static/weather-clouds.png';
 
     document.body.style.backgroundImage = `url('${background}')`;
     return;
