@@ -475,6 +475,9 @@ html.phone-menu #topMenu{z-index:60000}
 .home-forecast #dailyExtraInfo{font-size:16px!important}
 .home-forecast .whatsapp-home{font-size:16px}
 
+/* About-page presentation: existing information stays intact, but is grouped into cards. */
+.site-about{width:min(1220px,calc(100% - 28px));margin:18px auto 42px;padding:0;background:transparent;text-align:left}.site-about:before{content:"ℹ️ Sayt haqqında";display:block;margin:0 0 18px;font-size:clamp(28px,4vw,43px);font-weight:800;color:#e0f2fe;text-align:center}.about-columns{display:grid!important;grid-template-columns:1fr;gap:18px!important;align-items:start}.site-about .about-card{min-width:0!important;padding:26px!important;border-radius:23px;background:linear-gradient(145deg,rgba(7,34,61,.6),rgba(14,23,42,.52));border:1px solid rgba(125,211,252,.2);box-shadow:0 16px 42px rgba(0,0,0,.2)}.site-about .about-card h1{margin-top:0;color:#e0f2fe;font-size:27px}.site-about .about-station{border-top:3px solid #38bdf8}.site-about .about-warning{border-top:3px solid #fbbf24}.site-about .about-card img{width:min(220px,100%)!important;max-width:100%!important;transition:transform .2s}.site-about .about-card img:hover{transform:translateY(-3px)}.site-about .about-warning > div[style*="255,193,7"]{background:rgba(120,83,12,.18)!important;border-color:rgba(251,191,36,.45)!important}.about-units{margin-top:20px!important;padding:26px;border-radius:23px;background:rgba(7,34,61,.44);border:1px solid rgba(125,211,252,.17)}.about-units > h1{text-align:center;margin-top:0;color:#bae6fd;font-size:27px}.about-units .about-card{background:rgba(2,6,23,.26)!important;box-shadow:none!important;columns:2;column-gap:34px}.about-copyright{margin-top:20px!important;border-radius:18px;background:rgba(2,6,23,.42);border:1px solid rgba(255,255,255,.13);line-height:1.8}.site-about strong{color:#f8fafc}@media(max-width:800px){.about-units .about-card{columns:1}.site-about .about-card{padding:19px!important}.about-units{padding:19px}}
+
 /* ========================= */
 /* HOME DASHBOARD */
 /* ========================= */
@@ -1905,9 +1908,9 @@ body.app-page.app-mode .top-area {
 </div>
 
 <!-- FOOTER -->
-<div class="footer section" id="helpSection">
+<div class="footer section site-about" id="helpSection">
 
-    <div style="
+    <div class="about-columns" style="
         display:flex;
         justify-content:space-between;
         gap:40px;
@@ -1915,7 +1918,7 @@ body.app-page.app-mode .top-area {
     ">
 
     <!-- CENTER -->
-    <div class="small" style="
+    <div class="small about-card about-station" style="
         flex:1;
         min-width:300px;
     ">
@@ -2002,7 +2005,7 @@ body.app-page.app-mode .top-area {
 
 
     <!-- RIGHT -->
-    <div class="small" style="
+    <div class="small about-card about-warning" style="
         flex:1;
         min-width:300px;
     ">
@@ -2115,13 +2118,13 @@ body.app-page.app-mode .top-area {
 
 <!-- UNITS -->
 
-<div style="
+<div class="about-units" style="
     margin-top:30px;
 ">
 
     <h1>📏 Ölçü vahidləri və əlavə məlumat</h1>
 
-    <div class="small" style="
+    <div class="small about-card" style="
         line-height:2.3;
     ">
 
@@ -2173,7 +2176,7 @@ body.app-page.app-mode .top-area {
 
 <!-- FINAL COPYRIGHT BAR -->
 
-<div style="
+<div class="about-copyright" style="
     margin-top:30px;
     padding:18px;
     text-align:center;
