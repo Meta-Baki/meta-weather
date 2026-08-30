@@ -442,7 +442,7 @@ html.phone-menu #topMenu button{
 /* Station-first home dashboard and diagnostics. */
 .station-overview{width:min(1180px,calc(100% - 28px));margin:18px auto 30px;display:grid;grid-template-columns:1.35fr .9fr;gap:18px;text-align:left}
 .news-rail{width:min(1180px,calc(100% - 28px));margin:0 auto 34px;text-align:left}.news-rail-head{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:11px}.news-rail-head h3{margin:0;font-size:18px}.news-rail-note{font-size:12px;color:#94a3b8}.latest-news-card{width:100%;display:flex;align-items:center;gap:17px;padding:12px;border:1px solid rgba(125,211,252,.22);border-radius:19px;background:rgba(15,23,42,.72);color:#fff;text-align:left;cursor:pointer;transition:transform .2s,background .2s}.latest-news-card:hover{transform:translateY(-2px);background:rgba(20,50,80,.9)}.latest-news-card img{width:154px;height:96px;object-fit:cover;border-radius:13px;flex:0 0 auto}.latest-news-card small{display:block;color:#7dd3fc;font-weight:800;margin-bottom:6px}.latest-news-card strong{font-size:18px;line-height:1.35}.latest-news-card span{display:block;color:#cbd5e1;font-size:13px;margin-top:7px}@media(max-width:560px){.latest-news-card img{width:112px;height:88px}.latest-news-card strong{font-size:14px}.latest-news-card{gap:11px}.news-rail-note{display:none}}
-.station-hero,.health-panel,.sensor-panel{background:linear-gradient(145deg,rgba(7,34,61,.92),rgba(14,23,42,.84));border:1px solid rgba(125,211,252,.22);box-shadow:0 18px 50px rgba(0,0,0,.23);border-radius:24px}
+.station-hero,.health-panel,.sensor-panel{background:linear-gradient(145deg,rgba(7,34,61,.58),rgba(14,23,42,.48));border:1px solid rgba(125,211,252,.22);box-shadow:0 18px 50px rgba(0,0,0,.23);border-radius:24px}
 .station-hero{padding:30px;position:relative;overflow:hidden}.station-hero:after{content:"";position:absolute;width:260px;height:260px;right:-110px;top:-130px;background:radial-gradient(circle,rgba(56,189,248,.28),transparent 68%)}
 .eyebrow{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:#7dd3fc;font-weight:800}.station-title{margin:10px 0 4px;font-size:clamp(27px,4vw,45px);line-height:1.05}.station-subtitle{margin:0;color:#cbd5e1;font-size:16px}.live-dot{display:inline-flex;align-items:center;gap:7px;padding:8px 12px;border-radius:999px;background:rgba(34,197,94,.13);color:#bbf7d0;font-weight:700;font-size:13px}.live-dot i{width:8px;height:8px;border-radius:50%;background:#4ade80;box-shadow:0 0 0 5px rgba(74,222,128,.12)}
 .station-reading{display:flex;align-items:end;gap:16px;margin:26px 0 20px;position:relative;z-index:1}.station-temperature{font-size:clamp(62px,10vw,104px);font-weight:800;line-height:.85;letter-spacing:-.07em}.station-feels{padding-bottom:7px;color:#bae6fd;font-size:16px}.quick-readings{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;position:relative;z-index:1}.quick-reading{padding:14px;border-radius:15px;background:rgba(255,255,255,.06)}.quick-reading span{display:block;color:#94a3b8;font-size:12px;margin-bottom:6px}.quick-reading strong{font-size:18px}
@@ -456,6 +456,12 @@ html.phone-menu #topMenu button{
 #topMenu button{width:100%;flex:0 0 auto;min-width:0;padding:11px 13px;font-size:14px;white-space:normal;scroll-snap-align:start}
 html.phone-menu #topMenu{width:min(440px,calc(100vw - 24px));max-height:540px}
 html.phone-menu #topMenu button{padding:13px 16px;font-size:22px}
+
+/* In the phone app reserve a real area below the header for navigation.
+   The open list expands only into this area and cannot cover page content. */
+html.phone-menu .top-area{padding-bottom:150px}
+html.phone-menu .top-area.menu-expanded{padding-bottom:700px}
+html.phone-menu .menu-toggle{top:140px;left:8px}
 
 /* ========================= */
 /* HOME DASHBOARD */
@@ -3334,6 +3340,8 @@ function openSection(id){
     const menuToggle = document.getElementById('menuToggle');
     if (topMenu) topMenu.classList.remove('menu-open');
     if (menuToggle) menuToggle.setAttribute('aria-expanded', 'false');
+    const topArea = document.querySelector('.top-area');
+    if (topArea) topArea.classList.remove('menu-expanded');
 
     document.querySelectorAll('.section')
     .forEach(el => {
@@ -4029,10 +4037,12 @@ window.addEventListener("load", () => {
 function toggleMainMenu() {
     const menu = document.getElementById('topMenu');
     const button = document.getElementById('menuToggle');
+    const topArea = document.querySelector('.top-area');
     if (!menu || !button) return;
 
     const isOpen = menu.classList.toggle('menu-open');
     button.setAttribute('aria-expanded', String(isOpen));
+    if (topArea) topArea.classList.toggle('menu-expanded', isOpen);
 }
 
 if (window.location.search.includes("app=1")) {
