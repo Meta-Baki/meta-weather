@@ -70,15 +70,6 @@ body {
     transition: background-image 1.2s ease-in-out, background-position 12s ease-in-out;
 }
 
-body.live-weather-background {
-    animation: weatherBackgroundMove 18s ease-in-out infinite alternate;
-}
-
-@keyframes weatherBackgroundMove {
-    from { background-size: 106%; background-position: 48% 50%; }
-    to { background-size: 116%; background-position: 54% 45%; }
-}
-
 @media (max-width: 900px) {
     body {
         background-attachment: fixed;
@@ -86,7 +77,6 @@ body.live-weather-background {
         background-position: center center;
         background-repeat: no-repeat;
     }
-    body.live-weather-background { animation: none; }
 }
 
  body::before {
@@ -333,6 +323,18 @@ td:last-child {
     font-size:15px;
 
     min-width:160px;
+}
+
+.hourly-open{
+    margin:22px auto;
+    padding:12px 18px;
+    border:0;
+    border-radius:12px;
+    background:#0ea5e9;
+    color:#fff;
+    font-size:16px;
+    font-weight:700;
+    cursor:pointer;
 }
 
 .top-menu button:hover{
@@ -1194,6 +1196,10 @@ body.app-page.app-mode .top-area {
 <div class="box section" id="settingsSection" style="margin-top:-40px;">
     <h1>⚙️ Ölçü vahidləri</h1>
     <div style="max-width:620px; margin:0 auto; display:grid; gap:16px; text-align:left;">
+        <label style="display:grid; gap:7px; font-size:18px;">🌐 Dil / Язык / Language
+            <select id="languageSelect" onchange="setLanguage(this.value)" style="padding:12px; border-radius:10px; font-size:16px;"><option value="az">Azərbaycan dili</option><option value="ru">Русский</option><option value="en">English</option></select>
+        </label>
+        <div id="google_translate_element" style="display:none;"></div>
         <label style="display:grid; gap:7px; font-size:18px;">🌡 Temperatur
             <select id="temperatureUnit" onchange="saveUnitSettings()" style="padding:12px; border-radius:10px; font-size:16px;"><option value="C">°C</option><option value="F">°F</option></select>
         </label>
@@ -1205,9 +1211,6 @@ body.app-page.app-mode .top-area {
         </label>
         <label style="display:grid; gap:7px; font-size:18px;">💧 Yağıntı
             <select id="precipitationUnit" onchange="saveUnitSettings()" style="padding:12px; border-radius:10px; font-size:16px;"><option value="mm">mm</option><option value="cm">cm</option><option value="in">in</option></select>
-        </label>
-        <label style="display:flex; align-items:center; gap:10px; font-size:18px; cursor:pointer;">
-            <input id="liveBackground" type="checkbox" onchange="saveUnitSettings()" style="width:20px; height:20px;"> ✨ Canlı hava fonu
         </label>
     </div>
     <p style="margin-top:25px; opacity:.8;">Seçim yadda saxlanılır və proqnozlar, kartlar və qrafiklərdə dərhal tətbiq olunur.</p>
@@ -1495,6 +1498,7 @@ body.app-page.app-mode .top-area {
         <h3>Ən dəqiq proqnoz 3 günlük proqnozdur; onun dəqiqliyi 90%-dir.</h3>
     </div>
     <div id="forecast"></div>
+    <button type="button" class="hourly-open" onclick="showHourlyForecast(40.4093,49.8671,'Bakı')">🕒 24 saatlıq proqnoz</button>
 
         <h2>🌦️ Windguru prognoz</h2>
 
@@ -1526,6 +1530,7 @@ body.app-page.app-mode .top-area {
     </div>
   
     <div id="forecast14Content"></div>
+    <button type="button" class="hourly-open" onclick="showHourlyForecast(40.4093,49.8671,'Bakı')">🕒 24 saatlıq proqnoz</button>
 
         <h2>🌦️ Windguru prognoz</h2>
   
@@ -2112,7 +2117,7 @@ function f(x){
     return Number(x || 0).toFixed(1);
 }
 
-const unitSettings = { temperature: 'C', wind: 'km/h', pressure: 'hPa', precipitation: 'mm', liveBackground: true };
+const unitSettings = { temperature: 'C', wind: 'km/h', pressure: 'hPa', precipitation: 'mm', language: 'az' };
 let activeCityForecast = null;
 
 function readUnitSettings() {
@@ -2121,7 +2126,7 @@ function readUnitSettings() {
     document.getElementById('windUnit').value = unitSettings.wind;
     document.getElementById('pressureUnit').value = unitSettings.pressure;
     document.getElementById('precipitationUnit').value = unitSettings.precipitation;
-    document.getElementById('liveBackground').checked = unitSettings.liveBackground !== false;
+    document.getElementById('languageSelect').value = unitSettings.language || 'az';
 }
 
 function temperatureValue(c) { return unitSettings.temperature === 'F' ? Number(c) * 9 / 5 + 32 : Number(c); }
@@ -2138,15 +2143,29 @@ function saveUnitSettings() {
     unitSettings.wind = document.getElementById('windUnit').value;
     unitSettings.pressure = document.getElementById('pressureUnit').value;
     unitSettings.precipitation = document.getElementById('precipitationUnit').value;
-    unitSettings.liveBackground = document.getElementById('liveBackground').checked;
     localStorage.setItem('metaUnitSettings', JSON.stringify(unitSettings));
-    document.body.classList.toggle('live-weather-background', unitSettings.liveBackground);
     loadStation(); loadForecast(); loadForecast14(); loadChart(); loadMiniChart();
     if (activeCityForecast) showCityForecast(activeCityForecast.lat, activeCityForecast.lon, activeCityForecast.name);
 }
 
 readUnitSettings();
-document.body.classList.toggle('live-weather-background', unitSettings.liveBackground !== false);
+
+function setLanguage(language) {
+    unitSettings.language = language;
+    localStorage.setItem('metaUnitSettings', JSON.stringify(unitSettings));
+    document.documentElement.lang = language;
+    document.getElementById('languageSelect').value = language;
+    document.cookie = language === 'az' ? 'googtrans=;path=/;max-age=0' : `googtrans=/az/${language};path=/;max-age=31536000`;
+    window.location.reload();
+}
+
+function googleTranslateElementInit() {
+    new google.translate.TranslateElement({ pageLanguage: 'az', includedLanguages: 'az,ru,en', autoDisplay: false }, 'google_translate_element');
+}
+
+if (unitSettings.language !== 'az' && !document.cookie.includes('googtrans=')) {
+    document.cookie = `googtrans=/az/${unitSettings.language};path=/;max-age=31536000`;
+}
 
 function windDir(deg){
     const d = ["N","NE","E","SE","S","SW","W","NW"];
@@ -3713,10 +3732,36 @@ async function showCityForecast(lat, lon, name) {
         for (let i = 0; i < 7; i++) {
             html += `<tr><td><strong>${d.daily.time[i]}</strong></td><td>${icon(d.daily.weathercode[i])}</td><td><strong>${tempText(d.daily.temperature_2m_max[i])}</strong> / ${tempText(d.daily.temperature_2m_min[i])}</td><td>${tempText(d.daily.apparent_temperature_max[i])} / ${tempText(d.daily.apparent_temperature_min[i])}</td><td>${f(d.daily.precipitation_probability_max[i])}%</td><td>${f(d.daily.cloud_cover_mean[i])}%</td><td><strong>${f(d.daily.uv_index_max[i])}</strong></td><td>${precipitationText(d.daily.precipitation_sum[i])}</td><td>${windText(d.daily.wind_speed_10m_max[i])}</td><td>${windText(d.daily.wind_speed_10m_mean[i])}</td><td>${windDir(d.daily.wind_direction_10m_dominant[i])}</td><td>${windText(d.daily.wind_gusts_10m_max[i])}</td><td>${pressureText(d.daily.surface_pressure_mean[i])}</td><td>🌅 ${d.daily.sunrise[i].split('T')[1].slice(0,5)}<br>🌇 ${d.daily.sunset[i].split('T')[1].slice(0,5)}</td></tr>`;
         }
-        container.innerHTML = html + '</tbody></table></div>';
+        container.innerHTML = html + `</tbody></table></div><button type="button" class="hourly-open" onclick="showHourlyForecast(${lat},${lon},'${name}')">🕒 24 saatlıq proqnoz</button>`;
     } catch (error) {
         console.error('City forecast error:', error);
         container.innerHTML = '<div style="padding:25px;">❌ Proqnoz məlumatı yüklənmədi.</div>';
+    }
+}
+
+async function showHourlyForecast(lat, lon, name) {
+    openSection('citySearchSection');
+    const title = document.getElementById('cityForecastTitle');
+    const container = document.getElementById('cityForecastContent');
+    title.style.display = 'block';
+    title.innerHTML = `<h2>🕒 ${name} üçün 24 saatlıq hava proqnozu</h2>`;
+    container.innerHTML = '<div style="padding:25px;">Yüklənir...</div>';
+    try {
+        const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&hourly=temperature_2m,apparent_temperature,precipitation_probability,precipitation,weather_code,wind_speed_10m,surface_pressure&timezone=Asia%2FBaku&forecast_days=2`;
+        const response = await fetch(url);
+        if (!response.ok) throw new Error('Hourly forecast HTTP ' + response.status);
+        const d = await response.json();
+        const now = Date.now();
+        const first = d.hourly.time.findIndex(time => new Date(time).getTime() >= now - 30 * 60 * 1000);
+        const start = Math.max(0, first);
+        let html = `<div class="forecast-table-wrap"><table class="forecast-table"><thead><tr><th>🕒 Saat</th><th>🌤 Hava</th><th>🌡 Temperatur</th><th>🥵 Hiss edilən</th><th>🌧 Ehtimal</th><th>💧 Yağıntı</th><th>💨 Külək</th><th>📊 Təzyiq</th></tr></thead><tbody>`;
+        for (let i = start; i < Math.min(start + 24, d.hourly.time.length); i++) {
+            html += `<tr><td><strong>${d.hourly.time[i].replace('T',' ')}</strong></td><td>${icon(d.hourly.weather_code[i])}</td><td>${tempText(d.hourly.temperature_2m[i])}</td><td>${tempText(d.hourly.apparent_temperature[i])}</td><td>${f(d.hourly.precipitation_probability[i])}%</td><td>${precipitationText(d.hourly.precipitation[i])}</td><td>${windText(d.hourly.wind_speed_10m[i])}</td><td>${pressureText(d.hourly.surface_pressure[i])}</td></tr>`;
+        }
+        container.innerHTML = html + '</tbody></table></div>';
+    } catch (error) {
+        console.error('Hourly forecast error:', error);
+        container.innerHTML = '<div style="padding:25px;">❌ Saatlıq proqnoz yüklənmədi.</div>';
     }
 }
 
@@ -3810,6 +3855,7 @@ if (window.location.search.includes("app=1")) {
     document.body.classList.add("app-mode");
 }
 </script>
+<script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
       
 </body>
 </html>
