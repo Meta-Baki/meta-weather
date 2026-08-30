@@ -15,8 +15,8 @@
 <meta name="viewport"
 content="
 width=device-width,
-initial-scale=0.55,
-minimum-scale=0.55,
+initial-scale=0.45,
+minimum-scale=0.45,
 maximum-scale=1.0,
 user-scalable=yes,
 viewport-fit=cover">
@@ -459,9 +459,10 @@ html.phone-menu #topMenu button{
 html.phone-menu #topMenu{width:min(440px,calc(100vw - 24px));max-height:540px}
 html.phone-menu #topMenu button{padding:13px 16px;font-size:22px}
 
-/* Phone navigation is a true overlay: it stays above every page block. */
-html.phone-menu .menu-toggle{top:140px;left:8px;z-index:60001}
-html.phone-menu #topMenu{z-index:60000}
+/* In the phone app reserve a real area below the header for navigation. */
+html.phone-menu .top-area{padding-bottom:150px}
+html.phone-menu .top-area.menu-expanded{padding-bottom:700px}
+html.phone-menu .menu-toggle{top:140px;left:8px}
 
 /* Lighter dashboard surfaces and a forecast panel that fills its own column only. */
 .station-hero,.health-panel,.sensor-panel{background:linear-gradient(145deg,rgba(7,34,61,.34),rgba(14,23,42,.26))}
