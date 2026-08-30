@@ -1,55 +1,105 @@
-<h2 style="color:#0ea5e9;">✈️⛈️ AZAL Bakı–Naxçıvan reyslərini göy gurultulu hava səbəbindən təxirə salıb</h2>
+<h2 style="color:#ef4444;">🚨⛈️ TƏCİLİ: FHN hava şəraitinin kəskin dəyişməsi ilə bağlı əhaliyə müraciət edib</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 29 avqust 2026 17:00 — Bakı vaxtı
+🕐 Əlavə olunub: 30 avqust 2026, 14:35 — Bakı vaxtı
+</p>
+
+<p style="color:#ef4444;font-size:21px;font-weight:bold;">
+⚠️ 30 AVQUST AXŞAMDAN 1 SENTYABRADƏK TƏHLÜKƏLİ HAVA ŞƏRAİTİ GÖZLƏNİLİR
 </p>
 
 <p>
-<strong>29 avqust 2026-cı il tarixində Bakı–Naxçıvan–Bakı marşrutu üzrə
-bir sıra aviareyslərin icrası göy gurultulu hava şəraiti səbəbindən
-təxirə salınıb.</strong>
+<strong>Fövqəladə Hallar Nazirliyi (FHN) ölkə ərazisində gözlənilən
+qeyri-sabit hava şəraiti ilə əlaqədar əhaliyə müraciət edib.</strong>
 </p>
 
 <p>
-✈️ Uçuşların meteoroloji şərait sabitləşdikdən sonra bərpa olunması
-planlaşdırılır. Sərnişinlər reyslərin vəziyyəti və mümkün dəyişikliklər
-barədə ətraflı məlumatlandırılacaqlar.
+🌧️ Milli Hidrometeorologiya Xidmətinin məlumatına əsasən,
+<strong>30 avqust axşam saatlarından 1 sentyabradək</strong>
+Azərbaycan ərazisində hava şəraitinin qeyri-sabit keçəcəyi gözlənilir.
+</p>
+
+<p style="color:#f97316;font-size:19px;font-weight:bold;">
+⛈️ Ayrı-ayrı ərazilərdə intensiv yağış, güclü külək və şimşək,
+bəzi dağ çaylarında isə qısamüddətli daşqın və sel ehtimalı var.
+</p>
+
+<h3 style="color:#ef4444;">🌊 Sel və daşqın təhlükəsi</h3>
+
+<p>
+Yağıntılar nəticəsində bəzi çaylarda yarana biləcək sel və daşqın
+təhlükəsi nəzərə alınaraq vətəndaşlara riskli ərazilərdən uzaq durmaq
+tövsiyə edilir.
 </p>
 
 <p>
-⛈️ Naxçıvan Muxtar Respublikasının coğrafi mövqeyi və dağlıq relyefi
-burada meteoroloji şəraitə təsir göstərən əsas amillərdəndir. Güclü
-külək, küləyin istiqamətinin qəfil dəyişməsi və göy gurultulu
-hadisələr uçuşların, xüsusilə qalxma və enmə mərhələlərinin
-təhlükəsizliyinə əlavə risklər yarada bilər.
+⚠️ Sel və ya daşqın təhlükəsi ilə qarşılaşdıqda dərhal
+<strong>yaxınlıqdakı yüksək əraziyə qalxmaq</strong> lazımdır.
+</p>
+
+<h3 style="color:#f59e0b;">💨 Güclü külək zamanı</h3>
+
+<p>
+🏗️ Yüngül və müvəqqəti konstruksiyalardan, tikililərdən və reklam
+lövhələrindən uzaq durun.
 </p>
 
 <p>
-🌩️ Reysin təxirə salınması yalnız sərnişinin hava limanında gördüyü
-hava şəraitinə əsasən müəyyən edilmir. Aviasiya xidmətləri bütün
-marşrut üzrə mövcud və gözlənilən meteoroloji şəraiti, həmçinin
-uçuşun başlanğıc və təyinat hava limanlarındakı vəziyyəti nəzərə alır.
+🌳 Elektrik dirəklərinin və naqillərin, eləcə də hündür ağacların
+altında dayanmayın.
+</p>
+
+<h3 style="color:#3b82f6;">🌊 Dənizə çıxmaq təhlükəlidir</h3>
+
+<p>
+🚤 Kiçikhəcmli gəmi və qayıq istifadəçilərinin belə hava şəraitində
+<strong>dənizə çıxması qadağandır.</strong>
+</p>
+
+<p style="color:#ef4444;font-weight:bold;">
+🏖️ Güclü külək zamanı dənizdə çimmək təhlükəlidir. Çimərliklərdə
+olan vətəndaşlara hava şəraitini nəzərə almaq və təhlükəsizlik
+qaydalarına ciddi əməl etmək tövsiyə olunur.
+</p>
+
+<h3 style="color:#a855f7;">⚡ Şimşək zamanı nə etmək lazımdır?</h3>
+
+<p>
+🔌 Elektrik cihazlarını şəbəkədən ayırın.
 </p>
 
 <p>
-🛫 Güclü göy gurultulu hadisələr, külək dəyişmələri və digər təhlükəli
-meteoroloji şərait uçuş təhlükəsizliyinə ciddi təsir göstərə bildiyi
-üçün ekipaj və aviasiya xidmətləri qərarları beynəlxalq uçuş
-təhlükəsizliyi standartlarına uyğun qəbul edir.
+📱 Açıq havada olarkən telefonla danışmaqdan çəkinin.
 </p>
 
-<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-⚠️ Sərnişinlərə reysə yola düşməzdən əvvəl uçuş statusunu yoxlamaq
-və aviaşirkətin rəsmi məlumatlarını izləmək tövsiyə olunur.
+<p>
+⚡ Elektrik xətlərinə, ildırımötürücülərə, su axıdıcılarına və
+antenalara yaxınlaşmayın.
+</p>
+
+<p>
+🌳 Şimşək zamanı hündür ağacların altında gizlənməyin.
+</p>
+
+<p>
+🚗 Avtomobildə olduğunuz halda hərəkəti dayandırmaq, şüşələri
+qaldırmaq və göy gurultulu hava başa çatanadək avtomobildə gözləmək
+tövsiyə edilir.
+</p>
+
+<p style="background:#7f1d1d;color:#ffffff;padding:16px;border-radius:10px;
+font-size:20px;font-weight:bold;">
+🚨 FHN XƏBƏRDARLIQ EDİR: Təhlükəsizlik qaydalarına laqeyd münasibət
+həyat üçün təhlükə yarada bilər. Təhlükə zamanı dərhal 112-yə zəng edin!
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi təhlükəli hava hadisələrini, güclü
-küləkləri və göy gurultulu sistemləri izləyir.
+📡 META Meteorologiya Mərkəzi 30 avqust – 1 sentyabr tarixlərində
+ölkə ərazisində gözlənilən qeyri-sabit hava şəraitini izləməyə davam edəcək.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Hava və meteoroloji xəbərlər üçün WhatsApp kanalımıza qoşulun:
+📲 Operativ hava xəbərdarlıqlarını izləmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
@@ -59,5 +109,19 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Müəllif: Edelman Əliyev
+👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
+</p>
+
+<hr>
+
+<p style="color:#94a3b8;font-size:14px;">
+<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
+Saytda təqdim olunan avtomatlaşdırılmış meteoroloji məlumatlar və hava proqnozları
+atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya
+təhlükəli meteoroloji hadisələr zamanı rəsmi dövlət qurumlarının məlumat və göstərişlərinə
+əməl etmək tövsiyə olunur.
+</p>
+
+<p style="color:#94a3b8;font-size:14px;">
+© 2026 META Abşeron. Bütün hüquqlar qorunur.
 </p>
