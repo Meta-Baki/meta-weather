@@ -1,45 +1,82 @@
-<h2 style="color:#0ea5e9;">🚗🌧️ Yağışlı və küləkli hava ilə əlaqədar sürücülərə xəbərdarlıq</h2>
+<h2 style="color:#ef4444;">🔴⚠️ TƏCİLİ: Azərbaycanda külək güclənib — sürəti 72 km/saata çatıb</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 29 avqust 2026 17:00 — Bakı vaxtı
+🕐 Əlavə olunub: 30 avqust 2026, 14:32 — Bakı vaxtı
+</p>
+
+<p style="color:#ef4444;font-size:21px;font-weight:bold;">
+⚠️ TƏCİLİ METEOROLOJİ XƏBƏRDARLIQ
 </p>
 
 <p>
-<strong>Azərbaycanda bəzi ərazilərdə müşahidə olunan yağışlı və küləkli hava şəraiti ilə əlaqədar sürücülərə yollarda daha diqqətli və ehtiyatlı olmaları tövsiyə edilib.</strong>
+<strong>30 avqust saat 10:00-a olan faktiki meteoroloji məlumatlara əsasən,
+Azərbaycanın bəzi ərazilərində güclü külək qeydə alınıb. Ötən axşam və gecə
+isə bəzi dağlıq və dağətəyi rayonlarda leysan xarakterli yağışlar
+göy gurultusu ilə müşahidə olunub.</strong>
+</p>
+
+<h3 style="color:#f97316;">💨 Külək 72 km/saata çatıb</h3>
+
+<p>
+🌬️ Şimal-qərb küləyinin maksimal sürəti <strong>Bakı və Abşeron
+yarımadasında 17 m/s (61 km/saat)</strong> təşkil edib.
 </p>
 
 <p>
-Dövlət Yol Polisi Baş İdarəsi həftəsonu yollarda hərəkət intensivliyinin artdığını nəzərə alaraq sürücülərə hava və yol şəraitini düzgün qiymətləndirməyi, sürət həddini mövcud şəraitə uyğun seçməyi və nəqliyyat vasitələri arasında məsafəni artırmağı tövsiyə edib.
+💨 Naftalan, Tərtər və Naxçıvanda küləyin sürəti
+<strong>16 m/s (58 km/saat)</strong>, Culfa və Neftçalada isə
+<strong>20 m/s (72 km/saat)</strong> səviyyəsinə qədər yüksəlib.
+</p>
+
+<p style="color:#ef4444;font-weight:bold;">
+⚠️ Güclü külək zamanı ağacların, yüngül konstruksiyaların, reklam
+lövhələrinin və digər zəif bərkidilmiş obyektlərin yaxınlığında
+ehtiyatlı olmaq tövsiyə edilir.
+</p>
+
+<h3 style="color:#3b82f6;">⛈️ Gecə bəzi rayonlarda leysan və şimşək olub</h3>
+
+<p>
+🌧️ Axşam və gecə saatlarında bəzi dağlıq və dağətəyi rayonlarda
+leysan xarakterli yağışlar yağıb və şimşək çaxıb.
 </p>
 
 <p>
-🌧️ Yağıntı zamanı yol örtüyü ilə təkərlər arasındakı ilişmənin zəifləməsi və görünüş məsafəsinin azalması nəzərə alınmalıdır. Buna görə sürücülər qəfil manevrlərdən və kəskin əyləcləmədən çəkinməlidirlər.
+💧 Ağstafada <strong>7 mm</strong>, Daşkəsən, Gəncə, Tovuz, Şəmkir,
+Ceyrançöl, Zaqatala və Göyçayda isə <strong>1 mm-dək</strong>
+yağıntı qeydə alınıb.
 </p>
 
 <p>
-💨 Güclü külək və küləyin ani güclənməsi zamanı isə avtomobil üzərində idarəetmənin itirilməsi riski arta bilər. Xüsusilə açıq ərazilərdə və küləyə həssas yollarda sürücülər daha diqqətli olmalıdırlar.
+☀️ Saat 10:00-a olan məlumata görə, ölkənin əksər rayonlarında
+yağıntısız hava şəraiti müşahidə olunub.
 </p>
 
-<h3 style="color:#f59e0b;">🔧 Səfərdən əvvəl avtomobili yoxlayın</h3>
+<h3 style="color:#f59e0b;">🌡️ Temperatur</h3>
 
 <p>
-Sürücülərə yola çıxmazdan əvvəl nəqliyyat vasitəsinin texniki vəziyyətini yoxlamaq da tövsiyə olunur. Xüsusilə <strong>şinlərin vəziyyətinə, işıqlandırma sistemlərinə və şüşəsilənlərə</strong> diqqət yetirmək vacibdir.
+🌡️ Maksimal temperatur Bakı və Abşeron yarımadasında
+<strong>31°C-dək</strong>, aran rayonlarında <strong>36°C-dək</strong>,
+Naxçıvan Muxtar Respublikasında <strong>35°C-dək</strong>,
+dağlıq rayonlarda isə <strong>26°C-dək</strong> yüksəlib.
 </p>
 
-<p>
-🚘 Yağışlı və küləkli hava şəraitində təhlükəsiz hərəkətin əsas şərtləri arasında sürətin azaldılması, təhlükəsiz məsafənin qorunması və yol şəraitinə uyğun hərəkət etmək dayanır.
-</p>
-
-<p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Sürücülərə həftəsonu yollarda xüsusilə diqqətli olmaq, hava şəraitini nəzərə almaq və yol hərəkəti qaydalarına ciddi əməl etmək tövsiyə olunur.
+<p style="background:#7f1d1d;color:#ffffff;padding:15px;border-radius:10px;
+font-size:18px;font-weight:bold;">
+🚨 DİQQƏT! Güclü külək müşahidə olunan ərazilərdə vətəndaşlara açıq
+sahələrdə, ağacların, elektrik xətlərinin və zəif konstruksiyaların
+yaxınlığında ehtiyatlı olmaq tövsiyə olunur. Sürücülər də küləyin
+güclü olduğu ərazilərdə nəqliyyat vasitələrini diqqətlə idarə etməlidirlər.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanda hava şəraitini, güclü külək və yağıntı hadisələrini izləyir.
+📡 META Meteorologiya Mərkəzi ölkə ərazisində meteoroloji vəziyyəti
+izləməyə davam edir. Hava şəraitində mühüm dəyişiklik baş verərsə,
+əlavə məlumat təqdim ediləcək.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Hava və meteoroloji xəbərlər üçün WhatsApp kanalımıza qoşulun:
+📲 Operativ hava xəbərdarlıqlarını izləmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
@@ -49,5 +86,19 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Müəllif: Edelman Əliyev
+👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
+</p>
+
+<hr>
+
+<p style="color:#94a3b8;font-size:14px;">
+<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
+Saytda təqdim olunan avtomatlaşdırılmış meteoroloji məlumatlar və hava proqnozları
+atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya
+təhlükəli meteoroloji hadisələr zamanı rəsmi dövlət qurumlarının məlumat və göstərişlərinə
+əməl etmək tövsiyə olunur.
+</p>
+
+<p style="color:#94a3b8;font-size:14px;">
+© 2026 META Abşeron. Bütün hüquqlar qorunur.
 </p>
