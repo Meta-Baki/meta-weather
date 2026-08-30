@@ -381,16 +381,20 @@ td:last-child {
     left:12px;
     z-index:29999;
     width:min(270px, calc(100vw - 24px));
-    max-height:none;
-    overflow:hidden;
+    max-height:min(72vh, 560px);
+    overflow-x:auto;
+    overflow-y:hidden;
     margin:0;
     padding:6px;
     box-sizing:border-box;
-    flex-direction:column;
+    flex-direction:row;
     flex-wrap:nowrap;
-    align-items:stretch;
+    align-items:center;
     justify-content:flex-start;
-    gap:4px;
+    gap:8px;
+    -webkit-overflow-scrolling:touch;
+    scroll-snap-type:x proximity;
+    touch-action:pan-x;
 }
 
 #topMenu.menu-open{
@@ -398,14 +402,15 @@ td:last-child {
 }
 
 #topMenu button{
-    width:100%;
-    min-width:0;
+    width:auto;
+    min-width:max-content;
     margin:0;
     padding:8px 10px;
     font-size:14px;
     line-height:1.15;
     box-sizing:border-box;
     flex:0 0 auto;
+    scroll-snap-align:start;
 }
 
 /* Slightly larger controls on phones. */
@@ -433,6 +438,23 @@ html.phone-menu #topMenu button{
     padding:13px 16px;
     font-size:24px;
 }
+
+/* Station-first home dashboard and diagnostics. */
+.station-overview{width:min(1180px,calc(100% - 28px));margin:18px auto 30px;display:grid;grid-template-columns:1.35fr .9fr;gap:18px;text-align:left}
+.news-rail{width:min(1180px,calc(100% - 28px));margin:0 auto 34px;text-align:left}.news-rail-head{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:11px}.news-rail-head h3{margin:0;font-size:18px}.news-rail-note{font-size:12px;color:#94a3b8}.latest-news-card{width:100%;display:flex;align-items:center;gap:17px;padding:12px;border:1px solid rgba(125,211,252,.22);border-radius:19px;background:rgba(15,23,42,.72);color:#fff;text-align:left;cursor:pointer;transition:transform .2s,background .2s}.latest-news-card:hover{transform:translateY(-2px);background:rgba(20,50,80,.9)}.latest-news-card img{width:154px;height:96px;object-fit:cover;border-radius:13px;flex:0 0 auto}.latest-news-card small{display:block;color:#7dd3fc;font-weight:800;margin-bottom:6px}.latest-news-card strong{font-size:18px;line-height:1.35}.latest-news-card span{display:block;color:#cbd5e1;font-size:13px;margin-top:7px}@media(max-width:560px){.latest-news-card img{width:112px;height:88px}.latest-news-card strong{font-size:14px}.latest-news-card{gap:11px}.news-rail-note{display:none}}
+.station-hero,.health-panel,.sensor-panel{background:linear-gradient(145deg,rgba(7,34,61,.92),rgba(14,23,42,.84));border:1px solid rgba(125,211,252,.22);box-shadow:0 18px 50px rgba(0,0,0,.23);border-radius:24px}
+.station-hero{padding:30px;position:relative;overflow:hidden}.station-hero:after{content:"";position:absolute;width:260px;height:260px;right:-110px;top:-130px;background:radial-gradient(circle,rgba(56,189,248,.28),transparent 68%)}
+.eyebrow{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:#7dd3fc;font-weight:800}.station-title{margin:10px 0 4px;font-size:clamp(27px,4vw,45px);line-height:1.05}.station-subtitle{margin:0;color:#cbd5e1;font-size:16px}.live-dot{display:inline-flex;align-items:center;gap:7px;padding:8px 12px;border-radius:999px;background:rgba(34,197,94,.13);color:#bbf7d0;font-weight:700;font-size:13px}.live-dot i{width:8px;height:8px;border-radius:50%;background:#4ade80;box-shadow:0 0 0 5px rgba(74,222,128,.12)}
+.station-reading{display:flex;align-items:end;gap:16px;margin:26px 0 20px;position:relative;z-index:1}.station-temperature{font-size:clamp(62px,10vw,104px);font-weight:800;line-height:.85;letter-spacing:-.07em}.station-feels{padding-bottom:7px;color:#bae6fd;font-size:16px}.quick-readings{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;position:relative;z-index:1}.quick-reading{padding:14px;border-radius:15px;background:rgba(255,255,255,.06)}.quick-reading span{display:block;color:#94a3b8;font-size:12px;margin-bottom:6px}.quick-reading strong{font-size:18px}
+.health-panel{padding:20px}.panel-heading{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:14px}.panel-heading h3{margin:0;font-size:18px}.health-list{display:grid;gap:10px}.health-row{display:flex;justify-content:space-between;align-items:center;padding:13px 14px;border-radius:14px;background:rgba(255,255,255,.055)}.health-row span{color:#cbd5e1;font-size:14px}.health-row strong{font-size:14px}.state-good{color:#86efac}.state-wait{color:#fde68a}.sensor-strip{width:min(1180px,calc(100% - 28px));margin:0 auto 28px;display:grid;grid-template-columns:repeat(6,1fr);gap:12px}.sensor-tile{border-radius:17px;padding:17px;background:rgba(15,23,42,.72);border:1px solid rgba(255,255,255,.09);text-align:left}.sensor-tile small{display:block;color:#94a3b8;margin-bottom:8px}.sensor-tile strong{font-size:20px}.sensor-ok{display:inline-block;margin-top:8px;color:#86efac;font-size:12px}.station-tools{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:12px}.station-tool{padding:12px;border-radius:14px;background:rgba(255,255,255,.055);font-size:13px}.station-tool span{display:block;color:#94a3b8;margin-bottom:5px}.refresh-station{margin-top:12px;width:100%;min-height:41px;border:1px solid rgba(125,211,252,.35);border-radius:11px;background:rgba(14,165,233,.16);color:#e0f2fe;font-weight:800;cursor:pointer}.refresh-station:hover{background:rgba(14,165,233,.3)}.home-forecast{margin-top:18px;padding:16px;border-radius:16px;background:linear-gradient(135deg,rgba(14,116,144,.38),rgba(30,41,59,.35));border:1px solid rgba(125,211,252,.22)}.home-forecast h3{font-size:15px;margin:0 0 9px}.home-forecast-text{font-size:16px;font-weight:700;line-height:1.45}.whatsapp-home{display:flex;justify-content:center;align-items:center;margin-top:12px;min-height:42px;border-radius:11px;background:#25D366;color:#fff;text-decoration:none;font-size:14px;font-weight:800}.dashboard-grid,.legacy-station-panel{display:none!important}
+.system-summary{max-width:1180px;margin:0 auto 18px;text-align:left;color:#cbd5e1}.system-grid{max-width:1180px;margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.system-card{padding:18px;border-radius:18px;background:rgba(15,23,42,.56);border:1px solid rgba(125,211,252,.13);text-align:left}.system-card h3{margin:0 0 9px;font-size:16px}.system-card p{margin:0;color:#cbd5e1;line-height:1.55}.system-file{max-width:1180px;margin:18px auto 0;text-align:left;line-height:1.75;padding:22px;border-radius:18px;background:rgba(2,6,23,.5);border:1px dashed rgba(125,211,252,.35)}
+@media(max-width:800px){.station-overview{grid-template-columns:1fr}.sensor-strip{grid-template-columns:repeat(2,1fr)}.system-grid{grid-template-columns:1fr}.station-hero{padding:23px}.quick-readings{grid-template-columns:1fr}.station-reading{align-items:start;flex-direction:column;gap:8px}.station-feels{padding:0}.menu-toggle{position:relative;top:auto;left:auto;margin:12px;z-index:30000}#topMenu{position:absolute;top:70px;left:10px;width:calc(100vw - 20px)}}
+
+/* The menu button opens a vertical list: five items visible, the rest swipe-scroll. */
+#topMenu{width:min(320px,calc(100vw - 24px));max-height:368px;flex-direction:column;align-items:stretch;overflow-x:hidden;overflow-y:auto;scroll-snap-type:y proximity;touch-action:pan-y}
+#topMenu button{width:100%;flex:0 0 auto;min-width:0;padding:11px 13px;font-size:14px;white-space:normal;scroll-snap-align:start}
+html.phone-menu #topMenu{width:min(440px,calc(100vw - 24px));max-height:540px}
+html.phone-menu #topMenu button{padding:13px 16px;font-size:22px}
 
 /* ========================= */
 /* HOME DASHBOARD */
@@ -1184,12 +1206,26 @@ body.app-page.app-mode .top-area {
         📚 Meteorologiya
     </button>
 
+    <button onclick="openSection('systemSection')">
+        🩺 Sistem vəziyyəti
+    </button>
+
     <button onclick="openSection('helpSection')">
         📰 Sayt haqqında
     </button>
 
 </div>
 
+</div>
+
+<!-- LIVE SENSOR PANEL: visible on every site tab -->
+<div class="sensor-strip global-sensor-strip" aria-label="Canlı stansiya sensorları">
+    <div class="sensor-tile"><small>🌡 Temperatur sensoru</small><strong id="sensorTemp">—</strong><span class="sensor-ok">● işləyir</span></div>
+    <div class="sensor-tile"><small>💧 Rütubət sensoru</small><strong id="sensorHumidity">—</strong><span class="sensor-ok">● işləyir</span></div>
+    <div class="sensor-tile"><small>💨 Küləyin sürəti</small><strong id="sensorWind">—</strong><span class="sensor-ok">● işləyir</span></div>
+    <div class="sensor-tile"><small>🌬 Külək zərbəsi</small><strong id="sensorGust">—</strong><span class="sensor-ok">● işləyir</span></div>
+    <div class="sensor-tile"><small>📊 Təzyiq sensoru</small><strong id="sensorPressure">—</strong><span class="sensor-ok">● işləyir</span></div>
+    <div class="sensor-tile"><small>🧭 Külək istiqaməti</small><strong id="sensorDirection">—</strong><span class="sensor-ok">● işləyir</span></div>
 </div>
 
 <!-- SETTINGS -->
@@ -1238,6 +1274,27 @@ body.app-page.app-mode .top-area {
 
 <!-- HOME -->
 <div class="section active" id="homeSection">
+
+    <div class="station-overview">
+        <section class="station-hero">
+            <span class="live-dot"><i></i><span id="connectionBadge">CANLI MƏLUMAT</span></span>
+            <div class="eyebrow" style="margin-top:20px;">META • BAKI / ABŞERON</div>
+            <h2 class="station-title">Stansiya nəzarət paneli</h2>
+            <p class="station-subtitle">Canlı meteoroloji müşahidə və avadanlıq vəziyyəti bir ekranda.</p>
+            <div class="station-reading"><div class="station-temperature" id="dashTemp">--°</div><div class="station-feels" id="dashFeels">Hiss edilən: --°C<br><span id="dashCondition">Məlumat gözlənilir</span></div></div>
+            <div class="quick-readings"><div class="quick-reading"><span>Rütubət</span><strong id="dashHumidity">--%</strong></div><div class="quick-reading"><span>Külək</span><strong id="dashWind">--</strong></div><div class="quick-reading"><span>Təzyiq</span><strong id="dashPressure">--</strong></div></div>
+        </section>
+        <aside class="health-panel">
+            <div class="panel-heading"><h3>📡 Stansiyanın vəziyyəti</h3><span class="state-good" id="healthOverall">● Normal</span></div>
+            <div class="health-list"><div class="health-row"><span>Şəbəkə bağlantısı</span><strong class="state-wait" id="networkState">Yoxlanılır…</strong></div><div class="health-row"><span>Son yenilənmə</span><strong id="dashLastUpdate">—</strong></div><div class="health-row"><span>Sensor paketi</span><strong class="state-good" id="sensorPackage">6 / 6 aktiv</strong></div><div class="health-row"><span>Məlumat mənbəyi</span><strong>METEO stansiyası</strong></div></div>
+            <div class="station-tools"><div class="station-tool"><span>📶 Məlumatın yaşı</span><strong id="dataAge">Yoxlanılır…</strong></div><div class="station-tool"><span>🌧 Yağıntı • 1 saat</span><strong id="stationRain">—</strong></div></div>
+            <button class="refresh-station" type="button" onclick="refreshStationNow()">↻ İndi yenilə</button>
+            <div class="home-forecast"><h3>📅 24 saat • Hava proqnozu</h3><div class="home-forecast-text" id="dailyTextForecast">Yüklənir…</div><div id="dailyExtraInfo" style="margin-top:7px;color:#cbd5e1;font-size:13px;"></div><a class="whatsapp-home" href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z" target="_blank" rel="noopener">📢 WhatsApp kanalımıza qoşul</a></div>
+        </aside>
+    </div>
+
+    <div id="homeNewsAnchor"></div>
+    <section class="news-rail" aria-label="Son META xəbəri"><div class="news-rail-head"><h3>📰 Son META xəbəri</h3><span class="news-rail-note">Yeni xəbər avtomatik görünəcək</span></div><button class="latest-news-card" id="latestNewsCard" type="button" onclick="openSection('metaSection')" style="display:none;"></button></section>
 
     <div class="dashboard-grid">
 
@@ -1481,7 +1538,7 @@ body.app-page.app-mode .top-area {
 </div>
 
 <!-- STATION -->
-<div class="box">
+<div class="box legacy-station-panel">
     <h2>📡 Peşəkar hava stansiyası
         <span id="status">   🟢</span>
     </h2>
@@ -1807,6 +1864,18 @@ body.app-page.app-mode .top-area {
         Yüklənir...
     </div>
 
+</div>
+
+<!-- SYSTEM STATUS -->
+<div class="box section" id="systemSection" style="margin-top:-40px;">
+    <h1>🩺 Sistem və sensorların vəziyyəti</h1>
+    <p class="system-summary">Bu səhifə avadanlığın canlı vəziyyətini və idarəetmə tərəfindən yüklənən servis qeydini göstərir.</p>
+    <div class="system-grid">
+        <div class="system-card"><h3>📡 Bağlantı</h3><p id="systemConnection">Yoxlanılır…</p></div>
+        <div class="system-card"><h3>🕒 Son telemetriya</h3><p id="systemUpdated">—</p></div>
+        <div class="system-card"><h3>🧪 Sensorlar</h3><p id="systemSensors">Temperatur, rütubət, külək və təzyiq: gözlənilir…</p></div>
+    </div>
+    <div class="system-file" id="systemContent">`/story/system.txt` faylından servis məlumatı yüklənir…</div>
 </div>
 
 <!-- FOOTER -->
@@ -2326,8 +2395,37 @@ function setBackground(temp, rain, weathercode){
 }
 
 async function loadStation(){
-    let r = await fetch("/station");
+    try {
+    let r = await fetch("/station", { cache: "no-cache" });
+    if (!r.ok) throw new Error("Station HTTP " + r.status);
     let d = await r.json();
+
+    const updateTime = new Date().toLocaleTimeString([], {hour:'2-digit', minute:'2-digit', second:'2-digit'});
+    const setText = (id, value) => { const el = document.getElementById(id); if (el) el.textContent = value; };
+    setText("dashTemp", tempText(d.temp));
+    setText("dashFeels", "Hiss edilən: " + tempText(d.temp - 1.5));
+    setText("dashCondition", "Məlumat stansiyadan canlı alınır");
+    setText("dashHumidity", f(d.humidity) + "%");
+    setText("dashWind", windText(d.wind_ms * 3.6));
+    setText("dashPressure", pressureText(d.pressure));
+    setText("sensorTemp", tempText(d.temp));
+    setText("sensorHumidity", f(d.humidity) + "%");
+    setText("sensorWind", windText(d.wind_ms * 3.6));
+    setText("sensorGust", windText(d.wind_gust_ms * 3.6));
+    setText("sensorPressure", pressureText(d.pressure));
+    setText("sensorDirection", windDir(d.wind_dir));
+    setText("dashLastUpdate", updateTime);
+    window.stationUpdatedAt = Date.now();
+    setText("dataAge", "indi");
+    setText("stationRain", precipitationText(d.rain_1h || 0));
+    setText("networkState", "● Onlayn");
+    setText("connectionBadge", "CANLI • ONLAYN");
+    setText("systemConnection", "🟢 Stansiya API-si əlçatandır.");
+    setText("systemUpdated", "Son yenilənmə: " + updateTime);
+    setText("sensorPackage", "6 / 6 aktiv");
+    setText("systemSensors", "🟢 Temperatur • rütubət • küləyin sürəti • külək zərbəsi • təzyiq • istiqamət — aktivdir.");
+    const connection = document.getElementById("networkState");
+    if (connection) connection.className = "state-good";
 
 document.getElementById("homeTemp").innerHTML =
     tempText(d.temp);
@@ -2366,7 +2464,7 @@ document.getElementById("homePressure").innerHTML =
 
     document.getElementById("lastUpdate").innerHTML =
         "🕒 Son məlumat yenilənməsi: " +
-        new Date().toLocaleTimeString();
+        updateTime;
 
 let rainChance = 0;
 let fogChance = 0;
@@ -2420,6 +2518,30 @@ if(d.wind_ms * 3.6 > 45){
 }
 
     setBackground(d.temp, d.rain_1h, window.currentWeatherCode || 0, d.wind_ms * 3.6);
+    } catch (error) {
+        console.error("Station error:", error);
+        const setText = (id, value) => { const el = document.getElementById(id); if (el) el.textContent = value; };
+        setText("networkState", "● Bağlantı yoxdur");
+        setText("connectionBadge", "BAĞLANTI YOXDUR");
+        setText("healthOverall", "● Yoxlanılır");
+        setText("systemConnection", "🔴 Stansiya məlumatına hazırda qoşulmaq mümkün deyil.");
+        const connection = document.getElementById("networkState");
+        if (connection) connection.className = "state-wait";
+    }
+}
+
+function updateStationAge() {
+    const element = document.getElementById("dataAge");
+    if (!element || !window.stationUpdatedAt) return;
+    const seconds = Math.max(0, Math.floor((Date.now() - window.stationUpdatedAt) / 1000));
+    element.textContent = seconds < 5 ? "indi" : seconds < 60 ? seconds + " san. əvvəl" : Math.floor(seconds / 60) + " dəq. əvvəl";
+}
+
+async function refreshStationNow() {
+    const button = document.querySelector(".refresh-station");
+    if (button) { button.disabled = true; button.textContent = "Yenilənir…"; }
+    await Promise.allSettled([loadStation(), loadForecast()]);
+    if (button) { button.disabled = false; button.textContent = "↻ İndi yenilə"; }
 }
 
 async function loadForecast(){
@@ -3203,6 +3325,8 @@ function openSection(id){
         section.classList.add('active');
     }
 
+    placeSensorPanel(id);
+
     window.scrollTo({
         top:0,
         behavior:"smooth"
@@ -3454,7 +3578,8 @@ async function loadMeta() {
 
     try {
 
-        const r = await fetch("/meta_content");
+        const r = await fetch("/meta_content", { cache: "no-cache" });
+        if (!r.ok) throw new Error("META news HTTP " + r.status);
         const posts = await r.json();
 
         let html = "";
@@ -3486,6 +3611,7 @@ async function loadMeta() {
         });
 
         document.getElementById("metaContent").innerHTML = html;
+        renderLatestNews(posts);
 
     } catch {
 
@@ -3688,6 +3814,37 @@ async function loadTextStory(containerId, filePath) {
     }
 }
 
+function placeSensorPanel(sectionId) {
+    const panel = document.querySelector('.global-sensor-strip');
+    if (!panel) return;
+    if (sectionId === 'homeSection') {
+        const anchor = document.getElementById('homeNewsAnchor');
+        if (anchor && anchor.parentNode) anchor.parentNode.insertBefore(panel, anchor);
+        return;
+    }
+    const section = document.getElementById(sectionId);
+    if (section) section.insertBefore(panel, section.firstChild);
+}
+
+function renderLatestNews(posts) {
+    const card = document.getElementById("latestNewsCard");
+    if (!card || !Array.isArray(posts) || !posts.length) return;
+    const latest = posts[0];
+    const source = document.createElement("div");
+    source.innerHTML = latest.text || "";
+    const heading = source.querySelector("h1,h2,h3,h4");
+    const plain = (heading ? heading.textContent : source.textContent || "")
+        .replace(/\s+/g, " ").trim();
+    const title = plain.length > 118 ? plain.slice(0, 115).trim() + "…" : plain || "Yeni META xəbəri";
+    const image = latest.image ? `<img src="${latest.image}" alt="META xəbər şəkli">` : "";
+    card.innerHTML = `${image}<div><small>ƏN YENİ XƏBƏR • META</small><strong>${title}</strong><span>Oxumaq üçün toxunun →</span></div>`;
+    card.style.display = "flex";
+}
+
+async function loadSystemStatus() {
+    await loadTextStory("systemContent", "/story/system.txt");
+}
+
 const searchableCities = [
     {name:'Bakı',lat:40.4093,lon:49.8671},{name:'İçərişəhər',lat:40.3668,lon:49.8360},{name:'Nərimanov',lat:40.4025,lon:49.8723},{name:'Nəsimi',lat:40.3834,lon:49.8489},{name:'Səbail',lat:40.3523,lon:49.8332},{name:'Yasamal',lat:40.3771,lon:49.8046},{name:'Xətai',lat:40.3770,lon:49.9430},{name:'Binəqədi',lat:40.4675,lon:49.8270},{name:'Sabunçu',lat:40.4280,lon:49.9480},{name:'Suraxanı',lat:40.4220,lon:50.0320},{name:'Əhmədli',lat:40.3830,lon:49.9550},{name:'Ramana',lat:40.4510,lon:49.9680},{name:'Zabrat',lat:40.4780,lon:49.9480},{name:'Balaxanı',lat:40.4560,lon:49.9110},{name:'Bakıxanov',lat:40.4250,lon:49.9480},
     {name:'Sumqayıt',lat:40.5897,lon:49.6686},{name:'Xırdalan',lat:40.4481,lon:49.7550},{name:'Masazır',lat:40.4210,lon:49.7922},{name:'Saray',lat:40.5280,lon:49.7200},{name:'Ceyranbatan',lat:40.4810,lon:49.7050},{name:'Qobu',lat:40.4040,lon:49.7380},{name:'Lökbatan',lat:40.3233,lon:49.7361},{name:'Fatmayı',lat:40.5560,lon:49.7640},{name:'Mehdiabad',lat:40.5540,lon:49.7290},{name:'Digah',lat:40.5090,lon:49.7880},{name:'Hövsan',lat:40.3740,lon:50.0850},{name:'Binə',lat:40.4508,lon:50.0856},{name:'Qala',lat:40.4530,lon:50.1840},{name:'Şüvəlan',lat:40.4888,lon:50.1681},{name:'Mərdəkan',lat:40.4918,lon:50.1429},{name:'Buzovna',lat:40.5196,lon:50.1144},{name:'Bilgəh',lat:40.5828,lon:50.0401},{name:'Nardaran',lat:40.5680,lon:50.0050},{name:'Pirşağı',lat:40.5563,lon:49.7382},{name:'Zirə',lat:40.2982,lon:50.2917},{name:'Pirallahı',lat:40.4620,lon:50.3230},{name:'Novxanı',lat:40.5705,lon:49.6761},{name:'Corat',lat:40.5960,lon:49.6860},{name:'Güzdək',lat:40.4730,lon:49.7360},
@@ -3767,6 +3924,7 @@ async function showHourlyForecast(lat, lon, name) {
 
 window.onload = function () {
 
+    placeSensorPanel('homeSection');
     loadStation();
     loadForecast();
     loadForecast14();
@@ -3780,11 +3938,15 @@ window.onload = function () {
     loadTextStory("contactContent", "/story/əlaqə.txt");
     loadTextStory("aboutContent", "/story/haqqımızda.txt");
     loadTextStory("meteorologyContent", "/story/meteorologiya.txt");
+    loadSystemStatus();
 
     setInterval(loadMiniChart, 60000);
 
     // обновление станции каждую минуту
     setInterval(loadStation, 60000);
+    setInterval(updateStationAge, 1000);
+    setInterval(loadSystemStatus, 60000);
+    setInterval(loadMeta, 60000);
 
     // Open-Meteo: aktual hava şəraiti və Bakı vaxtı ilə fonun yenilənməsi.
     setInterval(loadForecast, 10 * 60 * 1000);
