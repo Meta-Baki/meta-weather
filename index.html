@@ -62,10 +62,25 @@ body {
     color: white;
     text-align: center;
     margin: 0;
+    background-color: #07101f;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    transition: background-image 1s ease;
+    transition: background-image 1.2s ease-in-out, background-position 12s ease-in-out;
+}
+
+body.live-weather-background {
+    animation: weatherBackgroundMove 18s ease-in-out infinite alternate;
+}
+
+@keyframes weatherBackgroundMove {
+    from { background-size: 106%; background-position: 48% 50%; }
+    to { background-size: 116%; background-position: 54% 45%; }
+}
+
+@media (max-width: 900px) {
+    body { background-attachment: scroll; }
+    body.live-weather-background { animation-duration: 24s; }
 }
 
  body::before {
@@ -1185,6 +1200,9 @@ body.app-page.app-mode .top-area {
         <label style="display:grid; gap:7px; font-size:18px;">💧 Yağıntı
             <select id="precipitationUnit" onchange="saveUnitSettings()" style="padding:12px; border-radius:10px; font-size:16px;"><option value="mm">mm</option><option value="cm">cm</option><option value="in">in</option></select>
         </label>
+        <label style="display:flex; align-items:center; gap:10px; font-size:18px; cursor:pointer;">
+            <input id="liveBackground" type="checkbox" onchange="saveUnitSettings()" style="width:20px; height:20px;"> ✨ Canlı hava fonu
+        </label>
     </div>
     <p style="margin-top:25px; opacity:.8;">Seçim yadda saxlanılır və proqnozlar, kartlar və qrafiklərdə dərhal tətbiq olunur.</p>
 </div>
@@ -2088,7 +2106,7 @@ function f(x){
     return Number(x || 0).toFixed(1);
 }
 
-const unitSettings = { temperature: 'C', wind: 'km/h', pressure: 'hPa', precipitation: 'mm' };
+const unitSettings = { temperature: 'C', wind: 'km/h', pressure: 'hPa', precipitation: 'mm', liveBackground: true };
 let activeCityForecast = null;
 
 function readUnitSettings() {
@@ -2097,6 +2115,7 @@ function readUnitSettings() {
     document.getElementById('windUnit').value = unitSettings.wind;
     document.getElementById('pressureUnit').value = unitSettings.pressure;
     document.getElementById('precipitationUnit').value = unitSettings.precipitation;
+    document.getElementById('liveBackground').checked = unitSettings.liveBackground !== false;
 }
 
 function temperatureValue(c) { return unitSettings.temperature === 'F' ? Number(c) * 9 / 5 + 32 : Number(c); }
@@ -2113,12 +2132,15 @@ function saveUnitSettings() {
     unitSettings.wind = document.getElementById('windUnit').value;
     unitSettings.pressure = document.getElementById('pressureUnit').value;
     unitSettings.precipitation = document.getElementById('precipitationUnit').value;
+    unitSettings.liveBackground = document.getElementById('liveBackground').checked;
     localStorage.setItem('metaUnitSettings', JSON.stringify(unitSettings));
+    document.body.classList.toggle('live-weather-background', unitSettings.liveBackground);
     loadStation(); loadForecast(); loadForecast14(); loadChart(); loadMiniChart();
     if (activeCityForecast) showCityForecast(activeCityForecast.lat, activeCityForecast.lon, activeCityForecast.name);
 }
 
 readUnitSettings();
+document.body.classList.toggle('live-weather-background', unitSettings.liveBackground !== false);
 
 function windDir(deg){
     const d = ["N","NE","E","SE","S","SW","W","NW"];
@@ -2167,7 +2189,24 @@ function shareSite(){
 
 function setBackground(temp, rain, weathercode){
 
-    let hour = new Date().getHours();
+    const hour = Number(new Intl.DateTimeFormat('en-GB', {
+        timeZone: 'Asia/Baku', hour: '2-digit', hourCycle: 'h23'
+    }).format(new Date()));
+    const windKmh = Number(arguments[3] || 0);
+    let background = 'static/weather-clear.png';
+
+    if (weathercode >= 95 && weathercode <= 99) background = 'static/weather-storm.png';
+    else if (weathercode >= 71 && weathercode <= 77) background = 'static/weather-snow.png';
+    else if (weathercode >= 45 && weathercode <= 48) background = 'static/weather-fog.png';
+    else if (windKmh >= 45) background = 'static/weather-wind.png';
+    else if (hour < 6 || hour >= 20) background = 'static/weather-night.png';
+    else if (rain > 0.2 || weathercode >= 51) background = 'static/weather-rain.png';
+    else if (weathercode >= 1 && weathercode <= 48) background = 'static/weather-clouds.png';
+
+    document.body.style.backgroundImage = `url('${background}')`;
+    return;
+
+    let legacyHour = new Date().getHours();
 
     let backgrounds = [];
 
@@ -2355,15 +2394,25 @@ if(d.wind_ms * 3.6 > 45){
     windChance = 20;
 }
 
-    setBackground(d.temp, d.rain_1h, 0);
+    setBackground(d.temp, d.rain_1h, window.currentWeatherCode || 0, d.wind_ms * 3.6);
 }
 
 async function loadForecast(){
     let r = await fetch(
-        "https://api.open-meteo.com/v1/forecast?latitude=40.4093&longitude=49.8671&daily=weathercode,temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,precipitation_probability_max,wind_speed_10m_mean,cloud_cover_mean,uv_index_max,sunrise,sunset,windspeed_10m_max,winddirection_10m_dominant,windgusts_10m_max,surface_pressure_mean,precipitation_sum&timezone=Asia/Baku&forecast_days=7"
+        "https://api.open-meteo.com/v1/forecast?latitude=40.4093&longitude=49.8671&current=weather_code,precipitation,wind_speed_10m&daily=weathercode,temperature_2m_max,temperature_2m_min,apparent_temperature_max,apparent_temperature_min,precipitation_probability_max,wind_speed_10m_mean,cloud_cover_mean,uv_index_max,sunrise,sunset,windspeed_10m_max,winddirection_10m_dominant,windgusts_10m_max,surface_pressure_mean,precipitation_sum&wind_speed_unit=kmh&timezone=Asia/Baku&forecast_days=7"
     );
 
     let d = await r.json();
+
+    const currentWeather = d.current || {};
+    window.currentWeatherCode = currentWeather.weather_code ?? d.daily.weathercode[0];
+    window.currentWeatherState = {
+        temp: currentWeather.temperature_2m ?? d.daily.temperature_2m_max[0],
+        rain: currentWeather.precipitation ?? d.daily.precipitation_sum[0],
+        code: window.currentWeatherCode,
+        wind: currentWeather.wind_speed_10m ?? 0
+    };
+    setBackground(window.currentWeatherState.temp, window.currentWeatherState.rain, window.currentWeatherState.code, window.currentWeatherState.wind);
 
 // =====================================
 // TEXT FORECAST FOR NEXT 24 HOURS
@@ -3685,6 +3734,13 @@ window.onload = function () {
 
     // обновление станции каждую минуту
     setInterval(loadStation, 60000);
+
+    // Open-Meteo: aktual hava şəraiti və Bakı vaxtı ilə fonun yenilənməsi.
+    setInterval(loadForecast, 10 * 60 * 1000);
+    setInterval(() => {
+        const state = window.currentWeatherState;
+        if (state) setBackground(state.temp, state.rain, state.code, state.wind);
+    }, 5 * 60 * 1000);
 
     // график каждые 30 минут
     setInterval(loadChart, 30 * 60 * 1000);
