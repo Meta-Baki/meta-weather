@@ -1,0 +1,79 @@
+<h2 style="color:#38bdf8;">📡 META stansiyası — sistem və sensorların vəziyyəti</h2>
+
+<p style="text-align:right;color:#94a3b8;font-size:14px;">
+🕐 Vəziyyət məlumatı sayt tərəfindən avtomatik yenilənir
+</p>
+
+<p style="color:#22c55e;font-size:21px;font-weight:bold;">
+🟢 METEOROLOJİ STANSİYA AKTİVDİR
+</p>
+
+<p>
+<strong>META meteoroloji stansiyası Bakı və Abşeron yarımadası üzrə
+real vaxt rejimində müşahidələri qəbul edir və sayta ötürür.</strong>
+</p>
+
+<h3 style="color:#38bdf8;">🧪 Aktiv sensorlar</h3>
+
+<p>
+🌡️ <strong>Temperatur sensoru</strong> — havanın cari temperaturunu ölçür.<br>
+💧 <strong>Rütubət sensoru</strong> — nisbi rütubəti izləyir.<br>
+💨 <strong>Küləyin sürəti sensoru</strong> — orta külək sürətini qeyd edir.<br>
+🌬️ <strong>Külək zərbəsi sensoru</strong> — maksimal külək zərbələrini izləyir.<br>
+📊 <strong>Təzyiq sensoru</strong> — atmosfer təzyiqini ölçür.<br>
+🧭 <strong>Külək istiqaməti sensoru</strong> — küləyin istiqamətini müəyyən edir.
+</p>
+
+<p style="background:#0f3b5b;color:#e0f2fe;padding:15px;border-radius:10px;font-size:17px;">
+📡 Sensorların cari göstəriciləri saytın yuxarı hissəsindəki canlı paneldə görünür.
+Məlumatlar stansiyadan alındıqdan sonra avtomatik yenilənir.
+</p>
+
+<h3 style="color:#a78bfa;">🔄 Məlumatların yenilənməsi</h3>
+
+<p>
+Saytdakı stansiya məlumatları müntəzəm olaraq yenilənir. Əlaqə müvəqqəti
+kəsildikdə sistem son uğurlu göstəriciləri saxlayır və bağlantı bərpa olunanda
+yenidən canlı məlumatları qəbul edir.
+</p>
+
+<p style="color:#fbbf24;font-size:18px;font-weight:bold;">
+⚠️ Qeyd: Sensor göstəriciləri lokal meteoroloji stansiyadan alınır.
+Hava şəraiti qısa müddətdə dəyişə bilər.
+</p>
+
+<h3 style="color:#22c55e;">✅ Sistem nəzarəti</h3>
+
+<p>
+🟢 Şəbəkə bağlantısı, son yenilənmə vaxtı və sensor paketi avtomatik izlənilir.<br>
+🟢 Temperatur və rütubət qrafiki son ölçmələr üzrə formalaşdırılır.<br>
+🟢 Əsas blokdakı “İndi yenilə” düyməsi ilə məlumatları əl ilə də yeniləmək mümkündür.
+</p>
+
+<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
+📡 META Meteorologiya Mərkəzi stansiyanın işini və meteoroloji vəziyyəti
+izləməyə davam edir.
+</p>
+
+<p style="color:#25D366;font-size:20px;font-weight:bold;">
+📲 Operativ hava məlumatları üçün WhatsApp kanalımıza qoşulun:
+<br><br>
+<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
+target="_blank"
+style="color:#25D366;font-weight:bold;text-decoration:none;">
+➡️ META WhatsApp Kanalı
+</a>
+</p>
+
+<hr>
+
+<p style="color:#94a3b8;font-size:14px;">
+<strong>Qeyd:</strong> META Abşeron müstəqil meteoroloji layihədir.
+Təqdim olunan avtomatik məlumatlar atmosfer şəraitinin dəyişməsi ilə əlaqədar
+yenilənə bilər. Təhlükəli meteoroloji hadisələr zamanı rəsmi qurumların
+xəbərdarlıq və göstərişlərinə əməl edin.
+</p>
+
+<p style="color:#94a3b8;font-size:14px;">
+© 2026 META Abşeron. Bütün hüquqlar qorunur.
+</p>
