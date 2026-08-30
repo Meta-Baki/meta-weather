@@ -1,63 +1,74 @@
-<h2 style="color:#8b5cf6;">🌌☀️ Yer kürəsində maqnit qasırğası müşahidə olunur</h2>
+<h2 style="color:#8b5cf6;">🚀🔭 NASA bu gün “Roman” kosmik teleskopunu kosmosa göndərməyə hazırlaşır</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 29 avqust 2026 17:00 — Bakı vaxtı
+🕐 Əlavə olunub: 30 avqust 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>29 avqustda Yer kürəsinin maqnit sahəsində güclü geomaqnit
-aktivlik müşahidə olunur.</strong> Günəşdə baş verən aktiv proseslər
-nəticəsində yaranan plazma axınlarının Yerə çatması planetin
-maqnitosferində güclü dəyişikliklərə səbəb olub.
+<strong>NASA-nın yeni nəsil “Nancy Grace Roman” kosmik teleskopunun
+buraxılışı üçün canlı yayım və son hazırlıq mərhələsi başlayıb.</strong>
+Teleskopun 30 avqustda Floridadakı Kennedi Kosmik Mərkəzinin
+39A buraxılış kompleksindən “SpaceX Falcon Heavy” raketi ilə
+kosmosa göndərilməsi planlaşdırılır.
 </p>
 
 <p>
-☀️ Alimlərin proqnozlarına əsasən, şənbə günü səhər və günorta
-saatlarında geomaqnit aktivliyin <strong>G1 səviyyəsinə</strong> çatması,
-bəzi dövrlərdə isə <strong>G2 səviyyəsinə yaxınlaşması</strong> mümkündür.
+🚀 Buraxılışın Bakı vaxtı ilə təxminən <strong>15:26-da</strong>
+həyata keçirilməsi nəzərdə tutulur.
 </p>
 
 <p>
-🌍 Geomaqnit qasırğaları Günəşdən gələn yüklü hissəciklərin Yer
-maqnitosferi ilə qarşılıqlı təsiri nəticəsində yaranır. Belə hadisələr
-peyk sistemlərinə, radio rabitəsinə və bəzi naviqasiya sistemlərinə
-müvəqqəti təsir göstərə bilər.
+🌦️ Buraxılışdan əvvəl əsas qeyri-müəyyənliklərdən biri hava şəraitidir.
+ABŞ Kosmik Qüvvələrinin 45-ci Hava Eskadrilyası buraxılış üçün
+əlverişli meteoroloji şərait ehtimalını təxminən
+<strong>50%</strong> qiymətləndirib.
 </p>
 
 <p>
-🌌 Güclü geomaqnit aktivlik zamanı yüksək enliklərdə qütb parıltılarının
-— <strong>auroraların</strong> — müşahidə olunma ehtimalı da artır.
-Azərbaycan isə yüksək enliklərdən uzaqda yerləşdiyi üçün auroranın
-buradan görünməsi adətən çox çətin olur.
+🌌 Uğurlu buraxılışdan sonra teleskop Yerdən təxminən
+<strong>1,6 milyon kilometr</strong> məsafədə yerləşən
+Günəş–Yer sisteminin L2 Laqranj nöqtəsi istiqamətində hərəkət edəcək.
 </p>
 
 <p>
-📉 Proqnozlara görə, 29 avqustun axşamından etibarən geomaqnit
-vəziyyətin tədricən sakitləşməsi və 30 avqustda daha sabit şəraitin
-formalaşması gözlənilir. :contentReference[oaicite:2]{index=2}
+🔭 “Roman”ın əsas elmi məqsədləri qaranlıq enerji və qaranlıq
+maddənin araşdırılması, milyardlarla qalaktikanın xəritələndirilməsi
+və Günəş sistemindən kənardakı planetlərin öyrənilməsidir.
 </p>
 
 <p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🛰️ Geomaqnit qasırğalarının monitorinqi peyklərin, rabitə və
-naviqasiya sistemlərinin təhlükəsiz fəaliyyəti baxımından mühüm
-əhəmiyyət daşıyır.
+🪐 NASA “Roman” teleskopunun müşahidələri nəticəsində təxminən
+100 000 yeni ekzoplanetin aşkarlana biləcəyini gözləyir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Günəş aktivliyini, maqnit qasırğalarını,
-kosmik hava şəraitini və astronomik hadisələri izləyir.
+📡 META Meteorologiya Mərkəzi kosmik hadisələr və astronomiya
+xəbərlərini izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos və Günəş aktivliyi xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Xəbərlər üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank"
-style="color:#25D366;font-weight:bold;text-decoration:none;">
+target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Müəllif: Edelman Əliyev
+👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
+</p>
+
+<hr>
+
+<p style="color:#94a3b8;font-size:14px;">
+<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
+Saytda təqdim olunan avtomatlaşdırılmış meteoroloji məlumatlar və hava proqnozları
+atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya
+təhlükəli meteoroloji hadisələr zamanı rəsmi dövlət qurumlarının məlumat və göstərişlərinə
+əməl etmək tövsiyə olunur.
+</p>
+
+<p style="color:#94a3b8;font-size:14px;">
+© 2026 META Abşeron. Bütün hüquqlar qorunur.
 </p>
