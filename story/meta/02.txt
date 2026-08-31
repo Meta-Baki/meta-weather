@@ -1,52 +1,62 @@
-<h2 style="color:#22c55e;">🌍🌱 Azərbaycan COP17-də quraqlıq və torpaqların bərpası məsələlərini müzakirə edib</h2>
+<h2 style="color:#f97316;">⛈️🌪️ Bakı və Abşeronda təhlükəli hava: güclü külək, intensiv leysan və şimşək gözlənilir</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 30 avqust 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 31 avqust 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Azərbaycan Monqolustanın Ulan-Bator şəhərində keçirilən
-BMT-nin Səhralaşmaya qarşı Mübarizə Konvensiyasının (UNCCD)
-17-ci Tərəflər Konfransında — COP17-də təmsil olunub.</strong>
+<strong>31 avqustda Bakı və Abşeron yarımadasında bir neçə təhlükəli
+meteoroloji hadisənin eyni vaxtda müşahidə olunması gözlənilir.</strong>
 </p>
 
 <p>
-🌍 Konfrans <strong>17–28 avqust 2026-cı il</strong> tarixlərində
-keçirilib və səhralaşma, torpaqların deqradasiyası və quraqlıqla
-mübarizə məsələlərini beynəlxalq səviyyədə gündəmə gətirib.
+🌧️ Gün ərzində bəzi yerlərdə yağış yağacağı, yağıntının arabir
+<strong>leysan xarakterli</strong> olacağı proqnozlaşdırılır.
+</p>
+
+<p style="color:#3b82f6;font-size:20px;font-weight:bold;">
+⛈️ Axşam saatlarında ayrı-ayrı ərazilərdə yağışın intensiv və
+qısamüddətli güclü olması, şimşək çaxması ehtimalı var.
 </p>
 
 <p>
-🇦🇿 Azərbaycan tədbirdə Ekologiya və Təbii Sərvətlər Nazirliyi və
-Xarici İşlər Nazirliyinin nümayəndələrindən ibarət heyətlə təmsil olunub.
+🌪️ Eyni zamanda şimal-qərb küləyi güclənəcək. Bakı və Abşeron üçün
+elan edilmiş narıncı xəbərdarlığa əsasən, küləyin sürəti
+<strong>20,8–28,4 m/s (75–102 km/saat)</strong> səviyyəsinə çata bilər.
 </p>
 
 <p>
-🌱 Konfrans çərçivəsində keçirilən yüksək səviyyəli nazirlər
-dialoqlarında Azərbaycan nümayəndə heyəti
-<strong>quraqlığa dayanıqlılıq, torpaqların bərpası və su ehtiyatlarının
-dayanıqlı idarə olunması</strong> məsələləri ilə bağlı çıxış edib.
+⚠️ Güclü küləklə intensiv yağışın eyni vaxtda müşahidə olunması
+şəhər ərazisində ağac və budaqların sınması, zəif konstruksiyaların
+zədələnməsi və bəzi küçələrdə su yığılması riskini artıra bilər.
 </p>
 
 <p>
-💧 Müzakirələrdə su ehtiyatlarının qorunması və səmərəli istifadəsi,
-eləcə də ekoloji layihələrin həyata keçirilməsi üçün maliyyələşdirmə
-mexanizmləri də əsas mövzular sırasında olub.
+🚗 Leysan zamanı yollarda görünüş məsafəsinin azalması və su
+toplanması səbəbindən sürücülərə sürəti azaltmaq və nəqliyyat
+vasitələri arasında təhlükəsiz məsafəni artırmaq tövsiyə olunur.
 </p>
 
-<p style="color:#22c55e;font-size:20px;font-weight:bold;">
-🌿 İqlim dəyişmələrinin quraqlıq və su ehtiyatlarına təsirinin artdığı
-bir dövrdə torpaqların bərpası və səhralaşmanın qarşısının alınması
-Azərbaycan üçün də mühüm ekoloji istiqamətlərdən biridir.
+<p>
+⚡ Şimşək zamanı açıq ərazilərdən, hündür ağaclardan, elektrik
+xətlərindən və metal konstruksiyalardan uzaq durmaq lazımdır.
+</p>
+
+<p style="background:#991b1b;color:white;padding:16px;border-radius:10px;
+font-size:20px;font-weight:bold;">
+🚨 XƏBƏRDARLIQ: Güclü külək + intensiv leysan + şimşək
+kombinasiyası hava şəraitini xüsusilə təhlükəli edə bilər.
+Vətəndaşlardan ehtiyatlı olmaları xahiş olunur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycan və dünyada ekologiya,
-iqlim və təbiətlə bağlı mühüm hadisələri izləyir.
+📡 META Meteorologiya Mərkəzi hava şəraitini izləyir.
+Faktiki külək, yağıntı və mümkün fəsadlarla bağlı yeni məlumat
+olduqda operativ xəbər veriləcək.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ekologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Təcili hava məlumatları üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
