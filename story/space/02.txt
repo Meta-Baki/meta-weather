@@ -1,56 +1,91 @@
-<h2 style="color:#8b5cf6;">🚀🔭 NASA bu gün “Roman” kosmik teleskopunu kosmosa göndərməyə hazırlaşır</h2>
+<h2 style="color:#8b5cf6;">🛰️🔥 ESA-nın peyki bu gün Yer atmosferində yanaraq məhv olacaq — əfsanəvi "Cluster" missiyası başa çatır.</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 30 avqust 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 31 avqust 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>NASA-nın yeni nəsil “Nancy Grace Roman” kosmik teleskopunun
-buraxılışı üçün canlı yayım və son hazırlıq mərhələsi başlayıb.</strong>
-Teleskopun 30 avqustda Floridadakı Kennedi Kosmik Mərkəzinin
-39A buraxılış kompleksindən “SpaceX Falcon Heavy” raketi ilə
-kosmosa göndərilməsi planlaşdırılır.
+<strong>Avropa Kosmik Agentliyinin (ESA) “Samba” peyki bu gün,
+31 avqustda Yer atmosferinə idarə olunan şəkildə daxil olaraq
+parçalanacaq və yanacaq.</strong>
 </p>
 
 <p>
-🚀 Buraxılışın Bakı vaxtı ilə təxminən <strong>15:26-da</strong>
-həyata keçirilməsi nəzərdə tutulur.
+🛰️ “Samba” Yerin maqnit mühitinin öyrənilməsi üçün yaradılmış
+<strong>Cluster</strong> missiyasının dörd eyni kosmik aparatından biridir.
+Missiya uzun illər ərzində Günəş küləyinin Yer maqnitosferi ilə
+qarşılıqlı təsirinin öyrənilməsinə mühüm töhfə verib.
 </p>
 
 <p>
-🌦️ Buraxılışdan əvvəl əsas qeyri-müəyyənliklərdən biri hava şəraitidir.
-ABŞ Kosmik Qüvvələrinin 45-ci Hava Eskadrilyası buraxılış üçün
-əlverişli meteoroloji şərait ehtimalını təxminən
-<strong>50%</strong> qiymətləndirib.
+🌍 ESA-nın hesablamalarına əsasən, “Samba”nın atmosferə daxil olması
+<strong>31 avqust saat 23:41 CEST</strong> ətrafında gözlənilir.
+Bu, Bakı vaxtı ilə artıq <strong>1 sentyabr təxminən 01:41</strong>
+deməkdir. Hesablamalarda bir neçə dəqiqəlik dəyişiklik mümkündür.
 </p>
 
 <p>
-🌌 Uğurlu buraxılışdan sonra teleskop Yerdən təxminən
-<strong>1,6 milyon kilometr</strong> məsafədə yerləşən
-Günəş–Yer sisteminin L2 Laqranj nöqtəsi istiqamətində hərəkət edəcək.
+🌊 Peykin trayektoriyası elə planlaşdırılıb ki, onun atmosferə daxil
+olması <strong>Yeni Zelandiyanın şimalındakı Cənubi Sakit okeanın
+uzaq və az məskunlaşmış hissəsi</strong> üzərində baş versin.
 </p>
 
 <p>
-🔭 “Roman”ın əsas elmi məqsədləri qaranlıq enerji və qaranlıq
-maddənin araşdırılması, milyardlarla qalaktikanın xəritələndirilməsi
-və Günəş sistemindən kənardakı planetlərin öyrənilməsidir.
+🔥 Atmosferə daxil olarkən kosmik aparat son dərəcə yüksək temperatur
+və aerodinamik qüvvələrin təsirinə məruz qalacaq. Onun konstruksiyasının
+böyük hissəsinin atmosferdə parçalanaraq yanması gözlənilir.
+</p>
+
+<h3 style="color:#f59e0b;">✈️ Alimlər hadisəni təyyarədən izləyəcəklər</h3>
+
+<p>
+ESA bu hadisədən elmi tədqiqat üçün də istifadə edəcək. Xüsusi
+avadanlıqla təchiz edilmiş təyyarə peykin atmosferə daxil olmasını
+müşahidə etmək üçün bölgəyə göndəriləcək.
+</p>
+
+<p>
+🔬 Alimlər kosmik aparatın hansı mərhələlərdə parçalandığını,
+materialların necə əridiyini və atmosferdə necə məhv olduğunu
+öyrənməyə çalışacaqlar.
+</p>
+
+<p>
+Bu məlumatlar gələcək peyklərin istismar müddəti başa çatdıqdan sonra
+atmosferdə daha tam yanmasına imkan verən konstruksiyaların hazırlanmasına
+kömək edə bilər və kosmik tullantı riskinin azaldılması üçün istifadə olunacaq.
+</p>
+
+<h3 style="color:#8b5cf6;">🛰️ Sabah Tango da atmosferə daxil olacaq</h3>
+
+<p>
+“Samba”dan təxminən 24 saat sonra, <strong>1 sentyabrda</strong>,
+Cluster missiyasının digər peyki — <strong>“Tango”</strong> da
+Yer atmosferinə daxil olacaq.
+</p>
+
+<p>
+Beləliklə, ESA-nın Yerin maqnit mühitinin öyrənilməsində mühüm rol
+oynamış Cluster peyklərinin uzunmüddətli missiyası başa çatır.
 </p>
 
 <p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🪐 NASA “Roman” teleskopunun müşahidələri nəticəsində təxminən
-100 000 yeni ekzoplanetin aşkarlana biləcəyini gözləyir.
+🌌 Bu hadisə alimlərə yalnız tarixi kosmik missiyanı başa çatdırmaq
+deyil, həm də peyklərin atmosferdə parçalanması prosesini nadir
+şəkildə birbaşa öyrənmək imkanı verəcək.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi kosmik hadisələr və astronomiya
-xəbərlərini izləməyə davam edir.
+📡 META Meteorologiya Mərkəzi kosmos, astronomiya və kosmik hava
+ilə bağlı mühüm hadisələri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Xəbərlər üçün WhatsApp kanalımıza qoşulun:
+📲 Kosmos və elm xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
+target="_blank"
+style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
