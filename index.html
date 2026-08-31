@@ -442,6 +442,7 @@ html.phone-menu #topMenu button{
 /* Station-first home dashboard and diagnostics. */
 .station-overview{width:min(1180px,calc(100% - 28px));margin:18px auto 30px;display:grid;grid-template-columns:1.35fr .9fr;gap:18px;text-align:left}
 .news-rail{width:min(1180px,calc(100% - 28px));margin:0 auto 34px;text-align:left}.news-rail-head{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:11px}.news-rail-head h3{margin:0;font-size:18px}.news-rail-note{font-size:12px;color:#94a3b8}.latest-news-card{width:100%;display:flex;align-items:center;gap:17px;padding:12px;border:1px solid rgba(125,211,252,.22);border-radius:19px;background:rgba(15,23,42,.72);color:#fff;text-align:left;cursor:pointer;transition:transform .2s,background .2s}.latest-news-card:hover{transform:translateY(-2px);background:rgba(20,50,80,.9)}.latest-news-card img{width:154px;height:96px;object-fit:cover;border-radius:13px;flex:0 0 auto}.latest-news-card small{display:block;color:#7dd3fc;font-weight:800;margin-bottom:6px}.latest-news-card strong{font-size:18px;line-height:1.35}.latest-news-card span{display:block;color:#cbd5e1;font-size:13px;margin-top:7px}@media(max-width:560px){.latest-news-card img{width:112px;height:88px}.latest-news-card strong{font-size:14px}.latest-news-card{gap:11px}.news-rail-note{display:none}}
+.latest-news-list{display:grid;gap:10px}.latest-news-card{border:0;font:inherit}.latest-news-empty{padding:16px;border-radius:15px;background:rgba(15,23,42,.55);color:#94a3b8}
 .station-hero,.health-panel,.sensor-panel{background:linear-gradient(145deg,rgba(7,34,61,.58),rgba(14,23,42,.48));border:1px solid rgba(125,211,252,.22);box-shadow:0 18px 50px rgba(0,0,0,.23);border-radius:24px}
 .station-hero{padding:30px;position:relative;overflow:hidden}.station-hero:after{content:"";position:absolute;width:260px;height:260px;right:-110px;top:-130px;background:radial-gradient(circle,rgba(56,189,248,.28),transparent 68%)}
 .eyebrow{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:#7dd3fc;font-weight:800}.station-title{margin:10px 0 4px;font-size:clamp(27px,4vw,45px);line-height:1.05}.station-subtitle{margin:0;color:#cbd5e1;font-size:16px}.live-dot{display:inline-flex;align-items:center;gap:7px;padding:8px 12px;border-radius:999px;background:rgba(34,197,94,.13);color:#bbf7d0;font-weight:700;font-size:13px}.live-dot i{width:8px;height:8px;border-radius:50%;background:#4ade80;box-shadow:0 0 0 5px rgba(74,222,128,.12)}
@@ -1323,7 +1324,7 @@ body.app-page.app-mode .top-area {
     </div>
 
     <div id="homeNewsAnchor"></div>
-    <section class="news-rail" aria-label="Son META xəbəri"><div class="news-rail-head"><h3>📰 Son META xəbəri</h3><span class="news-rail-note">Yeni xəbər avtomatik görünəcək</span></div><button class="latest-news-card" id="latestNewsCard" type="button" onclick="openSection('metaSection')" style="display:none;"></button></section>
+    <section class="news-rail" aria-label="Son META xəbərləri"><div class="news-rail-head"><h3>📰 Son META xəbərləri</h3><span class="news-rail-note">Son 3 yenilənmə avtomatik görünür</span></div><div class="latest-news-list" id="latestNewsList"></div></section>
 
     <div class="dashboard-grid">
 
@@ -3676,7 +3677,7 @@ async function loadMeta() {
         });
 
         document.getElementById("metaContent").innerHTML = html;
-        renderLatestNews(posts);
+        loadHomeNews(posts);
 
     } catch {
 
@@ -3892,18 +3893,55 @@ function placeSensorPanel(sectionId) {
 }
 
 function renderLatestNews(posts) {
-    const card = document.getElementById("latestNewsCard");
-    if (!card || !Array.isArray(posts) || !posts.length) return;
-    const latest = posts[0];
-    const source = document.createElement("div");
-    source.innerHTML = latest.text || "";
-    const heading = source.querySelector("h1,h2,h3,h4");
-    const plain = (heading ? heading.textContent : source.textContent || "")
-        .replace(/\s+/g, " ").trim();
-    const title = plain.length > 118 ? plain.slice(0, 115).trim() + "…" : plain || "Yeni META xəbəri";
-    const image = latest.image ? `<img src="${latest.image}" alt="META xəbər şəkli">` : "";
-    card.innerHTML = `${image}<div><small>ƏN YENİ XƏBƏR • META</small><strong>${title}</strong><span>Oxumaq üçün toxunun →</span></div>`;
-    card.style.display = "flex";
+    const list = document.getElementById("latestNewsList");
+    if (!list) return;
+    if (!Array.isArray(posts) || !posts.length) {
+        list.innerHTML = '<div class="latest-news-empty">Hazırda xəbər yoxdur.</div>';
+        return;
+    }
+
+    list.innerHTML = posts.slice(0, 3).map((post, index) => {
+        const source = document.createElement("div");
+        source.innerHTML = post.text || "";
+        const heading = source.querySelector("h1,h2,h3,h4");
+        const plain = (heading ? heading.textContent : source.textContent || "")
+            .replace(/\s+/g, " ").trim();
+        const title = plain.length > 118 ? plain.slice(0, 115).trim() + "…" : plain || "Yeni META xəbəri";
+        const image = post.image ? `<img src="${post.image}" alt="META xəbər şəkli">` : "";
+        const label = index === 0 ? "ƏN YENİ XƏBƏR" : "ƏVVƏLKİ XƏBƏR";
+        const sourceLabel = post.sourceLabel || "META xəbər";
+        const targetSection = post.section || "metaSection";
+        return `<button class="latest-news-card" type="button" onclick="openSection('${targetSection}')">${image}<div><small>${label} • ${sourceLabel}</small><strong>${title}</strong><span>Oxumaq üçün toxunun →</span></div></button>`;
+    }).join("");
+}
+
+function newsTimestamp(text) {
+    const value = (text || "").toLowerCase();
+    const months = {"yanvar":0,"fevral":1,"mart":2,"aprel":3,"may":4,"iyun":5,"iyul":6,"avqust":7,"sentyabr":8,"oktyabr":9,"noyabr":10,"dekabr":11};
+    const match = value.match(/(\d{1,2})\s+(yanvar|fevral|mart|aprel|may|iyun|iyul|avqust|sentyabr|oktyabr|noyabr|dekabr)\s+(\d{4})(?:[^\d]*(\d{1,2}):(\d{2}))?/);
+    if (!match) return 0;
+    return new Date( Number(match[3]), months[match[2]], Number(match[1]), Number(match[4] || 0), Number(match[5] || 0) ).getTime();
+}
+
+async function loadHomeNews(metaPosts) {
+    const sources = [
+        ...(Array.isArray(metaPosts) ? metaPosts.map(post => ({...post, section:"metaSection", sourceLabel:"META xəbər"})) : [])
+    ].filter(post => (post.text || "").trim());
+
+    const [historyResult, spaceResult] = await Promise.allSettled([
+        fetch("/history_content", {cache:"no-cache"}).then(response => response.ok ? response.json() : Promise.reject(response.status)),
+        fetch("/space_content", {cache:"no-cache"}).then(response => response.ok ? response.json() : Promise.reject(response.status)),
+    ]);
+
+    if (historyResult.status === "fulfilled" && (historyResult.value.text || "").trim()) {
+        sources.push({...historyResult.value, section:"historySection", sourceLabel:"Hava haqqında"});
+    }
+    if (spaceResult.status === "fulfilled" && Array.isArray(spaceResult.value)) {
+        sources.push(...spaceResult.value.filter(post => (post.text || "").trim()).map(post => ({...post, section:"spaceSection", sourceLabel:"Günəş və kosmos"})));
+    }
+
+    sources.sort((a, b) => newsTimestamp(b.text) - newsTimestamp(a.text));
+    renderLatestNews(sources);
 }
 
 async function loadSystemStatus() {
