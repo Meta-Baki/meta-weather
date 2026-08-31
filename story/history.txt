@@ -1,86 +1,110 @@
-<h2 style="color:#ef4444;">🔴⚠️ TƏCİLİ: Azərbaycanda külək güclənib — sürəti 72 km/saata çatıb</h2>
+<h2 style="color:#ef4444;">🚨⛈️ TƏCİLİ XƏBƏRDARLIQ: Bakı və Abşeronda çox güclü leysan və şimşək gözlənilir</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 30 avqust 2026, 14:32 — Bakı vaxtı
+🕐 Əlavə olunub: 31 avqust 2026, 11:00 — Bakı vaxtı
 </p>
 
-<p style="color:#ef4444;font-size:21px;font-weight:bold;">
-⚠️ TƏCİLİ METEOROLOJİ XƏBƏRDARLIQ
-</p>
-
-<p>
-<strong>30 avqust saat 10:00-a olan faktiki meteoroloji məlumatlara əsasən,
-Azərbaycanın bəzi ərazilərində güclü külək qeydə alınıb. Ötən axşam və gecə
-isə bəzi dağlıq və dağətəyi rayonlarda leysan xarakterli yağışlar
-göy gurultusu ilə müşahidə olunub.</strong>
-</p>
-
-<h3 style="color:#f97316;">💨 Külək 72 km/saata çatıb</h3>
-
-<p>
-🌬️ Şimal-qərb küləyinin maksimal sürəti <strong>Bakı və Abşeron
-yarımadasında 17 m/s (61 km/saat)</strong> təşkil edib.
+<p style="background:#7f1d1d;color:#ffffff;padding:16px;border-radius:10px;font-size:21px;font-weight:bold;">
+🔴 DİQQƏT! 31 avqustda Bakı və Abşeron yarımadasında hava şəraitinin ciddi şəkildə pisləşməsi, güclü leysan, şimşək və çox güclü külək gözlənilir.
 </p>
 
 <p>
-💨 Naftalan, Tərtər və Naxçıvanda küləyin sürəti
-<strong>16 m/s (58 km/saat)</strong>, Culfa və Neftçalada isə
-<strong>20 m/s (72 km/saat)</strong> səviyyəsinə qədər yüksəlib.
+<strong>META Meteorologiya Mərkəzinin istifadə etdiyi proqnoz məlumatlarına əsasən,
+günün ikinci yarısında Bakı və Abşeron yarımadasında yağıntıların kəskin
+intensivləşməsi ehtimalı var.</strong>
 </p>
 
-<p style="color:#ef4444;font-weight:bold;">
-⚠️ Güclü külək zamanı ağacların, yüngül konstruksiyaların, reklam
-lövhələrinin və digər zəif bərkidilmiş obyektlərin yaxınlığında
-ehtiyatlı olmaq tövsiyə edilir.
+<h3 style="color:#3b82f6;">🌧️ Güclü leysan — ən riskli saatlar</h3>
+
+<p style="font-size:20px;">
+🌧️ <strong>Saat 12:00 ətrafında — təxminən 18 mm yağıntı</strong>
 </p>
 
-<h3 style="color:#3b82f6;">⛈️ Gecə bəzi rayonlarda leysan və şimşək olub</h3>
-
-<p>
-🌧️ Axşam və gecə saatlarında bəzi dağlıq və dağətəyi rayonlarda
-leysan xarakterli yağışlar yağıb və şimşək çaxıb.
+<p style="font-size:20px;">
+⛈️ <strong>Saat 18:00 ətrafında — təxminən 13 mm yağıntı</strong>
 </p>
 
 <p>
-💧 Ağstafada <strong>7 mm</strong>, Daşkəsən, Gəncə, Tovuz, Şəmkir,
-Ceyrançöl, Zaqatala və Göyçayda isə <strong>1 mm-dək</strong>
-yağıntı qeydə alınıb.
+⚠️ Qısa müddət ərzində bu qədər yağıntının düşməsi ayrı-ayrı ərazilərdə
+küçələrin və alçaq sahələrin su ilə dolmasına, drenaj sistemlərinin yüklənməsinə
+və avtomobil yollarında hərəkətin çətinləşməsinə səbəb ola bilər.
+</p>
+
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+⛈️ Leysan yağışının şimşək və göy gurultusu ilə müşayiət olunması gözlənilir.
+</p>
+
+<h3 style="color:#f97316;">💨 Narıncı külək xəbərdarlığı da qüvvədədir</h3>
+
+<p>
+META Hidrometeorologiya Xidməti Bakı və Abşeron yarımadası üçün
+<strong>narıncı xəbərdarlıq</strong> elan edib.
 </p>
 
 <p>
-☀️ Saat 10:00-a olan məlumata görə, ölkənin əksər rayonlarında
-yağıntısız hava şəraiti müşahidə olunub.
+🌪️ Şimal-qərb küləyinin sürətinin <strong>20,8–28,4 m/s
+(75–102 km/saat)</strong> səviyyəsinədək güclənməsi gözlənilir.
 </p>
-
-<h3 style="color:#f59e0b;">🌡️ Temperatur</h3>
 
 <p>
-🌡️ Maksimal temperatur Bakı və Abşeron yarımadasında
-<strong>31°C-dək</strong>, aran rayonlarında <strong>36°C-dək</strong>,
-Naxçıvan Muxtar Respublikasında <strong>35°C-dək</strong>,
-dağlıq rayonlarda isə <strong>26°C-dək</strong> yüksəlib.
+Güclü külək ağacların və budaqların sınması, reklam lövhələrinin,
+yüngül konstruksiyaların və zəif bərkidilmiş əşyaların zədələnməsi
+riskini artıra bilər.
 </p>
 
-<p style="background:#7f1d1d;color:#ffffff;padding:15px;border-radius:10px;
-font-size:18px;font-weight:bold;">
-🚨 DİQQƏT! Güclü külək müşahidə olunan ərazilərdə vətəndaşlara açıq
-sahələrdə, ağacların, elektrik xətlərinin və zəif konstruksiyaların
-yaxınlığında ehtiyatlı olmaq tövsiyə olunur. Sürücülər də küləyin
-güclü olduğu ərazilərdə nəqliyyat vasitələrini diqqətlə idarə etməlidirlər.
+<h3 style="color:#a855f7;">⚡ Rəsmi proqnoz da güclü yağıntını təsdiqləyir</h3>
+
+<p>
+META Hidrometeorologiya Xidmətinin məlumatına əsasən, Bakı və Abşeron
+yarımadasında fasilələrlə yağış yağacağı, bəzi yerlərdə yağışın
+<strong>leysan xarakterli, intensiv və güclü</strong> olacağı gözlənilir.
+Yarımadanın ayrı-ayrı yerlərində şimşək çaxacağı ehtimalı da var.
+</p>
+
+<p>
+🌡️ Havanın temperaturunun gündüz <strong>24–26°C</strong> olacağı,
+nisbi rütubətin <strong>70–80%</strong> təşkil edəcəyi gözlənilir.
+</p>
+
+<p>
+🌡️ Atmosfer təzyiqi təxminən <strong>761 mm civə sütunu
+(~1015 hPa)</strong> səviyyəsində olacaq.
+</p>
+
+<h3 style="color:#ef4444;">🚗 Vətəndaşlara xəbərdarlıq</h3>
+
+<p>
+🚘 Güclü leysan zamanı sürücülərə sürəti azaltmaq, avtomobillər arasında
+məsafəni artırmaq və su ilə dolmuş yol hissələrindən keçməmək tövsiyə olunur.
+</p>
+
+<p>
+⚡ Şimşək zamanı açıq ərazilərdən, hündür ağaclardan, elektrik xətlərindən
+və metal konstruksiyalardan uzaq durmaq lazımdır.
+</p>
+
+<p>
+🌪️ Güclü külək zamanı ağacların, reklam lövhələrinin və zəif
+konstruksiyaların yaxınlığında dayanmayın.
+</p>
+
+<p style="background:#991b1b;color:#ffffff;padding:16px;border-radius:10px;font-size:20px;font-weight:bold;">
+🚨 12:00–18:00 aralığında hava şəraitinə xüsusi diqqət yetirin.
+Güclü leysan, şimşək və küləyin eyni vaxtda müşahidə olunması
+təhlükəli meteoroloji şərait yarada bilər.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi ölkə ərazisində meteoroloji vəziyyəti
-izləməyə davam edir. Hava şəraitində mühüm dəyişiklik baş verərsə,
-əlavə məlumat təqdim ediləcək.
+📡 META Meteorologiya Mərkəzi Bakı və Abşeronda hava şəraitini
+izləməyə davam edir. Proqnozda mühüm dəyişiklik baş verərsə,
+əlavə təcili məlumat yayımlanacaq.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Operativ hava xəbərdarlıqlarını izləmək üçün WhatsApp kanalımıza qoşulun:
+📲 Təcili hava xəbərdarlıqlarını izləmək üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank"
-style="color:#25D366;font-weight:bold;text-decoration:none;">
+target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
