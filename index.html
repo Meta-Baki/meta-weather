@@ -200,6 +200,10 @@ tr {
     opacity: 1.0;
 }
 
+/* Optional visitor support card. Add a bank-generated payment link in the data-tip-url attribute. */
+.support-project{width:min(760px,calc(100% - 28px));margin:26px auto 10px;padding:24px;border-radius:23px;text-align:left;background:linear-gradient(135deg,rgba(20,83,45,.62),rgba(7,34,61,.56));border:1px solid rgba(74,222,128,.36);box-shadow:0 18px 48px rgba(0,0,0,.2)}
+.support-project-head{display:flex;align-items:flex-start;gap:14px}.support-project-icon{width:48px;height:48px;display:grid;place-items:center;flex:0 0 auto;border-radius:16px;background:rgba(74,222,128,.17);font-size:27px}.support-project h2{margin:0;font-size:25px;color:#f0fdf4}.support-project p{margin:6px 0 0;color:#dcfce7;line-height:1.55}.support-project-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:19px}.support-pay-button{min-height:46px;padding:0 19px;border:0;border-radius:13px;background:#22c55e;color:#062312;font-size:15px;font-weight:850;cursor:pointer;box-shadow:0 8px 20px rgba(34,197,94,.18)}.support-pay-button:hover{background:#4ade80}.support-project-note{font-size:12px;color:#bbf7d0}.support-project-status{margin-top:14px;padding:10px 12px;border-radius:11px;background:rgba(2,6,23,.22);color:#d1fae5;font-size:12px;line-height:1.45}.support-project-status b{color:#86efac}@media(max-width:560px){.support-project{padding:19px}.support-project h2{font-size:21px}.support-project-actions{align-items:stretch}.support-pay-button{width:100%}}
+
 /* ========================= */
 /* DISCLAMER (добавлено) */
 /* ========================= */
@@ -2210,6 +2214,23 @@ body.app-page.app-mode .top-area {
 </div>
 
 
+<!-- PROJECT SUPPORT: paste a bank payment-link into data-tip-url when it is ready. -->
+<section class="support-project" aria-labelledby="supportProjectTitle" data-tip-url="">
+    <div class="support-project-head">
+        <div class="support-project-icon" aria-hidden="true">☕</div>
+        <div>
+            <h2 id="supportProjectTitle">META layihəsini dəstəklə</h2>
+            <p>Proqnozların, stansiyanın və pulsuz meteoroloji məlumatların işləməsinə könüllü dəstək göstərə bilərsiniz.</p>
+        </div>
+    </div>
+    <div class="support-project-actions">
+        <button class="support-pay-button" type="button" onclick="openSupportPayment()">💚 Dəstək göstər</button>
+        <span class="support-project-note">Könüllüdür • məbləği siz seçirsiniz</span>
+    </div>
+    <div class="support-project-status"><b>🔒 Təhlükəsiz ödəniş:</b> düymə bankın rəsmi ödəniş səhifəsinə və ya QR ödənişinə aparmalıdır. Kart nömrəsini burada açıq göstərməyin.</div>
+</section>
+
+
 <!-- FINAL COPYRIGHT BAR -->
 
 <div class="about-copyright" style="
@@ -2246,6 +2267,16 @@ function updateTime(){
 }
 setInterval(updateTime,1000);
 updateTime();
+
+function openSupportPayment() {
+    const card = document.querySelector('.support-project');
+    const paymentUrl = card?.dataset.tipUrl?.trim();
+    if (!paymentUrl) {
+        alert('Ödəniş linki hələ əlavə edilməyib. Bank tətbiqində ödəniş linki və ya QR yaradıldıqdan sonra bu düymə aktiv olacaq.');
+        return;
+    }
+    window.open(paymentUrl, '_blank', 'noopener');
+}
 
 function f(x){
     return Number(x || 0).toFixed(1);
