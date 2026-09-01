@@ -1,62 +1,68 @@
-<h2 style="color:#f97316;">⛈️🌪️ Bakı və Abşeronda təhlükəli hava: güclü külək, intensiv leysan və şimşək gözlənilir</h2>
+<h2 style="color:#ef4444;">🌊⛈️ Azərbaycanın bəzi dağ çaylarında sel təhlükəsi gözlənilir</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 31 avqust 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 1 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>31 avqustda Bakı və Abşeron yarımadasında bir neçə təhlükəli
-meteoroloji hadisənin eyni vaxtda müşahidə olunması gözlənilir.</strong>
+<strong>Azərbaycanda davam edən qeyri-sabit hava şəraiti ilə əlaqədar
+bəzi dağ çaylarında sululuğun artması və qısamüddətli sel hadisələrinin
+baş verməsi ehtimalı var.</strong>
 </p>
 
 <p>
-🌧️ Gün ərzində bəzi yerlərdə yağış yağacağı, yağıntının arabir
-<strong>leysan xarakterli</strong> olacağı proqnozlaşdırılır.
-</p>
-
-<p style="color:#3b82f6;font-size:20px;font-weight:bold;">
-⛈️ Axşam saatlarında ayrı-ayrı ərazilərdə yağışın intensiv və
-qısamüddətli güclü olması, şimşək çaxması ehtimalı var.
+🌧️ 1 sentyabr gündüz saatlarından <strong>2 sentyabr axşamadək</strong>
+ölkənin bəzi dağlıq və dağətəyi rayonlarında fasilələrlə yağış yağacağı
+gözlənilir.
 </p>
 
 <p>
-🌪️ Eyni zamanda şimal-qərb küləyi güclənəcək. Bakı və Abşeron üçün
-elan edilmiş narıncı xəbərdarlığa əsasən, küləyin sürəti
-<strong>20,8–28,4 m/s (75–102 km/saat)</strong> səviyyəsinə çata bilər.
+⛈️ Ayrı-ayrı ərazilərdə yağıntının
+<strong>qısamüddətli leysan xarakterli</strong> olması,
+şimşək çaxması və <strong>dolu düşməsi</strong> ehtimal edilir.
+</p>
+
+<h3 style="color:#ef4444;">🌊 Dağ çaylarında sululuq arta bilər</h3>
+
+<p>
+Gözlənilən intensiv yağıntılar nəticəsində çaylarda suyun səviyyəsinin
+və sululuğun artacağı proqnozlaşdırılır.
+</p>
+
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+⚠️ Bəzi dağ çaylarından qısamüddətli sel keçməsi istisna edilmir.
 </p>
 
 <p>
-⚠️ Güclü küləklə intensiv yağışın eyni vaxtda müşahidə olunması
-şəhər ərazisində ağac və budaqların sınması, zəif konstruksiyaların
-zədələnməsi və bəzi küçələrdə su yığılması riskini artıra bilər.
+🏔️ Xüsusilə dağlıq və dağətəyi ərazilərdə yaşayan və ya həmin
+ərazilərə səfər edən şəxslərə hava şəraitini diqqətlə izləmək
+tövsiyə olunur.
 </p>
 
 <p>
-🚗 Leysan zamanı yollarda görünüş məsafəsinin azalması və su
-toplanması səbəbindən sürücülərə sürəti azaltmaq və nəqliyyat
-vasitələri arasında təhlükəsiz məsafəni artırmaq tövsiyə olunur.
+🚗 Güclü leysan zamanı dağ yollarında görünüş məsafəsi azala,
+yollara su, palçıq və daş parçaları çıxa bilər.
 </p>
 
 <p>
-⚡ Şimşək zamanı açıq ərazilərdən, hündür ağaclardan, elektrik
-xətlərindən və metal konstruksiyalardan uzaq durmaq lazımdır.
+🌧️ Çay yataqlarının, dərələrin və digər aşağı ərazilərin yaxınlığında
+intensiv yağış zamanı ehtiyatlı olmaq lazımdır.
 </p>
 
-<p style="background:#991b1b;color:white;padding:16px;border-radius:10px;
+<p style="background:#7f1d1d;color:#ffffff;padding:16px;border-radius:10px;
 font-size:20px;font-weight:bold;">
-🚨 XƏBƏRDARLIQ: Güclü külək + intensiv leysan + şimşək
-kombinasiyası hava şəraitini xüsusilə təhlükəli edə bilər.
-Vətəndaşlardan ehtiyatlı olmaları xahiş olunur.
+🚨 XƏBƏRDARLIQ: 1–2 sentyabr tarixlərində dağlıq və dağətəyi
+rayonlarda leysan, şimşək, dolu və qısamüddətli sel təhlükəsi
+nəzərə alınmalıdır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava şəraitini izləyir.
-Faktiki külək, yağıntı və mümkün fəsadlarla bağlı yeni məlumat
-olduqda operativ xəbər veriləcək.
+📡 META Meteorologiya Mərkəzi Azərbaycanın dağlıq rayonlarında
+yağıntıları və çaylarda mümkün sel riskini izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Təcili hava məlumatları üçün WhatsApp kanalımıza qoşulun:
+📲 Ekologiya, təbiət və hava xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
