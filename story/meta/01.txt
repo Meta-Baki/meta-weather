@@ -1,55 +1,70 @@
-<h2 style="color:#ef4444;">🌪️🚨 Bakı və Abşeronda təhlükəli külək: sürət 102 km/saata çata bilər</h2>
+<h2 style="color:#3b82f6;">🌧️⛈️ Bakıda güclü leysan: yağıntı aylıq normanın 524 faizinə çatıb</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 31 avqust 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 1 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>31 avqustda Bakı və Abşeron yarımadasında güclü küləklə əlaqədar
-narıncı səviyyəli meteoroloji xəbərdarlıq qüvvədədir.</strong>
+<strong>Bakıda və Abşeron yarımadasında intensiv leysan nəticəsində
+18–22 mm yağıntı qeydə alınıb.</strong> Bu göstərici sentyabr ayı üçün
+nəzərdə tutulan aylıq yağıntı normasının ayrı-ayrı ərazilərdə
+<strong>300–524 faizinə</strong> bərabər olub.
 </p>
 
 <p>
-🌪️ Şimal-qərb küləyinin sürətinin <strong>20,8–28,4 m/s
-(75–102 km/saat)</strong> səviyyəsinədək güclənməsi gözlənilir.
-</p>
-
-<p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Belə güclü külək ağacların və iri budaqların sınması, zəif
-bərkidilmiş konstruksiyaların, reklam lövhələrinin və digər əşyaların
-zədələnməsi riskini artıra bilər.
+🌧️ Sentyabrın 1-i saat 10:00-a olan faktiki meteoroloji məlumatlara
+əsasən, Azərbaycanın bir sıra ərazilərində qeyri-sabit və yağıntılı
+hava şəraiti davam edib.
 </p>
 
 <p>
-🏙️ Bakı sakinlərinə ağacların, reklam lövhələrinin, elektrik
-xətlərinin və yüngül konstruksiyaların yaxınlığında uzun müddət
-dayanmamaq tövsiyə olunur.
+⛈️ Ayrı-ayrı ərazilərdə yağış intensiv leysan xarakterli olub və
+şimşək çaxıb.
+</p>
+
+<p style="color:#3b82f6;font-size:20px;font-weight:bold;">
+🌨️ Bakı ətrafında saat 20:35 və 21:50 radələrində intensiv leysanla
+yanaşı xırda dənəli dolu da müşahidə olunub.
+</p>
+
+<h3 style="color:#38bdf8;">🌧️ Şahdağda 51 mm yağıntı</h3>
+
+<p>
+Ölkə üzrə ən yüksək göstəricilərdən biri Şahdağda qeydə alınıb —
+<strong>51 mm</strong>. Bu, həmin ərazi üçün aylıq yağıntı normasının
+təxminən <strong>151 faizinə</strong> bərabərdir.
 </p>
 
 <p>
-🏠 Balkonlarda və açıq sahələrdə olan, küləyin apara biləcəyi
-əşyaların təhlükəsiz yerə yığılması məqsədəuyğundur.
+💧 Qusarda <strong>28 mm</strong>, Qəbələdə <strong>18 mm</strong>,
+Xızı, Xaltan və Şabranda <strong>14 mm</strong>, Qrızda
+<strong>13 mm</strong>, Xınalıq və Ağstafada isə
+<strong>10 mm</strong> yağıntı qeydə alınıb.
 </p>
+
+<h3 style="color:#f59e0b;">💨 Külək də güclənib</h3>
 
 <p>
-🚗 Sürücülər xüsusilə açıq magistrallarda, körpülərdə və küləyin
-yan istiqamətdən güclü təsir göstərdiyi ərazilərdə diqqətli olmalıdırlar.
+🌬️ Şimal-qərb küləyinin maksimal sürəti Neftçalada
+<strong>20 m/s (72 km/saat)</strong>, Bakı və Abşeron yarımadasında,
+həmçinin Şirvanda <strong>18 m/s (65 km/saat)</strong>,
+Culfada isə <strong>17 m/s (61 km/saat)</strong> təşkil edib.
 </p>
 
-<p style="background:#7f1d1d;color:white;padding:15px;border-radius:10px;
+<p style="background:#1e3a8a;color:#ffffff;padding:15px;border-radius:10px;
 font-size:19px;font-weight:bold;">
-🚨 DİQQƏT: Güclü külək davam etdiyi müddətdə ağacların altında
-avtomobil saxlamaq və zəif konstruksiyaların yaxınlığında dayanmaq
-təhlükəli ola bilər.
+🌧️ Bakı və Abşeronda qısa müddət ərzində aylıq normadan bir neçə dəfə
+çox yağıntının qeydə alınması son günlərdə müşahidə olunan qeyri-sabit
+atmosfer proseslərinin diqqətçəkən nəticələrindən biridir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Bakı və Abşeronda küləyin
-güclənməsini izləməyə davam edir.
+📡 META Meteorologiya Mərkəzi Azərbaycan ərazisində yağıntı,
+külək və digər meteoroloji hadisələri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Operativ hava xəbərdarlıqları üçün WhatsApp kanalımıza qoşulun:
+📲 Təbiət və hava xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
