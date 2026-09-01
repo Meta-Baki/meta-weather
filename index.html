@@ -1189,6 +1189,10 @@ body.app-page.app-mode .top-area {
         📅 14 günlük proqnoz
     </button>
 
+    <button onclick="openSection('monthlyForecastSection')">
+        📆 Aylıq hava proqnozu
+    </button>
+
     <button onclick="openSection('chartSection')">
         📊 META Qrafiklər
     </button>
@@ -1638,6 +1642,28 @@ body.app-page.app-mode .top-area {
         </script>
     </div>
 
+</div>
+
+<!-- MONTHLY TEXT FORECAST -->
+<div class="box section" id="monthlyForecastSection" style="margin-top:-40px;">
+    <h1>📆 Ay ərzində hava proqnozu</h1>
+    <div style="margin-bottom:25px; opacity:0.85;">
+        <h3>Aylıq proqnoz hava şəraitinin ümumi meylini göstərir.</h3>
+    </div>
+    <img src="/story/Ay ərzində hava/Ay ərzində hava.jpg"
+         alt="Ay ərzində hava proqnozu"
+         style="display:block; width:min(100%,720px); margin:0 auto 24px; border-radius:18px; box-shadow:0 12px 32px rgba(0,0,0,.35);">
+    <div id="monthlyForecastContent" style="
+        max-width:1180px;
+        margin:0 auto;
+        padding:25px;
+        text-align:left;
+        line-height:1.85;
+        font-size:19px;
+        background:rgba(15,23,42,.45);
+        border:1px solid rgba(125,211,252,.2);
+        border-radius:18px;
+    ">Yüklənir...</div>
 </div>
 
     <!-- 1. НАЗВАНИЕ -->
@@ -3945,7 +3971,7 @@ async function loadHomeNews(metaPosts) {
 }
 
 async function loadSystemStatus() {
-    await loadTextStory("systemContent", "/story/system.txt");
+    await loadTextStory("systemContent", "/story/sayt haqqında/system.txt");
 }
 
 const searchableCities = [
@@ -4038,9 +4064,10 @@ window.onload = function () {
     loadSpace();
     loadMeta();
     loadRecords();
-    loadTextStory("contactContent", "/story/əlaqə.txt");
-    loadTextStory("aboutContent", "/story/haqqımızda.txt");
-    loadTextStory("meteorologyContent", "/story/meteorologiya.txt");
+    loadTextStory("contactContent", "/story/sayt haqqında/əlaqə.txt");
+    loadTextStory("aboutContent", "/story/sayt haqqında/haqqımızda.txt");
+    loadTextStory("meteorologyContent", "/story/sayt haqqında/meteorologiya.txt");
+    loadTextStory("monthlyForecastContent", "/story/Ay ərzində hava/Ay ərzində hava.txt");
     loadSystemStatus();
 
     setInterval(loadMiniChart, 60000);
