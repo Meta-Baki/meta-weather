@@ -1,17 +1,18 @@
-<h2 style="color:#f59e0b;">☀️ Günəş aktivliyi və UV indeksi — 30 avqust–5 sentyabr</h2>
+<h2 style="color:#f59e0b;">☀️ Günəş aktivliyi və UV indeksi — 1–7 sentyabr</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 30 avqust 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 1 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
 <strong>☀️ Bakı və Abşeron yarımadasında qarşıdakı 7 gün ərzində
-Günəşin ultrabənövşəyi şüalanmasının əsasən yüksək səviyyədə olacağı
-gözlənilir.</strong>
+ultrabənövşəyi (UV) şüalanmanın əsasən yüksək, bəzi günlərdə isə
+çox yüksək səviyyəyə çatacağı gözlənilir.</strong>
 </p>
 
 <div style="overflow-x:auto;">
 <table style="width:100%;border-collapse:collapse;text-align:center;">
+
 <tr style="background:#f59e0b;color:#111827;">
 <th style="padding:12px;border:1px solid #374151;">📅 Tarix</th>
 <th style="padding:12px;border:1px solid #374151;">☀️ UV indeksi</th>
@@ -20,77 +21,95 @@ gözlənilir.</strong>
 </tr>
 
 <tr>
-<td style="padding:12px;border:1px solid #374151;">30 avqust</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>7.1</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🔴 Yüksək</td>
-<td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
-</tr>
-
-<tr>
-<td style="padding:12px;border:1px solid #374151;">31 avqust</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>6.5</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🔴 Yüksək</td>
-<td style="padding:12px;border:1px solid #374151;">🌥️ Yüksək</td>
-</tr>
-
-<tr>
 <td style="padding:12px;border:1px solid #374151;">1 sentyabr</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>6.6</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🔴 Yüksək</td>
+<td style="padding:12px;border:1px solid #374151;"><strong>6.8</strong></td>
+<td style="padding:12px;border:1px solid #374151;">🟠 Yüksək</td>
 <td style="padding:12px;border:1px solid #374151;">🌤️ Yüksək</td>
 </tr>
 
 <tr>
 <td style="padding:12px;border:1px solid #374151;">2 sentyabr</td>
 <td style="padding:12px;border:1px solid #374151;"><strong>6.9</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🔴 Yüksək</td>
+<td style="padding:12px;border:1px solid #374151;">🟠 Yüksək</td>
 <td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
 </tr>
 
 <tr>
 <td style="padding:12px;border:1px solid #374151;">3 sentyabr</td>
 <td style="padding:12px;border:1px solid #374151;"><strong>6.9</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🔴 Yüksək</td>
+<td style="padding:12px;border:1px solid #374151;">🟠 Yüksək</td>
 <td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
 </tr>
 
 <tr>
 <td style="padding:12px;border:1px solid #374151;">4 sentyabr</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>6.8</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🔴 Yüksək</td>
-<td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
+<td style="padding:12px;border:1px solid #374151;"><strong>7.4</strong></td>
+<td style="padding:12px;border:1px solid #374151;">🔴 Çox yüksək</td>
+<td style="padding:12px;border:1px solid #374151;">☀️ Çox yüksək</td>
 </tr>
 
 <tr>
 <td style="padding:12px;border:1px solid #374151;">5 sentyabr</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>6.6</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🔴 Yüksək</td>
-<td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
+<td style="padding:12px;border:1px solid #374151;"><strong>7.2</strong></td>
+<td style="padding:12px;border:1px solid #374151;">🔴 Çox yüksək</td>
+<td style="padding:12px;border:1px solid #374151;">☀️ Çox yüksək</td>
 </tr>
+
+<tr>
+<td style="padding:12px;border:1px solid #374151;">6 sentyabr</td>
+<td style="padding:12px;border:1px solid #374151;"><strong>8.0</strong></td>
+<td style="padding:12px;border:1px solid #374151;">🔴 Çox yüksək</td>
+<td style="padding:12px;border:1px solid #374151;">☀️ Çox yüksək</td>
+</tr>
+
+<tr>
+<td style="padding:12px;border:1px solid #374151;">7 sentyabr</td>
+<td style="padding:12px;border:1px solid #374151;"><strong>8.0</strong></td>
+<td style="padding:12px;border:1px solid #374151;">🔴 Çox yüksək</td>
+<td style="padding:12px;border:1px solid #374151;">☀️ Çox yüksək</td>
+</tr>
+
 </table>
 </div>
 
-<h3 style="color:#f59e0b;">⚠️ Tövsiyə</h3>
+<h3 style="color:#f59e0b;">📈 Həftənin tendensiyası</h3>
 
 <p>
-UV indeksinin <strong>6–7</strong> səviyyəsinə yüksəlməsi zamanı
-günəş şüalarının təsiri yüksək hesab olunur. Xüsusilə saat
-<strong>11:00–16:00</strong> arasında uzun müddət birbaşa Günəş altında
-qalmaq tövsiyə edilmir.
+☀️ <strong>1–3 sentyabr:</strong> UV indeksinin əsasən
+<strong>6–7</strong> intervalında — yüksək səviyyədə olması gözlənilir.
 </p>
 
 <p>
-🕶️ Günəş eynəyindən, baş örtüyündən və günəşdən qoruyucu vasitələrdən
-istifadə etmək tövsiyə olunur.
+🔴 <strong>4–7 sentyabr:</strong> Günəş şüalanmasının daha da
+intensivləşməsi və UV indeksinin bəzi proqnozlara əsasən
+<strong>7–8</strong> səviyyəsinə yüksəlməsi mümkündür.
 </p>
 
-<p style="color:#f59e0b;font-size:20px;font-weight:bold;">
-☀️ Həftə ərzində UV şüalanmasının ən yüksək səviyyəsinin
-30 avqust – 3 sentyabr tarixlərində müşahidə olunacağı gözlənilir.
+<p style="color:#ef4444;font-size:20px;font-weight:bold;">
+☀️⚠️ Həftənin ən yüksək UV göstəricilərinin 6–7 sentyabrda
+müşahidə olunması və indeksin 8-ə yaxınlaşması gözlənilir.
+</p>
+
+<h3 style="color:#f59e0b;">🕶️ Tövsiyələr</h3>
+
+<p>
+UV indeksinin <strong>6 və daha yüksək</strong> olduğu günlərdə
+xüsusilə günorta saatlarında Günəş şüalarının təsiri güclü olur.
+</p>
+
+<p>
+⏰ Xüsusilə <strong>11:00–16:00</strong> saatlarında birbaşa Günəş
+altında uzun müddət qalmaqdan çəkinmək tövsiyə edilir.
+</p>
+
+<p>
+🕶️ Günəş eynəyi, baş örtüyü və günəşdən qoruyucu vasitələrdən
+istifadə etmək məqsədəuyğundur.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
 📡 META Meteorologiya Mərkəzi Günəş və UV aktivliyini izləməyə davam edir.
+Proqnoz göstəricilərində dəyişiklik olduqda məlumat yenilənəcək.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
