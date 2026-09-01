@@ -1143,6 +1143,14 @@ body.app-page.app-mode .top-area {
         font-size: 24px !important;
     }
 }
+
+/* Increase only text rendering on phones; card sizes and layout stay unchanged. */
+@media (max-width: 600px), (max-device-width: 600px) {
+    html {
+        -webkit-text-size-adjust: 170%;
+        text-size-adjust: 170%;
+    }
+}
 </style>
 </head>
 
