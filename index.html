@@ -1272,6 +1272,105 @@ html.phone-menu #topMenu button {
     font-size: 18px;
     line-height: 1.15;
 }
+
+/* Compact phone header: every element has its own area and cannot overlap. */
+html.phone-menu .top-area,
+html.phone-menu .top-area.menu-expanded,
+html.phone-menu body.app-page.app-mode .top-area {
+    display: grid;
+    grid-template-columns: 150px minmax(0, 1fr) 185px;
+    grid-template-areas:
+        "logo title share"
+        "logo subtitle time"
+        "menu tagline tagline";
+    align-items: center;
+    column-gap: 10px;
+    row-gap: 5px;
+    padding: 10px 14px 14px !important;
+    box-sizing: border-box;
+}
+
+html.phone-menu .top-area > div:nth-of-type(1) {
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    grid-area: logo;
+    align-self: start;
+    z-index: 1 !important;
+}
+
+html.phone-menu .top-area .main-logo {
+    display: block;
+    width: 128px;
+    max-width: 100%;
+}
+
+html.phone-menu .top-area > div:nth-of-type(2) {
+    position: relative !important;
+    top: auto !important;
+    right: auto !important;
+    grid-area: share;
+    justify-self: end;
+    z-index: 2 !important;
+}
+
+html.phone-menu .top-area .share-btn {
+    padding: 9px 13px;
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+html.phone-menu .top-area #datetime {
+    position: relative !important;
+    top: auto !important;
+    right: auto !important;
+    grid-area: time;
+    justify-self: end;
+    margin: 0;
+    font-size: 13px !important;
+    white-space: nowrap;
+}
+
+html.phone-menu .top-area > h1 {
+    grid-area: title;
+    margin: 0;
+    font-size: 31px;
+    line-height: 1.08;
+}
+
+html.phone-menu .top-area > h2 {
+    grid-area: subtitle;
+    margin: 0;
+    font-size: 22px;
+    line-height: 1.15;
+}
+
+html.phone-menu .top-area > h3 {
+    grid-area: tagline;
+    margin: 0;
+    font-size: 17px;
+    line-height: 1.2;
+    text-align: left;
+}
+
+html.phone-menu .top-area .menu-toggle {
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    grid-area: menu;
+    justify-self: start;
+    min-width: 145px;
+    margin: 0;
+    padding: 16px 21px;
+    font-size: 18px;
+    z-index: 60001;
+}
+
+html.phone-menu .top-area #topMenu {
+    position: absolute;
+    top: calc(100% - 2px);
+    left: 12px;
+}
 </style>
 </head>
 
@@ -1394,8 +1493,8 @@ html.phone-menu #topMenu button {
 
 <!-- LIVE SENSOR PANEL: visible on every site tab -->
 <div class="sensor-strip global-sensor-strip" aria-label="Canlı stansiya sensorları">
-    <div class="sensor-tile"><small>🌡 Temperatur sensoru</small><strong id="sensorTemp">—</strong><span class="sensor-ok">● işləyir</span></div>
-    <div class="sensor-tile"><small>💧 Rütubət sensoru</small><strong id="sensorHumidity">—</strong><span class="sensor-ok">● işləyir</span></div>
+    <div class="sensor-tile"><small>🌡 Temperatur</small><strong id="sensorTemp">—</strong><span class="sensor-ok">● işləyir</span></div>
+    <div class="sensor-tile"><small>💧 Rütubət</small><strong id="sensorHumidity">—</strong><span class="sensor-ok">● işləyir</span></div>
     <div class="sensor-tile"><small>💨 Küləyin sürəti</small><strong id="sensorWind">—</strong><span class="sensor-ok">● işləyir</span></div>
     <div class="sensor-tile"><small>🌬 Külək zərbəsi</small><strong id="sensorGust">—</strong><span class="sensor-ok">● işləyir</span></div>
     <div class="sensor-tile"><small>📊 Təzyiq sensoru</small><strong id="sensorPressure">—</strong><span class="sensor-ok">● işləyir</span></div>
