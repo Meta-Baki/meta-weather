@@ -1,83 +1,63 @@
-<h2 style="color:#8b5cf6;">🛰️🔥 ESA-nın peyki bu gün Yer atmosferində yanaraq məhv olacaq — əfsanəvi "Cluster" missiyası başa çatır.</h2>
+<h2 style="color:#8b5cf6;">🚀👩‍🚀 NASA və ESA astronavtları bu gün açıq kosmosa çıxıblar</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 31 avqust 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 1 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Avropa Kosmik Agentliyinin (ESA) “Samba” peyki bu gün,
-31 avqustda Yer atmosferinə idarə olunan şəkildə daxil olaraq
-parçalanacaq və yanacaq.</strong>
+<strong>NASA astronavtı Jessica Meir və Avropa Kosmik Agentliyinin (ESA)
+astronavtı Sophie Adenot 1 sentyabrda Beynəlxalq Kosmik Stansiyadan
+açıq kosmosa çıxıblar.</strong>
 </p>
 
 <p>
-🛰️ “Samba” Yerin maqnit mühitinin öyrənilməsi üçün yaradılmış
-<strong>Cluster</strong> missiyasının dörd eyni kosmik aparatından biridir.
-Missiya uzun illər ərzində Günəş küləyinin Yer maqnitosferi ilə
-qarşılıqlı təsirinin öyrənilməsinə mühüm töhfə verib.
+🛰️ NASA tərəfindən <strong>“U.S. Spacewalk 99”</strong> adlandırılan
+əməliyyat Beynəlxalq Kosmik Stansiyanın xarici hissəsində mühüm
+texniki işlərin həyata keçirilməsi məqsədilə təşkil olunub.
+</p>
+
+<h3 style="color:#38bdf8;">🔧 Astronavtlar nə edirlər?</h3>
+
+<p>
+Astronavtların əsas tapşırıqlarından biri stansiyanın
+<strong>Harmony modulunun ön birləşmə portunda yerləşən
+retroreflektorun dəyişdirilməsidir.</strong>
 </p>
 
 <p>
-🌍 ESA-nın hesablamalarına əsasən, “Samba”nın atmosferə daxil olması
-<strong>31 avqust saat 23:41 CEST</strong> ətrafında gözlənilir.
-Bu, Bakı vaxtı ilə artıq <strong>1 sentyabr təxminən 01:41</strong>
-deməkdir. Hesablamalarda bir neçə dəqiqəlik dəyişiklik mümkündür.
+🛸 Bu avadanlıq kosmik gəmilərin Beynəlxalq Kosmik Stansiyaya
+yaxınlaşması və birləşməsi zamanı naviqasiya sistemlərinin fəaliyyətinə
+dəstək verir.
 </p>
 
 <p>
-🌊 Peykin trayektoriyası elə planlaşdırılıb ki, onun atmosferə daxil
-olması <strong>Yeni Zelandiyanın şimalındakı Cənubi Sakit okeanın
-uzaq və az məskunlaşmış hissəsi</strong> üzərində baş versin.
+🔧 Açıq kosmosda aparılan belə texniki əməliyyatlar stansiyanın
+uzunmüddətli və təhlükəsiz fəaliyyətinin təmin olunması baxımından
+mühüm əhəmiyyət daşıyır.
+</p>
+
+<h3 style="color:#8b5cf6;">🌍 Yerin yüzlərlə kilometr üzərində</h3>
+
+<p>
+Beynəlxalq Kosmik Stansiya Yer səthindən təxminən
+<strong>400 kilometr</strong> yüksəklikdə orbitdə hərəkət edir və
+planetimizin ətrafında təxminən hər 90 dəqiqədən bir dövrə vurur.
 </p>
 
 <p>
-🔥 Atmosferə daxil olarkən kosmik aparat son dərəcə yüksək temperatur
-və aerodinamik qüvvələrin təsirinə məruz qalacaq. Onun konstruksiyasının
-böyük hissəsinin atmosferdə parçalanaraq yanması gözlənilir.
-</p>
-
-<h3 style="color:#f59e0b;">✈️ Alimlər hadisəni təyyarədən izləyəcəklər</h3>
-
-<p>
-ESA bu hadisədən elmi tədqiqat üçün də istifadə edəcək. Xüsusi
-avadanlıqla təchiz edilmiş təyyarə peykin atmosferə daxil olmasını
-müşahidə etmək üçün bölgəyə göndəriləcək.
-</p>
-
-<p>
-🔬 Alimlər kosmik aparatın hansı mərhələlərdə parçalandığını,
-materialların necə əridiyini və atmosferdə necə məhv olduğunu
-öyrənməyə çalışacaqlar.
-</p>
-
-<p>
-Bu məlumatlar gələcək peyklərin istismar müddəti başa çatdıqdan sonra
-atmosferdə daha tam yanmasına imkan verən konstruksiyaların hazırlanmasına
-kömək edə bilər və kosmik tullantı riskinin azaldılması üçün istifadə olunacaq.
-</p>
-
-<h3 style="color:#8b5cf6;">🛰️ Sabah Tango da atmosferə daxil olacaq</h3>
-
-<p>
-“Samba”dan təxminən 24 saat sonra, <strong>1 sentyabrda</strong>,
-Cluster missiyasının digər peyki — <strong>“Tango”</strong> da
-Yer atmosferinə daxil olacaq.
-</p>
-
-<p>
-Beləliklə, ESA-nın Yerin maqnit mühitinin öyrənilməsində mühüm rol
-oynamış Cluster peyklərinin uzunmüddətli missiyası başa çatır.
+👩‍🚀 Açıq kosmosa çıxış zamanı astronavtlar stansiyanın xarici
+hissəsində xüsusi qoruyucu skafandrlarda işləyirlər.
 </p>
 
 <p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🌌 Bu hadisə alimlərə yalnız tarixi kosmik missiyanı başa çatdırmaq
-deyil, həm də peyklərin atmosferdə parçalanması prosesini nadir
-şəkildə birbaşa öyrənmək imkanı verəcək.
+🌌 1 sentyabrda keçirilən “U.S. Spacewalk 99” NASA və ESA-nın
+Beynəlxalq Kosmik Stansiyada birgə fəaliyyətinin növbəti mühüm
+əməliyyatlarından biridir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi kosmos, astronomiya və kosmik hava
-ilə bağlı mühüm hadisələri izləməyə davam edir.
+📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi
+və kosmik missiyalarla bağlı mühüm xəbərləri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
