@@ -1647,22 +1647,17 @@ body.app-page.app-mode .top-area {
 <!-- MONTHLY TEXT FORECAST -->
 <div class="box section" id="monthlyForecastSection" style="margin-top:-40px;">
     <h1>📆 Ay ərzində hava proqnozu</h1>
-    <div style="margin-bottom:25px; opacity:0.85;">
+    <div style="margin-bottom:70px; opacity:0.8;">
         <h3>Aylıq proqnoz hava şəraitinin ümumi meylini göstərir.</h3>
     </div>
-    <img src="/story/Ay ərzində hava/Ay ərzində hava.jpg"
-         alt="Ay ərzində hava proqnozu"
-         style="display:block; width:min(100%,720px); margin:0 auto 24px; border-radius:18px; box-shadow:0 12px 32px rgba(0,0,0,.35);">
     <div id="monthlyForecastContent" style="
-        max-width:1180px;
-        margin:0 auto;
-        padding:25px;
         text-align:left;
-        line-height:1.85;
-        font-size:19px;
-        background:rgba(15,23,42,.45);
-        border:1px solid rgba(125,211,252,.2);
+        line-height:1.9;
+        font-size:20px;
+        background:rgba(15,23,42,0.25);
+        padding:25px;
         border-radius:18px;
+        position:relative;
     ">Yüklənir...</div>
 </div>
 
@@ -3577,40 +3572,10 @@ async function loadHistory(){
         const d = await r.json();
 
         document.getElementById("historyContent").innerHTML = `
-
-<div style="
-    position:relative;
-    min-height:320px;
-">
-
-    <!-- ФОТО -->
-    <img
-    src="${d.image}"
-    style="
-        width:100%;
-        max-width:500px;
-        height:auto;
-
-        border-radius:18px;
-
-        box-shadow:0 10px 30px rgba(0,0,0,0.45);
-
-        display:block;
-        margin:0 auto 20px auto;
-    "
->
-
-    <!-- ТЕКСТ -->
-    <div style="
-    text-align:left;
-    line-height:1.6;
-">
-    ${d.text}
-</div>
-
-</div>
-
-`;
+            <div style="margin-bottom:50px;">
+                <img src="${d.image}" style="width:100%;max-width:500px;border-radius:15px;margin-bottom:20px;">
+                <div style="line-height:1.7;text-align:left;">${d.text}</div>
+            </div>`;
 
     }catch(e){
 
@@ -3906,6 +3871,25 @@ async function loadTextStory(containerId, filePath) {
     }
 }
 
+async function loadMonthlyForecast() {
+    const container = document.getElementById("monthlyForecastContent");
+    if (!container) return;
+    try {
+        const response = await fetch("/story/Ay ərzində hava/Ay ərzində hava.txt", { cache: "no-cache" });
+        if (!response.ok) throw new Error("Monthly forecast HTTP " + response.status);
+        const text = (await response.text()).trim();
+        if (!text) throw new Error("Monthly forecast is empty");
+        container.innerHTML = `
+            <div style="margin-bottom:50px;">
+                <img src="/story/Ay ərzində hava/Ay ərzində hava.jpg" alt="Ay ərzində hava proqnozu" style="width:100%;max-width:500px;border-radius:15px;margin-bottom:20px;">
+                <div style="line-height:1.7;text-align:left;">${text}</div>
+            </div>`;
+    } catch (error) {
+        console.error("Monthly forecast error:", error);
+        container.innerHTML = "❌ Aylıq proqnoz məlumatı tapılmadı.";
+    }
+}
+
 function placeSensorPanel(sectionId) {
     const panel = document.querySelector('.global-sensor-strip');
     if (!panel) return;
@@ -4067,7 +4051,7 @@ window.onload = function () {
     loadTextStory("contactContent", "/story/sayt haqqında/əlaqə.txt");
     loadTextStory("aboutContent", "/story/sayt haqqında/haqqımızda.txt");
     loadTextStory("meteorologyContent", "/story/sayt haqqında/meteorologiya.txt");
-    loadTextStory("monthlyForecastContent", "/story/Ay ərzində hava/Ay ərzində hava.txt");
+    loadMonthlyForecast();
     loadSystemStatus();
 
     setInterval(loadMiniChart, 60000);
