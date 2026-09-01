@@ -1151,6 +1151,127 @@ body.app-page.app-mode .top-area {
         text-size-adjust: 170%;
     }
 }
+
+/* Phone-only layout corrections. The desktop layout is intentionally untouched. */
+html.phone-menu .station-overview {
+    width: calc(100% - 36px);
+    grid-template-columns: minmax(0, 1fr);
+    gap: 18px;
+}
+
+html.phone-menu .station-hero {
+    min-width: 0;
+    padding: 24px;
+}
+
+html.phone-menu .health-panel {
+    min-width: 0;
+    padding: 18px;
+}
+
+html.phone-menu .health-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+}
+
+html.phone-menu .health-row {
+    align-items: flex-start;
+    padding: 10px 12px;
+    gap: 8px;
+}
+
+html.phone-menu .health-row span,
+html.phone-menu .health-row strong {
+    font-size: 13px;
+    line-height: 1.25;
+}
+
+html.phone-menu .home-forecast {
+    flex: none;
+    margin-top: 12px;
+    padding: 13px 15px;
+}
+
+html.phone-menu .home-forecast h3 {
+    font-size: 16px;
+}
+
+html.phone-menu .home-forecast-text {
+    font-size: 17px;
+    line-height: 1.4;
+}
+
+html.phone-menu .station-chart {
+    height: 255px;
+    padding: 15px 17px;
+}
+
+html.phone-menu .station-chart canvas {
+    height: 205px !important;
+}
+
+html.phone-menu .station-chart-head {
+    font-size: 14px;
+}
+
+html.phone-menu .station-chart-legend {
+    font-size: 12px;
+}
+
+html.phone-menu .global-sensor-strip {
+    width: calc(100% - 28px);
+    display: flex;
+    gap: 8px;
+    margin-bottom: 18px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 2px 0 7px;
+    scroll-snap-type: x proximity;
+    -webkit-overflow-scrolling: touch;
+}
+
+html.phone-menu .global-sensor-strip .sensor-tile {
+    flex: 0 0 185px;
+    min-width: 0;
+    padding: 10px 12px;
+    border-radius: 14px;
+    scroll-snap-align: start;
+}
+
+html.phone-menu .global-sensor-strip .sensor-tile small {
+    margin-bottom: 5px;
+    font-size: 13px;
+    line-height: 1.2;
+}
+
+html.phone-menu .global-sensor-strip .sensor-tile strong {
+    font-size: 18px;
+    line-height: 1.15;
+}
+
+html.phone-menu .global-sensor-strip .sensor-ok {
+    margin-top: 5px;
+    font-size: 11px;
+}
+
+html.phone-menu .menu-toggle {
+    min-width: 180px;
+    padding: 24px 30px;
+    font-size: 21px;
+}
+
+html.phone-menu #topMenu {
+    width: min(720px, calc(100vw - 24px));
+    max-height: 500px;
+    gap: 5px;
+    padding: 8px;
+}
+
+html.phone-menu #topMenu button {
+    padding: 10px 14px;
+    font-size: 18px;
+    line-height: 1.15;
+}
 </style>
 </head>
 
