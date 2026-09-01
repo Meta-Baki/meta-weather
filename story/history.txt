@@ -1,110 +1,109 @@
-<h2 style="color:#ef4444;">🚨⛈️ TƏCİLİ XƏBƏRDARLIQ: Bakı və Abşeronda çox güclü leysan və şimşək gözlənilir</h2>
+<h2 style="color:#38bdf8;">🌤️ 2 sentyabr üçün hava proqnozu — Bakı, Abşeron və Azərbaycan</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 31 avqust 2026, 11:00 — Bakı vaxtı
+🕐 Əlavə olunub: 1 sentyabr 2026, 12:25 — Bakı vaxtı
 </p>
 
-<p style="background:#7f1d1d;color:#ffffff;padding:16px;border-radius:10px;font-size:21px;font-weight:bold;">
-🔴 DİQQƏT! 31 avqustda Bakı və Abşeron yarımadasında hava şəraitinin ciddi şəkildə pisləşməsi, güclü leysan, şimşək və çox güclü külək gözlənilir.
+<h3 style="color:#38bdf8;">🏙️ Bakı və Abşeron yarımadası</h3>
+
+<p>
+<strong>2 sentyabrda Bakı və Abşeron yarımadasında hava şəraitinin
+əsasən sabitləşəcəyi və yağmursuz keçəcəyi gözlənilir.</strong>
+Gün ərzində əsasən açıq və az buludlu hava üstünlük təşkil edəcək.
 </p>
 
 <p>
-<strong>META Meteorologiya Mərkəzinin istifadə etdiyi proqnoz məlumatlarına əsasən,
-günün ikinci yarısında Bakı və Abşeron yarımadasında yağıntıların kəskin
-intensivləşməsi ehtimalı var.</strong>
-</p>
-
-<h3 style="color:#3b82f6;">🌧️ Güclü leysan — ən riskli saatlar</h3>
-
-<p style="font-size:20px;">
-🌧️ <strong>Saat 12:00 ətrafında — təxminən 18 mm yağıntı</strong>
-</p>
-
-<p style="font-size:20px;">
-⛈️ <strong>Saat 18:00 ətrafında — təxminən 13 mm yağıntı</strong>
+🌡️ Havanın temperaturu gecə <strong>+22…+24°C</strong>,
+gündüz isə təxminən <strong>+26…+27°C</strong> təşkil edəcək.
+Abşeron yarımadasının bəzi ərazilərində gündüz temperatur
+<strong>+25…+26°C</strong> ətrafında olacaq.
 </p>
 
 <p>
-⚠️ Qısa müddət ərzində bu qədər yağıntının düşməsi ayrı-ayrı ərazilərdə
-küçələrin və alçaq sahələrin su ilə dolmasına, drenaj sistemlərinin yüklənməsinə
-və avtomobil yollarında hərəkətin çətinləşməsinə səbəb ola bilər.
-</p>
-
-<p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⛈️ Leysan yağışının şimşək və göy gurultusu ilə müşayiət olunması gözlənilir.
-</p>
-
-<h3 style="color:#f97316;">💨 Narıncı külək xəbərdarlığı da qüvvədədir</h3>
-
-<p>
-META Hidrometeorologiya Xidməti Bakı və Abşeron yarımadası üçün
-<strong>narıncı xəbərdarlıq</strong> elan edib.
+💧 Nisbi rütubətin gecə və səhər saatlarında təxminən
+<strong>50–60%</strong>, gündüz isə <strong>40–50%</strong>
+intervalında olacağı gözlənilir.
 </p>
 
 <p>
-🌪️ Şimal-qərb küləyinin sürətinin <strong>20,8–28,4 m/s
-(75–102 km/saat)</strong> səviyyəsinədək güclənməsi gözlənilir.
+🌬️ Əsasən şimal istiqamətli külək əsəcək. Küləyin orta sürətinin
+təxminən <strong>5–8 m/s (18–29 km/saat)</strong> olacağı,
+gecə və səhər ayrı-ayrı vaxtlarda <strong>8–9 m/s
+(29–32 km/saat)</strong> səviyyəsinə yüksələ biləcəyi gözlənilir.
 </p>
 
 <p>
-Güclü külək ağacların və budaqların sınması, reklam lövhələrinin,
-yüngül konstruksiyaların və zəif bərkidilmiş əşyaların zədələnməsi
-riskini artıra bilər.
-</p>
-
-<h3 style="color:#a855f7;">⚡ Rəsmi proqnoz da güclü yağıntını təsdiqləyir</h3>
-
-<p>
-META Hidrometeorologiya Xidmətinin məlumatına əsasən, Bakı və Abşeron
-yarımadasında fasilələrlə yağış yağacağı, bəzi yerlərdə yağışın
-<strong>leysan xarakterli, intensiv və güclü</strong> olacağı gözlənilir.
-Yarımadanın ayrı-ayrı yerlərində şimşək çaxacağı ehtimalı da var.
+🌪️ Ayrı-ayrı açıq ərazilərdə küləyin ani şiddətlənməsi zamanı
+külək sürətinin təxminən <strong>10–12 m/s (36–43 km/saat)</strong>
+səviyyəsinə çatması mümkündür.
 </p>
 
 <p>
-🌡️ Havanın temperaturunun gündüz <strong>24–26°C</strong> olacağı,
-nisbi rütubətin <strong>70–80%</strong> təşkil edəcəyi gözlənilir.
+🌡️ Atmosfer təzyiqinin təxminən <strong>1016–1017 hPa
+(762–763 mm civə sütunu)</strong> ətrafında olacağı gözlənilir.
 </p>
 
 <p>
-🌡️ Atmosfer təzyiqi təxminən <strong>761 mm civə sütunu
-(~1015 hPa)</strong> səviyyəsində olacaq.
+☀️ UV indeksinin maksimum <strong>6–7</strong> səviyyəsinə çatacağı
+gözlənilir ki, bu da <strong>yüksək UV şüalanması</strong> hesab olunur.
 </p>
 
-<h3 style="color:#ef4444;">🚗 Vətəndaşlara xəbərdarlıq</h3>
+<h3 style="color:#22c55e;">🇦🇿 Azərbaycanın rayonlarında</h3>
 
 <p>
-🚘 Güclü leysan zamanı sürücülərə sürəti azaltmaq, avtomobillər arasında
-məsafəni artırmaq və su ilə dolmuş yol hissələrindən keçməmək tövsiyə olunur.
-</p>
-
-<p>
-⚡ Şimşək zamanı açıq ərazilərdən, hündür ağaclardan, elektrik xətlərindən
-və metal konstruksiyalardan uzaq durmaq lazımdır.
+🌦️ Ölkənin əksər rayonlarında hava şəraitinin əsasən sabit keçməsi
+gözlənilsə də, <strong>bəzi dağlıq və dağətəyi ərazilərdə qeyri-sabit
+hava şəraiti davam edə bilər.</strong>
 </p>
 
 <p>
-🌪️ Güclü külək zamanı ağacların, reklam lövhələrinin və zəif
-konstruksiyaların yaxınlığında dayanmayın.
+⛈️ Ayrı-ayrı dağlıq və dağətəyi rayonlarda arabir yağış yağması,
+bəzi yerlərdə yağıntının <strong>qısamüddətli leysan xarakterli və
+intensiv</strong> olması, şimşək çaxması və dolu düşməsi ehtimalı var.
 </p>
 
-<p style="background:#991b1b;color:#ffffff;padding:16px;border-radius:10px;font-size:20px;font-weight:bold;">
-🚨 12:00–18:00 aralığında hava şəraitinə xüsusi diqqət yetirin.
-Güclü leysan, şimşək və küləyin eyni vaxtda müşahidə olunması
-təhlükəli meteoroloji şərait yarada bilər.
+<p>
+🌫️ Gecə və səhər bəzi dağlıq ərazilərdə duman müşahidə oluna bilər.
+</p>
+
+<p>
+🌡️ Aran və düzənlik rayonlarında gündüz temperaturun əsasən
+<strong>+25…+30°C</strong>, dağlıq ərazilərdə isə
+<strong>+18…+25°C</strong> intervalında dəyişəcəyi gözlənilir.
+</p>
+
+<p style="background:#78350f;color:#ffffff;padding:16px;border-radius:10px;
+font-size:19px;font-weight:bold;">
+⚠️ XƏBƏRDARLIQ: 2 sentyabr axşam saatlarınadək bəzi dağlıq və
+dağətəyi rayonlarda leysan, şimşək və dolu ehtimalı nəzərə alınmalıdır.
+Güclü yağıntı zamanı dağ çaylarında suyun səviyyəsində qısamüddətli
+artım mümkündür.
+</p>
+
+<h3 style="color:#38bdf8;">📌 Bakı üçün qısa proqnoz</h3>
+
+<p>
+🌤️ Hava: əsasən açıq və yağmursuz<br>
+🌡️ Gecə: <strong>+22…+24°C</strong><br>
+🌡️ Gündüz: <strong>+26…+27°C</strong><br>
+💨 Külək: <strong>5–8 m/s (18–29 km/saat)</strong><br>
+🌪️ Mümkün külək şiddətlənməsi: <strong>10–12 m/s (36–43 km/saat)</strong><br>
+💧 Rütubət: <strong>40–60%</strong><br>
+🔵 Təzyiq: <strong>1016–1017 hPa (762–763 mmHg)</strong><br>
+☀️ UV indeksi: <strong>6–7 — yüksək</strong>
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Bakı və Abşeronda hava şəraitini
-izləməyə davam edir. Proqnozda mühüm dəyişiklik baş verərsə,
-əlavə təcili məlumat yayımlanacaq.
+📡 META Meteorologiya Mərkəzi hava şəraitini izləməyə davam edir.
+Proqnozda mühüm dəyişiklik baş verərsə, əlavə məlumat təqdim olunacaq.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Təcili hava xəbərdarlıqlarını izləmək üçün WhatsApp kanalımıza qoşulun:
+📲 Operativ hava məlumatları üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
+target="_blank"
+style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
