@@ -1,73 +1,72 @@
-<h2 style="color:#3b82f6;">🌧️⛈️ Bakıda güclü leysan: yağıntı aylıq normanın 524 faizinə çatıb</h2>
+<h2 style="color:#22c55e;">🌱♻️ Azərbaycanda ekoloji idarəetmə üzrə yeni dövlət standartı qəbul edilib</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 1 sentyabr 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 2 sentyabr 2026, 17:50 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Bakıda və Abşeron yarımadasında intensiv leysan nəticəsində
-18–22 mm yağıntı qeydə alınıb.</strong> Bu göstərici sentyabr ayı üçün
-nəzərdə tutulan aylıq yağıntı normasının ayrı-ayrı ərazilərdə
-<strong>300–524 faizinə</strong> bərabər olub.
+<strong>Azərbaycanda ekologiya və ətraf mühitin idarə olunması sahəsində
+dövlət standartının yeni versiyası qəbul edilib.</strong>
 </p>
 
 <p>
-🌧️ Sentyabrın 1-i saat 10:00-a olan faktiki meteoroloji məlumatlara
-əsasən, Azərbaycanın bir sıra ərazilərində qeyri-sabit və yağıntılı
-hava şəraiti davam edib.
+🌍 Azərbaycan Standartlaşdırma İnstitutu (AZSTAND)
+<strong>ISO 14001:2026 “Environmental management systems”</strong>
+beynəlxalq standartı əsasında yeni
+<strong>AZS ISO 14001:2026</strong> dövlət standartını təsdiqləyib.
+</p>
+
+<h3 style="color:#22c55e;">♻️ Yeni standart nəyi dəyişəcək?</h3>
+
+<p>
+Yeni standart müəssisə və təşkilatlarda ətraf mühitin idarə olunması
+sistemlərinin daha müasir tələblərə uyğun qurulmasına imkan verəcək.
 </p>
 
 <p>
-⛈️ Ayrı-ayrı ərazilərdə yağış intensiv leysan xarakterli olub və
-şimşək çaxıb.
-</p>
-
-<p style="color:#3b82f6;font-size:20px;font-weight:bold;">
-🌨️ Bakı ətrafında saat 20:35 və 21:50 radələrində intensiv leysanla
-yanaşı xırda dənəli dolu da müşahidə olunub.
-</p>
-
-<h3 style="color:#38bdf8;">🌧️ Şahdağda 51 mm yağıntı</h3>
-
-<p>
-Ölkə üzrə ən yüksək göstəricilərdən biri Şahdağda qeydə alınıb —
-<strong>51 mm</strong>. Bu, həmin ərazi üçün aylıq yağıntı normasının
-təxminən <strong>151 faizinə</strong> bərabərdir.
+🌿 Standartın tətbiqi nəticəsində:
 </p>
 
 <p>
-💧 Qusarda <strong>28 mm</strong>, Qəbələdə <strong>18 mm</strong>,
-Xızı, Xaltan və Şabranda <strong>14 mm</strong>, Qrızda
-<strong>13 mm</strong>, Xınalıq və Ağstafada isə
-<strong>10 mm</strong> yağıntı qeydə alınıb.
+♻️ ətraf mühitə mənfi təsirlərin azaldılması;<br><br>
+💧🌱 təbii resurslardan daha səmərəli istifadə;<br><br>
+🏭 müəssisələrdə ekoloji idarəetmənin təkmilləşdirilməsi;<br><br>
+📋 ekoloji qanunvericiliyin tələblərinə uyğunluğun gücləndirilməsi;<br><br>
+🌍 beynəlxalq ekoloji standartlara uyğunlaşmanın artırılması nəzərdə tutulur.
 </p>
 
-<h3 style="color:#f59e0b;">💨 Külək də güclənib</h3>
+<h3 style="color:#38bdf8;">🏭 Müəssisələr üçün mühüm dəyişiklik</h3>
 
 <p>
-🌬️ Şimal-qərb küləyinin maksimal sürəti Neftçalada
-<strong>20 m/s (72 km/saat)</strong>, Bakı və Abşeron yarımadasında,
-həmçinin Şirvanda <strong>18 m/s (65 km/saat)</strong>,
-Culfada isə <strong>17 m/s (61 km/saat)</strong> təşkil edib.
+ISO 14001 standartları müəssisələrin fəaliyyətinin ətraf mühitə təsirini
+sistemli şəkildə müəyyənləşdirməyə, qiymətləndirməyə və azaltmağa
+kömək edən ekoloji idarəetmə mexanizmlərindən biridir.
 </p>
 
-<p style="background:#1e3a8a;color:#ffffff;padding:15px;border-radius:10px;
+<p>
+Yeni dövlət standartının layihəsi Azərbaycan Respublikasının
+Ekologiya və Təbii Sərvətlər Nazirliyi ilə razılaşdırılıb və
+standartlaşdırma üzrə müvafiq Texniki Komitənin təqdimatı əsasında qəbul edilib.
+</p>
+
+<p style="background:#14532d;color:#ffffff;padding:16px;border-radius:10px;
 font-size:19px;font-weight:bold;">
-🌧️ Bakı və Abşeronda qısa müddət ərzində aylıq normadan bir neçə dəfə
-çox yağıntının qeydə alınması son günlərdə müşahidə olunan qeyri-sabit
-atmosfer proseslərinin diqqətçəkən nəticələrindən biridir.
+🌍♻️ Yeni standart Azərbaycanda müəssisələrin ətraf mühitə təsirinin
+azaldılması, resurslardan daha səmərəli istifadə və müasir ekoloji
+idarəetmə prinsiplərinin genişləndirilməsi baxımından mühüm addımdır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycan ərazisində yağıntı,
-külək və digər meteoroloji hadisələri izləməyə davam edir.
+📡 META Meteorologiya Mərkəzi Azərbaycan və dünyada ekologiya,
+təbiət və ətraf mühitlə bağlı yenilikləri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Təbiət və hava xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Ekologiya, təbiət və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
+target="_blank"
+style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
