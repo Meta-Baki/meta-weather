@@ -1,71 +1,90 @@
-<h2 style="color:#ef4444;">🌊⛈️ Azərbaycanın bəzi dağ çaylarında sel təhlükəsi gözlənilir</h2>
+<h2 style="color:#22c55e;">🌿🇦🇿 Azərbaycanda 298 min hektardan çox ərazi təmizlənib — torpaqların bərpası davam edir</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 1 sentyabr 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 2 sentyabr 2026, 17:50 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Azərbaycanda davam edən qeyri-sabit hava şəraiti ilə əlaqədar
-bəzi dağ çaylarında sululuğun artması və qısamüddətli sel hadisələrinin
-baş verməsi ehtimalı var.</strong>
+<strong>Azərbaycanın azad edilmiş ərazilərində genişmiqyaslı
+minatəmizləmə və ərazilərin bərpası işləri davam etdirilir.
+Bu günədək 298 min hektardan çox ərazi təmizlənib.</strong>
 </p>
 
 <p>
-🌧️ 1 sentyabr gündüz saatlarından <strong>2 sentyabr axşamadək</strong>
-ölkənin bəzi dağlıq və dağətəyi rayonlarında fasilələrlə yağış yağacağı
-gözlənilir.
+🌱 Torpaqların təhlükəli partlayıcı qalıqlardan təmizlənməsi yalnız
+yaşayış məntəqələrinin bərpası üçün deyil, həmçinin
+<strong>kənd təsərrüfatının dirçəldilməsi və ətraf mühitin qorunması</strong>
+baxımından mühüm əhəmiyyət daşıyır.
+</p>
+
+<h3 style="color:#f59e0b;">⚠️ 260 mindən çox mina və sursat zərərsizləşdirilib</h3>
+
+<p>
+Açıqlanan məlumata əsasən, indiyədək təmizləmə əməliyyatları zamanı
+<strong>260 147 mina və partlamamış hərbi sursat</strong> aşkar edilərək
+zərərsizləşdirilib.
 </p>
 
 <p>
-⛈️ Ayrı-ayrı ərazilərdə yağıntının
-<strong>qısamüddətli leysan xarakterli</strong> olması,
-şimşək çaxması və <strong>dolu düşməsi</strong> ehtimal edilir.
+🚜 Təmizlənmiş ərazilər yaşayış məntəqələrinin, yolların və digər
+infrastrukturun qurulması ilə yanaşı kənd təsərrüfatı torpaqlarının
+yenidən istifadəyə qaytarılması üçün də imkan yaradır.
 </p>
 
-<h3 style="color:#ef4444;">🌊 Dağ çaylarında sululuq arta bilər</h3>
+<h3 style="color:#22c55e;">🌱 Təbiətin və torpaqların bərpası</h3>
 
 <p>
-Gözlənilən intensiv yağıntılar nəticəsində çaylarda suyun səviyyəsinin
-və sululuğun artacağı proqnozlaşdırılır.
-</p>
-
-<p style="color:#ef4444;font-size:20px;font-weight:bold;">
-⚠️ Bəzi dağ çaylarından qısamüddətli sel keçməsi istisna edilmir.
+Azad edilmiş ərazilərin təhlükəli sursatlardan təmizlənməsi
+<strong>torpaq və ekosistemlərin təhlükəsiz bərpasının əsas
+mərhələlərindən biridir.</strong>
 </p>
 
 <p>
-🏔️ Xüsusilə dağlıq və dağətəyi ərazilərdə yaşayan və ya həmin
-ərazilərə səfər edən şəxslərə hava şəraitini diqqətlə izləmək
-tövsiyə olunur.
+🌾 Təhlükəsiz ərazilərin genişlənməsi kənd təsərrüfatının bərpasına,
+torpaq resurslarının yenidən istifadəsinə və yeni yaşıllıq sahələrinin
+yaradılmasına şərait yaradır.
 </p>
 
 <p>
-🚗 Güclü leysan zamanı dağ yollarında görünüş məsafəsi azala,
-yollara su, palçıq və daş parçaları çıxa bilər.
+🌳 Eyni zamanda bu proses ətraf mühitin qorunması və regionda
+dayanıqlı inkişaf üçün vacib hesab olunur.
 </p>
+
+<h3 style="color:#38bdf8;">🤖 Müasir texnologiyalar tətbiq olunur</h3>
 
 <p>
-🌧️ Çay yataqlarının, dərələrin və digər aşağı ərazilərin yaxınlığında
-intensiv yağış zamanı ehtiyatlı olmaq lazımdır.
+Azərbaycanda minatəmizləmə əməliyyatlarının sürətini və təhlükəsizliyini
+artırmaq məqsədilə <strong>qabaqcıl texnologiyalar, innovativ yanaşmalar
+və müasir idarəetmə sistemləri</strong> tətbiq edilir.
 </p>
 
-<p style="background:#7f1d1d;color:#ffffff;padding:16px;border-radius:10px;
-font-size:20px;font-weight:bold;">
-🚨 XƏBƏRDARLIQ: 1–2 sentyabr tarixlərində dağlıq və dağətəyi
-rayonlarda leysan, şimşək, dolu və qısamüddətli sel təhlükəsi
-nəzərə alınmalıdır.
+<div style="background:#14532d;color:#ffffff;padding:16px;border-radius:10px;
+font-size:19px;margin:18px 0;">
+<strong>🌿 Əsas göstəricilər:</strong><br><br>
+🗺️ Təmizlənmiş ərazi: <strong>298 000 hektardan çox</strong><br><br>
+⚠️ Aşkarlanaraq zərərsizləşdirilən mina və partlamamış sursat:
+<strong>260 147 ədəd</strong><br><br>
+🌱 Məqsədlər: <strong>təhlükəsiz yaşayış, torpaqların bərpası,
+kənd təsərrüfatının dirçəldilməsi və ətraf mühitin qorunması</strong>
+</div>
+
+<p style="color:#22c55e;font-size:20px;font-weight:bold;">
+🌳 Təhlükəli ərazilərin təmizlənməsi Qarabağ və Şərqi Zəngəzurda
+təbiətin, kənd təsərrüfatı torpaqlarının və yaşayış məntəqələrinin
+uzunmüddətli bərpası üçün mühüm əhəmiyyət daşıyır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycanın dağlıq rayonlarında
-yağıntıları və çaylarda mümkün sel riskini izləməyə davam edir.
+📡 META Meteorologiya Mərkəzi Azərbaycanın təbiəti, ekologiyası
+və ətraf mühitin bərpası ilə bağlı yenilikləri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ekologiya, təbiət və hava xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Ekologiya və təbiət xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank" style="color:#25D366;font-weight:bold;text-decoration:none;">
+target="_blank"
+style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
