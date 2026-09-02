@@ -11,7 +11,7 @@ Aprel | 29.6 °C | 8.7 °C | 95 % | 27 % | 83 km/h | 1028 hPa | 993 hPa | 27.3 m
 May | 34.2 °C | 12.6 °C | 93 % | 25 % | 79 km/h | 1024 hPa | 989 hPa | 9.9 mm
 İyun | 38.1 °C | 18.3 °C | 91 % | 22 % | 88 km/h | 1021 hPa | 985 hPa | 0.7 mm
 İyul | 41.3 °C | 21.1 °C | 89 % | 20 % | 91 km/h | 1018 hPa | 982 hPa | 0.4 mm
-Avqust | 40.6 °C | 20.4 °C | 90 % | 21 % | 86 km/h | 1020 hPa | 984 hPa | 0.2 mm
+Avqust | 40.6 °C | 20.4 °C | 90 % | 21 % | 86 km/h | 1020 hPa | 984 hPa | 33.7 mm
 
 Məlumat mənbəyi: META meteoroloji stansiyası
 Müşahidə məntəqəsi: Bakı, Azərbaycan
