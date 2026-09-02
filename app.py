@@ -42,7 +42,7 @@ HISTORY_BRANCH = "history-data"
 
 BAKU_TZ = ZoneInfo("Asia/Baku")
 
-# РІСљвЂќРїС‘РЏ Р вЂ™Р С’Р вЂ“Р СњР С›Р вЂў Р ВР РЋР СџР В Р С’Р вЂ™Р вЂєР вЂўР СњР ВР вЂў (Р РЋР СћР С’Р СћР ВР С™Р С’)
+# вњ”пёЏ Р’РђР–РќРћР• РРЎРџР РђР’Р›Р•РќРР• (РЎРўРђРўРРљРђ)
 app = Flask(__name__, static_folder=".", static_url_path="")
 
 
@@ -63,8 +63,8 @@ HISTORY_FILE = "history.json"
 LAST_SAVE_FILE = "last_save.json"
 
 PUBLIC_SITE_URL = "https://meta-baki1.onrender.com"
-STATION_NAME = "META AbЕџeron Proqnozu"
-STATION_LOCATION = "ЖЏhmЙ™dli, BakД±"
+STATION_NAME = "META Abşeron Proqnozu"
+STATION_LOCATION = "Əhmədli, Bakı"
 
 
 def _number(value, default=0.0):
@@ -89,8 +89,8 @@ def _load_station_data():
 
 def _direction_name(degrees, language="az"):
     names = {
-        "az": ["Ећ", "ЕћЕћ-Ећ", "Ећ-Ећ", "ЕћЕћ-C", "C", "CC-Q", "C-Q", "QQ-Ећ"],
-        "ru": ["РЎ", "РЎРЎР’", "РЎР’", "Р’Р®Р’", "Р®", "Р®Р—", "Р—", "РЎР—"],
+        "az": ["Ş", "ŞŞ-Ş", "Ş-Ş", "ŞŞ-C", "C", "CC-Q", "C-Q", "QQ-Ş"],
+        "ru": ["С", "ССВ", "СВ", "ВЮВ", "Ю", "ЮЗ", "З", "СЗ"],
     }
     points = names.get(language, names["az"])
     return points[int((_number(degrees) + 22.5) // 45) % 8]
@@ -128,9 +128,9 @@ MENU_INJECTION = r"""<style>
 .menu-toggle{position:fixed!important;top:145px!important;left:3px!important;z-index:999999!important;width:130px!important;height:58px!important;display:flex!important;align-items:center;justify-content:center;gap:9px!important;visibility:visible!important;opacity:1!important;border:2px solid rgba(255,255,255,.7)!important;border-radius:16px!important;background:linear-gradient(135deg,#0ea5e9,#0369a1)!important;color:#fff!important;font:700 21px Arial!important;cursor:pointer!important;box-shadow:0 8px 22px rgba(0,0,0,.4)!important}
 .menu-backdrop{position:fixed;inset:0;z-index:999990;background:rgba(2,6,23,.72);opacity:0;visibility:hidden;transition:.25s}.drawer{position:fixed;z-index:999999;top:0;left:0;width:min(390px,88vw);height:100dvh;display:flex;flex-direction:column;overflow-y:auto;background:#fff;color:#334155;box-shadow:12px 0 35px rgba(0,0,0,.38);transform:translateX(-105%);transition:.28s;text-align:left}.drawer.open{transform:translateX(0)}.menu-backdrop.open{opacity:1;visibility:visible}body.menu-open{overflow:hidden}.drawer-header{display:flex;align-items:center;gap:14px;padding:22px 20px;border-bottom:1px solid #e2e8f0}.drawer-header img{width:62px;height:62px;object-fit:contain}.drawer-title{font:700 21px/1.25 Arial}.drawer-close{margin-left:auto;border:0;background:transparent;color:#64748b;font-size:32px;cursor:pointer}.drawer-nav{display:grid;gap:10px;padding:20px}.drawer-nav button{border:0;border-radius:14px;padding:13px 16px;background:#1e293b;color:#fff;font:15px Arial;text-align:left;cursor:pointer}.drawer-nav button:hover{background:#0ea5e9}.drawer-actions{margin-top:auto;padding:20px;display:grid;gap:12px;border-top:1px solid #e2e8f0}.drawer-action{border:0;background:transparent;color:#64748b;padding:12px 8px;font-size:17px;text-align:left;cursor:pointer}
 </style>
-<button class="menu-toggle" id="menuToggle" type="button" aria-label="Open menu">в° <span>MENГњ</span></button>
+<button class="menu-toggle" id="menuToggle" type="button" aria-label="Open menu">☰ <span>MENÜ</span></button>
 <div class="menu-backdrop" id="menuBackdrop"></div>
-<aside class="drawer" id="sideMenu" aria-hidden="true"><div class="drawer-header"><img src="static/888-logo.png" alt="META logo"><div class="drawer-title">META<br>Hidrometeorologiya Departamenti</div><button class="drawer-close" type="button">Г—</button></div><nav class="drawer-nav"><button type="button" data-section="homeSection">рџЏ  Ana sЙ™hifЙ™</button><button type="button" data-section="forecast7">рџЊ¦ 7 gГјnlГјk proqnoz</button><button type="button" data-section="forecast14Section">рџ“… 14 gГјnlГјk proqnoz</button><button type="button" data-section="chartSection">рџ“Љ QrafiklЙ™r</button><button type="button" data-section="mapSection">рџ—є XЙ™ritЙ™lЙ™r</button><button type="button" data-section="radarSection">рџЊ§ Radar</button><button type="button" data-section="historySection">рџ“ў Hava haqqД±nda</button><button type="button" data-section="spaceSection">вЂпёЏ GГјnЙ™Еџ vЙ™ kosmos</button><button type="button" data-section="metaSection">вљЎ META xЙ™bЙ™r</button><button type="button" data-section="recordsSection">рџЏ† Rekordlar</button><button type="button" data-section="helpSection">рџ“° MЙ™lumat</button></nav><div class="drawer-actions"><button class="drawer-action" id="refreshPage" type="button">вџі&nbsp;&nbsp; РћР±РЅРѕРІРёС‚СЊ</button><button class="drawer-action" id="closeMenu" type="button">вЉ—&nbsp;&nbsp; Р’С‹С…РѕРґ</button></div></aside>
+<aside class="drawer" id="sideMenu" aria-hidden="true"><div class="drawer-header"><img src="static/888-logo.png" alt="META logo"><div class="drawer-title">META<br>Hidrometeorologiya Departamenti</div><button class="drawer-close" type="button">×</button></div><nav class="drawer-nav"><button type="button" data-section="homeSection">🏠 Ana səhifə</button><button type="button" data-section="forecast7">🌦 7 günlük proqnoz</button><button type="button" data-section="forecast14Section">📅 14 günlük proqnoz</button><button type="button" data-section="chartSection">📊 Qrafiklər</button><button type="button" data-section="mapSection">🗺 Xəritələr</button><button type="button" data-section="radarSection">🌧 Radar</button><button type="button" data-section="historySection">📢 Hava haqqında</button><button type="button" data-section="spaceSection">☀️ Günəş və kosmos</button><button type="button" data-section="metaSection">⚡ META xəbər</button><button type="button" data-section="recordsSection">🏆 Rekordlar</button><button type="button" data-section="helpSection">📰 Məlumat</button></nav><div class="drawer-actions"><button class="drawer-action" id="refreshPage" type="button">⟳&nbsp;&nbsp; Обновить</button><button class="drawer-action" id="closeMenu" type="button">⊗&nbsp;&nbsp; Выход</button></div></aside>
 <script>(function(){const d=document.getElementById("sideMenu"),b=document.getElementById("menuBackdrop"),t=document.getElementById("menuToggle"),x=d.querySelector(".drawer-close");function c(){d.classList.remove("open");b.classList.remove("open");document.body.classList.remove("menu-open")}function o(){d.classList.add("open");b.classList.add("open");document.body.classList.add("menu-open")}t.onclick=o;x.onclick=c;b.onclick=c;document.getElementById("closeMenu").onclick=c;document.getElementById("refreshPage").onclick=function(){location.reload()};d.querySelectorAll("[data-section]").forEach(function(e){e.onclick=function(){openSection(e.dataset.section);c()}});document.addEventListener("keydown",function(e){if(e.key==="Escape")c()})}());</script>"""
 
 
@@ -303,29 +303,29 @@ def api_current():
 def _widget_html(language):
     ru = language == "ru"
     text = {
-        "title": "РџРѕРіРѕРґР° РІ Р‘Р°РєСѓ вЂ” РѕРЅР»Р°Р№РЅ" if ru else "BakД±da hava вЂ” canlД±",
-        "live": "Р’ Р­Р¤РР Р•" if ru else "CANLI",
-        "temp": "РўРµРјРїРµСЂР°С‚СѓСЂР°" if ru else "Temperatur",
-        "humidity": "Р’Р»Р°Р¶РЅРѕСЃС‚СЊ" if ru else "RГјtubЙ™t",
-        "pressure": "Р”Р°РІР»РµРЅРёРµ" if ru else "TЙ™zyiq",
-        "wind": "Р’РµС‚РµСЂ" if ru else "KГјlЙ™k",
-        "gust": "РџРѕСЂС‹РІС‹" if ru else "KГјlЙ™yin ЕџiddЙ™ti",
-        "rain": "РћСЃР°РґРєРё Р·Р° 1 С‡Р°СЃ" if ru else "YaДџД±ntД± вЂў 1 saat",
-        "updated": "РћР±РЅРѕРІР»РµРЅРѕ" if ru else "YenilЙ™nib",
-        "source": "РСЃС‚РѕС‡РЅРёРє РґР°РЅРЅС‹С…" if ru else "MЙ™lumat mЙ™nbЙ™yi",
-        "offline": "Р”Р°РЅРЅС‹Рµ РІСЂРµРјРµРЅРЅРѕ РЅРµРґРѕСЃС‚СѓРїРЅС‹" if ru else "MЙ™lumat mГјvЙ™qqЙ™ti Й™lГ§atan deyil",
+        "title": "Погода в Баку — онлайн" if ru else "Bakıda hava — canlı",
+        "live": "В ЭФИРЕ" if ru else "CANLI",
+        "temp": "Температура" if ru else "Temperatur",
+        "humidity": "Влажность" if ru else "Rütubət",
+        "pressure": "Давление" if ru else "Təzyiq",
+        "wind": "Ветер" if ru else "Külək",
+        "gust": "Порывы" if ru else "Küləyin şiddəti",
+        "rain": "Осадки за 1 час" if ru else "Yağıntı • 1 saat",
+        "updated": "Обновлено" if ru else "Yenilənib",
+        "source": "Источник данных" if ru else "Məlumat mənbəyi",
+        "offline": "Данные временно недоступны" if ru else "Məlumat müvəqqəti əlçatan deyil",
     }
     lang_code = "ru" if ru else "az"
-    speed_unit = "РєРј/С‡" if ru else "km/saat"
+    speed_unit = "км/ч" if ru else "km/saat"
     return f'''<!doctype html>
 <html lang="{lang_code}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <style>
 *{{box-sizing:border-box}}html,body{{margin:0;background:transparent;font-family:Arial,sans-serif;color:#eaf6ff}}body{{min-height:100vh;display:grid;place-items:start center}}.card{{width:min(100vw,420px);aspect-ratio:1;display:flex;flex-direction:column;padding:20px;border-radius:24px;background:linear-gradient(145deg,#062744,#0b172c);border:1px solid #245475;box-shadow:0 12px 35px #0005;overflow:hidden}}.head{{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:14px}}h1{{font-size:20px;line-height:1.2;margin:0}}.live{{font-size:10px;font-weight:800;color:#9af7bd;background:#125434;padding:7px 9px;border-radius:999px;white-space:nowrap}}.grid{{display:grid;grid-template-columns:repeat(2,1fr);grid-template-rows:repeat(3,1fr);gap:9px;flex:1;min-height:0}}.item{{display:flex;flex-direction:column;justify-content:center;padding:12px;border-radius:15px;background:#ffffff0d;border:1px solid #ffffff12}}.item span{{display:block;color:#9fb8cb;font-size:11px;margin-bottom:6px}}.item strong{{font-size:18px}}.foot{{display:flex;justify-content:space-between;gap:12px;align-items:end;margin-top:14px;color:#9fb8cb;font-size:11px}}.foot a{{color:#75d5ff;font-weight:800;text-decoration:none;text-align:right}}#notice{{display:none;margin:0 0 8px;color:#ffd48a;font-size:11px}}@media(max-width:350px){{.card{{padding:13px;border-radius:16px}}.head{{margin-bottom:8px}}h1{{font-size:16px}}.live{{font-size:8px;padding:5px 7px}}.grid{{gap:6px}}.item{{padding:8px}}.item span{{font-size:9px;margin-bottom:3px}}.item strong{{font-size:14px}}.foot{{margin-top:8px;font-size:9px}}}}
-</style></head><body><main class="card"><div class="head"><h1>рџЊ¤ {text['title']}</h1><span class="live">в—Џ {text['live']}</span></div><div id="notice">{text['offline']}</div><section class="grid">
-<div class="item"><span>рџЊЎ {text['temp']}</span><strong id="temp">вЂ”</strong></div><div class="item"><span>рџ’§ {text['humidity']}</span><strong id="humidity">вЂ”</strong></div><div class="item"><span>рџ§­ {text['pressure']}</span><strong id="pressure">вЂ”</strong></div><div class="item"><span>рџ’Ё {text['wind']}</span><strong id="wind">вЂ”</strong></div><div class="item"><span>вљЎ {text['gust']}</span><strong id="gust">вЂ”</strong></div><div class="item"><span>рџЊ§ {text['rain']}</span><strong id="rain">вЂ”</strong></div>
-</section><footer class="foot"><span>{text['updated']}: <b id="updated">вЂ”</b></span><a href="{PUBLIC_SITE_URL}" target="_blank" rel="noopener">{text['source']}:<br>{STATION_NAME}</a></footer></main>
+</style></head><body><main class="card"><div class="head"><h1>🌤 {text['title']}</h1><span class="live">● {text['live']}</span></div><div id="notice">{text['offline']}</div><section class="grid">
+<div class="item"><span>🌡 {text['temp']}</span><strong id="temp">—</strong></div><div class="item"><span>💧 {text['humidity']}</span><strong id="humidity">—</strong></div><div class="item"><span>🧭 {text['pressure']}</span><strong id="pressure">—</strong></div><div class="item"><span>💨 {text['wind']}</span><strong id="wind">—</strong></div><div class="item"><span>⚡ {text['gust']}</span><strong id="gust">—</strong></div><div class="item"><span>🌧 {text['rain']}</span><strong id="rain">—</strong></div>
+</section><footer class="foot"><span>{text['updated']}: <b id="updated">—</b></span><a href="{PUBLIC_SITE_URL}" target="_blank" rel="noopener">{text['source']}:<br>{STATION_NAME}</a></footer></main>
 <script>
-const $=id=>document.getElementById(id);function val(n,d=1){{return Number(n).toFixed(d)}}async function refresh(){{try{{const r=await fetch('/api/v1/current',{{cache:'no-store'}});if(!r.ok)throw Error();const d=await r.json();$('temp').textContent=val(d.temperature_c)+' В°C';$('humidity').textContent=val(d.humidity_percent,0)+' %';$('pressure').textContent=val(d.pressure_hpa)+' hPa';$('wind').textContent=val(d.wind_kmh)+' {speed_unit}';$('gust').textContent=val(d.gust_kmh)+' {speed_unit}';$('rain').textContent=val(d.rain_1h_mm)+' mm';const dir='{lang_code}'==='ru'?d.wind_direction_ru:d.wind_direction_az;$('wind').textContent+=' В· '+dir;$('updated').textContent=d.updated_at?new Intl.DateTimeFormat('{lang_code}-' + ('{lang_code}'==='ru'?'RU':'AZ'),{{hour:'2-digit',minute:'2-digit',timeZone:'Asia/Baku'}}).format(new Date(d.updated_at)):'вЂ”';$('notice').style.display=d.status==='online'?'none':'block'}}catch(e){{$('notice').style.display='block'}}}}refresh();setInterval(refresh,60000);
+const $=id=>document.getElementById(id);function val(n,d=1){{return Number(n).toFixed(d)}}async function refresh(){{try{{const r=await fetch('/api/v1/current',{{cache:'no-store'}});if(!r.ok)throw Error();const d=await r.json();$('temp').textContent=val(d.temperature_c)+' °C';$('humidity').textContent=val(d.humidity_percent,0)+' %';$('pressure').textContent=val(d.pressure_hpa)+' hPa';$('wind').textContent=val(d.wind_kmh)+' {speed_unit}';$('gust').textContent=val(d.gust_kmh)+' {speed_unit}';$('rain').textContent=val(d.rain_1h_mm)+' mm';const dir='{lang_code}'==='ru'?d.wind_direction_ru:d.wind_direction_az;$('wind').textContent+=' · '+dir;$('updated').textContent=d.updated_at?new Intl.DateTimeFormat('{lang_code}-' + ('{lang_code}'==='ru'?'RU':'AZ'),{{hour:'2-digit',minute:'2-digit',timeZone:'Asia/Baku'}}).format(new Date(d.updated_at)):'—';$('notice').style.display=d.status==='online'?'none':'block'}}catch(e){{$('notice').style.display='block'}}}}refresh();setInterval(refresh,60000);
 </script></body></html>'''
 
 
@@ -342,11 +342,11 @@ def weather_widget(language="az"):
 def media_page():
     iframe_code = escape(
         f'<iframe src="{PUBLIC_SITE_URL}/widget/weather/az" width="420" '
-        'height="420" style="width:100%;max-width:420px;border:0" loading="lazy" title="META canlД± hava"></iframe>'
+        'height="420" style="width:100%;max-width:420px;border:0" loading="lazy" title="META canlı hava"></iframe>'
     )
-    page = f'''<!doctype html><html lang="az"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Media ГјГ§Гјn canlД± hava | {STATION_NAME}</title><style>
+    page = f'''<!doctype html><html lang="az"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Media üçün canlı hava | {STATION_NAME}</title><style>
 *{{box-sizing:border-box}}body{{margin:0;background:#061524;color:#e8f5ff;font:16px/1.6 Arial,sans-serif}}main{{width:min(1040px,calc(100% - 28px));margin:32px auto}}.hero,.box{{padding:28px;border:1px solid #24445d;border-radius:22px;background:#0a2136;margin-bottom:18px}}h1{{font-size:clamp(30px,6vw,52px);line-height:1.1;margin:0 0 14px}}h2{{margin-top:0}}p{{color:#c4d8e7}}.badge{{display:inline-block;padding:7px 11px;border-radius:999px;background:#0d5b39;color:#b8ffd6;font-weight:800}}.cols{{display:grid;grid-template-columns:1fr 1fr;gap:18px}}iframe{{display:block;width:420px;max-width:100%;height:420px;border:0;margin:auto}}pre{{overflow:auto;padding:17px;border-radius:13px;background:#020b13;color:#9ee6ff;white-space:pre-wrap}}a{{color:#6fd5ff}}@media(max-width:760px){{.cols{{grid-template-columns:1fr}}.hero,.box{{padding:20px}}}}
-</style></head><body><main><section class="hero"><span class="badge">PULSUZ Д°NTEQRASД°YA</span><h1>Media ГјГ§Гјn canlД± meteoroloji mЙ™lumatlar</h1><p>{STATION_NAME} BakД±dakД± avtomatik stansiyadan faktiki gГ¶stЙ™ricilЙ™ri media saytlarД±na tЙ™qdim edir. Vidcet hЙ™r dЙ™qiqЙ™ yenilЙ™nir vЙ™ texniki xidmЙ™t bizim tЙ™rЙ™fimizdЙ™n hЙ™yata keГ§irilir.</p></section><div class="cols"><section class="box"><h2>CanlД± nГјmunЙ™</h2><iframe src="/widget/weather/az" title="CanlД± hava vidceti"></iframe></section><section class="box"><h2>NЙ™lЙ™r tЙ™qdim olunur?</h2><p>Temperatur, rГјtubЙ™t, atmosfer tЙ™zyiqi, kГјlЙ™yin sГјrЙ™ti vЙ™ istiqamЙ™ti, kГјlЙ™yin ЕџiddЙ™ti, 1 vЙ™ 24 saatlД±q yaДџД±ntД±.</p><p><strong>YenilЙ™nmЙ™:</strong> hЙ™r 60 saniyЙ™<br><strong>MЙ™nbЙ™:</strong> avtomatik meteoroloji stansiya<br><strong>Д°stifadЙ™:</strong> mЙ™nbЙ™ gГ¶stЙ™rilmЙ™klЙ™ pulsuz</p></section></div><section class="box"><h2>Bir sЙ™tirlЙ™ quraЕџdД±rma</h2><pre><code>{iframe_code}</code></pre><p>Rus versiyasД± ГјГ§Гјn ГјnvanД±n sonunda <code>/az</code> Й™vЙ™zinЙ™ <code>/ru</code> yazД±lД±r.</p></section><section class="box"><h2>API</h2><p>Г–z dizaynД±nД±zda istifadЙ™ etmЙ™k ГјГ§Гјn: <a href="/api/v1/current">{PUBLIC_SITE_URL}/api/v1/current</a></p><p>ЖЏmЙ™kdaЕџlД±q ГјГ§Гјn <a href="{PUBLIC_SITE_URL}">META AbЕџeron Proqnozu</a> saytД±nД±n Й™laqЙ™ bГ¶lmЙ™sindЙ™n istifadЙ™ edЙ™ bilЙ™rsiniz.</p></section></main></body></html>'''
+</style></head><body><main><section class="hero"><span class="badge">PULSUZ İNTEQRASİYA</span><h1>Media üçün canlı meteoroloji məlumatlar</h1><p>{STATION_NAME} Bakıdakı avtomatik stansiyadan faktiki göstəriciləri media saytlarına təqdim edir. Vidcet hər dəqiqə yenilənir və texniki xidmət bizim tərəfimizdən həyata keçirilir.</p></section><div class="cols"><section class="box"><h2>Canlı nümunə</h2><iframe src="/widget/weather/az" title="Canlı hava vidceti"></iframe></section><section class="box"><h2>Nələr təqdim olunur?</h2><p>Temperatur, rütubət, atmosfer təzyiqi, küləyin sürəti və istiqaməti, küləyin şiddəti, 1 və 24 saatlıq yağıntı.</p><p><strong>Yenilənmə:</strong> hər 60 saniyə<br><strong>Mənbə:</strong> avtomatik meteoroloji stansiya<br><strong>İstifadə:</strong> mənbə göstərilməklə pulsuz</p></section></div><section class="box"><h2>Bir sətirlə quraşdırma</h2><pre><code>{iframe_code}</code></pre><p>Rus versiyası üçün ünvanın sonunda <code>/az</code> əvəzinə <code>/ru</code> yazılır.</p></section><section class="box"><h2>API</h2><p>Öz dizaynınızda istifadə etmək üçün: <a href="/api/v1/current">{PUBLIC_SITE_URL}/api/v1/current</a></p><p>Əməkdaşlıq üçün <a href="{PUBLIC_SITE_URL}">META Abşeron Proqnozu</a> saytının əlaqə bölməsindən istifadə edə bilərsiniz.</p></section></main></body></html>'''
     return app.response_class(page, mimetype="text/html")
 
 
@@ -377,8 +377,8 @@ def forecast7():
 
     try:
 
-        # РћР±С‰РёР№ Р±РµСЃРїР»Р°С‚РЅС‹Р№ РїСЂРѕРіРЅРѕР·РЅС‹Р№ API Open-Meteo.
-        # РћРЅ РёСЃРїРѕР»СЊР·СѓРµС‚СЃСЏ Рё РґР»СЏ 14-РґРЅРµРІРЅРѕРіРѕ РїСЂРѕРіРЅРѕР·Р° РЅР° СЃС‚СЂР°РЅРёС†Рµ.
+        # Общий бесплатный прогнозный API Open-Meteo.
+        # Он используется и для 14-дневного прогноза на странице.
         url = "https://api.open-meteo.com/v1/forecast"
 
         params = {
@@ -538,13 +538,13 @@ def warning():
     warnings = []
 
     if d.get("wind_ms", 0) * 3.6 > 40:
-        warnings.append("РІС™В РїС‘РЏ GР“СclР“С kР“СlР™в„ўk gР“В¶zlР™в„ўnilir")
+        warnings.append("вљ пёЏ GГјclГј kГјlЙ™k gГ¶zlЙ™nilir")
 
     if d.get("humidity", 0) > 90:
-        warnings.append("СЂСџРЉВ« Duman ehtimalР”В± yР“СksР™в„ўkdir")
+        warnings.append("рџЊ« Duman ehtimalД± yГјksЙ™kdir")
 
     if d.get("rain_1h", 0) > 0:
-        warnings.append("СЂСџРЉВ§ YaР”СџР”В±Р•Сџ mР“СР•СџahidР™в„ў olunur")
+        warnings.append("рџЊ§ YaДџД±Еџ mГјЕџahidЙ™ olunur")
 
     return jsonify(warnings)
 
@@ -575,7 +575,7 @@ def history_content():
         with open("story/history.txt", "r", encoding="utf-8") as f:
             text = f.read()
     except:
-        text = "HekayР™в„ў tapР”В±lmadР”В±."
+        text = "HekayЙ™ tapД±lmadД±."
 
     image_path = "/story/image.jpg"
 
@@ -631,17 +631,17 @@ def records_content():
     jpg_path = os.path.join(records_dir, "records.jpg")
     png_path = os.path.join(records_dir, "records.png")
 
-    # Р СћР ВµР С”РЎРѓРЎвЂљ
+    # РўРµРєСЃС‚
     if os.path.isfile(text_path):
         try:
             with open(text_path, "r", encoding="utf-8") as f:
                 text = f.read()
         except Exception as e:
-            text = f"Р С›РЎв‚¬Р С‘Р В±Р С”Р В° РЎвЂЎРЎвЂљР ВµР Р…Р С‘РЎРЏ records.txt: {e}"
+            text = f"РћС€РёР±РєР° С‡С‚РµРЅРёСЏ records.txt: {e}"
     else:
-        text = "Rekord mР™в„ўlumatlarР”В± tapР”В±lmadР”В±."
+        text = "Rekord mЙ™lumatlarД± tapД±lmadД±."
 
-    # Р ВР В·Р С•Р В±РЎР‚Р В°Р В¶Р ВµР Р…Р С‘Р Вµ
+    # РР·РѕР±СЂР°Р¶РµРЅРёРµ
     image_path = None
 
     if os.path.isfile(jpg_path):
