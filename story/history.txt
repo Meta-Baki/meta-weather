@@ -1,96 +1,87 @@
-<h2 style="color:#38bdf8;">🌤️ 2 sentyabr üçün hava proqnozu — Bakı, Abşeron və Azərbaycan</h2>
+<h2 style="color:#38bdf8;">🌤️ 3 sentyabr üçün hava proqnozu: Bakıda temperatur 30°C-yə çatacaq</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 1 sentyabr 2026, 12:25 — Bakı vaxtı
+🕐 Əlavə olunub: 2 sentyabr 2026, 17:50 — Bakı vaxtı
+</p>
+
+<p>
+<strong>Sentyabrın 3-də Bakı və Abşeron yarımadasında dəyişkən buludlu hava şəraiti gözlənilir.
+Gün ərzində əsasən yağmursuz olacaq.</strong>
 </p>
 
 <h3 style="color:#38bdf8;">🏙️ Bakı və Abşeron yarımadası</h3>
 
 <p>
-<strong>2 sentyabrda Bakı və Abşeron yarımadasında hava şəraitinin
-əsasən sabitləşəcəyi və yağmursuz keçəcəyi gözlənilir.</strong>
-Gün ərzində əsasən açıq və az buludlu hava üstünlük təşkil edəcək.
+🌤️ Hava dəyişkən buludlu, əsasən yağmursuz keçəcək.
 </p>
 
 <p>
-🌡️ Havanın temperaturu gecə <strong>+22…+24°C</strong>,
-gündüz isə təxminən <strong>+26…+27°C</strong> təşkil edəcək.
-Abşeron yarımadasının bəzi ərazilərində gündüz temperatur
-<strong>+25…+26°C</strong> ətrafında olacaq.
+🌡️ Havanın temperaturu gecə <strong>+19…+21°C</strong>,
+gündüz isə <strong>+26…+30°C</strong> təşkil edəcək.
 </p>
 
 <p>
-💧 Nisbi rütubətin gecə və səhər saatlarında təxminən
-<strong>50–60%</strong>, gündüz isə <strong>40–50%</strong>
-intervalında olacağı gözlənilir.
+🌬️ <strong>Şimal-şərq küləyi</strong> əsəcək.
 </p>
 
 <p>
-🌬️ Əsasən şimal istiqamətli külək əsəcək. Küləyin orta sürətinin
-təxminən <strong>5–8 m/s (18–29 km/saat)</strong> olacağı,
-gecə və səhər ayrı-ayrı vaxtlarda <strong>8–9 m/s
-(29–32 km/saat)</strong> səviyyəsinə yüksələ biləcəyi gözlənilir.
+💧 Nisbi rütubət gecə <strong>70–75%</strong>,
+gündüz isə <strong>45–50%</strong> olacaq.
 </p>
 
 <p>
-🌪️ Ayrı-ayrı açıq ərazilərdə küləyin ani şiddətlənməsi zamanı
-külək sürətinin təxminən <strong>10–12 m/s (36–43 km/saat)</strong>
-səviyyəsinə çatması mümkündür.
+🔵 Atmosfer təzyiqi <strong>762 mm civə sütunu
+(≈1016 hPa)</strong> təşkil edəcək.
+</p>
+
+<div style="background:#0f3b57;color:#ffffff;padding:16px;border-radius:10px;
+font-size:18px;margin:18px 0;">
+<strong>📌 Bakı üçün qısa proqnoz:</strong><br><br>
+🌤️ Dəyişkən buludlu, əsasən yağmursuz<br>
+🌡️ Gecə: <strong>+19…+21°C</strong><br>
+☀️ Gündüz: <strong>+26…+30°C</strong><br>
+🌬️ Külək: <strong>şimal-şərq istiqamətli</strong><br>
+💧 Rütubət: <strong>gecə 70–75%, gündüz 45–50%</strong><br>
+🔵 Təzyiq: <strong>762 mmHg (≈1016 hPa)</strong>
+</div>
+
+<h3 style="color:#22c55e;">🇦🇿 Azərbaycanın rayonlarında hava necə olacaq?</h3>
+
+<p>
+Ölkənin əksər rayonlarında hava şəraitinin
+<strong>əsasən yağmursuz</strong> keçəcəyi gözlənilir.
 </p>
 
 <p>
-🌡️ Atmosfer təzyiqinin təxminən <strong>1016–1017 hPa
-(762–763 mm civə sütunu)</strong> ətrafında olacağı gözlənilir.
+⛈️ Lakin <strong>gecə və səhər bəzi dağlıq rayonlarda
+qısamüddətli yağış yağması və şimşək çaxması</strong> mümkündür.
 </p>
 
 <p>
-☀️ UV indeksinin maksimum <strong>6–7</strong> səviyyəsinə çatacağı
-gözlənilir ki, bu da <strong>yüksək UV şüalanması</strong> hesab olunur.
-</p>
-
-<h3 style="color:#22c55e;">🇦🇿 Azərbaycanın rayonlarında</h3>
-
-<p>
-🌦️ Ölkənin əksər rayonlarında hava şəraitinin əsasən sabit keçməsi
-gözlənilsə də, <strong>bəzi dağlıq və dağətəyi ərazilərdə qeyri-sabit
-hava şəraiti davam edə bilər.</strong>
+🌫️ Ayrı-ayrı dağlıq ərazilərdə gecə və səhər saatlarında
+arabir <strong>duman</strong> müşahidə oluna bilər.
 </p>
 
 <p>
-⛈️ Ayrı-ayrı dağlıq və dağətəyi rayonlarda arabir yağış yağması,
-bəzi yerlərdə yağıntının <strong>qısamüddətli leysan xarakterli və
-intensiv</strong> olması, şimşək çaxması və dolu düşməsi ehtimalı var.
+🌬️ Rayonlarda əsasən <strong>şərq küləyi</strong> əsəcək.
+</p>
+
+<h3 style="color:#f59e0b;">🌡️ Regionlarda temperatur</h3>
+
+<p>
+🌙 Aran rayonlarında gecə: <strong>+18…+22°C</strong><br>
+☀️ Aran rayonlarında gündüz: <strong>+27…+32°C</strong>
 </p>
 
 <p>
-🌫️ Gecə və səhər bəzi dağlıq ərazilərdə duman müşahidə oluna bilər.
-</p>
-
-<p>
-🌡️ Aran və düzənlik rayonlarında gündüz temperaturun əsasən
-<strong>+25…+30°C</strong>, dağlıq ərazilərdə isə
-<strong>+18…+25°C</strong> intervalında dəyişəcəyi gözlənilir.
+🏔️ Dağlarda gecə: <strong>+10…+15°C</strong><br>
+⛰️ Dağlarda gündüz: <strong>+18…+22°C</strong>
 </p>
 
 <p style="background:#78350f;color:#ffffff;padding:16px;border-radius:10px;
 font-size:19px;font-weight:bold;">
-⚠️ XƏBƏRDARLIQ: 2 sentyabr axşam saatlarınadək bəzi dağlıq və
-dağətəyi rayonlarda leysan, şimşək və dolu ehtimalı nəzərə alınmalıdır.
-Güclü yağıntı zamanı dağ çaylarında suyun səviyyəsində qısamüddətli
-artım mümkündür.
-</p>
-
-<h3 style="color:#38bdf8;">📌 Bakı üçün qısa proqnoz</h3>
-
-<p>
-🌤️ Hava: əsasən açıq və yağmursuz<br>
-🌡️ Gecə: <strong>+22…+24°C</strong><br>
-🌡️ Gündüz: <strong>+26…+27°C</strong><br>
-💨 Külək: <strong>5–8 m/s (18–29 km/saat)</strong><br>
-🌪️ Mümkün külək şiddətlənməsi: <strong>10–12 m/s (36–43 km/saat)</strong><br>
-💧 Rütubət: <strong>40–60%</strong><br>
-🔵 Təzyiq: <strong>1016–1017 hPa (762–763 mmHg)</strong><br>
-☀️ UV indeksi: <strong>6–7 — yüksək</strong>
+⛈️ Diqqət: 3 sentyabr gecə və səhər saatlarında bəzi dağlıq
+rayonlarda qısamüddətli yağış, şimşək və duman ehtimalı var.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
@@ -99,7 +90,7 @@ Proqnozda mühüm dəyişiklik baş verərsə, əlavə məlumat təqdim olunacaq
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Operativ hava məlumatları üçün WhatsApp kanalımıza qoşulun:
+📲 Operativ hava proqnozları və xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
