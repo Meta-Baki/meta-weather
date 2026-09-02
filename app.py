@@ -5,6 +5,7 @@ import os
 from datetime import datetime
 from zoneinfo import ZoneInfo
 import base64
+from html import escape
 
 
 def update_github(history):
@@ -60,6 +61,65 @@ def service_worker():
 DATA_FILE = "data.json"
 HISTORY_FILE = "history.json"
 LAST_SAVE_FILE = "last_save.json"
+
+PUBLIC_SITE_URL = "https://meta-baki1.onrender.com"
+STATION_NAME = "META Abşeron Proqnozu"
+STATION_LOCATION = "Əhmədli, Bakı"
+
+
+def _number(value, default=0.0):
+    """Return a finite-looking float without letting malformed station data break public pages."""
+    try:
+        return float(value)
+    except (TypeError, ValueError):
+        return default
+
+
+def _load_station_data():
+    if not os.path.exists(DATA_FILE):
+        return {}, None
+    try:
+        with open(DATA_FILE, encoding="utf-8") as f:
+            data = json.load(f)
+        updated = datetime.fromtimestamp(os.path.getmtime(DATA_FILE), BAKU_TZ)
+        return data if isinstance(data, dict) else {}, updated
+    except (OSError, json.JSONDecodeError):
+        return {}, None
+
+
+def _direction_name(degrees, language="az"):
+    names = {
+        "az": ["Ş", "ŞŞ-Ş", "Ş-Ş", "ŞŞ-C", "C", "CC-Q", "C-Q", "QQ-Ş"],
+        "ru": ["С", "ССВ", "СВ", "ВЮВ", "Ю", "ЮЗ", "З", "СЗ"],
+    }
+    points = names.get(language, names["az"])
+    return points[int((_number(degrees) + 22.5) // 45) % 8]
+
+
+def _public_weather():
+    data, updated = _load_station_data()
+    age = None if updated is None else max(0, int((datetime.now(BAKU_TZ) - updated).total_seconds()))
+    direction = _number(data.get("wind_dir"))
+    return {
+        "station": STATION_NAME,
+        "location": STATION_LOCATION,
+        "observation_type": "automatic_weather_station",
+        "temperature_c": round(_number(data.get("temp")), 1),
+        "humidity_percent": round(_number(data.get("humidity")), 1),
+        "pressure_hpa": round(_number(data.get("pressure")), 1),
+        "wind_kmh": round(_number(data.get("wind_ms")) * 3.6, 1),
+        "gust_kmh": round(_number(data.get("wind_gust_ms")) * 3.6, 1),
+        "wind_direction_degrees": round(direction),
+        "wind_direction_az": _direction_name(direction, "az"),
+        "wind_direction_ru": _direction_name(direction, "ru"),
+        "rain_1h_mm": round(_number(data.get("rain_1h")), 1),
+        "rain_24h_mm": round(_number(data.get("rain_24h")), 1),
+        "updated_at": updated.isoformat() if updated else None,
+        "data_age_seconds": age,
+        "status": "online" if age is not None and age <= 300 else "offline",
+        "source": STATION_NAME,
+        "source_url": PUBLIC_SITE_URL,
+    }
 
 
 # ---------------- HOME ----------------
@@ -228,6 +288,66 @@ def station():
 
     except Exception as e:
         return jsonify({"error": str(e)})
+
+
+# ---------------- PUBLIC MEDIA API ----------------
+@app.route("/api/v1/current")
+def api_current():
+    """Stable public endpoint for partners that want to render their own design."""
+    response = jsonify(_public_weather())
+    response.headers["Access-Control-Allow-Origin"] = "*"
+    response.headers["Cache-Control"] = "public, max-age=30"
+    return response
+
+
+def _widget_html(language):
+    ru = language == "ru"
+    text = {
+        "title": "Погода в Баку — онлайн" if ru else "Bakıda hava — canlı",
+        "live": "В ЭФИРЕ" if ru else "CANLI",
+        "temp": "Температура" if ru else "Temperatur",
+        "humidity": "Влажность" if ru else "Rütubət",
+        "pressure": "Давление" if ru else "Təzyiq",
+        "wind": "Ветер" if ru else "Külək",
+        "gust": "Порывы" if ru else "Küləyin şiddəti",
+        "rain": "Осадки за 1 час" if ru else "Yağıntı • 1 saat",
+        "updated": "Обновлено" if ru else "Yenilənib",
+        "source": "Источник данных" if ru else "Məlumat mənbəyi",
+        "offline": "Данные временно недоступны" if ru else "Məlumat müvəqqəti əlçatan deyil",
+    }
+    lang_code = "ru" if ru else "az"
+    speed_unit = "км/ч" if ru else "km/saat"
+    return f'''<!doctype html>
+<html lang="{lang_code}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+*{{box-sizing:border-box}}html,body{{margin:0;background:transparent;font-family:Arial,sans-serif;color:#eaf6ff}}.card{{min-height:250px;padding:18px;border-radius:20px;background:linear-gradient(145deg,#062744,#0b172c);border:1px solid #245475;box-shadow:0 12px 35px #0005}}.head{{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:15px}}h1{{font-size:20px;margin:0}}.live{{font-size:11px;font-weight:800;color:#9af7bd;background:#125434;padding:7px 9px;border-radius:999px}}.grid{{display:grid;grid-template-columns:repeat(3,1fr);gap:9px}}.item{{padding:11px;border-radius:13px;background:#ffffff0d;border:1px solid #ffffff12}}.item span{{display:block;color:#9fb8cb;font-size:11px;margin-bottom:5px}}.item strong{{font-size:17px}}.foot{{display:flex;justify-content:space-between;gap:12px;align-items:end;margin-top:14px;color:#9fb8cb;font-size:11px}}.foot a{{color:#75d5ff;font-weight:800;text-decoration:none;text-align:right}}#notice{{display:none;margin:10px 0;color:#ffd48a;font-size:12px}}@media(max-width:470px){{.grid{{grid-template-columns:repeat(2,1fr)}}.card{{border-radius:14px;padding:14px}}h1{{font-size:17px}}}}
+</style></head><body><main class="card"><div class="head"><h1>🌤 {text['title']}</h1><span class="live">● {text['live']}</span></div><div id="notice">{text['offline']}</div><section class="grid">
+<div class="item"><span>🌡 {text['temp']}</span><strong id="temp">—</strong></div><div class="item"><span>💧 {text['humidity']}</span><strong id="humidity">—</strong></div><div class="item"><span>🧭 {text['pressure']}</span><strong id="pressure">—</strong></div><div class="item"><span>💨 {text['wind']}</span><strong id="wind">—</strong></div><div class="item"><span>⚡ {text['gust']}</span><strong id="gust">—</strong></div><div class="item"><span>🌧 {text['rain']}</span><strong id="rain">—</strong></div>
+</section><footer class="foot"><span>{text['updated']}: <b id="updated">—</b></span><a href="{PUBLIC_SITE_URL}" target="_blank" rel="noopener">{text['source']}:<br>{STATION_NAME}</a></footer></main>
+<script>
+const $=id=>document.getElementById(id);function val(n,d=1){{return Number(n).toFixed(d)}}async function refresh(){{try{{const r=await fetch('/api/v1/current',{{cache:'no-store'}});if(!r.ok)throw Error();const d=await r.json();$('temp').textContent=val(d.temperature_c)+' °C';$('humidity').textContent=val(d.humidity_percent,0)+' %';$('pressure').textContent=val(d.pressure_hpa)+' hPa';$('wind').textContent=val(d.wind_kmh)+' {speed_unit}';$('gust').textContent=val(d.gust_kmh)+' {speed_unit}';$('rain').textContent=val(d.rain_1h_mm)+' mm';const dir='{lang_code}'==='ru'?d.wind_direction_ru:d.wind_direction_az;$('wind').textContent+=' · '+dir;$('updated').textContent=d.updated_at?new Intl.DateTimeFormat('{lang_code}-' + ('{lang_code}'==='ru'?'RU':'AZ'),{{hour:'2-digit',minute:'2-digit',timeZone:'Asia/Baku'}}).format(new Date(d.updated_at)):'—';$('notice').style.display=d.status==='online'?'none':'block'}}catch(e){{$('notice').style.display='block'}}}}refresh();setInterval(refresh,60000);
+</script></body></html>'''
+
+
+@app.route("/widget/weather")
+@app.route("/widget/weather/<language>")
+def weather_widget(language="az"):
+    language = "ru" if language.lower() == "ru" else "az"
+    response = app.response_class(_widget_html(language), mimetype="text/html")
+    response.headers["Cache-Control"] = "public, max-age=300"
+    return response
+
+
+@app.route("/media")
+def media_page():
+    iframe_code = escape(
+        f'<iframe src="{PUBLIC_SITE_URL}/widget/weather/az" width="100%" '
+        'height="270" style="border:0" loading="lazy" title="META canlı hava"></iframe>'
+    )
+    page = f'''<!doctype html><html lang="az"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Media üçün canlı hava | {STATION_NAME}</title><style>
+*{{box-sizing:border-box}}body{{margin:0;background:#061524;color:#e8f5ff;font:16px/1.6 Arial,sans-serif}}main{{width:min(1040px,calc(100% - 28px));margin:32px auto}}.hero,.box{{padding:28px;border:1px solid #24445d;border-radius:22px;background:#0a2136;margin-bottom:18px}}h1{{font-size:clamp(30px,6vw,52px);line-height:1.1;margin:0 0 14px}}h2{{margin-top:0}}p{{color:#c4d8e7}}.badge{{display:inline-block;padding:7px 11px;border-radius:999px;background:#0d5b39;color:#b8ffd6;font-weight:800}}.cols{{display:grid;grid-template-columns:1fr 1fr;gap:18px}}iframe{{width:100%;height:270px;border:0}}pre{{overflow:auto;padding:17px;border-radius:13px;background:#020b13;color:#9ee6ff;white-space:pre-wrap}}a{{color:#6fd5ff}}@media(max-width:760px){{.cols{{grid-template-columns:1fr}}.hero,.box{{padding:20px}}}}
+</style></head><body><main><section class="hero"><span class="badge">PULSUZ İNTEQRASİYA</span><h1>Media üçün canlı meteoroloji məlumatlar</h1><p>{STATION_NAME} Bakıdakı avtomatik stansiyadan faktiki göstəriciləri media saytlarına təqdim edir. Vidcet hər dəqiqə yenilənir və texniki xidmət bizim tərəfimizdən həyata keçirilir.</p></section><div class="cols"><section class="box"><h2>Canlı nümunə</h2><iframe src="/widget/weather/az" title="Canlı hava vidceti"></iframe></section><section class="box"><h2>Nələr təqdim olunur?</h2><p>Temperatur, rütubət, atmosfer təzyiqi, küləyin sürəti və istiqaməti, küləyin şiddəti, 1 və 24 saatlıq yağıntı.</p><p><strong>Yenilənmə:</strong> hər 60 saniyə<br><strong>Mənbə:</strong> avtomatik meteoroloji stansiya<br><strong>İstifadə:</strong> mənbə göstərilməklə pulsuz</p></section></div><section class="box"><h2>Bir sətirlə quraşdırma</h2><pre><code>{iframe_code}</code></pre><p>Rus versiyası üçün ünvanın sonunda <code>/az</code> əvəzinə <code>/ru</code> yazılır.</p></section><section class="box"><h2>API</h2><p>Öz dizaynınızda istifadə etmək üçün: <a href="/api/v1/current">{PUBLIC_SITE_URL}/api/v1/current</a></p><p>Əməkdaşlıq üçün <a href="{PUBLIC_SITE_URL}">META Abşeron Proqnozu</a> saytının əlaqə bölməsindən istifadə edə bilərsiniz.</p></section></main></body></html>'''
+    return app.response_class(page, mimetype="text/html")
 
 
 # ---------------- HISTORY ----------------
