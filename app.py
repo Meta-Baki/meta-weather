@@ -83,6 +83,18 @@ PAGE_VIEW_SECTIONS = {
     "meteorologySection": ["story/sayt haqqında/meteorologiya.txt"],
     "systemSection": ["story/sayt haqqında/system.txt"],
 }
+# To manually set a counter, write its number here and increase the revision.
+# Example: {"metaSection": 1250}. The value is applied once after deployment.
+PAGE_VIEW_MANUAL_REVISION = 2
+PAGE_VIEW_MANUAL_COUNTS = {
+    "monthlyForecastSection": 537,  # Ay ərzində hava proqnozu
+    "metaSection": 160,            # META xəbərlər
+    "historySection": 283,          # Hava xəbərləri
+    "spaceSection": 183,            # Günəş və kosmos
+    "aboutSection": 1941,             # Haqqımızda
+    "meteorologySection": 1354,      # Meteorologiya
+    "systemSection": 1296,            # Sistem və sensorların vəziyyəti
+}
 
 
 def _page_content_version(section_id):
@@ -115,6 +127,9 @@ def _page_views_connection():
             content_version TEXT NOT NULL
         )
     """)
+    columns = {row[1] for row in connection.execute("PRAGMA table_info(page_views)")}
+    if "manual_revision" not in columns:
+        connection.execute("ALTER TABLE page_views ADD COLUMN manual_revision INTEGER NOT NULL DEFAULT 0")
     return connection
 
 
@@ -130,22 +145,29 @@ def page_views(section_id):
         connection = _page_views_connection()
         try:
             row = connection.execute(
-                "SELECT views, content_version FROM page_views WHERE section_id = ?", (section_id,)
+                "SELECT views, content_version, manual_revision FROM page_views WHERE section_id = ?", (section_id,)
             ).fetchone()
             if row is None:
                 views = 0
+                manual_revision = 0
                 connection.execute(
-                    "INSERT INTO page_views (section_id, views, content_version) VALUES (?, ?, ?)",
-                    (section_id, views, version),
+                    "INSERT INTO page_views (section_id, views, content_version, manual_revision) VALUES (?, ?, ?, ?)",
+                    (section_id, views, version, 0),
                 )
             else:
-                views, stored_version = row
+                views, stored_version, manual_revision = row
                 if stored_version != version:
                     views = 0
                     connection.execute(
                         "UPDATE page_views SET views = ?, content_version = ? WHERE section_id = ?",
                         (views, version, section_id),
                     )
+            if section_id in PAGE_VIEW_MANUAL_COUNTS and manual_revision != PAGE_VIEW_MANUAL_REVISION:
+                views = max(0, int(PAGE_VIEW_MANUAL_COUNTS[section_id]))
+                connection.execute(
+                    "UPDATE page_views SET views = ?, manual_revision = ? WHERE section_id = ?",
+                    (views, PAGE_VIEW_MANUAL_REVISION, section_id),
+                )
             if request.method == "POST":
                 views += 1
                 connection.execute("UPDATE page_views SET views = ? WHERE section_id = ?", (views, section_id))
