@@ -1,120 +1,160 @@
-<h2 style="color:#f59e0b;">☀️ Günəş aktivliyi və UV indeksi — 1–7 sentyabr</h2>
+<h2 style="color:#f59e0b;">☀️ Günəş aktivliyi və UV indeksi: 3–9 sentyabr üçün həftəlik proqnoz</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 1 sentyabr 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 3 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>☀️ Bakı və Abşeron yarımadasında qarşıdakı 7 gün ərzində
+<strong>Bakı və Abşeron yarımadasında qarşıdakı bir həftə ərzində
 ultrabənövşəyi (UV) şüalanmanın əsasən yüksək, bəzi günlərdə isə
-çox yüksək səviyyəyə çatacağı gözlənilir.</strong>
+çox yüksək səviyyədə olacağı gözlənilir.</strong>
 </p>
 
-<div style="overflow-x:auto;">
+<p>
+☀️ Xüsusilə günorta saatlarında Günəş şüalarının intensivliyi
+artacaq. Həftənin ən yüksək UV göstəricilərindən biri
+<strong>4 sentyabrda</strong> gözlənilir.
+</p>
+
+<div style="overflow-x:auto;margin:20px 0;">
 <table style="width:100%;border-collapse:collapse;text-align:center;">
 
 <tr style="background:#f59e0b;color:#111827;">
 <th style="padding:12px;border:1px solid #374151;">📅 Tarix</th>
 <th style="padding:12px;border:1px solid #374151;">☀️ UV indeksi</th>
 <th style="padding:12px;border:1px solid #374151;">⚠️ Səviyyə</th>
-<th style="padding:12px;border:1px solid #374151;">🌤️ Aktivlik</th>
-</tr>
-
-<tr>
-<td style="padding:12px;border:1px solid #374151;">1 sentyabr</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>6.8</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🟠 Yüksək</td>
-<td style="padding:12px;border:1px solid #374151;">🌤️ Yüksək</td>
-</tr>
-
-<tr>
-<td style="padding:12px;border:1px solid #374151;">2 sentyabr</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>6.9</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🟠 Yüksək</td>
-<td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
+<th style="padding:12px;border:1px solid #374151;">🌞 Günəş aktivliyi</th>
 </tr>
 
 <tr>
 <td style="padding:12px;border:1px solid #374151;">3 sentyabr</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>6.9</strong></td>
+<td style="padding:12px;border:1px solid #374151;"><strong>7</strong></td>
 <td style="padding:12px;border:1px solid #374151;">🟠 Yüksək</td>
 <td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
 </tr>
 
 <tr>
 <td style="padding:12px;border:1px solid #374151;">4 sentyabr</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>7.4</strong></td>
+<td style="padding:12px;border:1px solid #374151;"><strong>8</strong></td>
 <td style="padding:12px;border:1px solid #374151;">🔴 Çox yüksək</td>
 <td style="padding:12px;border:1px solid #374151;">☀️ Çox yüksək</td>
 </tr>
 
 <tr>
 <td style="padding:12px;border:1px solid #374151;">5 sentyabr</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>7.2</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🔴 Çox yüksək</td>
-<td style="padding:12px;border:1px solid #374151;">☀️ Çox yüksək</td>
+<td style="padding:12px;border:1px solid #374151;"><strong>7</strong></td>
+<td style="padding:12px;border:1px solid #374151;">🟠 Yüksək</td>
+<td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
 </tr>
 
 <tr>
 <td style="padding:12px;border:1px solid #374151;">6 sentyabr</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>8.0</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🔴 Çox yüksək</td>
-<td style="padding:12px;border:1px solid #374151;">☀️ Çox yüksək</td>
+<td style="padding:12px;border:1px solid #374151;"><strong>7</strong></td>
+<td style="padding:12px;border:1px solid #374151;">🟠 Yüksək</td>
+<td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
 </tr>
 
 <tr>
 <td style="padding:12px;border:1px solid #374151;">7 sentyabr</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>8.0</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🔴 Çox yüksək</td>
-<td style="padding:12px;border:1px solid #374151;">☀️ Çox yüksək</td>
+<td style="padding:12px;border:1px solid #374151;"><strong>7</strong></td>
+<td style="padding:12px;border:1px solid #374151;">🟠 Yüksək</td>
+<td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
+</tr>
+
+<tr>
+<td style="padding:12px;border:1px solid #374151;">8 sentyabr</td>
+<td style="padding:12px;border:1px solid #374151;"><strong>7</strong></td>
+<td style="padding:12px;border:1px solid #374151;">🟠 Yüksək</td>
+<td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
+</tr>
+
+<tr>
+<td style="padding:12px;border:1px solid #374151;">9 sentyabr</td>
+<td style="padding:12px;border:1px solid #374151;"><strong>7</strong></td>
+<td style="padding:12px;border:1px solid #374151;">🟠 Yüksək</td>
+<td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
 </tr>
 
 </table>
 </div>
 
-<h3 style="color:#f59e0b;">📈 Həftənin tendensiyası</h3>
+<h3 style="color:#ef4444;">🔴 4 sentyabr — UV indeksi 8</h3>
 
 <p>
-☀️ <strong>1–3 sentyabr:</strong> UV indeksinin əsasən
-<strong>6–7</strong> intervalında — yüksək səviyyədə olması gözlənilir.
+Həftənin ən yüksək göstəricilərindən biri <strong>4 sentyabrda</strong>
+gözlənilir. UV indeksinin <strong>8</strong> səviyyəsinə çatması
+<strong>çox yüksək ultrabənövşəyi şüalanma</strong> deməkdir.
 </p>
+
+<p style="background:#7f1d1d;color:#ffffff;padding:16px;border-radius:10px;
+font-size:19px;font-weight:bold;">
+☀️⚠️ 4 sentyabrda günorta saatlarında UV indeksi 8-ə çata bilər.
+Açıq havada Günəş altında uzun müddət qalarkən qoruyucu vasitələrdən
+istifadə etmək tövsiyə olunur.
+</p>
+
+<h3 style="color:#f59e0b;">📈 Həftəlik vəziyyət</h3>
 
 <p>
-🔴 <strong>4–7 sentyabr:</strong> Günəş şüalanmasının daha da
-intensivləşməsi və UV indeksinin bəzi proqnozlara əsasən
-<strong>7–8</strong> səviyyəsinə yüksəlməsi mümkündür.
-</p>
-
-<p style="color:#ef4444;font-size:20px;font-weight:bold;">
-☀️⚠️ Həftənin ən yüksək UV göstəricilərinin 6–7 sentyabrda
-müşahidə olunması və indeksin 8-ə yaxınlaşması gözlənilir.
-</p>
-
-<h3 style="color:#f59e0b;">🕶️ Tövsiyələr</h3>
-
-<p>
-UV indeksinin <strong>6 və daha yüksək</strong> olduğu günlərdə
-xüsusilə günorta saatlarında Günəş şüalarının təsiri güclü olur.
+☀️ <strong>3 sentyabr:</strong> UV indeksi 7 — yüksək.
 </p>
 
 <p>
-⏰ Xüsusilə <strong>11:00–16:00</strong> saatlarında birbaşa Günəş
-altında uzun müddət qalmaqdan çəkinmək tövsiyə edilir.
+🔴 <strong>4 sentyabr:</strong> UV indeksi 8 — çox yüksək.
 </p>
 
 <p>
-🕶️ Günəş eynəyi, baş örtüyü və günəşdən qoruyucu vasitələrdən
-istifadə etmək məqsədəuyğundur.
+🟠 <strong>5–9 sentyabr:</strong> UV indeksinin əsasən
+<strong>7</strong> səviyyəsində qalacağı gözlənilir.
 </p>
+
+<h3 style="color:#38bdf8;">🕐 Günün hansı saatlarında UV daha güclüdür?</h3>
+
+<p>
+Günəşin səmada daha yüksək olduğu günorta saatlarında ultrabənövşəyi
+şüalanma maksimum səviyyəyə yaxınlaşır.
+</p>
+
+<p>
+⏰ Xüsusilə <strong>11:00–16:00</strong> aralığında birbaşa Günəş
+şüaları altında uzun müddət qalarkən ehtiyatlı olmaq tövsiyə edilir.
+</p>
+
+<h3 style="color:#22c55e;">🕶️ Tövsiyələr</h3>
+
+<p>
+🕶️ UV şüalarından qoruyan günəş eynəklərindən istifadə edin.<br><br>
+
+🧴 Açıq havada uzun müddət qalarkən günəşdən qoruyucu vasitələrdən istifadə edin.<br><br>
+
+🧢 Baş örtüyü və açıq rəngli geyimlərə üstünlük verin.<br><br>
+
+🌳 Günorta saatlarında imkan daxilində kölgəli ərazilərdə qalın.
+</p>
+
+<div style="background:#78350f;color:#ffffff;padding:16px;border-radius:10px;
+font-size:19px;margin:18px 0;">
+<strong>☀️ 3–9 SENTYABR — QISA XÜLASƏ</strong><br><br>
+
+📈 Maksimum UV: <strong>8 — çox yüksək</strong><br><br>
+
+🔴 Ən yüksək göstərici: <strong>4 sentyabr</strong><br><br>
+
+🟠 Həftənin digər günləri: <strong>əsasən UV 7 — yüksək</strong><br><br>
+
+⏰ Ən güclü şüalanma: <strong>günorta saatları</strong>
+</div>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Günəş və UV aktivliyini izləməyə davam edir.
-Proqnoz göstəricilərində dəyişiklik olduqda məlumat yenilənəcək.
+📡 META Meteorologiya Mərkəzi Bakı və Abşeron yarımadasında
+UV indeksini və Günəş aktivliyini izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Meteoroloji məlumatlar üçün WhatsApp kanalımıza qoşulun:
+📲 Meteorologiya və Günəş aktivliyi haqqında operativ məlumatlar üçün
+WhatsApp kanalımıza qoşulun:
 <br><br>
+
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
