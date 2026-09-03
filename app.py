@@ -2,6 +2,9 @@ from flask import Flask, request, jsonify, send_from_directory
 import json
 import requests
 import os
+import hashlib
+import sqlite3
+import threading
 from datetime import datetime
 from zoneinfo import ZoneInfo
 import base64
@@ -65,6 +68,91 @@ LAST_SAVE_FILE = "last_save.json"
 PUBLIC_SITE_URL = "https://meta-baki1.onrender.com"
 STATION_NAME = "META Abşeron Proqnozu"
 STATION_LOCATION = "Əhmədli, Bakı"
+
+
+# ---------------- PAGE VIEW COUNTERS ----------------
+# Set PAGE_VIEWS_DB to a path on a persistent Render Disk in production.
+PAGE_VIEWS_DB = os.getenv("PAGE_VIEWS_DB", os.path.join(app.root_path, "page_views.sqlite3"))
+PAGE_VIEW_LOCK = threading.Lock()
+PAGE_VIEW_SECTIONS = {
+    "monthlyForecastSection": ["story/Ay ərzində hava"],
+    "metaSection": ["story/meta"],
+    "historySection": ["story/history.txt", "story/image.jpg", "story/image.png"],
+    "spaceSection": ["story/space"],
+    "aboutSection": ["story/sayt haqqında/haqqımızda.txt"],
+    "meteorologySection": ["story/sayt haqqında/meteorologiya.txt"],
+    "systemSection": ["story/sayt haqqında/system.txt"],
+}
+
+
+def _page_content_version(section_id):
+    """Hash the published files so an edited news item starts a fresh counter."""
+    digest = hashlib.sha256()
+    for relative_path in PAGE_VIEW_SECTIONS[section_id]:
+        path = os.path.join(app.root_path, relative_path)
+        if os.path.isdir(path):
+            files = []
+            for directory, _, filenames in os.walk(path):
+                files.extend(os.path.join(directory, filename) for filename in filenames)
+        else:
+            files = [path]
+        for file_path in sorted(files):
+            digest.update(os.path.relpath(file_path, app.root_path).encode("utf-8"))
+            try:
+                with open(file_path, "rb") as source:
+                    digest.update(source.read())
+            except OSError:
+                digest.update(b"missing")
+    return digest.hexdigest()
+
+
+def _page_views_connection():
+    connection = sqlite3.connect(PAGE_VIEWS_DB, timeout=10)
+    connection.execute("""
+        CREATE TABLE IF NOT EXISTS page_views (
+            section_id TEXT PRIMARY KEY,
+            views INTEGER NOT NULL DEFAULT 0,
+            content_version TEXT NOT NULL
+        )
+    """)
+    return connection
+
+
+@app.route("/api/page-views/<section_id>", methods=["GET", "POST"])
+def page_views(section_id):
+    if section_id not in PAGE_VIEW_SECTIONS:
+        return jsonify({"error": "Unknown page section"}), 404
+
+    # Reset on the server, before returning the shared total, whenever the
+    # related news/text/image files have changed.
+    version = _page_content_version(section_id)
+    with PAGE_VIEW_LOCK:
+        connection = _page_views_connection()
+        try:
+            row = connection.execute(
+                "SELECT views, content_version FROM page_views WHERE section_id = ?", (section_id,)
+            ).fetchone()
+            if row is None:
+                views = 0
+                connection.execute(
+                    "INSERT INTO page_views (section_id, views, content_version) VALUES (?, ?, ?)",
+                    (section_id, views, version),
+                )
+            else:
+                views, stored_version = row
+                if stored_version != version:
+                    views = 0
+                    connection.execute(
+                        "UPDATE page_views SET views = ?, content_version = ? WHERE section_id = ?",
+                        (views, version, section_id),
+                    )
+            if request.method == "POST":
+                views += 1
+                connection.execute("UPDATE page_views SET views = ? WHERE section_id = ?", (views, section_id))
+            connection.commit()
+            return jsonify({"section": section_id, "views": views})
+        finally:
+            connection.close()
 
 
 def _number(value, default=0.0):
@@ -320,7 +408,7 @@ def _widget_html(language):
     return f'''<!doctype html>
 <html lang="{lang_code}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <style>
-*{{box-sizing:border-box}}html,body{{margin:0;background:transparent;font-family:Arial,sans-serif;color:#eaf6ff}}body{{min-height:100vh;display:grid;place-items:start center}}.card{{width:min(100vw,420px);aspect-ratio:1;display:flex;flex-direction:column;padding:20px;border-radius:24px;background:linear-gradient(145deg,#062744,#0b172c);border:1px solid #245475;box-shadow:0 12px 35px #0005;overflow:hidden}}.head{{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:14px}}h1{{font-size:20px;line-height:1.2;margin:0}}.live{{font-size:10px;font-weight:800;color:#9af7bd;background:#125434;padding:7px 9px;border-radius:999px;white-space:nowrap}}.grid{{display:grid;grid-template-columns:repeat(2,1fr);grid-template-rows:repeat(3,1fr);gap:9px;flex:1;min-height:0}}.item{{display:flex;flex-direction:column;justify-content:center;padding:12px;border-radius:15px;background:#ffffff0d;border:1px solid #ffffff12}}.item span{{display:block;color:#9fb8cb;font-size:11px;margin-bottom:6px}}.item strong{{font-size:18px}}.foot{{display:flex;justify-content:space-between;gap:12px;align-items:end;margin-top:14px;color:#9fb8cb;font-size:11px}}.foot a{{color:#75d5ff;font-weight:800;text-decoration:none;text-align:right}}#notice{{display:none;margin:0 0 8px;color:#ffd48a;font-size:11px}}@media(max-width:350px){{.card{{padding:13px;border-radius:16px}}.head{{margin-bottom:8px}}h1{{font-size:16px}}.live{{font-size:8px;padding:5px 7px}}.grid{{gap:6px}}.item{{padding:8px}}.item span{{font-size:9px;margin-bottom:3px}}.item strong{{font-size:14px}}.foot{{margin-top:8px;font-size:9px}}}}
+*{{box-sizing:border-box}}html,body{{margin:0;background:transparent;font-family:Arial,sans-serif;color:#eaf6ff}}.card{{min-height:250px;padding:18px;border-radius:20px;background:linear-gradient(145deg,#062744,#0b172c);border:1px solid #245475;box-shadow:0 12px 35px #0005}}.head{{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:15px}}h1{{font-size:20px;margin:0}}.live{{font-size:11px;font-weight:800;color:#9af7bd;background:#125434;padding:7px 9px;border-radius:999px}}.grid{{display:grid;grid-template-columns:repeat(3,1fr);gap:9px}}.item{{padding:11px;border-radius:13px;background:#ffffff0d;border:1px solid #ffffff12}}.item span{{display:block;color:#9fb8cb;font-size:11px;margin-bottom:5px}}.item strong{{font-size:17px}}.foot{{display:flex;justify-content:space-between;gap:12px;align-items:end;margin-top:14px;color:#9fb8cb;font-size:11px}}.foot a{{color:#75d5ff;font-weight:800;text-decoration:none;text-align:right}}#notice{{display:none;margin:10px 0;color:#ffd48a;font-size:12px}}@media(max-width:470px){{.grid{{grid-template-columns:repeat(2,1fr)}}.card{{border-radius:14px;padding:14px}}h1{{font-size:17px}}}}
 </style></head><body><main class="card"><div class="head"><h1>🌤 {text['title']}</h1><span class="live">● {text['live']}</span></div><div id="notice">{text['offline']}</div><section class="grid">
 <div class="item"><span>🌡 {text['temp']}</span><strong id="temp">—</strong></div><div class="item"><span>💧 {text['humidity']}</span><strong id="humidity">—</strong></div><div class="item"><span>🧭 {text['pressure']}</span><strong id="pressure">—</strong></div><div class="item"><span>💨 {text['wind']}</span><strong id="wind">—</strong></div><div class="item"><span>⚡ {text['gust']}</span><strong id="gust">—</strong></div><div class="item"><span>🌧 {text['rain']}</span><strong id="rain">—</strong></div>
 </section><footer class="foot"><span>{text['updated']}: <b id="updated">—</b></span><a href="{PUBLIC_SITE_URL}" target="_blank" rel="noopener">{text['source']}:<br>{STATION_NAME}</a></footer></main>
@@ -341,11 +429,11 @@ def weather_widget(language="az"):
 @app.route("/media")
 def media_page():
     iframe_code = escape(
-        f'<iframe src="{PUBLIC_SITE_URL}/widget/weather/az" width="420" '
-        'height="420" style="width:100%;max-width:420px;border:0" loading="lazy" title="META canlı hava"></iframe>'
+        f'<iframe src="{PUBLIC_SITE_URL}/widget/weather/az" width="100%" '
+        'height="270" style="border:0" loading="lazy" title="META canlı hava"></iframe>'
     )
     page = f'''<!doctype html><html lang="az"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Media üçün canlı hava | {STATION_NAME}</title><style>
-*{{box-sizing:border-box}}body{{margin:0;background:#061524;color:#e8f5ff;font:16px/1.6 Arial,sans-serif}}main{{width:min(1040px,calc(100% - 28px));margin:32px auto}}.hero,.box{{padding:28px;border:1px solid #24445d;border-radius:22px;background:#0a2136;margin-bottom:18px}}h1{{font-size:clamp(30px,6vw,52px);line-height:1.1;margin:0 0 14px}}h2{{margin-top:0}}p{{color:#c4d8e7}}.badge{{display:inline-block;padding:7px 11px;border-radius:999px;background:#0d5b39;color:#b8ffd6;font-weight:800}}.cols{{display:grid;grid-template-columns:1fr 1fr;gap:18px}}iframe{{display:block;width:420px;max-width:100%;height:420px;border:0;margin:auto}}pre{{overflow:auto;padding:17px;border-radius:13px;background:#020b13;color:#9ee6ff;white-space:pre-wrap}}a{{color:#6fd5ff}}@media(max-width:760px){{.cols{{grid-template-columns:1fr}}.hero,.box{{padding:20px}}}}
+*{{box-sizing:border-box}}body{{margin:0;background:#061524;color:#e8f5ff;font:16px/1.6 Arial,sans-serif}}main{{width:min(1040px,calc(100% - 28px));margin:32px auto}}.hero,.box{{padding:28px;border:1px solid #24445d;border-radius:22px;background:#0a2136;margin-bottom:18px}}h1{{font-size:clamp(30px,6vw,52px);line-height:1.1;margin:0 0 14px}}h2{{margin-top:0}}p{{color:#c4d8e7}}.badge{{display:inline-block;padding:7px 11px;border-radius:999px;background:#0d5b39;color:#b8ffd6;font-weight:800}}.cols{{display:grid;grid-template-columns:1fr 1fr;gap:18px}}iframe{{width:100%;height:270px;border:0}}pre{{overflow:auto;padding:17px;border-radius:13px;background:#020b13;color:#9ee6ff;white-space:pre-wrap}}a{{color:#6fd5ff}}@media(max-width:760px){{.cols{{grid-template-columns:1fr}}.hero,.box{{padding:20px}}}}
 </style></head><body><main><section class="hero"><span class="badge">PULSUZ İNTEQRASİYA</span><h1>Media üçün canlı meteoroloji məlumatlar</h1><p>{STATION_NAME} Bakıdakı avtomatik stansiyadan faktiki göstəriciləri media saytlarına təqdim edir. Vidcet hər dəqiqə yenilənir və texniki xidmət bizim tərəfimizdən həyata keçirilir.</p></section><div class="cols"><section class="box"><h2>Canlı nümunə</h2><iframe src="/widget/weather/az" title="Canlı hava vidceti"></iframe></section><section class="box"><h2>Nələr təqdim olunur?</h2><p>Temperatur, rütubət, atmosfer təzyiqi, küləyin sürəti və istiqaməti, küləyin şiddəti, 1 və 24 saatlıq yağıntı.</p><p><strong>Yenilənmə:</strong> hər 60 saniyə<br><strong>Mənbə:</strong> avtomatik meteoroloji stansiya<br><strong>İstifadə:</strong> mənbə göstərilməklə pulsuz</p></section></div><section class="box"><h2>Bir sətirlə quraşdırma</h2><pre><code>{iframe_code}</code></pre><p>Rus versiyası üçün ünvanın sonunda <code>/az</code> əvəzinə <code>/ru</code> yazılır.</p></section><section class="box"><h2>API</h2><p>Öz dizaynınızda istifadə etmək üçün: <a href="/api/v1/current">{PUBLIC_SITE_URL}/api/v1/current</a></p><p>Əməkdaşlıq üçün <a href="{PUBLIC_SITE_URL}">META Abşeron Proqnozu</a> saytının əlaqə bölməsindən istifadə edə bilərsiniz.</p></section></main></body></html>'''
     return app.response_class(page, mimetype="text/html")
 
