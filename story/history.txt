@@ -1,92 +1,89 @@
-<h2 style="color:#38bdf8;">🌤️ 3 sentyabr üçün hava proqnozu: Bakıda temperatur 30°C-yə çatacaq</h2>
+<h2 style="color:#38bdf8;">🌤️ 4 sentyabr üçün hava proqnozu: Bakıda 30°C isti olacaq</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 2 sentyabr 2026, 17:50 — Bakı vaxtı
+🕐 Əlavə olunub: 3 sentyabr 2026, 13:12 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Sentyabrın 3-də Bakı və Abşeron yarımadasında dəyişkən buludlu hava şəraiti gözlənilir.
-Gün ərzində əsasən yağmursuz olacaq.</strong>
+<strong>Sentyabrın 4-də Bakı və Abşeron yarımadasında hava şəraitinin dəyişkən buludlu, əsasən yağmursuz keçəcəyi gözlənilir.</strong>
 </p>
 
 <h3 style="color:#38bdf8;">🏙️ Bakı və Abşeron yarımadası</h3>
 
 <p>
-🌤️ Hava dəyişkən buludlu, əsasən yağmursuz keçəcək.
+🌤️ Gün ərzində dəyişkən buludlu hava şəraiti üstünlük təşkil edəcək. Əsasən yağmursuz olacaq.
 </p>
 
 <p>
-🌡️ Havanın temperaturu gecə <strong>+19…+21°C</strong>,
-gündüz isə <strong>+26…+30°C</strong> təşkil edəcək.
+🌡️ Havanın temperaturu gecə <strong>+20…+23°C</strong>, gündüz isə <strong>+26…+30°C</strong> təşkil edəcək.
 </p>
 
 <p>
-🌬️ <strong>Şimal-şərq küləyi</strong> əsəcək.
+🌬️ <strong>Mülayim cənub-şərq küləyi</strong> əsəcək.
 </p>
 
 <p>
-💧 Nisbi rütubət gecə <strong>70–75%</strong>,
-gündüz isə <strong>45–50%</strong> olacaq.
+💧 Nisbi rütubət gecə <strong>70–75%</strong>, gündüz isə <strong>45–50%</strong> olacaq.
 </p>
 
 <p>
-🔵 Atmosfer təzyiqi <strong>762 mm civə sütunu
-(≈1016 hPa)</strong> təşkil edəcək.
+🔵 Atmosfer təzyiqi <strong>761 mm civə sütunu (≈1015 hPa)</strong> təşkil edəcək.
 </p>
 
-<div style="background:#0f3b57;color:#ffffff;padding:16px;border-radius:10px;
-font-size:18px;margin:18px 0;">
+<div style="background:#0f3b57;color:#ffffff;padding:16px;border-radius:10px;font-size:18px;margin:18px 0;">
 <strong>📌 Bakı üçün qısa proqnoz:</strong><br><br>
-🌤️ Dəyişkən buludlu, əsasən yağmursuz<br>
-🌡️ Gecə: <strong>+19…+21°C</strong><br>
-☀️ Gündüz: <strong>+26…+30°C</strong><br>
-🌬️ Külək: <strong>şimal-şərq istiqamətli</strong><br>
-💧 Rütubət: <strong>gecə 70–75%, gündüz 45–50%</strong><br>
-🔵 Təzyiq: <strong>762 mmHg (≈1016 hPa)</strong>
+
+🌤️ Hava: <strong>dəyişkən buludlu, əsasən yağmursuz</strong><br><br>
+
+🌙 Gecə: <strong>+20…+23°C</strong><br><br>
+
+☀️ Gündüz: <strong>+26…+30°C</strong><br><br>
+
+🌬️ Külək: <strong>mülayim cənub-şərq</strong><br><br>
+
+💧 Rütubət: <strong>gecə 70–75%, gündüz 45–50%</strong><br><br>
+
+🔵 Təzyiq: <strong>761 mmHg (≈1015 hPa)</strong>
+
 </div>
 
-<h3 style="color:#22c55e;">🇦🇿 Azərbaycanın rayonlarında hava necə olacaq?</h3>
+<h3 style="color:#22c55e;">🇦🇿 Azərbaycanın rayonlarında</h3>
 
 <p>
-Ölkənin əksər rayonlarında hava şəraitinin
-<strong>əsasən yağmursuz</strong> keçəcəyi gözlənilir.
+Ölkənin rayonlarında hava şəraitinin <strong>əsasən yağmursuz</strong> keçəcəyi gözlənilir.
 </p>
 
 <p>
-⛈️ Lakin <strong>gecə və səhər bəzi dağlıq rayonlarda
-qısamüddətli yağış yağması və şimşək çaxması</strong> mümkündür.
+⛈️ Lakin gündüz saatlarında <strong>bəzi dağlıq ərazilərdə qısamüddətli zəif yağış yağması və şimşək çaxması</strong> ehtimalı var.
 </p>
 
 <p>
-🌫️ Ayrı-ayrı dağlıq ərazilərdə gecə və səhər saatlarında
-arabir <strong>duman</strong> müşahidə oluna bilər.
+🌫️ Gecə və səhər bəzi dağlıq ərazilərdə arabir <strong>duman</strong> müşahidə olunacaq.
 </p>
 
 <p>
-🌬️ Rayonlarda əsasən <strong>şərq küləyi</strong> əsəcək.
+🌬️ Əsasən <strong>mülayim şərq küləyi</strong> əsəcək.
 </p>
 
 <h3 style="color:#f59e0b;">🌡️ Regionlarda temperatur</h3>
 
 <p>
-🌙 Aran rayonlarında gecə: <strong>+18…+22°C</strong><br>
-☀️ Aran rayonlarında gündüz: <strong>+27…+32°C</strong>
+🌙 Aran rayonlarında gecə: <strong>+16…+21°C</strong><br>
+☀️ Aran rayonlarında gündüz: <strong>+28…+33°C</strong>
 </p>
 
 <p>
 🏔️ Dağlarda gecə: <strong>+10…+15°C</strong><br>
-⛰️ Dağlarda gündüz: <strong>+18…+22°C</strong>
+⛰️ Dağlarda gündüz: <strong>+19…+24°C</strong>
 </p>
 
-<p style="background:#78350f;color:#ffffff;padding:16px;border-radius:10px;
-font-size:19px;font-weight:bold;">
-⛈️ Diqqət: 3 sentyabr gecə və səhər saatlarında bəzi dağlıq
-rayonlarda qısamüddətli yağış, şimşək və duman ehtimalı var.
-</p>
+<div style="background:#14532d;color:#ffffff;padding:16px;border-radius:10px;font-size:19px;margin:18px 0;">
+<strong>🟢 XƏBƏRDARLIQ YOXDUR</strong><br><br>
+4 sentyabr üçün təhlükəli meteoroloji hadisələrlə bağlı xüsusi xəbərdarlıq elan edilməyib.
+</div>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava şəraitini izləməyə davam edir.
-Proqnozda mühüm dəyişiklik baş verərsə, əlavə məlumat təqdim olunacaq.
+📡 META Meteorologiya Mərkəzi hava şəraitini izləməyə davam edir. Proqnozda mühüm dəyişiklik baş verərsə, əlavə məlumat təqdim olunacaq.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
