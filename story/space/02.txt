@@ -1,117 +1,135 @@
-<h2 style="color:#8b5cf6;">🌌✨ NASA açıqladı: Sentyabrda səmada bir neçə möhtəşəm astronomik hadisə baş verəcək</h2>
+<h2 style="color:#f59e0b;">🛰️☿ BepiColombo Merkuri planetinə çatmağa başlayır — 8 illik səyahətin kritik mərhələsi</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 2 sentyabr 2026, 17:50 — Bakı vaxtı
+🕐 Əlavə olunub: 3 sentyabr 2026, 13:12 — Bakı vaxtı
 </p>
 
 <p>
-<strong>NASA 2026-cı ilin sentyabr ayında gecə səmasında müşahidə edilə biləcək
-əsas astronomik hadisələri açıqlayıb.</strong> Ay ərzində Veneranın parlaqlığının
-maksimuma çatması, payız bərabərliyi və “Məhsul Ayı”nın Saturn və Neptunla
-yaxın görünməsi kimi maraqlı hadisələr gözlənilir.
-</p>
-
-<h3 style="color:#f59e0b;">✨ 18 sentyabr — Venera maksimum parlaqlığa çatacaq</h3>
-
-<p>
-Sentyabrın ən diqqətçəkən hadisələrindən biri <strong>18 sentyabrda</strong>
-baş verəcək.
+<strong>Avropa Kosmik Agentliyi (ESA) və Yaponiya Aerokosmik Tədqiqatlar Agentliyinin (JAXA)
+BepiColombo missiyası səkkiz illik planetlərarası səyahətdən sonra Merkuri planetinə
+çatmasının ən mühüm mərhələlərindən birinə başlayır.</strong>
 </p>
 
 <p>
-🪐 <strong>Venera</strong> hazırkı axşam görünüşü dövründə maksimum
-parlaqlığına çatacaq. Bu səbəbdən planet Günəş batdıqdan sonra qərb
-səmasında son dərəcə parlaq obyekt kimi görünəcək.
+🛰️ Bu gün — <strong>3 sentyabr 2026-cı ildə</strong> BepiColombo-nu uzun
+planetlərarası səyahəti boyunca hərəkət etdirən
+<strong>Mercury Transfer Module (MTM)</strong> iki elmi orbital aparatdan ayrılacaq.
 </p>
 
-<p style="color:#f59e0b;font-size:19px;font-weight:bold;">
-✨ Venera Ay və Günəşdən sonra səmada müşahidə edilən ən parlaq
-təbii obyektlərdən biridir.
-</p>
+<div style="background:#78350f;color:#ffffff;padding:16px;border-radius:10px;
+font-size:19px;margin:18px 0;">
+<strong>🚨 BU GÜN KRİTİK ƏMƏLİYYAT</strong><br><br>
 
-<h3 style="color:#38bdf8;">🌙 14–20 sentyabr — Ay səma bələdçisi olacaq</h3>
+🛰️ Missiya: <strong>BepiColombo</strong><br><br>
 
-<p>
-NASA-nın məlumatına görə, <strong>14–20 sentyabr</strong> tarixlərində
-Ay vasitəsilə gecə səmasında bir sıra maraqlı obyektləri tapmaq mümkün olacaq.
-</p>
+☿ Hədəf: <strong>Merkuri</strong><br><br>
 
-<p>
-🌙 Günəş batdıqdan təxminən bir saat sonra cənub səmasına baxdıqda
-Ayın gecədən-gecəyə ulduzlar fonunda mövqeyini dəyişdirdiyini müşahidə
-etmək mümkün olacaq.
-</p>
+📅 Tarix: <strong>3 sentyabr 2026</strong><br><br>
 
-<p>
-⭐ Ay bu müddətdə Əqrəb bürcünün “ürəyi” hesab edilən parlaq və
-qırmızımtıl <strong>Antares</strong> ulduzunun yaxınlığından keçəcək.
-</p>
+⏳ Kosmosda keçən müddət: <strong>təxminən 8 il</strong><br><br>
 
-<p>
-🌌 Qaranlıq səma şəraitində Oxatan bürcündə yerləşən məşhur
-<strong>“Çaydan” (Teapot)</strong> ulduz qrupunu və Süd Yolunun
-mərkəzi istiqamətindəki zəngin ulduz sahələrini də müşahidə etmək mümkün olacaq.
-</p>
-
-<h3 style="color:#22c55e;">🍂 22 sentyabr — payız bərabərliyi</h3>
-
-<p>
-🌍 <strong>22 sentyabrda sentyabr bərabərliyi baş verəcək.</strong>
-Bu astronomik hadisə Şimal yarımkürəsində astronomik payızın,
-Cənub yarımkürəsində isə yazın başlanğıcı hesab olunur.
-</p>
-
-<p>
-Bərabərlik zamanı Günəş səma ekvatorunu keçir və Yer kürəsinin
-müxtəlif hissələrində gecə ilə gündüzün uzunluğu bir-birinə yaxınlaşır.
-</p>
-
-<h3 style="color:#f59e0b;">🌕🪐 26 sentyabr — “Məhsul Ayı”, Saturn və Neptun</h3>
-
-<p>
-Ayın digər maraqlı astronomik hadisəsi <strong>26 sentyabrda</strong>
-müşahidə ediləcək.
-</p>
-
-<p>
-🌕 Sentyabrın tam Ayı — ənənəvi olaraq
-<strong>“Məhsul Ayı” (Harvest Moon)</strong> adlandırılan dolunay —
-səmada Saturn və Neptunun yaxınlığında görünəcək.
-</p>
-
-<p>
-🪐 Saturnu adi gözlə görmək mümkün olsa da, uzaqda yerləşən
-Neptunu müşahidə etmək üçün teleskop və uyğun müşahidə şəraiti tələb olunur.
-</p>
-
-<div style="background:#312e81;color:#ffffff;padding:16px;border-radius:10px;
-font-size:18px;margin:18px 0;">
-<strong>🔭 Sentyabrın əsas astronomik hadisələri:</strong><br><br>
-
-🌙 <strong>14–20 sentyabr</strong> — Ay, Antares və Oxatan bürcünün müşahidəsi<br><br>
-
-✨ <strong>18 sentyabr</strong> — Venera maksimum parlaqlığa çatacaq<br><br>
-
-🍂 <strong>22 sentyabr</strong> — sentyabr bərabərliyi və astronomik payızın başlanması<br><br>
-
-🌕🪐 <strong>26 sentyabr</strong> — “Məhsul Ayı” Saturn və Neptunun yaxınlığında görünəcək
-
+🎯 Əməliyyat: <strong>Mercury Transfer Module-un ayrılması</strong>
 </div>
 
-<p style="color:#8b5cf6;font-size:20px;font-weight:bold;">
-🌌 Sentyabr astronomiya həvəskarları üçün olduqca maraqlı ay olacaq.
-Əlverişli hava şəraitində bu hadisələrin bir hissəsini Azərbaycandan da
-müşahidə etmək mümkün olacaq.
+<h3 style="color:#ef4444;">🚀 Ən çətin planet missiyalarından biri</h3>
+
+<p>
+Merkuriyə çatmaq kosmik missiyalar üçün olduqca mürəkkəbdir.
+Planet Günəşə çox yaxın yerləşdiyi üçün kosmik aparatın sürətini və
+trayektoriyasını son dərəcə dəqiq idarə etmək lazımdır.
+</p>
+
+<p>
+ESA BepiColombo-nun Merkuri orbitinə daxil olma prosesini agentliyin
+indiyədək həyata keçirdiyi <strong>ən mürəkkəb planetar əməliyyatlardan biri</strong>
+kimi qiymətləndirir.
+</p>
+
+<h3 style="color:#38bdf8;">🛰️ BepiColombo iki elmi aparatdan ibarətdir</h3>
+
+<p>
+BepiColombo missiyasının əsas elmi hissəsini iki orbital aparat təşkil edir:
+</p>
+
+<p>
+🇪🇺 <strong>Mercury Planetary Orbiter (MPO)</strong> — ESA tərəfindən hazırlanıb.
+Aparat Merkurinin səthini, geoloji quruluşunu, tərkibini və daxili xüsusiyyətlərini araşdıracaq.
+</p>
+
+<p>
+🇯🇵 <strong>Mio (Mercury Magnetospheric Orbiter)</strong> — JAXA tərəfindən hazırlanıb.
+Onun əsas vəzifəsi Merkurinin maqnit sahəsini və planet ətrafındakı kosmik mühiti öyrənməkdir.
+</p>
+
+<h3 style="color:#f59e0b;">☿ Növbəti böyük mərhələ — noyabrda</h3>
+
+<p>
+Bu gün MTM ayrıldıqdan sonra BepiColombo-nun idarə olunmasını
+MPO aparatının mühərrikləri öz üzərinə götürəcək.
+</p>
+
+<p>
+📅 Hazırkı plana əsasən, <strong>21 noyabr 2026-cı ildə</strong>
+MPO və Mio birlikdə Merkurinin qütb orbitinə daxil olacaq.
+</p>
+
+<p>
+Daha sonra iki aparat bir-birindən ayrılacaq və öz elmi orbitlərinə yerləşdiriləcək.
+</p>
+
+<div style="background:#172554;color:#ffffff;padding:16px;border-radius:10px;
+font-size:18px;margin:18px 0;">
+<strong>🗓️ BepiColombo — bundan sonra nə olacaq?</strong><br><br>
+
+🛰️ <strong>3 sentyabr 2026</strong> — MTM ayrılır<br><br>
+
+☿ <strong>21 noyabr 2026</strong> — Merkuri orbitinə daxilolma<br><br>
+
+🛰️ <strong>9–10 dekabr 2026</strong> — Mio ayrılır<br><br>
+
+⚙️ <strong>16 dekabr 2026</strong> — MPO öz orbitinə keçməyə başlayır<br><br>
+
+🎯 <strong>10 mart 2027</strong> — MPO son elmi orbitinə çatır<br><br>
+
+🔬 <strong>6 aprel 2027</strong> — əsas elmi tədqiqatlar başlayır
+</div>
+
+<h3 style="color:#22c55e;">🔬 Merkuri haqqında nə öyrənəcəyik?</h3>
+
+<p>
+BepiColombo Merkurinin indiyədək aparılmış ən ətraflı tədqiqatlarından
+birini həyata keçirəcək.
+</p>
+
+<p>
+🗺️ Planetin səthinin və mineral tərkibinin xəritələşdirilməsi;<br><br>
+
+🧲 Merkurinin qeyri-adi maqnit sahəsinin öyrənilməsi;<br><br>
+
+🌋 planetin geoloji tarixinin araşdırılması;<br><br>
+
+🌡️ Günəşə bu qədər yaxın şəraitdə planetin necə dəyişdiyinin öyrənilməsi;<br><br>
+
+🪐 daxili Günəş sistemində Yer tipli planetlərin necə formalaşdığının
+daha yaxşı başa düşülməsi missiyanın əsas elmi məqsədlərindəndir.
+</p>
+
+<p style="background:#312e81;color:#ffffff;padding:16px;border-radius:10px;
+font-size:19px;font-weight:bold;">
+☿ BepiColombo Merkuri orbitinə daxil olduqdan sonra bu planetin
+öyrənilməsi tarixində yeni mərhələ başlayacaq. Missiyanın əsas elmi
+müşahidələrinin 2027-ci ilin aprelində başlanması planlaşdırılır.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi astronomik hadisələri, Günəş aktivliyini
-və kosmik missiyalarla bağlı mühüm yenilikləri izləməyə davam edir.
+🌌 META Meteorologiya Mərkəzi kosmos, astronomiya və Günəş sisteminin
+tədqiqi ilə bağlı mühüm hadisələri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos, astronomiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Kosmos, meteorologiya və təbiət xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
+
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
