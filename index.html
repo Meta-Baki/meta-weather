@@ -289,6 +289,21 @@ td:last-child {
     display: block;
 }
 
+/* Page view badge. The value is kept in the browser so the site owner can adjust it. */
+.page-view-counter{
+    display:inline-flex;
+    align-items:center;
+    gap:8px;
+    margin:0 auto 26px;
+    padding:8px 12px;
+    border:1px solid rgba(125,211,252,.34);
+    border-radius:999px;
+    background:rgba(15,23,42,.62);
+    color:#dbeafe;
+    font-size:14px;
+    font-weight:700;
+}
+
 @keyframes fadeSection{
     from{
         opacity:0;
@@ -3656,6 +3671,51 @@ async function loadChart() {
 }
 let chart;
 
+const pageViewSections = {
+    monthlyForecastSection: 'Ay ərzində hava proqnozu',
+    metaSection: 'META xəbərlər',
+    historySection: 'Hava xəbərləri',
+    spaceSection: 'Günəş və kosmos',
+    aboutSection: 'Haqqımızda',
+    meteorologySection: 'Meteorologiya',
+    systemSection: 'Sistem və sensorların vəziyyəti'
+};
+
+function renderPageViewCounter(sectionId, views = '…') {
+    const section = document.getElementById(sectionId);
+    if (!section || !pageViewSections[sectionId]) return;
+    let counter = section.querySelector('.page-view-counter');
+    if (!counter) {
+        counter = document.createElement('div');
+        counter.className = 'page-view-counter';
+        counter.setAttribute('aria-label', 'Səhifə baxışları');
+        const heading = section.querySelector('h1');
+        (heading || section.firstChild).insertAdjacentElement('afterend', counter);
+    }
+    const label = typeof views === 'number' ? views.toLocaleString('az-AZ') : views;
+    counter.innerHTML = `👁️ <span>${label}</span> baxış`;
+}
+
+async function registerPageView(sectionId) {
+    if (!pageViewSections[sectionId]) return;
+    renderPageViewCounter(sectionId);
+    const visitKey = 'metaPageViewRecorded:' + sectionId;
+    const shouldCount = !sessionStorage.getItem(visitKey);
+    try {
+        const response = await fetch(`/api/page-views/${encodeURIComponent(sectionId)}`, {
+            method: shouldCount ? 'POST' : 'GET',
+            cache: 'no-store'
+        });
+        if (!response.ok) throw new Error('Page views HTTP ' + response.status);
+        const data = await response.json();
+        renderPageViewCounter(sectionId, data.views);
+        if (shouldCount) sessionStorage.setItem(visitKey, '1');
+    } catch (error) {
+        console.error('Page view counter error:', error);
+        renderPageViewCounter(sectionId, '—');
+    }
+}
+
 function openSection(id){
 
     const topMenu = document.getElementById('topMenu');
@@ -3676,6 +3736,8 @@ function openSection(id){
     if(section){
         section.classList.add('active');
     }
+
+    registerPageView(id);
 
     placeSensorPanel(id);
 
@@ -4128,7 +4190,7 @@ async function loadRecords() {
     }
 }
 
-async function loadTextStory(containerId, filePath) {
+async function loadTextStory(containerId, filePath, sectionId) {
     const container = document.getElementById(containerId);
 
     try {
@@ -4143,6 +4205,7 @@ async function loadTextStory(containerId, filePath) {
         if (!content) {
             throw new Error(filePath + " boşdur");
         }
+
 
         // TXT fayllarında HTML istifadə oluna bilər; digər xəbər bölmələri ilə eyni qaydada göstərilir.
         container.innerHTML = content;
@@ -4236,7 +4299,7 @@ async function loadHomeNews(metaPosts) {
 }
 
 async function loadSystemStatus() {
-    await loadTextStory("systemContent", "/story/sayt haqqında/system.txt");
+    await loadTextStory("systemContent", "/story/sayt haqqında/system.txt", "systemSection");
 }
 
 const searchableCities = [
@@ -4330,8 +4393,8 @@ window.onload = function () {
     loadMeta();
     loadRecords();
     loadTextStory("contactContent", "/story/sayt haqqında/əlaqə.txt");
-    loadTextStory("aboutContent", "/story/sayt haqqında/haqqımızda.txt");
-    loadTextStory("meteorologyContent", "/story/sayt haqqında/meteorologiya.txt");
+    loadTextStory("aboutContent", "/story/sayt haqqında/haqqımızda.txt", "aboutSection");
+    loadTextStory("meteorologyContent", "/story/sayt haqqında/meteorologiya.txt", "meteorologySection");
     loadMonthlyForecast();
     loadSystemStatus();
 
@@ -4342,6 +4405,11 @@ window.onload = function () {
     setInterval(updateStationAge, 1000);
     setInterval(loadSystemStatus, 60000);
     setInterval(loadMeta, 60000);
+    setInterval(loadHistory, 60000);
+    setInterval(loadSpace, 60000);
+    setInterval(loadMonthlyForecast, 10 * 60 * 1000);
+    setInterval(() => loadTextStory("aboutContent", "/story/sayt haqqında/haqqımızda.txt", "aboutSection"), 10 * 60 * 1000);
+    setInterval(() => loadTextStory("meteorologyContent", "/story/sayt haqqında/meteorologiya.txt", "meteorologySection"), 10 * 60 * 1000);
 
     // Open-Meteo: aktual hava şəraiti və Bakı vaxtı ilə fonun yenilənməsi.
     setInterval(loadForecast, 10 * 60 * 1000);
