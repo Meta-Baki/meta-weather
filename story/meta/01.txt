@@ -1,68 +1,163 @@
-<h2 style="color:#22c55e;">🌱♻️ Azərbaycanda ekoloji idarəetmə üzrə yeni dövlət standartı qəbul edilib</h2>
+<h2 style="color:#f59e0b;">🌡️🌧️ Avqust Azərbaycanda necə keçdi? 40°C isti, rekord yağıntı və güclü küləklər</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 2 sentyabr 2026, 17:50 — Bakı vaxtı
+🕐 Əlavə olunub: 3 sentyabr 2026, 13:12 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Azərbaycanda ekologiya və ətraf mühitin idarə olunması sahəsində
-dövlət standartının yeni versiyası qəbul edilib.</strong>
+<strong>2026-cı ilin avqust ayı Azərbaycanda yüksək temperatur,
+güclü leysanlar, rekord yağıntılar, dolu və küləkli hava şəraiti ilə yadda qalıb.</strong>
+Milli Hidrometeorologiya Xidməti ötən ay ölkə ərazisində müşahidə olunan
+hava şəraiti ilə bağlı yekun göstəriciləri açıqlayıb.
+</p>
+
+<h3 style="color:#ef4444;">🔥 Bakıda 27 gün temperatur normadan yüksək olub</h3>
+
+<p>
+Avqust ayında Bakı və Abşeron yarımadasında havanın temperaturu
+<strong>27 gün ərzində iqlim normasından 0–5°C yüksək</strong> olub.
+Yalnız 4 gün temperatur normadan 0–3°C aşağı qeydə alınıb.
 </p>
 
 <p>
-🌍 Azərbaycan Standartlaşdırma İnstitutu (AZSTAND)
-<strong>ISO 14001:2026 “Environmental management systems”</strong>
-beynəlxalq standartı əsasında yeni
-<strong>AZS ISO 14001:2026</strong> dövlət standartını təsdiqləyib.
+🌡️ Bakı və Abşeron yarımadasında orta aylıq temperatur
+<strong>+28°C</strong> təşkil edib. Bu isə iqlim normasından
+<strong>2°C yüksəkdir.</strong>
 </p>
 
-<h3 style="color:#22c55e;">♻️ Yeni standart nəyi dəyişəcək?</h3>
+<h3 style="color:#f97316;">🌡️ Maksimum temperatur 40°C-yə çatıb</h3>
 
 <p>
-Yeni standart müəssisə və təşkilatlarda ətraf mühitin idarə olunması
-sistemlərinin daha müasir tələblərə uyğun qurulmasına imkan verəcək.
-</p>
-
-<p>
-🌿 Standartın tətbiqi nəticəsində:
+🔥 Bakı və Abşeronda avqustun ən yüksək temperaturu
+<strong>9 avqustda Maştağada +39°C</strong> qeydə alınıb.
 </p>
 
 <p>
-♻️ ətraf mühitə mənfi təsirlərin azaldılması;<br><br>
-💧🌱 təbii resurslardan daha səmərəli istifadə;<br><br>
-🏭 müəssisələrdə ekoloji idarəetmənin təkmilləşdirilməsi;<br><br>
-📋 ekoloji qanunvericiliyin tələblərinə uyğunluğun gücləndirilməsi;<br><br>
-🌍 beynəlxalq ekoloji standartlara uyğunlaşmanın artırılması nəzərdə tutulur.
-</p>
-
-<h3 style="color:#38bdf8;">🏭 Müəssisələr üçün mühüm dəyişiklik</h3>
-
-<p>
-ISO 14001 standartları müəssisələrin fəaliyyətinin ətraf mühitə təsirini
-sistemli şəkildə müəyyənləşdirməyə, qiymətləndirməyə və azaltmağa
-kömək edən ekoloji idarəetmə mexanizmlərindən biridir.
+🇦🇿 Ölkənin rayonlarında isə maksimum temperatur
+<strong>9 və 10 avqust tarixlərində Kürdəmirdə +40°C</strong> olub.
 </p>
 
 <p>
-Yeni dövlət standartının layihəsi Azərbaycan Respublikasının
-Ekologiya və Təbii Sərvətlər Nazirliyi ilə razılaşdırılıb və
-standartlaşdırma üzrə müvafiq Texniki Komitənin təqdimatı əsasında qəbul edilib.
+❄️ Ayın ən aşağı temperaturu Bakı və Abşeronda
+<strong>31 avqustda Sumqayıtda +19°C</strong> təşkil edib.
 </p>
+
+<p>
+🏔️ Yüksək dağlıq ərazilərdə isə minimum temperatur
+<strong>30 avqustda Şahdağda cəmi +6°C</strong> olub.
+</p>
+
+<div style="background:#7f1d1d;color:#ffffff;padding:16px;border-radius:10px;
+font-size:19px;margin:18px 0;">
+<strong>🌡️ Avqustun temperatur rekordları:</strong><br><br>
+🔥 Bakı və Abşeron: <strong>+39°C — Maştağa, 9 avqust</strong><br>
+🔥 Azərbaycan üzrə: <strong>+40°C — Kürdəmir, 9–10 avqust</strong><br>
+🌙 Bakı və Abşeronda minimum: <strong>+19°C — Sumqayıt, 31 avqust</strong><br>
+🏔️ Yüksək dağlarda minimum: <strong>+6°C — Şahdağ, 30 avqust</strong>
+</div>
+
+<h3 style="color:#3b82f6;">🌧️ Şahdağda aylıq normanın 381%-i qədər yağıntı düşüb</h3>
+
+<p>
+Avqustun ayrı-ayrı günlərində ölkədə yağışlı və qeyri-sabit hava
+şəraiti müşahidə olunub. Yağışlar bəzi ərazilərdə
+<strong>intensiv və leysan xarakterli</strong> olub, şimşək çaxıb və dolu düşüb.
+</p>
+
+<p>
+🌧️ Ən böyük yağıntı göstəricilərindən biri Quba-Qusar zonasının
+Şahdağ ərazisində qeydə alınıb.
+</p>
+
+<p style="color:#38bdf8;font-size:21px;font-weight:bold;">
+💧 Şahdağda avqust ərzində 250 mm yağıntı düşüb — bu, aylıq normanın 381%-nə bərabərdir.
+</p>
+
+<h3 style="color:#38bdf8;">🌧️ Abşeronda yağıntı normanı 6 dəfədən çox üstələyib</h3>
+
+<p>
+Bakı və Abşeron yarımadasında da bəzi müşahidə məntəqələrində
+yağıntının miqdarı aylıq normanı dəfələrlə üstələyib.
+</p>
+
+<p>
+🌧️ Bakıda <strong>19 mm</strong>, Çilov adasında isə
+<strong>26 mm</strong> yağıntı qeydə alınıb.
+</p>
+
+<p style="color:#3b82f6;font-size:20px;font-weight:bold;">
+💦 Ayrı-ayrı məntəqələrdə bu göstəricilər aylıq yağıntı normasının
+305–617%-nə bərabər olub.
+</p>
+
+<h3 style="color:#8b5cf6;">⛈️ Bakıda və Kəlbəcərdə dolu yağıb</h3>
+
+<p>
+Avqust ərzində Kəlbəcər rayonunun mərkəzində və İstisu qəsəbəsinin
+Alaqöllər ərazisində <strong>dolu</strong> müşahidə olunub.
+</p>
+
+<p>
+🌨️ Bakı ətrafında və Abşeron yarımadasında da intensiv leysanlarla
+yanaşı <strong>xırda dənəli dolu</strong> qeydə alınıb.
+</p>
+
+<h3 style="color:#f59e0b;">💨 Avqust küləkli keçib</h3>
+
+<p>
+Bakı və Abşeron yarımadasında avqustun
+<strong>12 günü küləkli</strong> olub.
+</p>
+
+<p>
+Azərbaycanın rayonlarında isə küləkli hava
+<strong>28 gün</strong> müşahidə edilib.
+</p>
+
+<p>
+🌪️ Maksimum külək sürəti Bakı və Abşeron yarımadasında
+<strong>23 m/s (83 km/saat)</strong>, rayonlarda isə
+<strong>24 m/s (86 km/saat)</strong> təşkil edib.
+</p>
+
+<p>
+⚠️ Küləkli hava şəraiti ilə əlaqədar ay ərzində
+<strong>10 sarı və narıncı xəbərdarlıq</strong> verilib.
+</p>
+
+<div style="background:#78350f;color:#ffffff;padding:16px;border-radius:10px;
+font-size:19px;margin:18px 0;">
+<strong>📊 AVQUST 2026 — ƏSAS GÖSTƏRİCİLƏR</strong><br><br>
+
+🌡️ Bakı üzrə orta temperatur: <strong>+28°C</strong><br><br>
+
+🔥 Maksimum temperatur: <strong>+40°C — Kürdəmir</strong><br><br>
+
+❄️ Minimum temperatur: <strong>+6°C — Şahdağ</strong><br><br>
+
+🌧️ Şahdağda yağıntı: <strong>250 mm — normanın 381%-i</strong><br><br>
+
+🌧️ Bakı və Abşeronda: <strong>aylıq normanın 305–617%-dək yağıntı</strong><br><br>
+
+💨 Maksimum külək: <strong>24 m/s (86 km/saat)</strong><br><br>
+
+⚠️ Küləklə bağlı xəbərdarlıqlar: <strong>10</strong>
+</div>
 
 <p style="background:#14532d;color:#ffffff;padding:16px;border-radius:10px;
 font-size:19px;font-weight:bold;">
-🌍♻️ Yeni standart Azərbaycanda müəssisələrin ətraf mühitə təsirinin
-azaldılması, resurslardan daha səmərəli istifadə və müasir ekoloji
-idarəetmə prinsiplərinin genişləndirilməsi baxımından mühüm addımdır.
+🌍 2026-cı ilin avqustu Azərbaycanda meteoroloji baxımdan olduqca
+müxtəlif keçib: uzunmüddətli isti hava fonunda intensiv leysanlar,
+normanı bir neçə dəfə üstələyən yağıntılar, dolu və güclü külək hadisələri müşahidə olunub.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Azərbaycan və dünyada ekologiya,
-təbiət və ətraf mühitlə bağlı yenilikləri izləməyə davam edir.
+📡 META Meteorologiya Mərkəzi sentyabr ayında da Azərbaycan ərazisində
+temperatur, yağıntı, külək və digər meteoroloji hadisələri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ekologiya, təbiət və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Operativ hava məlumatları və xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
