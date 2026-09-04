@@ -1,133 +1,149 @@
-<h2 style="color:#f59e0b;">🛰️☿ BepiColombo Merkuri planetinə çatmağa başlayır — 8 illik səyahətin kritik mərhələsi</h2>
+<h2 style="color:#8b5cf6;">🌌✨ NASA göstərdi: 200 milyon işıq ili uzaqlıqda iki nəhəng qalaktika birləşir</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 3 sentyabr 2026, 13:12 — Bakı vaxtı
+🕐 Əlavə olunub: 4 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Avropa Kosmik Agentliyi (ESA) və Yaponiya Aerokosmik Tədqiqatlar Agentliyinin (JAXA)
-BepiColombo missiyası səkkiz illik planetlərarası səyahətdən sonra Merkuri planetinə
-çatmasının ən mühüm mərhələlərindən birinə başlayır.</strong>
+<strong>NASA sentyabrın 4-də kosmosun dərinliklərində bir-biri ilə
+qarşılıqlı təsirdə olan iki möhtəşəm spiral qalaktikanın yeni görüntüsünü yayımlayıb.</strong>
 </p>
 
 <p>
-🛰️ Bu gün — <strong>3 sentyabr 2026-cı ildə</strong> BepiColombo-nu uzun
-planetlərarası səyahəti boyunca hərəkət etdirən
-<strong>Mercury Transfer Module (MTM)</strong> iki elmi orbital aparatdan ayrılacaq.
+🌌 Söhbət <strong>NGC 7253 və Arp 278</strong> kimi tanınan qalaktika
+cütlüyündən gedir. Onlar Yerdən təxminən
+<strong>200 milyon işıq ili</strong> uzaqlıqda, Peqas bürcü istiqamətində yerləşirlər.
 </p>
 
-<div style="background:#78350f;color:#ffffff;padding:16px;border-radius:10px;
+<div style="background:#312e81;color:#ffffff;padding:17px;border-radius:10px;
 font-size:19px;margin:18px 0;">
-<strong>🚨 BU GÜN KRİTİK ƏMƏLİYYAT</strong><br><br>
 
-🛰️ Missiya: <strong>BepiColombo</strong><br><br>
+<strong>🌌 KOSMOSUN 200 MİLYON İŞIQ İLİ UZAQLIĞINDA</strong><br><br>
 
-☿ Hədəf: <strong>Merkuri</strong><br><br>
+🔭 Obyekt: <strong>NGC 7253 / Arp 278</strong><br><br>
 
-📅 Tarix: <strong>3 sentyabr 2026</strong><br><br>
+🌌 Tip: <strong>qarşılıqlı təsirdə olan spiral qalaktikalar</strong><br><br>
 
-⏳ Kosmosda keçən müddət: <strong>təxminən 8 il</strong><br><br>
+📍 İstiqamət: <strong>Peqas bürcü</strong><br><br>
 
-🎯 Əməliyyat: <strong>Mercury Transfer Module-un ayrılması</strong>
+📏 Yerdən məsafə: <strong>təxminən 200 milyon işıq ili</strong><br><br>
+
+🔭 Müşahidə: <strong>Gemini North teleskopu</strong>
+
 </div>
 
-<h3 style="color:#ef4444;">🚀 Ən çətin planet missiyalarından biri</h3>
+<h3 style="color:#38bdf8;">💫 İki qalaktika bir-birini çəkir</h3>
 
 <p>
-Merkuriyə çatmaq kosmik missiyalar üçün olduqca mürəkkəbdir.
-Planet Günəşə çox yaxın yerləşdiyi üçün kosmik aparatın sürətini və
-trayektoriyasını son dərəcə dəqiq idarə etmək lazımdır.
+NGC 7253 və Arp 278 bir-birinə kifayət qədər yaxın yerləşdiyinə görə
+onların güclü cazibə qüvvələri qarşılıqlı təsir göstərir.
 </p>
 
 <p>
-ESA BepiColombo-nun Merkuri orbitinə daxil olma prosesini agentliyin
-indiyədək həyata keçirdiyi <strong>ən mürəkkəb planetar əməliyyatlardan biri</strong>
-kimi qiymətləndirir.
-</p>
-
-<h3 style="color:#38bdf8;">🛰️ BepiColombo iki elmi aparatdan ibarətdir</h3>
-
-<p>
-BepiColombo missiyasının əsas elmi hissəsini iki orbital aparat təşkil edir:
+🌌 Bu proses qalaktikaların quruluşunu dəyişdirir və nəhəng kosmik
+miqyasda onların tədricən birləşməsinə səbəb olur.
 </p>
 
 <p>
-🇪🇺 <strong>Mercury Planetary Orbiter (MPO)</strong> — ESA tərəfindən hazırlanıb.
-Aparat Merkurinin səthini, geoloji quruluşunu, tərkibini və daxili xüsusiyyətlərini araşdıracaq.
+Yeni görüntüdə iki qalaktikanın spiral strukturları və onların
+qarşılıqlı cazibə təsiri nəticəsində dəyişmiş formaları aydın görünür.
+</p>
+
+<h3 style="color:#f59e0b;">⭐ Toqquşma yeni ulduzların yaranmasına səbəb olur</h3>
+
+<p>
+Qalaktikaların birləşməsi sadəcə onların formasını dəyişdirmir.
+Bu proses eyni zamanda böyük miqdarda qaz və toz buludlarının
+sıxılmasına səbəb olur.
+</p>
+
+<p style="color:#fbbf24;font-size:20px;font-weight:bold;">
+⭐ Nəticədə qalaktikalarda yeni ulduzların yaranması sürətlənə bilər.
 </p>
 
 <p>
-🇯🇵 <strong>Mio (Mercury Magnetospheric Orbiter)</strong> — JAXA tərəfindən hazırlanıb.
-Onun əsas vəzifəsi Merkurinin maqnit sahəsini və planet ətrafındakı kosmik mühiti öyrənməkdir.
+Belə qarşılıqlı təsirlər astronomlara qalaktikaların milyardlarla il
+ərzində necə dəyişdiyini və yeni ulduz sistemlərinin necə yarandığını
+öyrənməyə imkan verir.
 </p>
 
-<h3 style="color:#f59e0b;">☿ Növbəti böyük mərhələ — noyabrda</h3>
+<h3 style="color:#22c55e;">🔭 Nəhəng Gemini North teleskopu</h3>
 
 <p>
-Bu gün MTM ayrıldıqdan sonra BepiColombo-nun idarə olunmasını
-MPO aparatının mühərrikləri öz üzərinə götürəcək.
-</p>
-
-<p>
-📅 Hazırkı plana əsasən, <strong>21 noyabr 2026-cı ildə</strong>
-MPO və Mio birlikdə Merkurinin qütb orbitinə daxil olacaq.
+Bu möhtəşəm görüntü Havay adalarında, Mauna-Kea dağında yerləşən
+<strong>8,1 metrlik Gemini North teleskopu</strong> vasitəsilə əldə edilib.
 </p>
 
 <p>
-Daha sonra iki aparat bir-birindən ayrılacaq və öz elmi orbitlərinə yerləşdiriləcək.
+🔭 Böyük güzgüsü və yüksək həssaslıqlı cihazları sayəsində teleskop
+Yerdən yüz milyonlarla işıq ili uzaqda yerləşən qalaktikaların
+strukturunu detallı şəkildə müşahidə edə bilir.
+</p>
+
+<h3 style="color:#8b5cf6;">🌺 Qalaktikalara xüsusi Havay adı verilib</h3>
+
+<p>
+Qalaktika cütlüyünün görüntüsünə
+<strong>“Nā ʻUhane Māhoe Huki Pū i ke Ola”</strong> adı verilib.
+</p>
+
+<p>
+Bu Havay ifadəsi təxminən
+<strong>“Həyatı yaradaraq birlikdə çəkən əkiz ruhlar”</strong>
+mənasını verir.
+</p>
+
+<p>
+Ad qalaktikaların bir-birinə cazibə qüvvəsi ilə təsir etməsini və
+bu qarşılıqlı təsirin yeni ulduzların yaranmasını sürətləndirə
+bilməsini simvolizə edir.
 </p>
 
 <div style="background:#172554;color:#ffffff;padding:16px;border-radius:10px;
 font-size:18px;margin:18px 0;">
-<strong>🗓️ BepiColombo — bundan sonra nə olacaq?</strong><br><br>
 
-🛰️ <strong>3 sentyabr 2026</strong> — MTM ayrılır<br><br>
+<strong>🔭 MARAQLI FAKT</strong><br><br>
 
-☿ <strong>21 noyabr 2026</strong> — Merkuri orbitinə daxilolma<br><br>
+💡 Bu qalaktikaları bu gün gördüyümüz formada göstərən işıq
+<strong>təxminən 200 milyon il əvvəl</strong> onlardan ayrılıb.<br><br>
 
-🛰️ <strong>9–10 dekabr 2026</strong> — Mio ayrılır<br><br>
+🌍 Həmin dövrdə Yer üzündə hələ dinozavrların hökmranlıq etdiyi
+Mezozoy erası davam edirdi.<br><br>
 
-⚙️ <strong>16 dekabr 2026</strong> — MPO öz orbitinə keçməyə başlayır<br><br>
+✨ Buna görə teleskoplar uzaq kosmosa baxarkən eyni zamanda
+<strong>Kainatın keçmişinə baxırlar.</strong>
 
-🎯 <strong>10 mart 2027</strong> — MPO son elmi orbitinə çatır<br><br>
-
-🔬 <strong>6 aprel 2027</strong> — əsas elmi tədqiqatlar başlayır
 </div>
 
-<h3 style="color:#22c55e;">🔬 Merkuri haqqında nə öyrənəcəyik?</h3>
+<h3 style="color:#38bdf8;">🌌 Süd Yolunun gələcəyini də xatırladır</h3>
 
 <p>
-BepiColombo Merkurinin indiyədək aparılmış ən ətraflı tədqiqatlarından
-birini həyata keçirəcək.
+Qalaktikaların birləşməsi Kainatda qeyri-adi hadisə deyil.
+Böyük qalaktikalar uzun zaman ərzində digər qalaktikalarla
+qarşılıqlı təsirə girə və birləşə bilirlər.
 </p>
 
 <p>
-🗺️ Planetin səthinin və mineral tərkibinin xəritələşdirilməsi;<br><br>
-
-🧲 Merkurinin qeyri-adi maqnit sahəsinin öyrənilməsi;<br><br>
-
-🌋 planetin geoloji tarixinin araşdırılması;<br><br>
-
-🌡️ Günəşə bu qədər yaxın şəraitdə planetin necə dəyişdiyinin öyrənilməsi;<br><br>
-
-🪐 daxili Günəş sistemində Yer tipli planetlərin necə formalaşdığının
-daha yaxşı başa düşülməsi missiyanın əsas elmi məqsədlərindəndir.
+Bu cür sistemlərin müşahidəsi astronomlara qalaktikaların təkamülünü,
+ulduzların yaranmasını və Kainatın böyük strukturlarının necə
+formalaşdığını daha yaxşı anlamağa kömək edir.
 </p>
 
 <p style="background:#312e81;color:#ffffff;padding:16px;border-radius:10px;
 font-size:19px;font-weight:bold;">
-☿ BepiColombo Merkuri orbitinə daxil olduqdan sonra bu planetin
-öyrənilməsi tarixində yeni mərhələ başlayacaq. Missiyanın əsas elmi
-müşahidələrinin 2027-ci ilin aprelində başlanması planlaşdırılır.
+🌌 200 milyon işıq ili uzaqlıqda baş verən bu nəhəng kosmik qarşılıqlı
+təsir bizə qalaktikaların sabit obyektlər olmadığını, milyardlarla il
+ərzində daim dəyişdiyini göstərir.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌌 META Meteorologiya Mərkəzi kosmos, astronomiya və Günəş sisteminin
-tədqiqi ilə bağlı mühüm hadisələri izləməyə davam edir.
+🌌 META Meteorologiya Mərkəzi NASA, ESA və digər kosmik agentliklərin
+astronomiya və kosmosla bağlı yeni kəşflərini izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos, meteorologiya və təbiət xəbərləri üçün WhatsApp kanalımıza qoşulun:
+📲 Kosmos, astronomiya, meteorologiya və təbiət xəbərləri üçün
+WhatsApp kanalımıza qoşulun:
 <br><br>
 
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
