@@ -50,9 +50,9 @@ META XƏBƏRLƏR
 
 <p>
 📧 E-mail:
-<a href="mailto:meteorolog138@gmail.com"
+<a href="mailto:meta.baki1@gmail.com"
 style="color:#38bdf8;font-weight:bold;text-decoration:none;">
-meteorolog138@gmail.com
+meta.baki1@gmail.com
 </a>
 </p>
 
