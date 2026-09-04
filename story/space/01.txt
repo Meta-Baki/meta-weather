@@ -1,160 +1,182 @@
-<h2 style="color:#f59e0b;">☀️ Günəş aktivliyi və UV indeksi: 3–9 sentyabr üçün həftəlik proqnoz</h2>
+<h2 style="color:#f59e0b;">☀️🌌 Günəş aktivliyi: 4–10 sentyabr üçün həftəlik kosmik hava proqnozu</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 3 sentyabr 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 4 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Bakı və Abşeron yarımadasında qarşıdakı bir həftə ərzində
-ultrabənövşəyi (UV) şüalanmanın əsasən yüksək, bəzi günlərdə isə
-çox yüksək səviyyədə olacağı gözlənilir.</strong>
+<strong>4–10 sentyabr tarixlərində Günəş aktivliyinin əsasən aşağı və
+orta səviyyədə qalacağı gözlənilir. Hazırda Yer kürəsinin maqnit sahəsi
+sakitdir, lakin Günəşdə yeni aktiv ləkə qrupu müşahidə olunur.</strong>
 </p>
 
 <p>
-☀️ Xüsusilə günorta saatlarında Günəş şüalarının intensivliyi
-artacaq. Həftənin ən yüksək UV göstəricilərindən biri
-<strong>4 sentyabrda</strong> gözlənilir.
+☀️ Yeni <strong>AR4524</strong> aktiv bölgəsi M sinifli Günəş
+alışmalarının yaranması üçün potensiala malikdir.
 </p>
+
+<div style="background:#312e81;color:#ffffff;padding:16px;border-radius:10px;
+font-size:19px;margin:18px 0;">
+
+<strong>🌌 4 SENTYABR — KOSMİK HAVA</strong><br><br>
+
+☀️ Günəş ləkələrinin sayı: <strong>37</strong><br><br>
+
+📡 10,7 sm radio axını: <strong>108 sfu</strong><br><br>
+
+🌬️ Günəş küləyinin sürəti: <strong>təxminən 421 km/s</strong><br><br>
+
+🧲 Kp indeksi: <strong>təxminən 1,3 — sakit</strong><br><br>
+
+🔥 M sinifli alışma ehtimalı: <strong>15%</strong><br><br>
+
+💥 X sinifli alışma ehtimalı: <strong>1%</strong>
+
+</div>
+
+<h3 style="color:#38bdf8;">📊 4–10 sentyabr üçün proqnoz</h3>
 
 <div style="overflow-x:auto;margin:20px 0;">
 <table style="width:100%;border-collapse:collapse;text-align:center;">
 
-<tr style="background:#f59e0b;color:#111827;">
-<th style="padding:12px;border:1px solid #374151;">📅 Tarix</th>
-<th style="padding:12px;border:1px solid #374151;">☀️ UV indeksi</th>
-<th style="padding:12px;border:1px solid #374151;">⚠️ Səviyyə</th>
-<th style="padding:12px;border:1px solid #374151;">🌞 Günəş aktivliyi</th>
+<tr style="background:#312e81;color:#ffffff;">
+<th style="padding:12px;border:1px solid #475569;">📅 Tarix</th>
+<th style="padding:12px;border:1px solid #475569;">☀️ Günəş aktivliyi</th>
+<th style="padding:12px;border:1px solid #475569;">🧲 Geomaqnit vəziyyət</th>
+<th style="padding:12px;border:1px solid #475569;">⚠️ Risk</th>
 </tr>
 
 <tr>
-<td style="padding:12px;border:1px solid #374151;">3 sentyabr</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>7</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🟠 Yüksək</td>
-<td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
+<td style="padding:12px;border:1px solid #475569;"><strong>4 sentyabr</strong></td>
+<td style="padding:12px;border:1px solid #475569;">🟡 Aşağı–orta</td>
+<td style="padding:12px;border:1px solid #475569;">🟢 Kp 1–2</td>
+<td style="padding:12px;border:1px solid #475569;">🟢 Maqnit qasırğası gözlənilmir</td>
 </tr>
 
 <tr>
-<td style="padding:12px;border:1px solid #374151;">4 sentyabr</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>8</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🔴 Çox yüksək</td>
-<td style="padding:12px;border:1px solid #374151;">☀️ Çox yüksək</td>
+<td style="padding:12px;border:1px solid #475569;"><strong>5 sentyabr</strong></td>
+<td style="padding:12px;border:1px solid #475569;">🟡 Aşağı–orta</td>
+<td style="padding:12px;border:1px solid #475569;">🟢 Kp 1–3</td>
+<td style="padding:12px;border:1px solid #475569;">🟢 Aşağı</td>
 </tr>
 
 <tr>
-<td style="padding:12px;border:1px solid #374151;">5 sentyabr</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>7</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🟠 Yüksək</td>
-<td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
+<td style="padding:12px;border:1px solid #475569;"><strong>6 sentyabr</strong></td>
+<td style="padding:12px;border:1px solid #475569;">🟡 Aşağı–orta</td>
+<td style="padding:12px;border:1px solid #475569;">🟢 Kp 1–3</td>
+<td style="padding:12px;border:1px solid #475569;">🟢 Aşağı</td>
 </tr>
 
 <tr>
-<td style="padding:12px;border:1px solid #374151;">6 sentyabr</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>7</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🟠 Yüksək</td>
-<td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
+<td style="padding:12px;border:1px solid #475569;"><strong>7 sentyabr</strong></td>
+<td style="padding:12px;border:1px solid #475569;">🟡 Orta*</td>
+<td style="padding:12px;border:1px solid #475569;">🟢 Sakit–qeyri-sabit*</td>
+<td style="padding:12px;border:1px solid #475569;">🟡 İlkin proqnoz</td>
 </tr>
 
 <tr>
-<td style="padding:12px;border:1px solid #374151;">7 sentyabr</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>7</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🟠 Yüksək</td>
-<td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
+<td style="padding:12px;border:1px solid #475569;"><strong>8 sentyabr</strong></td>
+<td style="padding:12px;border:1px solid #475569;">🟡 Orta*</td>
+<td style="padding:12px;border:1px solid #475569;">🟢 Sakit–qeyri-sabit*</td>
+<td style="padding:12px;border:1px solid #475569;">🟡 İlkin proqnoz</td>
 </tr>
 
 <tr>
-<td style="padding:12px;border:1px solid #374151;">8 sentyabr</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>7</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🟠 Yüksək</td>
-<td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
+<td style="padding:12px;border:1px solid #475569;"><strong>9 sentyabr</strong></td>
+<td style="padding:12px;border:1px solid #475569;">🟡 Orta*</td>
+<td style="padding:12px;border:1px solid #475569;">🟢 Sakit–qeyri-sabit*</td>
+<td style="padding:12px;border:1px solid #475569;">🟡 İlkin proqnoz</td>
 </tr>
 
 <tr>
-<td style="padding:12px;border:1px solid #374151;">9 sentyabr</td>
-<td style="padding:12px;border:1px solid #374151;"><strong>7</strong></td>
-<td style="padding:12px;border:1px solid #374151;">🟠 Yüksək</td>
-<td style="padding:12px;border:1px solid #374151;">☀️ Yüksək</td>
+<td style="padding:12px;border:1px solid #475569;"><strong>10 sentyabr</strong></td>
+<td style="padding:12px;border:1px solid #475569;">🟡 Orta*</td>
+<td style="padding:12px;border:1px solid #475569;">🟢 Sakit–qeyri-sabit*</td>
+<td style="padding:12px;border:1px solid #475569;">🟡 İlkin proqnoz</td>
 </tr>
 
 </table>
 </div>
 
-<h3 style="color:#ef4444;">🔴 4 sentyabr — UV indeksi 8</h3>
-
-<p>
-Həftənin ən yüksək göstəricilərindən biri <strong>4 sentyabrda</strong>
-gözlənilir. UV indeksinin <strong>8</strong> səviyyəsinə çatması
-<strong>çox yüksək ultrabənövşəyi şüalanma</strong> deməkdir.
+<p style="color:#94a3b8;font-size:14px;">
+* 7–10 sentyabr üçün göstəricilər uzunmüddətli tendensiyaya əsaslanan
+ilkin qiymətləndirmədir. Kosmik hava şəraiti Günəş alışmaları və
+koronal kütlə atılmaları baş verdikdə sürətlə dəyişə bilər.
 </p>
 
-<p style="background:#7f1d1d;color:#ffffff;padding:16px;border-radius:10px;
-font-size:19px;font-weight:bold;">
-☀️⚠️ 4 sentyabrda günorta saatlarında UV indeksi 8-ə çata bilər.
-Açıq havada Günəş altında uzun müddət qalarkən qoruyucu vasitələrdən
-istifadə etmək tövsiyə olunur.
-</p>
-
-<h3 style="color:#f59e0b;">📈 Həftəlik vəziyyət</h3>
+<h3 style="color:#f59e0b;">☀️ AR4524 diqqət mərkəzindədir</h3>
 
 <p>
-☀️ <strong>3 sentyabr:</strong> UV indeksi 7 — yüksək.
+Günəşin Yerə baxan tərəfində yeni <strong>AR4524</strong> aktiv bölgəsi
+müşahidə olunur. Bu bölgənin maqnit quruluşu daha güclü alışmaların
+yaranması üçün müəyyən potensiala malikdir.
 </p>
 
 <p>
-🔴 <strong>4 sentyabr:</strong> UV indeksi 8 — çox yüksək.
-</p>
-
-<p>
-🟠 <strong>5–9 sentyabr:</strong> UV indeksinin əsasən
-<strong>7</strong> səviyyəsində qalacağı gözlənilir.
-</p>
-
-<h3 style="color:#38bdf8;">🕐 Günün hansı saatlarında UV daha güclüdür?</h3>
-
-<p>
-Günəşin səmada daha yüksək olduğu günorta saatlarında ultrabənövşəyi
-şüalanma maksimum səviyyəyə yaxınlaşır.
-</p>
-
-<p>
-⏰ Xüsusilə <strong>11:00–16:00</strong> aralığında birbaşa Günəş
-şüaları altında uzun müddət qalarkən ehtiyatlı olmaq tövsiyə edilir.
-</p>
-
-<h3 style="color:#22c55e;">🕶️ Tövsiyələr</h3>
-
-<p>
-🕶️ UV şüalarından qoruyan günəş eynəklərindən istifadə edin.<br><br>
-
-🧴 Açıq havada uzun müddət qalarkən günəşdən qoruyucu vasitələrdən istifadə edin.<br><br>
-
-🧢 Baş örtüyü və açıq rəngli geyimlərə üstünlük verin.<br><br>
-
-🌳 Günorta saatlarında imkan daxilində kölgəli ərazilərdə qalın.
+🔥 Hazırkı proqnoza əsasən, yaxın sutkada
+<strong>M sinifli Günəş alışmasının ehtimalı təxminən 15%</strong>,
+daha güclü <strong>X sinifli alışmanın ehtimalı isə təxminən 1%</strong> təşkil edir.
 </p>
 
 <div style="background:#78350f;color:#ffffff;padding:16px;border-radius:10px;
 font-size:19px;margin:18px 0;">
-<strong>☀️ 3–9 SENTYABR — QISA XÜLASƏ</strong><br><br>
 
-📈 Maksimum UV: <strong>8 — çox yüksək</strong><br><br>
+<strong>⚠️ NƏYİ İZLƏYİRİK?</strong><br><br>
 
-🔴 Ən yüksək göstərici: <strong>4 sentyabr</strong><br><br>
+☀️ AR4524 aktiv bölgəsinin inkişafını<br><br>
 
-🟠 Həftənin digər günləri: <strong>əsasən UV 7 — yüksək</strong><br><br>
+🔥 M və X sinifli Günəş alışmalarını<br><br>
 
-⏰ Ən güclü şüalanma: <strong>günorta saatları</strong>
+💨 Koronal kütlə atılmalarını (CME)<br><br>
+
+🌬️ Günəş küləyinin sürətini<br><br>
+
+🧲 Yer kürəsinin Kp indeksini
+
 </div>
 
+<h3 style="color:#22c55e;">🧲 Güclü maqnit qasırğası gözlənilirmi?</h3>
+
+<p>
+Hazırda <strong>güclü geomaqnit qasırğası üçün əlamət yoxdur.</strong>
+NOAA-nın 4–6 sentyabr üçün proqnozunda maksimum 3 saatlıq
+Kp indeksinin təxminən <strong>2,67</strong> olması gözlənilir.
+</p>
+
+<p>
+Bu göstərici NOAA-nın <strong>G1 maqnit qasırğası</strong> həddindən
+aşağıdır.
+</p>
+
+<p style="background:#14532d;color:#ffffff;padding:16px;border-radius:10px;
+font-size:19px;font-weight:bold;">
+🟢 Hazırkı məlumatlara əsasən, yaxın günlərdə Yer kürəsinin maqnit
+sahəsinin əsasən sakit qalacağı gözlənilir. Lakin Günəşdə yeni aktiv
+bölgənin inkişafı səbəbindən alışma aktivliyi diqqətlə izlənilir.
+</p>
+
+<h3 style="color:#38bdf8;">🌌 Həftənin qısa yekunu</h3>
+
+<p>
+☀️ Günəş aktivliyi: <strong>aşağıdan orta səviyyəyədək</strong><br><br>
+
+🔥 M sinifli alışma ehtimalı: <strong>mövcuddur</strong><br><br>
+
+💥 X sinifli güclü alışma: <strong>aşağı ehtimal</strong><br><br>
+
+🧲 Geomaqnit vəziyyət: <strong>əsasən sakit</strong><br><br>
+
+🌪️ Güclü maqnit qasırğası: <strong>hazırda gözlənilmir</strong>
+</p>
+
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi Bakı və Abşeron yarımadasında
-UV indeksini və Günəş aktivliyini izləməyə davam edir.
+🌌 META Meteorologiya Mərkəzi Günəş alışmalarını, koronal kütlə
+atılmalarını və Yer kürəsinin geomaqnit vəziyyətini izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Meteorologiya və Günəş aktivliyi haqqında operativ məlumatlar üçün
-WhatsApp kanalımıza qoşulun:
+📲 Kosmik hava, meteorologiya və təbiət xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
-
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
