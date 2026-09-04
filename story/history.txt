@@ -1,89 +1,138 @@
-<h2 style="color:#38bdf8;">🌤️ 4 sentyabr üçün hava proqnozu: Bakıda 30°C isti olacaq</h2>
+<h2 style="color:#f59e0b;">🌤️⛈️ Azərbaycanda hava 35°C-dək istiləşəcək — 5 sentyabr üçün proqnoz</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 3 sentyabr 2026, 13:12 — Bakı vaxtı
+🕐 Əlavə olunub: 4 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Sentyabrın 4-də Bakı və Abşeron yarımadasında hava şəraitinin dəyişkən buludlu, əsasən yağmursuz keçəcəyi gözlənilir.</strong>
+<strong>Sentyabrın 5-də Bakı və Abşeron yarımadasında havanın dəyişkən buludlu,
+əsasən yağmursuz keçəcəyi gözlənilir. Azərbaycanın rayonlarında isə temperatur
++35°C-yə qədər yüksələcək.</strong>
 </p>
 
-<h3 style="color:#38bdf8;">🏙️ Bakı və Abşeron yarımadası</h3>
+<h3 style="color:#38bdf8;">🏙️ Bakı və Abşeronda hava necə olacaq?</h3>
 
 <p>
-🌤️ Gün ərzində dəyişkən buludlu hava şəraiti üstünlük təşkil edəcək. Əsasən yağmursuz olacaq.
-</p>
-
-<p>
-🌡️ Havanın temperaturu gecə <strong>+20…+23°C</strong>, gündüz isə <strong>+26…+30°C</strong> təşkil edəcək.
-</p>
-
-<p>
-🌬️ <strong>Mülayim cənub-şərq küləyi</strong> əsəcək.
+🌤️ Bakı və Abşeron yarımadasında hava şəraitinin
+<strong>dəyişkən buludlu, əsasən yağmursuz</strong> keçəcəyi proqnozlaşdırılır.
 </p>
 
 <p>
-💧 Nisbi rütubət gecə <strong>70–75%</strong>, gündüz isə <strong>45–50%</strong> olacaq.
+🌦️ Bununla belə, <strong>gündüz bəzi yerlərdə qısamüddətli yağış</strong>
+ehtimal olunur.
 </p>
 
 <p>
-🔵 Atmosfer təzyiqi <strong>761 mm civə sütunu (≈1015 hPa)</strong> təşkil edəcək.
+🌬️ Cənub-şərq küləyi əsəcək, axşam isə
+<strong>arabir güclənən şimal-qərb küləyi</strong> ilə əvəz olunacaq.
 </p>
 
-<div style="background:#0f3b57;color:#ffffff;padding:16px;border-radius:10px;font-size:18px;margin:18px 0;">
-<strong>📌 Bakı üçün qısa proqnoz:</strong><br><br>
+<p>
+🌡️ Havanın temperaturu gecə <strong>+18…+21°C</strong>,
+gündüz isə <strong>+28…+32°C</strong> təşkil edəcək.
+</p>
 
-🌤️ Hava: <strong>dəyişkən buludlu, əsasən yağmursuz</strong><br><br>
+<p>
+💧 Nisbi rütubət gecə <strong>70–75%</strong>,
+gündüz <strong>55–60%</strong> olacaq.
+</p>
 
-🌙 Gecə: <strong>+20…+23°C</strong><br><br>
+<p>
+🔵 Atmosfer təzyiqi <strong>760 mm civə sütunu (≈1013 hPa)</strong>
+təşkil edəcək.
+</p>
 
-☀️ Gündüz: <strong>+26…+30°C</strong><br><br>
+<div style="background:#0f3b57;color:#ffffff;padding:16px;border-radius:10px;
+font-size:19px;margin:18px 0;">
 
-🌬️ Külək: <strong>mülayim cənub-şərq</strong><br><br>
+<strong>📍 BAKI VƏ ABŞERON — 5 SENTYABR</strong><br><br>
 
-💧 Rütubət: <strong>gecə 70–75%, gündüz 45–50%</strong><br><br>
+🌤️ Hava: <strong>Dəyişkən buludlu, əsasən yağmursuz</strong><br><br>
 
-🔵 Təzyiq: <strong>761 mmHg (≈1015 hPa)</strong>
+🌦️ Yağıntı: <strong>Gündüz bəzi yerlərdə qısamüddətli yağış mümkündür</strong><br><br>
+
+🌙 Gecə: <strong>+18…+21°C</strong><br><br>
+
+☀️ Gündüz: <strong>+28…+32°C</strong><br><br>
+
+🌬️ Külək: <strong>Cənub-şərq → axşam şimal-qərb</strong><br><br>
+
+💧 Rütubət: <strong>70–75% → 55–60%</strong><br><br>
+
+🔵 Təzyiq: <strong>760 mmHg (≈1013 hPa)</strong>
 
 </div>
 
-<h3 style="color:#22c55e;">🇦🇿 Azərbaycanın rayonlarında</h3>
+<h3 style="color:#22c55e;">🇦🇿 Rayonlarda 35°C isti olacaq</h3>
 
 <p>
-Ölkənin rayonlarında hava şəraitinin <strong>əsasən yağmursuz</strong> keçəcəyi gözlənilir.
+Azərbaycanın rayonlarında hava şəraitinin
+<strong>əsasən yağmursuz</strong> keçəcəyi gözlənilir.
 </p>
 
 <p>
-⛈️ Lakin gündüz saatlarında <strong>bəzi dağlıq ərazilərdə qısamüddətli zəif yağış yağması və şimşək çaxması</strong> ehtimalı var.
+🌡️ Aran rayonlarında temperatur gecə
+<strong>+16…+21°C</strong>, gündüz isə
+<strong>+30…+35°C</strong> olacaq.
 </p>
 
 <p>
-🌫️ Gecə və səhər bəzi dağlıq ərazilərdə arabir <strong>duman</strong> müşahidə olunacaq.
+🏔️ Dağlıq ərazilərdə gecə <strong>+11…+16°C</strong>,
+gündüz isə <strong>+20…+25°C</strong> proqnozlaşdırılır.
+</p>
+
+<h3 style="color:#ef4444;">⛈️ Dağlarda leysan, şimşək və dolu ehtimalı var</h3>
+
+<p>
+Günün ikinci yarısında bəzi dağlıq rayonlarda
+<strong>arabir yağış yağacağı</strong> gözlənilir.
 </p>
 
 <p>
-🌬️ Əsasən <strong>mülayim şərq küləyi</strong> əsəcək.
-</p>
-
-<h3 style="color:#f59e0b;">🌡️ Regionlarda temperatur</h3>
-
-<p>
-🌙 Aran rayonlarında gecə: <strong>+16…+21°C</strong><br>
-☀️ Aran rayonlarında gündüz: <strong>+28…+33°C</strong>
+⛈️ Ayrı-ayrı ərazilərdə yağıntının
+<strong>qısamüddətli leysan xarakterli olması, şimşək çaxması və dolu düşməsi</strong>
+ehtimal edilir.
 </p>
 
 <p>
-🏔️ Dağlarda gecə: <strong>+10…+15°C</strong><br>
-⛰️ Dağlarda gündüz: <strong>+19…+24°C</strong>
+🌫️ Gecə və səhər bəzi dağlıq ərazilərdə
+<strong>duman</strong> müşahidə oluna bilər.
 </p>
 
-<div style="background:#14532d;color:#ffffff;padding:16px;border-radius:10px;font-size:19px;margin:18px 0;">
-<strong>🟢 XƏBƏRDARLIQ YOXDUR</strong><br><br>
-4 sentyabr üçün təhlükəli meteoroloji hadisələrlə bağlı xüsusi xəbərdarlıq elan edilməyib.
+<p>
+🌬️ Rayonlarda əsasən <strong>şərq küləyi</strong> üstünlük təşkil edəcək.
+</p>
+
+<div style="background:#78350f;color:#ffffff;padding:16px;border-radius:10px;
+font-size:19px;margin:18px 0;">
+
+<strong>⚠️ 5 SENTYABR — DİQQƏT EDİLƏCƏK HAVA HADİSƏLƏRİ</strong><br><br>
+
+🌡️ Maksimum temperatur: <strong>+35°C</strong><br><br>
+
+🌦️ Bakı və Abşeron: <strong>gündüz lokal qısamüddətli yağış ehtimalı</strong><br><br>
+
+⛈️ Dağlıq rayonlar: <strong>leysan və şimşək ehtimalı</strong><br><br>
+
+🌨️ Lokal olaraq: <strong>dolu mümkündür</strong><br><br>
+
+🌫️ Dağlarda: <strong>gecə və səhər duman</strong><br><br>
+
+🌬️ Bakı və Abşeron: <strong>axşam şimal-qərb küləyi arabir güclənəcək</strong>
+
 </div>
+
+<p style="background:#14532d;color:#ffffff;padding:16px;border-radius:10px;
+font-size:19px;font-weight:bold;">
+📌 Ümumilikdə sentyabrın 5-də Bakı və Abşeronda əsasən sabit hava
+gözlənilsə də, gündüz lokal yağış ehtimalı var. Rayonlarda isə hava
++35°C-dək istiləşəcək, bəzi dağlıq ərazilərdə leysan, şimşək və dolu
+müşahidə oluna bilər.
+</p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava şəraitini izləməyə davam edir. Proqnozda mühüm dəyişiklik baş verərsə, əlavə məlumat təqdim olunacaq.
+📡 META Meteorologiya Mərkəzi hava şəraitində baş verə biləcək
+dəyişiklikləri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
