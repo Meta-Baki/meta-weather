@@ -1,173 +1,71 @@
-<h2 style="color:#22c55e;">🌧️🏔️ Azərbaycanın dağ çaylarında sel təhlükəsi — təbiətdə vəziyyət dəyişə bilər</h2>
+<h2 style="color:#22c55e;">
+🌧️🏔️ Azərbaycanın dağ çaylarında sel təhlükəsi — intensiv yağışlar gözlənilir
+</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
 🕐 Əlavə olunub: 5 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Azərbaycanda gözlənilən qeyri-sabit və yağıntılı hava şəraiti
-ilə əlaqədar bəzi dağ çaylarında sululuğun artacağı, ayrı-ayrı
-çaylardan isə qısamüddətli sel keçəcəyi istisna olunmur.</strong>
+<strong>6 sentyabrdan başlayaraq gözlənilən yağıntılar nəticəsində
+Azərbaycanın bəzi dağ çaylarında sululuğun artacağı və lokal
+qısamüddətli sel hadisələrinin baş verə biləcəyi gözlənilir.</strong>
 </p>
 
-<p>
-🌧️ Milli Hidrometeorologiya Xidmətinin məlumatına əsasən,
-<strong>6 sentyabr gündüz saatlarından başlayaraq şimal və qərb
-rayonlarında</strong> hava şəraitinin qeyri-sabitləşəcəyi gözlənilir.
-Yağıntılı hava bəzi ərazilərdə <strong>8 sentyabr səhərədək</strong>
-davam edə bilər.
-</p>
+<div style="
+background:rgba(34,197,94,0.06);
+border:1px solid rgba(34,197,94,0.30);
+padding:18px;
+border-radius:10px;
+font-size:19px;
+margin:18px 0;">
 
-<div style="background:#14532d;color:#ffffff;padding:18px;border-radius:10px;
-font-size:19px;margin:18px 0;">
+<strong style="color:#4ade80;">🌿 TƏBİƏTDƏ GÖZLƏNİLƏN VƏZİYYƏT</strong><br><br>
 
-<strong>🌿 TƏBİƏTDƏ GÖZLƏNİLƏN VƏZİYYƏT</strong><br><br>
-
-🌧️ Yağışlar: <strong>6–8 sentyabr</strong><br><br>
-
-⛈️ Bəzi yerlərdə: <strong>intensiv qısamüddətli leysan</strong><br><br>
-
-⚡ Ehtimal olunur: <strong>şimşək</strong><br><br>
-
-🌨️ Lokal olaraq: <strong>dolu</strong><br><br>
-
-🌊 Dağ çayları: <strong>sululuğun artması</strong><br><br>
-
-⚠️ Təhlükə: <strong>qısamüddətli sel ehtimalı</strong>
+🌧️ Yağıntılar: <strong>6–8 sentyabr</strong><br><br>
+⛈️ Lokal intensiv leysan<br><br>
+⚡ Şimşək ehtimalı<br><br>
+🌨️ Dolu ehtimalı<br><br>
+🌊 Dağ çaylarında sululuğun artması<br><br>
+⚠️ <strong>Qısamüddətli sel riski</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">🌊 Dağ çaylarında suyun səviyyəsi arta bilər</h3>
+<h3 style="color:#38bdf8;">🌊 Çaylarda su sürətlə arta bilər</h3>
 
 <p>
-İntensiv yağıntılar nəticəsində dağlıq ərazilərdə səth axınının
-artması gözlənilir. Bu isə kiçik dağ çayları və dərələrdə suyun
-səviyyəsinin qısa müddətdə yüksəlməsinə səbəb ola bilər.
+İntensiv yağıntılar dağ yamaclarında səth axınını artıraraq
+kiçik çay və dərələrdə suyun səviyyəsinin qısa müddətdə
+yüksəlməsinə səbəb ola bilər.
 </p>
 
-<p>
-Milli Hidrometeorologiya Xidməti gözlənilən yağıntılarla əlaqədar
-çaylarda <strong>sululuğun artacağını</strong> bildirir.
-</p>
+<div style="
+background:rgba(239,68,68,0.06);
+border:1px solid rgba(239,68,68,0.30);
+padding:17px;
+border-radius:10px;
+font-size:19px;
+margin:18px 0;">
 
-<p style="background:#7f1d1d;color:#ffffff;padding:17px;border-radius:10px;
-font-size:19px;font-weight:bold;">
-⚠️ Ayrı-ayrı dağ çaylarından qısamüddətli sel keçməsi istisna edilmir.
-</p>
+<strong style="color:#f87171;">⚠️ SEL TƏHLÜKƏSİ</strong><br><br>
 
-<h3 style="color:#f59e0b;">⛈️ Leysan, şimşək və dolu da mümkündür</h3>
-
-<p>
-Yağıntıların bəzi ərazilərdə adi yağış şəklində deyil,
-<strong>qısamüddətli və intensiv leysan</strong> xarakterli olacağı
-proqnozlaşdırılır.
-</p>
-
-<p>
-⚡ Ayrı-ayrı yerlərdə şimşək çaxacağı, bəzi ərazilərdə isə
-<strong>dolu düşəcəyi</strong> ehtimal edilir.
-</p>
-
-<p>
-Belə hava şəraitində dağ yamaclarından gələn su axınlarının
-güclənməsi və kiçik çaylarda suyun sürətlə artması mümkündür.
-</p>
-
-<h3 style="color:#22c55e;">🌿 Dağ ekosistemləri üçün yağışların əhəmiyyəti</h3>
-
-<p>
-Yağıntılar təbii ekosistemlər üçün mühüm su mənbəyidir.
-Dağ meşələri, çəmənliklər və digər bitki örtüyü torpaqda
-rütubətin qorunmasında və su dövranının tənzimlənməsində
-əhəmiyyətli rol oynayır.
-</p>
-
-<p>
-Lakin yağıntının qısa müddətdə həddindən artıq intensiv olması
-torpaq eroziyası, yamaclardan güclü səth axını və lokal sel
-hadisələri riskini artıra bilər.
-</p>
-
-<div style="background:#064e3b;color:#ffffff;padding:17px;border-radius:10px;
-font-size:18px;margin:18px 0;">
-
-<strong>🌳 TƏBİƏT VƏ EKOLOGİYA</strong><br><br>
-
-🌲 Meşələr yağış suyunun bir hissəsini saxlayır<br><br>
-
-💧 Yağıntılar torpağın rütubət ehtiyatını artırır<br><br>
-
-🌿 Bitki örtüyü səth axınının sürətini azaltmağa kömək edir<br><br>
-
-⚠️ Güclü leysan isə eroziya və sel riskini artıra bilər
+Ayrı-ayrı dağ çaylarından <strong>qısamüddətli sel keçməsi
+istisna edilmir.</strong>
 
 </div>
 
-<h3 style="color:#ef4444;">⚠️ Dağlıq ərazilərdə ehtiyatlı olmaq lazımdır</h3>
+<h3 style="color:#22c55e;">🌳 Yağıntıların ekosistemlərə təsiri</h3>
 
-<p>
-Yağıntıların intensiv olduğu vaxtlarda dağ çaylarının və
-dar dərələrin yaxınlığında olan şəxslərin hava şəraitindəki
-dəyişiklikləri nəzərə almaları tövsiyə olunur.
-</p>
+<div style="
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.25);
+padding:17px;
+border-radius:10px;
+margin:18px 0;">
 
-<p>
-🌊 Dağ çaylarında suyun səviyyəsi və axının sürəti bəzi hallarda
-çox qısa müddət ərzində dəyişə bilər.
-</p>
-
-<div style="background:#172554;color:#ffffff;padding:17px;border-radius:10px;
-font-size:18px;margin:18px 0;">
-
-<strong>📊 QISA XÜLASƏ</strong><br><br>
-
-📅 Dövr: <strong>6 sentyabr – 8 sentyabr səhər</strong><br><br>
-
-📍 Əsasən: <strong>şimal, qərb və bəzi dağlıq ərazilər</strong><br><br>
-
-🌧️ Yağıntı: <strong>arabir intensiv leysan</strong><br><br>
-
-⚡ Şimşək: <strong>mümkündür</strong><br><br>
-
-🌨️ Dolu: <strong>lokal olaraq mümkündür</strong><br><br>
-
-🌊 Çaylar: <strong>sululuq arta bilər</strong><br><br>
-
-⚠️ Dağ çayları: <strong>qısamüddətli sel ehtimalı var</strong>
+🌲 Meşələr yağış suyunun bir hissəsini saxlayır.<br><br>
+💧 Yağıntılar torpağın rütubət ehtiyatını artırır.<br><br>
+🌿 Bitki örtüyü səth axınının sürətini azaltmağa kömək edir.<br><br>
+⚠️ Həddindən artıq intensiv leysan isə eroziya və sel riskini artırır.
 
 </div>
-
-<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌿📡 META Meteorologiya Mərkəzi Azərbaycanda təbiət, ekologiya,
-çayların vəziyyəti və təhlükəli hidrometeoroloji hadisələri
-izləməyə davam edir.
-</p>
-
-<p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Ekologiya, təbiət və hava xəbərləri üçün WhatsApp kanalımıza qoşulun:
-<br><br>
-
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank"
-style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı
-</a>
-</p>
-
-<p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
-</p>
-
-<hr>
-
-<p style="color:#94a3b8;font-size:14px;">
-<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
-Saytda təqdim olunan avtomatlaşdırılmış meteoroloji məlumatlar və hava proqnozları
-atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya
-təhlükəli meteoroloji hadisələr zamanı rəsmi dövlət qurumlarının məlumat və göstərişlərinə
-əməl etmək tövsiyə olunur.
-</p>
-
-<p style="color:#94a3b8;font-size:14px;">
-© 2026 META Abşeron. Bütün hüquqlar qorunur.
-</p>
