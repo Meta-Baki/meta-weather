@@ -1,185 +1,60 @@
-<h2 style="color:#f59e0b;">☀️🌑 NASA Günəş tutulmasını 15 kilometr yüksəklikdən müşahidə etdi — unikal görüntü yayımlandı</h2>
+<h2 style="color:#a78bfa;">
+☀️🌑 NASA Günəş tutulmasını 15 kilometr yüksəklikdən müşahidə etdi
+</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
 🕐 Əlavə olunub: 5 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>NASA sentyabrın 5-də tam Günəş tutulmasının Yer atmosferinin
-yüksək qatlarından çəkilmiş qeyri-adi görüntüsünü yayımlayıb.</strong>
-Müşahidə NASA-nın xüsusi WB-57F yüksək hündürlüklü tədqiqat təyyarəsi
-vasitəsilə həyata keçirilib.
+<strong>NASA tam Günəş tutulmasının yüksək atmosferdən çəkilmiş
+qeyri-adi görüntüsünü yayımlayıb. Müşahidə xüsusi WB-57F
+tədqiqat təyyarəsi ilə həyata keçirilib.</strong>
 </p>
 
-<p>
-✈️ Təyyarə təxminən <strong>50 000 fut — 15,2 kilometr</strong>
-yüksəklikdə uçaraq Ayın Yer üzərində hərəkət edən kölgəsini izləyib.
-</p>
+<div style="
+background:rgba(139,92,246,0.06);
+border:1px solid rgba(167,139,250,0.30);
+padding:18px;
+border-radius:10px;
+font-size:19px;
+margin:18px 0;">
 
-<div style="background:#312e81;color:#ffffff;padding:18px;border-radius:10px;
-font-size:19px;margin:18px 0;">
-
-<strong>🌑 NASA-NIN QEYRİ-ADİ MÜŞAHİDƏSİ</strong><br><br>
-
-📅 Görüntü yayımlandı: <strong>5 sentyabr 2026</strong><br><br>
+<strong style="color:#c4b5fd;">🌑 NASA-NIN MÜŞAHİDƏSİ</strong><br><br>
 
 🌑 Hadisə: <strong>Tam Günəş tutulması</strong><br><br>
-
-✈️ Platforma: <strong>NASA WB-57F tədqiqat təyyarəsi</strong><br><br>
-
-📏 Uçuş hündürlüyü: <strong>təxminən 15,2 km</strong><br><br>
-
-📍 Müşahidə ərazisi: <strong>İslandiya sahilləri yaxınlığı</strong>
+✈️ Platforma: <strong>NASA WB-57F</strong><br><br>
+📏 Hündürlük: <strong>təxminən 15,2 km</strong><br><br>
+📍 Müşahidə: <strong>İslandiya sahilləri yaxınlığı</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">✈️ Təyyarə Ayın kölgəsinin arxasınca uçdu</h3>
+<h3 style="color:#38bdf8;">✈️ Ayın kölgəsinin arxasınca</h3>
 
 <p>
-Müşahidə avqustun 12-də tam Günəş tutulması zamanı həyata keçirilib.
-NASA-nın WB-57F təyyarəsi İslandiya sahilləri yaxınlığında havaya
-qalxaraq tutulmanın tam fazasının keçdiyi dəqiq trayektoriya üzrə uçub.
+Təyyarənin uçuş trayektoriyası Ayın Yer səthində hərəkət edən
+kölgəsinin daxilində mümkün qədər uzun müddət qalmaq üçün hesablanıb.
 </p>
+
+<h3 style="color:#f59e0b;">☀️ Günəş tacı müşahidə olunub</h3>
 
 <p>
-🌑 Təyyarənin marşrutu Ayın Yer üzərində hərəkət edən kölgəsi daxilində
-mümkün qədər uzun müddət qalmaq üçün əvvəlcədən dəqiq hesablanıb.
+Ay Günəş diskini tam örtdükdə onun ətrafında Günəşin xarici
+atmosferi — <strong>korona</strong> görünür.
 </p>
 
-<p style="color:#fbbf24;font-size:20px;font-weight:bold;">
-☀️ Məqsəd Günəş tacını mümkün qədər əlverişli şəraitdə müşahidə etmək idi.
-</p>
+<div style="
+background:rgba(59,130,246,0.05);
+border:1px solid rgba(96,165,250,0.25);
+padding:17px;
+border-radius:10px;
+margin:18px 0;">
 
-<h3 style="color:#f59e0b;">🔭 Niyə 15 kilometr yüksəklik?</h3>
+<strong style="color:#60a5fa;">🔭 15 KM YÜKSƏKLİYİN ÜSTÜNLÜYÜ</strong><br><br>
 
-<p>
-Yer səthindən aparılan astronomik müşahidələrə buludlar, atmosferdəki
-su buxarı və toz hissəcikləri mane ola bilər.
-</p>
-
-<p>
-✈️ Təxminən 15 kilometr yüksəklikdə uçan WB-57F isə bu maneələrin
-əhəmiyyətli hissəsinin üzərində yerləşir.
-</p>
-
-<p>
-Təyyarədə quraşdırılmış yüksək ayırdetmə qabiliyyətinə malik kameralar
-Günəş tutulmasını daha aydın şəkildə qeydə almağa imkan verib.
-</p>
-
-<div style="background:#78350f;color:#ffffff;padding:17px;border-radius:10px;
-font-size:18px;margin:18px 0;">
-
-<strong>🔭 MÜŞAHİDƏNİN ÜSTÜNLÜKLƏRİ</strong><br><br>
-
-☁️ Buludların böyük hissəsindən yuxarı uçuş<br><br>
-
-💧 Atmosferdəki su buxarının təsirinin azalması<br><br>
-
-🌫️ Toz və digər atmosfer maneələrinin azalması<br><br>
-
-📷 Yüksək ayırdetməli kameralarla müşahidə<br><br>
-
-🌑 Ayın kölgəsi daxilində daha uzun müşahidə imkanı
+☁️ Buludların böyük hissəsindən yuxarı<br><br>
+💧 Daha az atmosfer su buxarı<br><br>
+🌫️ Daha az atmosfer maneəsi<br><br>
+📷 Daha aydın astronomik müşahidələr
 
 </div>
-
-<h3 style="color:#8b5cf6;">🌌 Günəş tacı qaranlıq səmanın fonunda göründü</h3>
-
-<p>
-NASA-nın yayımladığı görüntüdə tam tutulma zamanı Ay Günəş diskini
-örtərkən onun ətrafında <strong>Günəş tacının — koronasının</strong>
-parlaq strukturu görünür.
-</p>
-
-<p>
-🌑 Təyyarə Ayın kölgəsinin daxilində olduğuna görə səmanın böyük
-hissəsi qaralır, uzaqdakı üfüq isə kölgə zonasından kənarda
-olduğu üçün işıqlı qalır.
-</p>
-
-<h3 style="color:#22c55e;">🪐 Venera, Yupiter və Merkuri də görüntüyə düşüb</h3>
-
-<p>
-Tutulma zamanı səmanın kifayət qədər qaralması digər planetlərin
-də görünməsinə imkan yaradıb.
-</p>
-
-<p>
-✨ NASA-nın məlumatına görə, görüntüdə
-<strong>Venera</strong> aydın şəkildə seçilir.
-</p>
-
-<p>
-🪐 <strong>Yupiter və Merkuri</strong> isə tutulmuş Günəşin digər
-tərəfində daha zəif şəkildə görünür.
-</p>
-
-<div style="background:#172554;color:#ffffff;padding:17px;border-radius:10px;
-font-size:18px;margin:18px 0;">
-
-<strong>🌌 MARAQLI FAKT</strong><br><br>
-
-🌑 Tam Günəş tutulması zamanı Ay Günəşin parlaq fotosferini örtür.<br><br>
-
-☀️ Bunun nəticəsində adi şəraitdə Günəşin güclü işığı səbəbindən
-görünməsi çətin olan <strong>Günəş tacını</strong> müşahidə etmək mümkün olur.<br><br>
-
-🔬 Buna görə tam Günəş tutulmaları Günəş atmosferinin öyrənilməsi
-üçün alimlərə xüsusi imkan yaradır.
-
-</div>
-
-<h3 style="color:#38bdf8;">☀️ Günəşin atmosferini öyrənmək üçün mühüm imkan</h3>
-
-<p>
-Günəş tacının müşahidəsi alimlərə ulduzumuzun xarici atmosferində
-baş verən prosesləri daha yaxşı araşdırmağa imkan verir.
-</p>
-
-<p>
-Günəş tacı kosmik hava ilə əlaqəli proseslərin öyrənilməsində də
-mühüm əhəmiyyət daşıyır.
-</p>
-
-<p style="background:#312e81;color:#ffffff;padding:17px;border-radius:10px;
-font-size:19px;font-weight:bold;">
-🌑✈️ NASA-nın yüksək hündürlüklü WB-57F təyyarəsi Ayın kölgəsinin
-arxasınca uçaraq tam Günəş tutulmasını təxminən 15 kilometr
-yüksəklikdən müşahidə edib. Unikal görüntü 5 sentyabrda NASA
-tərəfindən yayımlanıb.
-</p>
-
-<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌌 META Meteorologiya Mərkəzi Günəş, kosmik hava və astronomiya ilə
-bağlı yeni elmi məlumatları izləməyə davam edir.
-</p>
-
-<p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos, astronomiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
-<br><br>
-
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank"
-style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı
-</a>
-</p>
-
-<p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
-</p>
-
-<hr>
-
-<p style="color:#94a3b8;font-size:14px;">
-<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
-Saytda təqdim olunan avtomatlaşdırılmış meteoroloji məlumatlar və hava proqnozları
-atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya
-təhlükəli meteoroloji hadisələr zamanı rəsmi dövlət qurumlarının məlumat və göstərişlərinə
-əməl etmək tövsiyə olunur.
-</p>
-
-<p style="color:#94a3b8;font-size:14px;">
-© 2026 META Abşeron. Bütün hüquqlar qorunur.
-</p>
