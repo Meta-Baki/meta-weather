@@ -1,149 +1,162 @@
-<h2 style="color:#8b5cf6;">🌌✨ NASA göstərdi: 200 milyon işıq ili uzaqlıqda iki nəhəng qalaktika birləşir</h2>
+<h2 style="color:#f59e0b;">☀️🌑 NASA Günəş tutulmasını 15 kilometr yüksəklikdən müşahidə etdi — unikal görüntü yayımlandı</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 4 sentyabr 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 5 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>NASA sentyabrın 4-də kosmosun dərinliklərində bir-biri ilə
-qarşılıqlı təsirdə olan iki möhtəşəm spiral qalaktikanın yeni görüntüsünü yayımlayıb.</strong>
+<strong>NASA sentyabrın 5-də tam Günəş tutulmasının Yer atmosferinin
+yüksək qatlarından çəkilmiş qeyri-adi görüntüsünü yayımlayıb.</strong>
+Müşahidə NASA-nın xüsusi WB-57F yüksək hündürlüklü tədqiqat təyyarəsi
+vasitəsilə həyata keçirilib.
 </p>
 
 <p>
-🌌 Söhbət <strong>NGC 7253 və Arp 278</strong> kimi tanınan qalaktika
-cütlüyündən gedir. Onlar Yerdən təxminən
-<strong>200 milyon işıq ili</strong> uzaqlıqda, Peqas bürcü istiqamətində yerləşirlər.
+✈️ Təyyarə təxminən <strong>50 000 fut — 15,2 kilometr</strong>
+yüksəklikdə uçaraq Ayın Yer üzərində hərəkət edən kölgəsini izləyib.
 </p>
 
-<div style="background:#312e81;color:#ffffff;padding:17px;border-radius:10px;
+<div style="background:#312e81;color:#ffffff;padding:18px;border-radius:10px;
 font-size:19px;margin:18px 0;">
 
-<strong>🌌 KOSMOSUN 200 MİLYON İŞIQ İLİ UZAQLIĞINDA</strong><br><br>
+<strong>🌑 NASA-NIN QEYRİ-ADİ MÜŞAHİDƏSİ</strong><br><br>
 
-🔭 Obyekt: <strong>NGC 7253 / Arp 278</strong><br><br>
+📅 Görüntü yayımlandı: <strong>5 sentyabr 2026</strong><br><br>
 
-🌌 Tip: <strong>qarşılıqlı təsirdə olan spiral qalaktikalar</strong><br><br>
+🌑 Hadisə: <strong>Tam Günəş tutulması</strong><br><br>
 
-📍 İstiqamət: <strong>Peqas bürcü</strong><br><br>
+✈️ Platforma: <strong>NASA WB-57F tədqiqat təyyarəsi</strong><br><br>
 
-📏 Yerdən məsafə: <strong>təxminən 200 milyon işıq ili</strong><br><br>
+📏 Uçuş hündürlüyü: <strong>təxminən 15,2 km</strong><br><br>
 
-🔭 Müşahidə: <strong>Gemini North teleskopu</strong>
+📍 Müşahidə ərazisi: <strong>İslandiya sahilləri yaxınlığı</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">💫 İki qalaktika bir-birini çəkir</h3>
+<h3 style="color:#38bdf8;">✈️ Təyyarə Ayın kölgəsinin arxasınca uçdu</h3>
 
 <p>
-NGC 7253 və Arp 278 bir-birinə kifayət qədər yaxın yerləşdiyinə görə
-onların güclü cazibə qüvvələri qarşılıqlı təsir göstərir.
+Müşahidə avqustun 12-də tam Günəş tutulması zamanı həyata keçirilib.
+NASA-nın WB-57F təyyarəsi İslandiya sahilləri yaxınlığında havaya
+qalxaraq tutulmanın tam fazasının keçdiyi dəqiq trayektoriya üzrə uçub.
 </p>
 
 <p>
-🌌 Bu proses qalaktikaların quruluşunu dəyişdirir və nəhəng kosmik
-miqyasda onların tədricən birləşməsinə səbəb olur.
-</p>
-
-<p>
-Yeni görüntüdə iki qalaktikanın spiral strukturları və onların
-qarşılıqlı cazibə təsiri nəticəsində dəyişmiş formaları aydın görünür.
-</p>
-
-<h3 style="color:#f59e0b;">⭐ Toqquşma yeni ulduzların yaranmasına səbəb olur</h3>
-
-<p>
-Qalaktikaların birləşməsi sadəcə onların formasını dəyişdirmir.
-Bu proses eyni zamanda böyük miqdarda qaz və toz buludlarının
-sıxılmasına səbəb olur.
+🌑 Təyyarənin marşrutu Ayın Yer üzərində hərəkət edən kölgəsi daxilində
+mümkün qədər uzun müddət qalmaq üçün əvvəlcədən dəqiq hesablanıb.
 </p>
 
 <p style="color:#fbbf24;font-size:20px;font-weight:bold;">
-⭐ Nəticədə qalaktikalarda yeni ulduzların yaranması sürətlənə bilər.
+☀️ Məqsəd Günəş tacını mümkün qədər əlverişli şəraitdə müşahidə etmək idi.
+</p>
+
+<h3 style="color:#f59e0b;">🔭 Niyə 15 kilometr yüksəklik?</h3>
+
+<p>
+Yer səthindən aparılan astronomik müşahidələrə buludlar, atmosferdəki
+su buxarı və toz hissəcikləri mane ola bilər.
 </p>
 
 <p>
-Belə qarşılıqlı təsirlər astronomlara qalaktikaların milyardlarla il
-ərzində necə dəyişdiyini və yeni ulduz sistemlərinin necə yarandığını
-öyrənməyə imkan verir.
-</p>
-
-<h3 style="color:#22c55e;">🔭 Nəhəng Gemini North teleskopu</h3>
-
-<p>
-Bu möhtəşəm görüntü Havay adalarında, Mauna-Kea dağında yerləşən
-<strong>8,1 metrlik Gemini North teleskopu</strong> vasitəsilə əldə edilib.
+✈️ Təxminən 15 kilometr yüksəklikdə uçan WB-57F isə bu maneələrin
+əhəmiyyətli hissəsinin üzərində yerləşir.
 </p>
 
 <p>
-🔭 Böyük güzgüsü və yüksək həssaslıqlı cihazları sayəsində teleskop
-Yerdən yüz milyonlarla işıq ili uzaqda yerləşən qalaktikaların
-strukturunu detallı şəkildə müşahidə edə bilir.
+Təyyarədə quraşdırılmış yüksək ayırdetmə qabiliyyətinə malik kameralar
+Günəş tutulmasını daha aydın şəkildə qeydə almağa imkan verib.
 </p>
 
-<h3 style="color:#8b5cf6;">🌺 Qalaktikalara xüsusi Havay adı verilib</h3>
-
-<p>
-Qalaktika cütlüyünün görüntüsünə
-<strong>“Nā ʻUhane Māhoe Huki Pū i ke Ola”</strong> adı verilib.
-</p>
-
-<p>
-Bu Havay ifadəsi təxminən
-<strong>“Həyatı yaradaraq birlikdə çəkən əkiz ruhlar”</strong>
-mənasını verir.
-</p>
-
-<p>
-Ad qalaktikaların bir-birinə cazibə qüvvəsi ilə təsir etməsini və
-bu qarşılıqlı təsirin yeni ulduzların yaranmasını sürətləndirə
-bilməsini simvolizə edir.
-</p>
-
-<div style="background:#172554;color:#ffffff;padding:16px;border-radius:10px;
+<div style="background:#78350f;color:#ffffff;padding:17px;border-radius:10px;
 font-size:18px;margin:18px 0;">
 
-<strong>🔭 MARAQLI FAKT</strong><br><br>
+<strong>🔭 MÜŞAHİDƏNİN ÜSTÜNLÜKLƏRİ</strong><br><br>
 
-💡 Bu qalaktikaları bu gün gördüyümüz formada göstərən işıq
-<strong>təxminən 200 milyon il əvvəl</strong> onlardan ayrılıb.<br><br>
+☁️ Buludların böyük hissəsindən yuxarı uçuş<br><br>
 
-🌍 Həmin dövrdə Yer üzündə hələ dinozavrların hökmranlıq etdiyi
-Mezozoy erası davam edirdi.<br><br>
+💧 Atmosferdəki su buxarının təsirinin azalması<br><br>
 
-✨ Buna görə teleskoplar uzaq kosmosa baxarkən eyni zamanda
-<strong>Kainatın keçmişinə baxırlar.</strong>
+🌫️ Toz və digər atmosfer maneələrinin azalması<br><br>
+
+📷 Yüksək ayırdetməli kameralarla müşahidə<br><br>
+
+🌑 Ayın kölgəsi daxilində daha uzun müşahidə imkanı
 
 </div>
 
-<h3 style="color:#38bdf8;">🌌 Süd Yolunun gələcəyini də xatırladır</h3>
+<h3 style="color:#8b5cf6;">🌌 Günəş tacı qaranlıq səmanın fonunda göründü</h3>
 
 <p>
-Qalaktikaların birləşməsi Kainatda qeyri-adi hadisə deyil.
-Böyük qalaktikalar uzun zaman ərzində digər qalaktikalarla
-qarşılıqlı təsirə girə və birləşə bilirlər.
+NASA-nın yayımladığı görüntüdə tam tutulma zamanı Ay Günəş diskini
+örtərkən onun ətrafında <strong>Günəş tacının — koronasının</strong>
+parlaq strukturu görünür.
 </p>
 
 <p>
-Bu cür sistemlərin müşahidəsi astronomlara qalaktikaların təkamülünü,
-ulduzların yaranmasını və Kainatın böyük strukturlarının necə
-formalaşdığını daha yaxşı anlamağa kömək edir.
+🌑 Təyyarə Ayın kölgəsinin daxilində olduğuna görə səmanın böyük
+hissəsi qaralır, uzaqdakı üfüq isə kölgə zonasından kənarda
+olduğu üçün işıqlı qalır.
 </p>
 
-<p style="background:#312e81;color:#ffffff;padding:16px;border-radius:10px;
+<h3 style="color:#22c55e;">🪐 Venera, Yupiter və Merkuri də görüntüyə düşüb</h3>
+
+<p>
+Tutulma zamanı səmanın kifayət qədər qaralması digər planetlərin
+də görünməsinə imkan yaradıb.
+</p>
+
+<p>
+✨ NASA-nın məlumatına görə, görüntüdə
+<strong>Venera</strong> aydın şəkildə seçilir.
+</p>
+
+<p>
+🪐 <strong>Yupiter və Merkuri</strong> isə tutulmuş Günəşin digər
+tərəfində daha zəif şəkildə görünür.
+</p>
+
+<div style="background:#172554;color:#ffffff;padding:17px;border-radius:10px;
+font-size:18px;margin:18px 0;">
+
+<strong>🌌 MARAQLI FAKT</strong><br><br>
+
+🌑 Tam Günəş tutulması zamanı Ay Günəşin parlaq fotosferini örtür.<br><br>
+
+☀️ Bunun nəticəsində adi şəraitdə Günəşin güclü işığı səbəbindən
+görünməsi çətin olan <strong>Günəş tacını</strong> müşahidə etmək mümkün olur.<br><br>
+
+🔬 Buna görə tam Günəş tutulmaları Günəş atmosferinin öyrənilməsi
+üçün alimlərə xüsusi imkan yaradır.
+
+</div>
+
+<h3 style="color:#38bdf8;">☀️ Günəşin atmosferini öyrənmək üçün mühüm imkan</h3>
+
+<p>
+Günəş tacının müşahidəsi alimlərə ulduzumuzun xarici atmosferində
+baş verən prosesləri daha yaxşı araşdırmağa imkan verir.
+</p>
+
+<p>
+Günəş tacı kosmik hava ilə əlaqəli proseslərin öyrənilməsində də
+mühüm əhəmiyyət daşıyır.
+</p>
+
+<p style="background:#312e81;color:#ffffff;padding:17px;border-radius:10px;
 font-size:19px;font-weight:bold;">
-🌌 200 milyon işıq ili uzaqlıqda baş verən bu nəhəng kosmik qarşılıqlı
-təsir bizə qalaktikaların sabit obyektlər olmadığını, milyardlarla il
-ərzində daim dəyişdiyini göstərir.
+🌑✈️ NASA-nın yüksək hündürlüklü WB-57F təyyarəsi Ayın kölgəsinin
+arxasınca uçaraq tam Günəş tutulmasını təxminən 15 kilometr
+yüksəklikdən müşahidə edib. Unikal görüntü 5 sentyabrda NASA
+tərəfindən yayımlanıb.
 </p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-🌌 META Meteorologiya Mərkəzi NASA, ESA və digər kosmik agentliklərin
-astronomiya və kosmosla bağlı yeni kəşflərini izləməyə davam edir.
+🌌 META Meteorologiya Mərkəzi Günəş, kosmik hava və astronomiya ilə
+bağlı yeni elmi məlumatları izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmos, astronomiya, meteorologiya və təbiət xəbərləri üçün
-WhatsApp kanalımıza qoşulun:
+📲 Kosmos, astronomiya və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
