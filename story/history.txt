@@ -1,69 +1,56 @@
-<h2 style="color:#f59e0b;">🌤️⛈️ Azərbaycanda hava 35°C-dək istiləşəcək — 5 sentyabr üçün proqnoz</h2>
+<h2 style="color:#38bdf8;">🌧️⛈️ Azərbaycanda bazar günü yağış gözlənilir — bəzi rayonlarda leysan, şimşək və dolu olacaq</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 4 sentyabr 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 5 sentyabr 2026, 22:17 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Sentyabrın 5-də Bakı və Abşeron yarımadasında havanın dəyişkən buludlu,
-əsasən yağmursuz keçəcəyi gözlənilir. Azərbaycanın rayonlarında isə temperatur
-+35°C-yə qədər yüksələcək.</strong>
+<strong>Sentyabrın 6-da — bazar günü Azərbaycanda hava şəraitinin
+əsasən yağmursuz keçəcəyi gözlənilsə də, Bakı və Abşeronun bəzi
+ərazilərində, eləcə də ölkənin dağlıq və dağətəyi rayonlarında
+yağıntılar proqnozlaşdırılır.</strong>
 </p>
 
-<h3 style="color:#38bdf8;">🏙️ Bakı və Abşeronda hava necə olacaq?</h3>
+<h3 style="color:#38bdf8;">🏙️ Bakı və Abşeronda gecə və səhər yağış ehtimalı var</h3>
 
 <p>
-🌤️ Bakı və Abşeron yarımadasında hava şəraitinin
-<strong>dəyişkən buludlu, əsasən yağmursuz</strong> keçəcəyi proqnozlaşdırılır.
-</p>
-
-<p>
-🌦️ Bununla belə, <strong>gündüz bəzi yerlərdə qısamüddətli yağış</strong>
-ehtimal olunur.
+Bakı və Abşeron yarımadasında hava şəraitinin
+<strong>dəyişkən buludlu, arabir tutulacağı və əsasən yağmursuz</strong>
+keçəcəyi gözlənilir.
 </p>
 
 <p>
-🌬️ Cənub-şərq küləyi əsəcək, axşam isə
-<strong>arabir güclənən şimal-qərb küləyi</strong> ilə əvəz olunacaq.
+🌧️ Lakin <strong>gecə və səhər bəzi şəhərətrafı ərazilərdə
+qısamüddətli az yağış</strong> yağması ehtimal olunur.
 </p>
 
 <p>
-🌡️ Havanın temperaturu gecə <strong>+18…+21°C</strong>,
-gündüz isə <strong>+28…+32°C</strong> təşkil edəcək.
+🌬️ Mülayim şimal-qərb küləyi səhər saatlarından
+<strong>şimal-şərq küləyi</strong> ilə əvəz olunacaq.
 </p>
 
-<p>
-💧 Nisbi rütubət gecə <strong>70–75%</strong>,
-gündüz <strong>55–60%</strong> olacaq.
-</p>
-
-<p>
-🔵 Atmosfer təzyiqi <strong>760 mm civə sütunu (≈1013 hPa)</strong>
-təşkil edəcək.
-</p>
-
-<div style="background:#0f3b57;color:#ffffff;padding:16px;border-radius:10px;
+<div style="background:#0f3b57;color:#ffffff;padding:17px;border-radius:10px;
 font-size:19px;margin:18px 0;">
 
-<strong>📍 BAKI VƏ ABŞERON — 5 SENTYABR</strong><br><br>
+<strong>📍 BAKI VƏ ABŞERON — 6 SENTYABR</strong><br><br>
 
-🌤️ Hava: <strong>Dəyişkən buludlu, əsasən yağmursuz</strong><br><br>
+☁️ Hava: <strong>Dəyişkən buludlu, arabir tutulacaq</strong><br><br>
 
-🌦️ Yağıntı: <strong>Gündüz bəzi yerlərdə qısamüddətli yağış mümkündür</strong><br><br>
+🌧️ Yağıntı: <strong>Gecə və səhər bəzi şəhərətrafı ərazilərdə az yağış mümkündür</strong><br><br>
 
-🌙 Gecə: <strong>+18…+21°C</strong><br><br>
+🌙 Gecə: <strong>+20…+23°C</strong><br><br>
 
-☀️ Gündüz: <strong>+28…+32°C</strong><br><br>
+🌤️ Gündüz: <strong>+27…+32°C</strong><br><br>
 
-🌬️ Külək: <strong>Cənub-şərq → axşam şimal-qərb</strong><br><br>
+🌬️ Külək: <strong>Şimal-qərb → səhər şimal-şərq</strong><br><br>
 
-💧 Rütubət: <strong>70–75% → 55–60%</strong><br><br>
+💧 Rütubət: <strong>gecə 70–75%, gündüz 55–60%</strong><br><br>
 
-🔵 Təzyiq: <strong>760 mmHg (≈1013 hPa)</strong>
+🔵 Təzyiq: <strong>761 mmHg (≈1015 hPa)</strong>
 
 </div>
 
-<h3 style="color:#22c55e;">🇦🇿 Rayonlarda 35°C isti olacaq</h3>
+<h3 style="color:#f59e0b;">🇦🇿 Rayonlarda hava 35°C-dək istiləşəcək</h3>
 
 <p>
 Azərbaycanın rayonlarında hava şəraitinin
@@ -71,73 +58,110 @@ Azərbaycanın rayonlarında hava şəraitinin
 </p>
 
 <p>
-🌡️ Aran rayonlarında temperatur gecə
-<strong>+16…+21°C</strong>, gündüz isə
-<strong>+30…+35°C</strong> olacaq.
+🌡️ Havanın temperaturu gecə <strong>+18…+21°C</strong>,
+gündüz isə <strong>+30…+35°C</strong> təşkil edəcək.
 </p>
 
 <p>
-🏔️ Dağlıq ərazilərdə gecə <strong>+11…+16°C</strong>,
-gündüz isə <strong>+20…+25°C</strong> proqnozlaşdırılır.
+🏔️ Dağlıq ərazilərdə gecə temperatur
+<strong>+12…+17°C</strong>, gündüz isə
+<strong>+20…+25°C</strong> olacaq.
 </p>
 
-<h3 style="color:#ef4444;">⛈️ Dağlarda leysan, şimşək və dolu ehtimalı var</h3>
+<h3 style="color:#ef4444;">⛈️ Bəzi rayonlarda leysan, şimşək və dolu gözlənilir</h3>
 
 <p>
-Günün ikinci yarısında bəzi dağlıq rayonlarda
-<strong>arabir yağış yağacağı</strong> gözlənilir.
+Gecə və axşam saatlarında Azərbaycanın bəzi
+<strong>dağlıq və dağətəyi rayonlarında arabir yağış</strong>
+yağacağı proqnozlaşdırılır.
 </p>
 
 <p>
 ⛈️ Ayrı-ayrı ərazilərdə yağıntının
-<strong>qısamüddətli leysan xarakterli olması, şimşək çaxması və dolu düşməsi</strong>
-ehtimal edilir.
+<strong>qısamüddətli leysan xarakterli və intensiv</strong>
+olacağı ehtimal edilir.
 </p>
 
 <p>
-🌫️ Gecə və səhər bəzi dağlıq ərazilərdə
-<strong>duman</strong> müşahidə oluna bilər.
+⚡ Şimşək çaxması və bəzi yerlərdə
+<strong>dolu düşməsi</strong> də mümkündür.
 </p>
 
 <p>
-🌬️ Rayonlarda əsasən <strong>şərq küləyi</strong> üstünlük təşkil edəcək.
+🌫️ Gecə və səhər saatlarında bəzi dağlıq ərazilərdə
+<strong>duman</strong> müşahidə edilə bilər.
 </p>
 
-<div style="background:#78350f;color:#ffffff;padding:16px;border-radius:10px;
+<p>
+🌬️ Rayonlarda əsasən <strong>şərq küləyi</strong> əsəcək.
+</p>
+
+<div style="background:#78350f;color:#ffffff;padding:17px;border-radius:10px;
 font-size:19px;margin:18px 0;">
 
-<strong>⚠️ 5 SENTYABR — DİQQƏT EDİLƏCƏK HAVA HADİSƏLƏRİ</strong><br><br>
+<strong>⚠️ 6 SENTYABR — DİQQƏT EDİLƏCƏK HAVA HADİSƏLƏRİ</strong><br><br>
 
-🌡️ Maksimum temperatur: <strong>+35°C</strong><br><br>
+🌧️ Bakı və Abşeron: <strong>gecə və səhər lokal az yağış</strong><br><br>
 
-🌦️ Bakı və Abşeron: <strong>gündüz lokal qısamüddətli yağış ehtimalı</strong><br><br>
+⛈️ Dağlıq və dağətəyi rayonlar: <strong>leysan və şimşək</strong><br><br>
 
-⛈️ Dağlıq rayonlar: <strong>leysan və şimşək ehtimalı</strong><br><br>
+🌨️ Ayrı-ayrı ərazilər: <strong>dolu ehtimalı</strong><br><br>
 
-🌨️ Lokal olaraq: <strong>dolu mümkündür</strong><br><br>
+🌫️ Dağlar: <strong>gecə və səhər duman</strong><br><br>
 
-🌫️ Dağlarda: <strong>gecə və səhər duman</strong><br><br>
-
-🌬️ Bakı və Abşeron: <strong>axşam şimal-qərb küləyi arabir güclənəcək</strong>
+🌡️ Maksimum temperatur: <strong>+35°C</strong>
 
 </div>
 
-<p style="background:#14532d;color:#ffffff;padding:16px;border-radius:10px;
-font-size:19px;font-weight:bold;">
-📌 Ümumilikdə sentyabrın 5-də Bakı və Abşeronda əsasən sabit hava
-gözlənilsə də, gündüz lokal yağış ehtimalı var. Rayonlarda isə hava
-+35°C-dək istiləşəcək, bəzi dağlıq ərazilərdə leysan, şimşək və dolu
-müşahidə oluna bilər.
+<h3 style="color:#22c55e;">📌 Bazar günü hava necə keçəcək?</h3>
+
+<p>
+Ümumilikdə sentyabrın 6-da ölkə ərazisinin böyük hissəsində
+yağıntısız hava üstünlük təşkil edəcək.
 </p>
 
+<p>
+Bakı və Abşeronda əsas yağış ehtimalı
+<strong>gecə və səhər saatlarına</strong> təsadüf edir.
+Günün qalan hissəsində isə əsasən yağmursuz hava gözlənilir.
+</p>
+
+<p>
+Dağlıq və dağətəyi rayonlarda isə lokal atmosfer qeyri-sabitliyi
+daha güclü olacaq və bəzi ərazilərdə leysan, şimşək və dolu
+müşahidə edilə bilər.
+</p>
+
+<div style="background:#172554;color:#ffffff;padding:16px;border-radius:10px;
+font-size:18px;margin:18px 0;">
+
+<strong>📊 QISA XÜLASƏ</strong><br><br>
+
+📅 Tarix: <strong>6 sentyabr, bazar günü</strong><br><br>
+
+🏙️ Bakı və Abşeron: <strong>+20…+23°C / +27…+32°C</strong><br><br>
+
+🌧️ Bakı: <strong>gecə və səhər lokal yağış ehtimalı</strong><br><br>
+
+🇦🇿 Rayonlar: <strong>+18…+21°C / +30…+35°C</strong><br><br>
+
+🏔️ Dağlar: <strong>+12…+17°C / +20…+25°C</strong><br><br>
+
+⛈️ Dağlıq rayonlar: <strong>leysan, şimşək və dolu ehtimalı</strong><br><br>
+
+🌫️ Dağlarda: <strong>duman mümkündür</strong>
+
+</div>
+
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava şəraitində baş verə biləcək
-dəyişiklikləri izləməyə davam edir.
+📡 META Meteorologiya Mərkəzi hava şəraitində baş verən dəyişiklikləri
+və təhlükəli meteoroloji hadisələri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
 📲 Operativ hava proqnozları və xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:
 <br><br>
+
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
