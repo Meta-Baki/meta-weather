@@ -1,257 +1,114 @@
-<h2 style="color:#f59e0b;">☀️🌌 Günəş aktivliyi artır: 5–11 sentyabr üçün kosmik hava proqnozu</h2>
+<h2 style="color:#f59e0b;">
+☀️🌌 Günəş aktivliyi artır: 5–11 sentyabr üçün kosmik hava proqnozu
+</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
 🕐 Əlavə olunub: 5 sentyabr 2026 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Günəşdə aktivlik ötən günlə müqayisədə artıb. Günəş ləkələrinin sayı
-72-yə yüksəlib, bir neçə aktiv bölgə isə M sinifli alışmalar yaratmaq
-potensialına malikdir. 7–8 sentyabr tarixlərində Yer kürəsinin maqnit
-sahəsində də müəyyən aktivləşmə ehtimalı izlənilir.</strong>
+<strong>Günəşdə aktivlik artıb. Bir neçə aktiv bölgə M sinifli
+alışmalar yaratmaq potensialına malikdir. 7–8 sentyabrda mümkün
+CME təsiri səbəbindən Yer kürəsinin maqnit sahəsində aktivləşmə
+ehtimalı izlənilir.</strong>
 </p>
 
-<div style="background:#312e81;color:#ffffff;padding:18px;border-radius:10px;
-font-size:19px;margin:18px 0;">
+<div style="
+background:rgba(249,115,22,0.06);
+border:1px solid rgba(249,115,22,0.30);
+padding:18px;
+border-radius:10px;
+font-size:19px;
+margin:18px 0;">
 
-<strong>☀️ 5 SENTYABR — GÜNƏŞDƏ VƏZİYYƏT</strong><br><br>
+<strong style="color:#fb923c;">☀️ 5 SENTYABR — GÜNƏŞDƏ VƏZİYYƏT</strong><br><br>
 
-☀️ Günəş ləkələrinin sayı: <strong>72</strong><br><br>
-
-📡 F10.7 radio axını: <strong>təxminən 110 sfu</strong><br><br>
-
-🌬️ Günəş küləyi: <strong>təxminən 335 km/saat deyil, 335 km/saniyə</strong><br><br>
-
+☀️ Günəş ləkələri: <strong>72</strong><br><br>
+📡 F10.7: <strong>≈110 sfu</strong><br><br>
+🌬️ Günəş küləyi: <strong>≈335 km/s</strong><br><br>
 🧲 Geomaqnit vəziyyət: <strong>əsasən sakit</strong><br><br>
-
-🔥 M sinifli alışma ehtimalı: <strong>təxminən 20%</strong><br><br>
-
-💥 X sinifli alışma ehtimalı: <strong>təxminən 1%</strong>
+🔥 M sinifli alışma ehtimalı: <strong>≈20%</strong><br><br>
+💥 X sinifli alışma ehtimalı: <strong>≈1%</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">📊 5–11 sentyabr üçün Günəş və geomaqnit aktivliyi</h3>
+<h3 style="color:#38bdf8;">📊 5–11 sentyabr</h3>
 
 <div style="overflow-x:auto;margin:20px 0;">
+<table style="width:100%;border-collapse:collapse;text-align:center;
+background:rgba(15,23,42,0.05);">
 
-<table style="width:100%;border-collapse:collapse;text-align:center;">
-
-<tr style="background:#312e81;color:#ffffff;">
-<th style="padding:12px;border:1px solid #475569;">📅 Tarix</th>
-<th style="padding:12px;border:1px solid #475569;">☀️ Günəş aktivliyi</th>
-<th style="padding:12px;border:1px solid #475569;">🧲 Geomaqnit vəziyyət</th>
-<th style="padding:12px;border:1px solid #475569;">⚠️ Qiymətləndirmə</th>
+<tr style="background:rgba(59,130,246,0.08);">
+<th style="padding:12px;border:1px solid rgba(148,163,184,0.25);">📅 Tarix</th>
+<th style="padding:12px;border:1px solid rgba(148,163,184,0.25);">☀️ Aktivlik</th>
+<th style="padding:12px;border:1px solid rgba(148,163,184,0.25);">🧲 Vəziyyət</th>
 </tr>
 
 <tr>
-<td style="padding:12px;border:1px solid #475569;"><strong>5 sentyabr</strong></td>
-<td style="padding:12px;border:1px solid #475569;">🟡 Orta</td>
-<td style="padding:12px;border:1px solid #475569;">🟢 Kp ~2–3</td>
-<td style="padding:12px;border:1px solid #475569;">🟢 Sakit</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">5 sentyabr</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟡 Orta</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟢 Sakit</td>
 </tr>
 
 <tr>
-<td style="padding:12px;border:1px solid #475569;"><strong>6 sentyabr</strong></td>
-<td style="padding:12px;border:1px solid #475569;">🟡 Orta</td>
-<td style="padding:12px;border:1px solid #475569;">🟢 Əsasən sakit</td>
-<td style="padding:12px;border:1px solid #475569;">🟢 Aşağı risk</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">6 sentyabr</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟡 Orta</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟢 Əsasən sakit</td>
 </tr>
 
 <tr>
-<td style="padding:12px;border:1px solid #475569;"><strong>7 sentyabr</strong></td>
-<td style="padding:12px;border:1px solid #475569;">🟡 Orta</td>
-<td style="padding:12px;border:1px solid #475569;">🟡 Günün sonunda arta bilər</td>
-<td style="padding:12px;border:1px solid #475569;">🟡 CME təsiri izlənilir</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">7 sentyabr</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟡 Orta</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟡 Aktivləşmə mümkündür</td>
 </tr>
 
-<tr style="background:rgba(249,115,22,0.12);">
-<td style="padding:12px;border:1px solid #475569;"><strong>8 sentyabr</strong></td>
-<td style="padding:12px;border:1px solid #475569;">🟠 Orta–yüksək</td>
-<td style="padding:12px;border:1px solid #475569;">🟡🟠 Aktivləşmə mümkündür</td>
-<td style="padding:12px;border:1px solid #475569;">⚠️ G1 ehtimalı</td>
-</tr>
-
-<tr>
-<td style="padding:12px;border:1px solid #475569;"><strong>9 sentyabr</strong></td>
-<td style="padding:12px;border:1px solid #475569;">🟡 Orta</td>
-<td style="padding:12px;border:1px solid #475569;">🟡 Qalıq pozuntular mümkündür</td>
-<td style="padding:12px;border:1px solid #475569;">🟡 İlkin</td>
+<tr style="background:rgba(249,115,22,0.06);">
+<td style="padding:12px;border:1px solid rgba(249,115,22,0.25);"><strong>8 sentyabr</strong></td>
+<td style="padding:12px;border:1px solid rgba(249,115,22,0.25);">🟠 Orta–yüksək</td>
+<td style="padding:12px;border:1px solid rgba(249,115,22,0.25);">⚠️ G1 ehtimalı</td>
 </tr>
 
 <tr>
-<td style="padding:12px;border:1px solid #475569;"><strong>10 sentyabr</strong></td>
-<td style="padding:12px;border:1px solid #475569;">🟡 Orta*</td>
-<td style="padding:12px;border:1px solid #475569;">🟢 İlkin olaraq sakit</td>
-<td style="padding:12px;border:1px solid #475569;">🟢 İlkin</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">9 sentyabr</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟡 Orta</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟡 Qalıq pozuntular mümkündür</td>
 </tr>
 
 <tr>
-<td style="padding:12px;border:1px solid #475569;"><strong>11 sentyabr</strong></td>
-<td style="padding:12px;border:1px solid #475569;">🟡 Orta*</td>
-<td style="padding:12px;border:1px solid #475569;">🟢 İlkin olaraq sakit</td>
-<td style="padding:12px;border:1px solid #475569;">🟢 İlkin</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">10 sentyabr</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟡 Orta*</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟢 İlkin olaraq sakit</td>
+</tr>
+
+<tr>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">11 sentyabr</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟡 Orta*</td>
+<td style="padding:12px;border:1px solid rgba(148,163,184,0.20);">🟢 İlkin olaraq sakit</td>
 </tr>
 
 </table>
 </div>
 
-<p style="color:#94a3b8;font-size:14px;">
-* 9–11 sentyabr üçün göstəricilər ilkin tendensiyanı əks etdirir.
-Günəş alışmaları və yeni koronal kütlə atılmaları baş verdikdə
-kosmik hava proqnozu qısa müddətdə dəyişə bilər.
-</p>
+<h3 style="color:#f97316;">☀️💨 7–8 sentyabr diqqət mərkəzindədir</h3>
 
-<h3 style="color:#f59e0b;">🔥 Günəşdə aktiv bölgələrin sayı artır</h3>
+<div style="
+background:rgba(249,115,22,0.06);
+border:1px solid rgba(249,115,22,0.32);
+padding:18px;
+border-radius:10px;
+margin:18px 0;">
 
-<p>
-Günəşin Yerə baxan tərəfində bir neçə aktiv bölgə müşahidə olunur.
-<strong>AR4525, AR4526 və AR4527</strong> bölgələri Günəş alışmaları
-baxımından diqqət mərkəzindədir.
-</p>
+<strong style="color:#fb923c;">⚠️ MÜMKÜN CME TƏSİRİ</strong><br><br>
 
-<p>
-Yaxın dövr üçün <strong>M sinifli alışmanın baş vermə ehtimalı
-təxminən 20%</strong>, daha güclü <strong>X sinifli alışmanın ehtimalı
-isə təxminən 1%</strong> səviyyəsində qiymətləndirilir.
-</p>
-
-<div style="background:#78350f;color:#ffffff;padding:17px;border-radius:10px;
-font-size:19px;margin:18px 0;">
-
-<strong>🔥 GÜNƏŞ ALIŞMALARININ SİNİFLƏRİ</strong><br><br>
-
-🟢 C — zəif alışmalar<br><br>
-
-🟡 M — orta və güclü alışmalar<br><br>
-
-🔴 X — ən güclü Günəş alışmaları
+📅 <strong>7 sentyabrın sonu – 8 sentyabr</strong><br><br>
+☀️ CME-nin kənar hissəsinin Yerə toxunması mümkündür<br><br>
+🧲 Geomaqnit aktivlik arta bilər<br><br>
+🌪️ <strong>G1 səviyyəli zəif geomaqnit qasırğası ehtimalı izlənilir</strong>
 
 </div>
 
-<h3 style="color:#f97316;">☀️💨 CME Yerə toxuna bilər</h3>
-
 <p>
-Sentyabrın 3–4-də Günəşdən bir neçə
-<strong>koronal kütlə atılması — CME</strong> qeydə alınıb.
-</p>
-
-<p>
-Hazırkı hesablamalara əsasən, onlardan birinin əsas hissəsinin
-Yer kürəsinə birbaşa istiqamətlənmədiyi, lakin kənar hissəsinin
-<strong>7 sentyabrın sonu və ya 8 sentyabrda Yer kürəsinin maqnit
-sahəsinə toxuna biləcəyi</strong> ehtimal olunur.
-</p>
-
-<p>
-Belə bir təsir baş verərsə, Günəş küləyinin sürəti və maqnit sahəsinin
-aktivliyi arta bilər.
-</p>
-
-<div style="background:#9a3412;color:#ffffff;padding:18px;border-radius:10px;
-font-size:19px;margin:18px 0;">
-
-<strong>⚠️ 7–8 SENTYABR DİQQƏT MƏRKƏZİNDƏDİR</strong><br><br>
-
-☀️ Hadisə: <strong>mümkün CME təsiri</strong><br><br>
-
-📅 Vaxt: <strong>7 sentyabrın sonu – 8 sentyabr</strong><br><br>
-
-🧲 Nəticə: <strong>geomaqnit aktivliyin yüksəlməsi mümkündür</strong><br><br>
-
-🌪️ Maksimum ehtimal olunan səviyyə:
-<strong>G1 — zəif geomaqnit qasırğası</strong>
-
-</div>
-
-<h3 style="color:#38bdf8;">🧲 G1 maqnit qasırğası nə deməkdir?</h3>
-
-<p>
-G1 NOAA-nın beşpilləli geomaqnit qasırğası şkalasında
-<strong>ən aşağı qasırğa səviyyəsidir.</strong>
-</p>
-
-<p>
-G1 səviyyəsi adətən Yer kürəsinin böyük hissəsində ciddi problem
-yaratmır. Yüksək enliklərdə qütb parıltılarının görünmə sahəsi
-genişlənə və bəzi texniki sistemlərdə zəif təsirlər müşahidə oluna bilər.
-</p>
-
-<p>
-Hazırda <strong>G1 qasırğasının baş verəcəyi dəqiq deyil.</strong>
-Bu, CME-nin Yerə çatarkən sürətindən və onun maqnit sahəsinin
-istiqamətindən asılı olacaq.
-</p>
-
-<h3 style="color:#22c55e;">🟢 Hazırda geomaqnit vəziyyət sakitdir</h3>
-
-<p>
-5 sentyabrda Yer kürəsinin maqnit sahəsində ciddi pozuntu müşahidə
-olunmur. Kp indeksinin əsasən <strong>2–3 ətrafında</strong> olması
-sakit geomaqnit şəraitə uyğundur.
-</p>
-
-<p>
-Əsas diqqət növbəti 48–72 saat ərzində mümkün CME təsirinə yönəlib.
-</p>
-
-<div style="background:#172554;color:#ffffff;padding:17px;border-radius:10px;
-font-size:18px;margin:18px 0;">
-
-<strong>📊 HƏFTƏNİN QISA XÜLASƏSİ</strong><br><br>
-
-☀️ Günəş aktivliyi: <strong>orta</strong><br><br>
-
-🔥 M sinifli alışmalar: <strong>mümkündür</strong><br><br>
-
-💥 X sinifli alışma: <strong>aşağı ehtimal</strong><br><br>
-
-🟢 5–6 sentyabr: <strong>əsasən sakit</strong><br><br>
-
-🟡 7 sentyabr: <strong>geomaqnit aktivlik arta bilər</strong><br><br>
-
-🟠 8 sentyabr: <strong>CME təsiri və zəif G1 qasırğası ehtimalı izlənilir</strong><br><br>
-
-🟢 9–11 sentyabr: <strong>ilkin olaraq sakitləşmə gözlənilir</strong>
-
-</div>
-
-<p style="background:#312e81;color:#ffffff;padding:17px;border-radius:10px;
-font-size:19px;font-weight:bold;">
-🌌 META PROQNOZ: Həftənin əsas kosmik hava hadisəsi 7–8 sentyabrda
-mümkün CME təsiridir. Hazırda güclü geomaqnit qasırğası proqnozlaşdırılmır,
-lakin vəziyyət yeni Günəş alışmaları baş verdiyi halda dəyişə bilər.
-</p>
-
-<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-☀️📡 META Meteorologiya Mərkəzi Günəş alışmalarını, CME-ləri,
-Günəş küləyini və Yer kürəsinin geomaqnit vəziyyətini izləməyə davam edir.
-</p>
-
-<p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Kosmik hava, meteorologiya və təbiət xəbərləri üçün WhatsApp kanalımıza qoşulun:
-<br><br>
-
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank"
-style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı
-</a>
-</p>
-
-<p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
-</p>
-
-<hr>
-
-<p style="color:#94a3b8;font-size:14px;">
-<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
-Saytda təqdim olunan avtomatlaşdırılmış meteoroloji məlumatlar və hava proqnozları
-atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya
-təhlükəli meteoroloji hadisələr zamanı rəsmi dövlət qurumlarının məlumat və göstərişlərinə
-əməl etmək tövsiyə olunur.
-</p>
-
-<p style="color:#94a3b8;font-size:14px;">
-© 2026 META Abşeron. Bütün hüquqlar qorunur.
+Hazırda güclü geomaqnit qasırğası proqnozlaşdırılmır.
+Vəziyyət CME-nin faktiki trayektoriyası və Günəşdə yeni alışmaların
+baş verib-verməməsindən asılı olacaq.
 </p>
