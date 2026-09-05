@@ -146,37 +146,6 @@ təhlükəli meteoroloji hadisələr zamanı rəsmi dövlət qurumlarının məl
 <p style="color:#94a3b8;font-size:14px;">
 © 2026 META Abşeron. Bütün hüquqlar qorunur.
 </p>
-
-<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava, təbiət, ekologiya və kosmik
-hadisələrlə bağlı məlumatları izləməyə davam edir.
-</p>
-
-<p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Operativ məlumatlar üçün WhatsApp kanalımıza qoşulun:
-<br><br>
-
-<a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
-target="_blank"
-style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı
-</a>
-</p>
-
-<p style="color:#22c55e;font-size:22px;font-weight:bold;">
-👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
-</p>
-
-<hr>
-
-<p style="color:#94a3b8;font-size:14px;">
-<strong>Qeyd:</strong> META Absheron meteoroloji məlumatları təqdim edən müstəqil bir layihədir.
-Saytda təqdim olunan avtomatlaşdırılmış meteoroloji məlumatlar və hava proqnozları
-atmosfer şəraitinin dəyişməsi ilə əlaqədar olaraq yenilənə bilər. Fövqəladə hallar və ya
-təhlükəli meteoroloji hadisələr zamanı rəsmi dövlət qurumlarının məlumat və göstərişlərinə
-əməl etmək tövsiyə olunur.
-</p>
-
 <p style="color:#94a3b8;font-size:14px;">
 © 2026 META Abşeron. Bütün hüquqlar qorunur.
 </p>
