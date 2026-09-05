@@ -1,148 +1,170 @@
-<h2 style="color:#ef4444;">🚧🚗 Bakıda IRONMAN 70.3 yarışı ilə əlaqədar bir sıra yollarda hərəkət məhdudlaşdırılacaq</h2>
+<h2 style="color:#f97316;">
+🟠⚠️ NARINCI XƏBƏRDARLIQ: Bakıda və bir sıra rayonlarda külək 102 km/saatadək güclənəcək
+</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 4 sentyabr 2026, 13:04 — Bakı vaxtı
+🕐 Əlavə olunub: 5 sentyabr 2026, 22:17 — Bakı vaxtı
 </p>
 
-<p>
-<strong>Bakıda keçiriləcək “Alufar IRONMAN 70.3 Baku” beynəlxalq yarışı ilə əlaqədar
-4 və 5 sentyabr tarixlərində paytaxtın bəzi küçə, prospekt və avtomobil yollarında
-nəqliyyat vasitələrinin hərəkətinə müvəqqəti məhdudiyyətlər tətbiq ediləcək.</strong>
-</p>
+<div style="background:#9a3412;color:#ffffff;padding:18px;border-radius:10px;
+font-size:20px;margin:18px 0;">
 
-<p>
-🚧 Məhdudiyyətlərin <strong>4 sentyabr saat 21:00-dan</strong> mərhələli şəkildə
-tətbiqinə başlanılacaq və <strong>5 sentyabr saat 16:00-dək</strong> davam edəcək.
-</p>
+<strong>🟠 NARINCI SƏVİYYƏLİ XƏBƏRDARLIQ</strong><br><br>
 
-<div style="background:#7f1d1d;color:#ffffff;padding:17px;border-radius:10px;
-font-size:19px;margin:18px 0;">
-<strong>🚨 SÜRÜCÜLƏRİN NƏZƏRİNƏ!</strong><br><br>
+📅 Müddət: <strong>7 sentyabrdan 8 sentyabr səhərədək</strong><br><br>
 
-📅 Başlanğıc: <strong>4 sentyabr, saat 21:00</strong><br><br>
+🌬️ Külək: <strong>şimal-qərb</strong><br><br>
 
-🏁 Yarışın əsas mərhələsi: <strong>5 sentyabr, 05:00–14:30</strong><br><br>
+💨 Maksimum sürət:
+<strong>20,8–28,4 m/s (75–102 km/saat)</strong><br><br>
 
-🧹 Təmizlik və bərpa işləri: <strong>14:30–16:00</strong><br><br>
+📍 Bakı, Abşeron və Azərbaycanın bir sıra rayonları
 
-🟢 Hərəkətin tam bərpası gözlənilir: <strong>5 sentyabr, saat 16:00-dan sonra</strong>
 </div>
 
-<h3 style="color:#f59e0b;">🛣️ M2 yolunda hərəkət necə təşkil olunacaq?</h3>
-
 <p>
-Bakı–Ələt–Qazax–Gürcüstan ilə dövlət sərhədi avtomobil yolunda
-<strong>(M2)</strong>, Heydər Əliyev adına Bakı Dərin Özüllər Zavodunun
-yaxınlığındakı yol qovşağından başlayaraq, yolun <strong>25-ci kilometrindən</strong>
-əks istiqamətdə hərəkətin təmin edilməsi məqsədilə qarşı tərəfdən gələn
-nəqliyyat vasitələri üçün <strong>bir hərəkət zolağı ayrılacaq.</strong>
+<strong>Milli Hidrometeorologiya Xidməti sentyabrın 7-dən
+8 sentyabr səhər saatlarınadək gözlənilən güclü küləklə əlaqədar
+Bakı, Abşeron yarımadası və ölkənin bir sıra rayonları üçün
+sarı və narıncı səviyyəli hava xəbərdarlığı elan edib.</strong>
 </p>
 
 <p>
-🚗 Bundan başqa, <strong>Lökbatan dairəsi istiqamətində</strong> ümumi istifadədə
-olan nəqliyyat vasitələri üçün bir hərəkət zolağı nəzərdə tutulacaq.
+🌬️ Ən güclü küləyin müşahidə ediləcəyi ərazilərdə
+şimal-qərb küləyinin sürətinin <strong>20,8–28,4 m/s</strong>-dək
+çatacağı proqnozlaşdırılır.
 </p>
 
-<h3 style="color:#ef4444;">⛔ M3 yolunda məhdudiyyət</h3>
+<p style="color:#fb923c;font-size:22px;font-weight:bold;">
+💨 Bu, təxminən 75–102 km/saat külək sürətinə bərabərdir.
+</p>
+
+<h3 style="color:#f97316;">🟠 Narıncı xəbərdarlıq hansı ərazilərə aiddir?</h3>
 
 <p>
-Bakı–Ələt avtomobil yolunda <strong>(M3)</strong> Lökbatan dairəsi istiqamətində
-yolun <strong>14-cü kilometrindən şəhər mərkəzi istiqamətində</strong>
-“Sheraton Baku Intourist” hotelinin qarşısındakı dairəvi yol qovşağınadək
-nəqliyyat vasitələrinin hərəkəti məhdudlaşdırılacaq.
+<strong>20,8–28,4 m/s (75–102 km/saat)</strong> sürətli
+şimal-qərb küləyi aşağıdakı ərazilərdə gözlənilir:
 </p>
 
-<h3 style="color:#22c55e;">🔄 Alternativ yol hansıdır?</h3>
+<div style="background:#7c2d12;color:#ffffff;padding:17px;border-radius:10px;
+font-size:17px;line-height:1.7;margin:18px 0;">
 
-<p>
-🚙 Sürücülər alternativ olaraq
-<strong>Bakı–Ələt (M3) avtomobil yolunun Lökbatan–Bayıl istiqamətindən</strong>
-istifadə edə bilərlər.
-</p>
+📍 <strong>Bakı və Abşeron yarımadası</strong><br><br>
 
-<div style="background:#14532d;color:#ffffff;padding:16px;border-radius:10px;
-font-size:19px;margin:18px 0;">
-<strong>✅ ALTERNATİV MARŞRUT</strong><br><br>
+📍 Ağstafa, Qazax, Tovuz, Şəmkir, Samux, Gəncə<br>
+📍 Daşkəsən, Goranboy, Naftalan, Mingəçevir, Yevlax<br>
+📍 Bərdə, Tərtər, Ağdam<br>
+📍 Balakən, Zaqatala, Qax, Şəki, Oğuz, Qəbələ<br>
+📍 Göyçay, Ucar<br>
+📍 Qusar, Xaçmaz, Şabran, Siyəzən, Xızı<br>
+📍 Qobustan, Hacıqabul və Neftçala
 
-🚗 Bakı–Ələt (M3)<br>
-⬇️<br>
-🔄 Lökbatan istiqaməti<br>
-⬇️<br>
-🏙️ <strong>Lökbatan → Bayıl istiqaməti</strong>
 </div>
 
-<h3 style="color:#38bdf8;">⏰ Məhdudiyyətlərin dəqiq vaxtları</h3>
+<h3 style="color:#eab308;">🟡 Sarı xəbərdarlıq elan edilən rayonlar</h3>
 
 <p>
-🔧 <strong>Hazırlıq mərhələsi:</strong><br>
-4 sentyabr 21:00 → 5 sentyabr 04:59
+Digər bir sıra rayonlarda isə küləyin sürətinin
+<strong>13,9–20,7 m/s (50–75 km/saat)</strong> arasında olacağı
+gözlənilir və həmin ərazilər üçün <strong>sarı xəbərdarlıq</strong>
+qüvvədə olacaq.
 </p>
+
+<div style="background:#713f12;color:#ffffff;padding:17px;border-radius:10px;
+font-size:17px;line-height:1.7;margin:18px 0;">
+
+📍 Gədəbəy, Göygöl<br>
+📍 Şərur, Sədərək<br>
+📍 Quba<br>
+📍 Salyan, Şirvan, Sabirabad, Saatlı<br>
+📍 Cəbrayıl, Zəngilan, Kəlbəcər, Laçın<br>
+📍 Füzuli, Beyləqan, İmişli, Kürdəmir<br>
+📍 Ağsu, Şamaxı, İsmayıllı<br>
+📍 Zərdab, Ağdaş, Ağcabədi və Xocavənd
+
+</div>
+
+<h3 style="color:#ef4444;">⚠️ Güclü külək zamanı diqqətli olun</h3>
 
 <p>
-🏊‍♂️🚴‍♂️🏃‍♂️ <strong>Yarışın əsas mərhələsi:</strong><br>
-5 sentyabr 05:00 → 14:30
+Narıncı xəbərdarlıq səviyyəsinin qüvvədə olduğu ərazilərdə
+küləyin sürətinin 100 km/saat həddini keçə bilməsi nəzərə alınaraq,
+açıq ərazilərdə və şəhər daxilində ehtiyatlı olmaq tövsiyə edilir.
 </p>
 
-<p>
-🧹 <strong>Təmizlik və bərpa işləri:</strong><br>
-5 sentyabr 14:30 → 16:00
-</p>
-
-<h3 style="color:#f59e0b;">🚗 Tıxac ehtimalı var</h3>
-
-<p>
-Sürücülərə və digər hərəkət iştirakçılarına göstərilən tarix və saatlarda
-marşrutlarını <strong>əvvəlcədən planlaşdırmaq</strong>, mümkün sıxlığı nəzərə almaq
-və alternativ yollardan istifadə etmək tövsiyə olunur.
-</p>
-
-<p style="background:#78350f;color:#ffffff;padding:16px;border-radius:10px;
-font-size:19px;font-weight:bold;">
-⚠️ Xüsusilə 5 sentyabr səhər saatlarından günortayadək M2, M3,
-Lökbatan və Bayıl istiqamətlərində hərəkət edən sürücülərin
-məhdudiyyətləri nəzərə almaları tövsiyə olunur.
-</p>
-
-<h3 style="color:#22c55e;">🏊‍♂️🚴‍♂️🏃‍♂️ 62 ölkədən 1500-dən çox idmançı Bakıya gəlir</h3>
-
-<p>
-“Alufar IRONMAN 70.3 Baku” beynəlxalq yarışı
-<strong>5 sentyabrda Bakıda</strong> keçiriləcək.
-</p>
-
-<p>
-🌍 Yarışda <strong>62 ölkədən 1500-dən çox idmançının</strong>
-iştirak edəcəyi gözlənilir.
-</p>
-
-<p>
-IRONMAN 70.3 formatı üzgüçülük, velosiped və qaçış mərhələlərindən
-ibarət beynəlxalq triatlon yarışıdır.
-</p>
-
-<div style="background:#172554;color:#ffffff;padding:16px;border-radius:10px;
+<div style="background:#7f1d1d;color:#ffffff;padding:18px;border-radius:10px;
 font-size:18px;margin:18px 0;">
-<strong>📌 QISA XÜLASƏ</strong><br><br>
 
-🚧 Məhdudiyyətlər: <strong>4 sentyabr 21:00 – 5 sentyabr 16:00</strong><br><br>
+<strong>🚨 TƏHLÜKƏSİZLİK ÜÇÜN:</strong><br><br>
 
-🛣️ Təsir olunan əsas istiqamətlər: <strong>M2 və M3 avtomobil yolları</strong><br><br>
+🌳 Ağacların və iri budaqların altından uzaq durun.<br><br>
 
-🔄 Alternativ: <strong>Lökbatan–Bayıl istiqaməti</strong><br><br>
+🏗️ Tikinti sahələri və zəif bərkidilmiş konstruksiyaların yaxınlığında ehtiyatlı olun.<br><br>
 
-🏁 Yarış: <strong>5 sentyabr</strong><br><br>
+🏢 Balkon və pəncərə kənarındakı yüngül əşyaları təhlükəsiz yerə keçirin.<br><br>
 
-🌍 İştirakçılar: <strong>62 ölkədən 1500-dən çox idmançı</strong>
+🚗 Avtomobilləri iri ağacların və zəif konstruksiyaların altında saxlamayın.<br><br>
+
+🌊 Güclü külək zamanı sahilboyu açıq ərazilərdə xüsusilə diqqətli olun.
+
 </div>
+
+<h3 style="color:#38bdf8;">🌬️ Bakı və Abşeronda da narıncı səviyyə</h3>
+
+<p>
+Xəbərdarlığın ən vacib məqamlarından biri
+<strong>Bakı və Abşeron yarımadasının da narıncı zonaya daxil edilməsidir.</strong>
+</p>
+
+<p>
+Sentyabrın 7-də paytaxtda şimal-qərb küləyinin arabir
+<strong>20,8–28,4 m/s (75–102 km/saat)</strong>
+sürətə çatacağı gözlənilir.
+</p>
+
+<p>
+⚠️ Buna görə xüsusilə açıq ərazilərdə, sahilboyu zonalarda və
+hündür binaların ətrafında küləyin təsiri daha güclü hiss oluna bilər.
+</p>
+
+<div style="background:#172554;color:#ffffff;padding:17px;border-radius:10px;
+font-size:18px;margin:18px 0;">
+
+<strong>📊 XƏBƏRDARLIĞIN QISA XÜLASƏSİ</strong><br><br>
+
+📅 Başlanır: <strong>7 sentyabr</strong><br><br>
+
+⏰ Bitir: <strong>8 sentyabr səhər</strong><br><br>
+
+🟠 Narıncı səviyyə:
+<strong>20,8–28,4 m/s (75–102 km/saat)</strong><br><br>
+
+🟡 Sarı səviyyə:
+<strong>13,9–20,7 m/s (50–75 km/saat)</strong><br><br>
+
+🌬️ Küləyin istiqaməti: <strong>şimal-qərb</strong><br><br>
+
+🏙️ Bakı və Abşeron: <strong>🟠 NARINCI SƏVİYYƏ</strong>
+
+</div>
+
+<p style="background:#9a3412;color:#ffffff;padding:17px;border-radius:10px;
+font-size:20px;font-weight:bold;">
+🟠⚠️ META XƏBƏRDARLIQ: 7 sentyabrda Bakı və Abşeronda küləyin
+maksimum sürətinin 28,4 m/s — təxminən 102 km/saatadək çatması
+proqnozlaşdırılır. Sakinlərdən hava şəraitini nəzərə almaları və
+ehtiyatlı olmaları xahiş olunur.
+</p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META şəhərdə nəqliyyatın hərəkətinə təsir edən mühüm hadisələr və
-operativ dəyişikliklər barədə məlumat verməyə davam edir.
+📡 META Meteorologiya Mərkəzi küləyin güclənməsini və hava
+şəraitində baş verə biləcək dəyişiklikləri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Operativ xəbərlər və hava məlumatları üçün WhatsApp kanalımıza qoşulun:
+📲 Operativ hava xəbərdarlıqları üçün WhatsApp kanalımıza qoşulun:
 <br><br>
+
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
