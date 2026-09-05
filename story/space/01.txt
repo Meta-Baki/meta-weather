@@ -146,6 +146,3 @@ təhlükəli meteoroloji hadisələr zamanı rəsmi dövlət qurumlarının məl
 <p style="color:#94a3b8;font-size:14px;">
 © 2026 META Abşeron. Bütün hüquqlar qorunur.
 </p>
-<p style="color:#94a3b8;font-size:14px;">
-© 2026 META Abşeron. Bütün hüquqlar qorunur.
-</p>
