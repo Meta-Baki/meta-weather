@@ -1,46 +1,160 @@
 <h2 style="color:#a78bfa;">
-☀️🌑 NASA Günəş tutulmasını 15 kilometr yüksəklikdən müşahidə etdi
+🪐✨ Plutonun rəngarəng dünyası — NASA cırtdan planetin möhtəşəm görüntüsünü təqdim etdi
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 5 sentyabr 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 6 sentyabr 2026, 16:32 — Bakı vaxtı
 </p>
 
 <p>
-<strong>NASA tam Günəş tutulmasının yüksək atmosferdən çəkilmiş
-qeyri-adi görüntüsünü yayımlayıb. Müşahidə xüsusi WB-57F
-tədqiqat təyyarəsi ilə həyata keçirilib.</strong>
+<strong>Günəş sisteminin ən məşhur cırtdan planetlərindən biri olan Plutonun qeyri-adi rəngləri yenidən diqqət mərkəzindədir. Sentyabrın 6-da yayımlanan astronomik görüntüdə Plutonun səthi gücləndirilmiş rənglərdə nümayiş etdirilib.</strong>
+</p>
+
+<p>
+META Meteorologiya Mərkəzinin kosmik məlumatlar üzrə təhlilinə görə, görüntü NASA-nın <strong>New Horizons</strong> kosmik aparatının Plutonun yaxınlığından keçidi zamanı əldə etdiyi yüksək ayırdetməli fotoşəkillər və rəng məlumatlarının birləşdirilməsi əsasında hazırlanıb.
 </p>
 
 <div style="
-background:rgba(139,92,246,0.06);
+background:rgba(139,92,246,0.05);
 border:1px solid rgba(167,139,250,0.30);
 padding:18px;
 border-radius:10px;
 font-size:19px;
 margin:18px 0;">
 
-<strong style="color:#c4b5fd;">🌑 NASA-NIN MÜŞAHİDƏSİ</strong><br><br>
+<strong style="color:#c4b5fd;">🪐 PLUTON — ƏSAS MƏLUMATLAR</strong><br><br>
 
-🌑 Hadisə: <strong>Tam Günəş tutulması</strong><br><br>
-✈️ Platforma: <strong>NASA WB-57F</strong><br><br>
-📏 Hündürlük: <strong>təxminən 15,2 km</strong><br><br>
-📍 Müşahidə: <strong>İslandiya sahilləri yaxınlığı</strong>
+🚀 Kosmik aparat: <strong>New Horizons</strong><br><br>
+
+📅 Plutonun yaxınlığından keçid: <strong>iyul 2015</strong><br><br>
+
+🎨 Görüntü: <strong>gücləndirilmiş rənglərdə</strong><br><br>
+
+❤️ Ən məşhur bölgə: <strong>Tombaugh Regio</strong><br><br>
+
+❄️ Böyük hamar düzənlik: <strong>Sputnik Planitia</strong>
 
 </div>
 
-<h3 style="color:#38bdf8;">✈️ Ayın kölgəsinin arxasınca</h3>
+<h3 style="color:#38bdf8;">🎨 Bunlar Plutonun həqiqi rəngləridir?</h3>
 
 <p>
-Təyyarənin uçuş trayektoriyası Ayın Yer səthində hərəkət edən
-kölgəsinin daxilində mümkün qədər uzun müddət qalmaq üçün hesablanıb.
+Görüntüdəki rənglər insan gözünün Plutonu yaxından gördüyü halda müşahidə edəcəyi rənglərlə tam eyni deyil.
 </p>
 
-<h3 style="color:#f59e0b;">☀️ Günəş tacı müşahidə olunub</h3>
+<p>
+Alimlər New Horizons tərəfindən əldə edilmiş rəng məlumatlarını yüksək ayırdetməli görüntülərlə rəqəmsal şəkildə birləşdirərək <strong>gücləndirilmiş rəngli təsvir</strong> hazırlayıblar.
+</p>
+
+<div style="
+background:rgba(59,130,246,0.05);
+border:1px solid rgba(96,165,250,0.28);
+padding:17px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#60a5fa;">🔬 NİYƏ RƏNGLƏR GÜCLƏNDİRİLİR?</strong><br><br>
+
+🧪 Müxtəlif kimyəvi tərkibli əraziləri ayırmaq üçün<br><br>
+
+🗺️ Səth strukturlarını daha aydın göstərmək üçün<br><br>
+
+🧊 Buz və digər materialların paylanmasını araşdırmaq üçün<br><br>
+
+🔭 Plutonun geoloji quruluşunu daha yaxşı öyrənmək üçün
+
+</div>
+
+<h3 style="color:#f472b6;">❤️ Plutonun məşhur “ürəyi”</h3>
 
 <p>
-Ay Günəş diskini tam örtdükdə onun ətrafında Günəşin xarici
-atmosferi — <strong>korona</strong> görünür.
+Görüntüdə ən diqqətçəkən obyektlərdən biri Plutonun nəhəng açıq rəngli ürək formalı bölgəsi — <strong>Tombaugh Regio</strong>dur.
+</p>
+
+<p>
+Bu struktur Plutonun ilk kəşfçisi Klayd Tombonun şərəfinə adlandırılıb və New Horizons missiyasının ən məşhur kəşflərindən birinə çevrilib.
+</p>
+
+<p>
+Lakin yaxından aparılan müşahidələr göstərib ki, bu “ürək” vahid geoloji struktur deyil — onun iki hissəsi bir-birindən fərqlənir.
+</p>
+
+<div style="
+background:rgba(236,72,153,0.05);
+border:1px solid rgba(244,114,182,0.28);
+padding:17px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#f9a8d4;">❤️ TOMBAUGH REGIO</strong><br><br>
+
+Plutonun məşhur ürək formalı bölgəsidir.<br><br>
+
+🔬 Gücləndirilmiş rənglər onun daxilində geoloji cəhətdən fərqli sahələrin olduğunu daha aydın göstərir.
+
+</div>
+
+<h3 style="color:#e2e8f0;">❄️ Sputnik Planitia — qeyri-adi hamar dünya</h3>
+
+<p>
+“Ürəyin” sol hissəsində yerləşən <strong>Sputnik Planitia</strong> Plutonun ən maraqlı bölgələrindən biridir.
+</p>
+
+<p>
+Bu ərazi görüntüdə ətrafındakı sahələrlə müqayisədə qeyri-adi dərəcədə hamar görünür. Məhz belə xüsusiyyətlər Plutonun səthinin alimlərin əvvəl düşündüyündən daha mürəkkəb və geoloji baxımdan maraqlı olduğunu göstərib.
+</p>
+
+<div style="
+background:rgba(226,232,240,0.04);
+border:1px solid rgba(226,232,240,0.25);
+padding:17px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#e2e8f0;">❄️ MARAQLI FAKT</strong><br><br>
+
+Pluton Günəşdən çox uzaqda yerləşən soyuq bir dünya olsa da, New Horizons müşahidələri onun səthində müxtəlif və mürəkkəb geoloji strukturların olduğunu göstərib.
+
+</div>
+
+<h3 style="color:#f59e0b;">🚀 New Horizons Plutondan sonra yoluna davam etdi</h3>
+
+<p>
+NASA-nın New Horizons aparatı <strong>2015-ci ilin iyulunda</strong> Plutonun yaxınlığından keçərək cırtdan planet haqqında indiyədək əldə edilmiş ən detallı məlumatları Yerə göndərib.
+</p>
+
+<p>
+Missiya bununla başa çatmayıb. Kosmik aparat daha sonra Kuiper qurşağında yerləşən <strong>Arrokoth</strong> obyektinin yanından keçib. Bu tarixi yaxınlaşma 2019-cu ildə baş tutub.
+</p>
+
+<div style="
+background:rgba(249,115,22,0.05);
+border:1px solid rgba(249,115,22,0.28);
+padding:18px;
+border-radius:10px;
+font-size:18px;
+margin:18px 0;">
+
+<strong style="color:#fb923c;">🚀 NEW HORIZONS SƏYAHƏTİ</strong><br><br>
+
+🌍 Yer kürəsindən buraxılış<br>
+⬇️<br>
+🪐 <strong>Pluton — 2015</strong><br>
+⬇️<br>
+☄️ <strong>Arrokoth — 2019</strong><br>
+⬇️<br>
+🌌 Günəş sisteminin xarici bölgələrinə doğru səyahət
+
+</div>
+
+<h3 style="color:#22c55e;">🔭 Pluton niyə alimlər üçün vacibdir?</h3>
+
+<p>
+Pluton və digər Kuiper qurşağı obyektləri Günəş sisteminin çox qədim tarixindən qalan materialları qoruyub saxlaya bilər.
+</p>
+
+<p>
+Bu uzaq dünyaların öyrənilməsi planetlərin və digər göy cisimlərinin milyardlarla il əvvəl necə formalaşdığını daha yaxşı anlamağa kömək edir.
 </p>
 
 <div style="
@@ -48,31 +162,28 @@ background:rgba(59,130,246,0.05);
 border:1px solid rgba(96,165,250,0.25);
 padding:17px;
 border-radius:10px;
+font-size:18px;
 margin:18px 0;">
 
-<strong style="color:#60a5fa;">🔭 15 KM YÜKSƏKLİYİN ÜSTÜNLÜYÜ</strong><br><br>
-
-☁️ Buludların böyük hissəsindən yuxarı<br><br>
-💧 Daha az atmosfer su buxarı<br><br>
-🌫️ Daha az atmosfer maneəsi<br><br>
-📷 Daha aydın astronomik müşahidələr
+📡 <strong style="color:#60a5fa;">META Kosmos:</strong>
+Plutonun gücləndirilmiş rəngli görüntüsü sadəcə vizual effekt deyil.
+Rəng fərqləri alimlərə cırtdan planetin müxtəlif kimyəvi və geoloji bölgələrini bir-birindən ayırmağa kömək edir.
 
 </div>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava, təbiət, ekologiya və kosmik
-hadisələrlə bağlı məlumatları izləməyə davam edir.
+🌌📡 META Meteorologiya Mərkəzi kosmos, astronomiya, Günəş aktivliyi və planetlər haqqında yeni elmi məlumatları izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Operativ məlumatlar üçün WhatsApp kanalımıza qoşulun:
+📲 Kosmos və meteorologiya xəbərləri üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
 target="_blank"
 style="color:#25D366;font-weight:bold;text-decoration:none;">
-➡️ META WhatsApp Kanalı
-</a>
+➡️ META WhatsApp Kanalı </a>
+
 </p>
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
