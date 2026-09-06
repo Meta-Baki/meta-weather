@@ -1,87 +1,232 @@
-<h2 style="color:#f97316;">
-🟠⚠️ NARINCI XƏBƏRDARLIQ: Bakıda və bir sıra rayonlarda külək 102 km/saatadək güclənəcək
+<h2 style="color:#ef4444;">
+⚠️🌧️ FHN əhaliyə müraciət etdi: qeyri-sabit hava ilə əlaqədar təhlükəsizlik qaydalarına əməl edin
 </h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 5 sentyabr 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 6 sentyabr 2026, 16:32 — Bakı vaxtı
 </p>
 
 <p>
-<strong>7 sentyabrdan 8 sentyabr səhərədək Bakı, Abşeron və
-Azərbaycanın bir sıra rayonlarında güclü şimal-qərb küləyi gözlənilir.
-Sarı və narıncı səviyyəli xəbərdarlıqlar elan edilib.</strong>
+<strong>Azərbaycan Fövqəladə Hallar Nazirliyi (FHN) ölkə ərazisində
+gözlənilən qeyri-sabit və əlverişsiz hava şəraiti ilə əlaqədar
+əhaliyə müraciət edib.</strong>
 </p>
 
+<p>
+Milli Hidrometeorologiya Xidmətinin məlumatına əsasən, yaxın günlərdə
+ölkə ərazisində qeyri-sabit və yağıntılı hava şəraitinin müşahidə
+olunacağı, bəzi yerlərdə yağıntıların intensiv xarakter alacağı,
+bir sıra dağ çaylarından qısamüddətli sel keçəcəyi, güclü külək
+əsəcəyi və şimşək çaxacağı proqnozlaşdırılır.
+</p>
+
+
 <div style="
-background:rgba(249,115,22,0.06);
-border:1px solid rgba(249,115,22,0.35);
+background:rgba(239,68,68,0.06);
+border:1px solid rgba(239,68,68,0.32);
 padding:18px;
 border-radius:10px;
-font-size:20px;
+font-size:19px;
 margin:18px 0;">
 
-<strong style="color:#fb923c;">🟠 NARINCI SƏVİYYƏLİ XƏBƏRDARLIQ</strong><br><br>
+<strong style="color:#f87171;">⚠️ ƏSAS TƏHLÜKƏLƏR</strong><br><br>
 
-📅 <strong>7 sentyabr – 8 sentyabr səhər</strong><br><br>
-🌬️ Şimal-qərb küləyi<br><br>
-💨 <strong>20,8–28,4 m/s</strong><br><br>
-⚡ <strong>75–102 km/saat</strong><br><br>
-🏙️ <strong>Bakı və Abşeron da narıncı zonadadır</strong>
+🌧️ <strong>İntensiv yağıntılar</strong><br><br>
+
+🌊 <strong>Sel və daşqın təhlükəsi</strong><br><br>
+
+🏔️ <strong>Dağ çaylarından qısamüddətli sel keçməsi</strong><br><br>
+
+💨 <strong>Güclü külək</strong><br><br>
+
+⛈️ <strong>Şimşək və göy gurultusu</strong>
 
 </div>
 
-<h3 style="color:#f97316;">🟠 Narıncı xəbərdarlıq</h3>
+
+<h3 style="color:#38bdf8;">🌊 Sel və daşqın zamanı nə etmək lazımdır?</h3>
 
 <p>
-Bakı və Abşeron, Ağstafa, Qazax, Tovuz, Şəmkir, Samux, Gəncə,
-Daşkəsən, Goranboy, Naftalan, Mingəçevir, Yevlax, Bərdə, Tərtər,
-Ağdam, Balakən, Zaqatala, Qax, Şəki, Oğuz, Qəbələ, Göyçay, Ucar,
-Qusar, Xaçmaz, Şabran, Siyəzən, Xızı, Qobustan, Hacıqabul və
-Neftçalada küləyin sürəti <strong>20,8–28,4 m/s
-(75–102 km/saat)</strong> təşkil edə bilər.
+FHN vətəndaşlara sel, daşqın və subasma təhlükəsi olan ərazilərdən
+uzaq durmağı tövsiyə edir.
 </p>
 
-<h3 style="color:#eab308;">🟡 Sarı xəbərdarlıq</h3>
+<p>
+Təhlükə yarandığı halda dərhal <strong>daha yüksək və təhlükəsiz
+əraziyə qalxmaq</strong>, xilasedicilərin göstərişlərinə əməl etmək
+lazımdır.
+</p>
 
 <div style="
-background:rgba(234,179,8,0.06);
+background:rgba(59,130,246,0.05);
+border:1px solid rgba(96,165,250,0.30);
+padding:17px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#60a5fa;">🌊 SEL VƏ SUBASMA ZAMANI</strong><br><br>
+
+📍 Təhlükəli ərazilərdən uzaqlaşın.<br><br>
+
+🏔️ Mümkün qədər yüksək və təhlükəsiz yerə qalxın.<br><br>
+
+🌊 Güclü su axınını keçməyə çalışmayın.<br><br>
+
+🚨 Xilasedicilərin göstərişlərinə əməl edin.<br><br>
+
+📞 Fövqəladə vəziyyətdə <strong>112</strong> qaynar xəttinə müraciət edin.
+
+</div>
+
+
+<h3 style="color:#f97316;">💨 Güclü külək zamanı ehtiyatlı olun</h3>
+
+<p>
+Güclü külək zamanı yüngül konstruksiyaların, müvəqqəti tikililərin
+və reklam lövhələrinin yaxınlığında olmaq təhlükəlidir.
+</p>
+
+<p>
+Həmçinin elektrik xətlərindən, dirəklərdən və hündür ağaclardan
+təhlükəsiz məsafədə dayanmaq tövsiyə olunur.
+</p>
+
+<div style="
+background:rgba(249,115,22,0.05);
+border:1px solid rgba(249,115,22,0.30);
+padding:17px;
+border-radius:10px;
+margin:18px 0;">
+
+<strong style="color:#fb923c;">💨 GÜCLÜ KÜLƏK ZAMANI</strong><br><br>
+
+🏗️ Yüngül və müvəqqəti konstruksiyalardan uzaq durun.<br><br>
+
+📢 Reklam lövhələrinin altında dayanmayın.<br><br>
+
+⚡ Elektrik xətləri və dirəklərdən uzaq olun.<br><br>
+
+🌳 Hündür ağacların yaxınlığında dayanmayın.<br><br>
+
+🏠 Açıq havada təhlükəli əşyalardan qorunun.
+
+</div>
+
+
+<h3 style="color:#38bdf8;">🌊 Kiçikhəcmli gəmilərin dənizə çıxması təhlükəlidir</h3>
+
+<p>
+FHN hava şəraitinin pisləşdiyi dövrdə kiçikhəcmli gəmi
+istifadəçilərinə də xəbərdarlıq edib.
+</p>
+
+<p>
+<strong>Əlverişsiz hava şəraitində kiçikhəcmli gəmilərlə dənizə
+çıxmaq qadağandır.</strong>
+</p>
+
+
+<h3 style="color:#eab308;">⛈️ Şimşək zamanı bu qaydalara əməl edin</h3>
+
+<p>
+Göy gurultusu və şimşək zamanı açıq ərazidə qalmaq əlavə təhlükə
+yarada bilər. FHN elektrik cihazlarının şəbəkədən ayrılmasını və
+təhlükəli obyektlərdən uzaq durmağı tövsiyə edir.
+</p>
+
+<div style="
+background:rgba(234,179,8,0.05);
 border:1px solid rgba(234,179,8,0.30);
 padding:17px;
 border-radius:10px;
 margin:18px 0;">
 
-Gədəbəy, Göygöl, Şərur, Sədərək, Quba, Salyan, Şirvan,
-Sabirabad, Saatlı, Cəbrayıl, Zəngilan, Kəlbəcər, Laçın,
-Füzuli, Beyləqan, İmişli, Kürdəmir, Ağsu, Şamaxı,
-İsmayıllı, Zərdab, Ağdaş, Ağcabədi və Xocavənddə
-<strong>13,9–20,7 m/s (50–75 km/saat)</strong> külək gözlənilir.
+<strong style="color:#facc15;">⚡ ŞİMŞƏK VƏ GÖY GURULTUSU ZAMANI</strong><br><br>
+
+🔌 Elektrik cihazlarını şəbəkədən ayırın.<br><br>
+
+📱 Açıq havada telefondan istifadə etməyin.<br><br>
+
+⚡ Elektrik xətlərindən uzaq durun.<br><br>
+
+📡 Antena və ildırımötürücülərə yaxınlaşmayın.<br><br>
+
+🌳 Hündür ağacların altında gizlənməyin.
 
 </div>
 
-<h3 style="color:#ef4444;">⚠️ Ehtiyatlı olun</h3>
+
+<h3 style="color:#22c55e;">🚗 Avtomobildəsinizsə nə etməlisiniz?</h3>
+
+<p>
+Güclü şimşək və leysan zamanı sürücülərə avtomobili təhlükəsiz
+yerdə saxlamaq tövsiyə olunur.
+</p>
 
 <div style="
-background:rgba(239,68,68,0.06);
-border:1px solid rgba(239,68,68,0.30);
-padding:18px;
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
+padding:17px;
 border-radius:10px;
 margin:18px 0;">
 
-🌳 Ağacların altında dayanmayın.<br><br>
-🏗️ Zəif konstruksiyalardan uzaq durun.<br><br>
-🏢 Balkonlardakı yüngül əşyaları təhlükəsiz yerə keçirin.<br><br>
-🚗 Avtomobilləri iri ağacların altında saxlamayın.<br><br>
-🌊 Sahilboyu açıq ərazilərdə xüsusilə ehtiyatlı olun.
+<strong style="color:#4ade80;">🚗 AVTOMOBİLDƏ TƏHLÜKƏSİZLİK</strong><br><br>
+
+🅿️ Avtomobili təhlükəsiz yerdə saxlayın.<br><br>
+
+🪟 Şüşələri tam bağlayın.<br><br>
+
+⛈️ Güclü hava hadisəsinin keçməsini avtomobilin içərisində gözləyin.<br><br>
+
+🌳 Avtomobili hündür ağacların və təhlükəli konstruksiyaların yanında saxlamayın.
 
 </div>
 
-<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava, təbiət, ekologiya və kosmik
-hadisələrlə bağlı məlumatları izləməyə davam edir.
+
+<h3 style="color:#ef4444;">🚨 Təhlükə zamanı — 112</h3>
+
+<div style="
+background:rgba(239,68,68,0.06);
+border:1px solid rgba(239,68,68,0.35);
+padding:18px;
+border-radius:10px;
+font-size:20px;
+margin:18px 0;">
+
+<strong style="color:#f87171;">🚨 FÖVQƏLADƏ VƏZİYYƏT YARANARSA</strong><br><br>
+
+📞 <strong style="font-size:25px;">112</strong><br><br>
+
+Fövqəladə Hallar Nazirliyinin qaynar xətti<br><br>
+
+⚠️ Özünüzü təhlükəyə atmayın və xilasedicilərin göstərişlərinə əməl edin.
+
+</div>
+
+
+<p style="
+background:rgba(59,130,246,0.05);
+border:1px solid rgba(96,165,250,0.25);
+padding:17px;
+border-radius:10px;
+font-size:18px;">
+
+📡 <strong>META xəbərdarlığı:</strong> Yaxın günlərdə gözlənilən
+güclü külək, intensiv yağıntı və lokal sel təhlükəsini nəzərə alaraq
+hava şəraitindəki dəyişiklikləri izləmək və təhlükəsizlik qaydalarına
+əməl etmək tövsiyə olunur.
+
 </p>
 
+
+<p style="color:#60a5fa;font-size:20px;font-weight:bold;">
+🌦️📡 META Meteorologiya Mərkəzi Azərbaycanda hava şəraitini,
+təhlükəli meteoroloji hadisələri və rəsmi xəbərdarlıqları izləməyə davam edir.
+</p>
+
+
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Operativ məlumatlar üçün WhatsApp kanalımıza qoşulun:
+📲 Operativ hava xəbərdarlıqları üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
@@ -90,6 +235,7 @@ style="color:#25D366;font-weight:bold;text-decoration:none;">
 ➡️ META WhatsApp Kanalı
 </a>
 </p>
+
 
 <p style="color:#22c55e;font-size:22px;font-weight:bold;">
 👨‍💼 Təsisçi və rəhbər: Edelman Əliyev
