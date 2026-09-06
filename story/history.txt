@@ -1,93 +1,266 @@
-<h2 style="color:#38bdf8;">🌧️⛈️ Azərbaycanda bazar günü yağış gözlənilir — bəzi rayonlarda leysan, şimşək və dolu olacaq</h2>
+<h2 style="color:#38bdf8;">
+🌧️⛈️ Azərbaycanda leysan, şimşək və dolu gözlənilir — yüksək dağlıq ərazilərdə qar yağa bilər
+</h2>
 
 <p style="text-align:right;color:#94a3b8;font-size:14px;">
-🕐 Əlavə olunub: 5 sentyabr 2026 — Bakı vaxtı
+🕐 Əlavə olunub: 6 sentyabr 2026, 16:32 — Bakı vaxtı
 </p>
 
 <p>
-<strong>Sentyabrın 6-da Azərbaycanda hava əsasən yağmursuz keçsə də,
-Bakı və Abşeronun bəzi ərazilərində, eləcə də dağlıq və dağətəyi
-rayonlarda yağıntı ehtimal olunur.</strong>
-</p>
-
-<h3 style="color:#38bdf8;">🏙️ Bakı və Abşeron</h3>
-
-<p>
-Hava dəyişkən buludlu, arabir tutulacaq və əsasən yağmursuz keçəcək.
-Lakin gecə və səhər bəzi yerlərdə <strong>qısamüddətli az yağış</strong>
-yağa bilər.
+<strong>Sentyabrın 7-də Azərbaycanda hava şəraitinin qeyri-sabit keçəcəyi
+gözlənilir. Bir sıra rayonlarda intensiv leysan, şimşək və dolu,
+yüksək dağlıq ərazilərdə isə qar yağması ehtimal olunur.</strong>
 </p>
 
 <p>
-🌬️ Mülayim şimal-qərb küləyi səhər şimal-şərq küləyi ilə əvəz olunacaq.
+META Hidrometeorologiya Mərkəzi məlumatına görə, Bakı və Abşeron
+yarımadasında hava dəyişkən buludlu, arabir tutulacaq və əsasən
+yağmursuz keçəcək. Lakin gündüzdən etibarən bəzi yerlərdə fasilələrlə
+yağış yağacağı, ayrı-ayrı ərazilərdə isə qısamüddətli leysan və
+şimşək çaxacağı ehtimal olunur.
 </p>
 
 <div style="
-background:rgba(14,165,233,0.06);
-border:1px solid rgba(56,189,248,0.30);
-padding:17px;
+background:rgba(59,130,246,0.05);
+border:1px solid rgba(96,165,250,0.30);
+padding:18px;
 border-radius:10px;
 font-size:19px;
 margin:18px 0;">
 
-<strong style="color:#38bdf8;">📍 BAKI VƏ ABŞERON — 6 SENTYABR</strong><br><br>
+<strong style="color:#60a5fa;">🏙️ BAKI VƏ ABŞERON — 7 SENTYABR</strong><br><br>
 
-🌧️ Yağıntı: <strong>gecə və səhər lokal az yağış mümkündür</strong><br><br>
-🌙 Gecə: <strong>+20…+23°C</strong><br><br>
-🌤️ Gündüz: <strong>+27…+32°C</strong><br><br>
-🌬️ Külək: <strong>şimal-qərb → şimal-şərq</strong><br><br>
-💧 Rütubət: <strong>70–75% / 55–60%</strong><br><br>
-🔵 Təzyiq: <strong>761 mmHg (≈1015 hPa)</strong>
+🌥️ Hava: <strong>dəyişkən buludlu, arabir tutulacaq</strong><br><br>
+
+🌧️ Gündüz: <strong>bəzi yerlərdə yağış</strong><br><br>
+
+⛈️ Lokal olaraq: <strong>qısamüddətli leysan və şimşək</strong><br><br>
+
+🌡️ Gecə: <strong>+20…+23°C</strong><br><br>
+
+🌡️ Gündüz: <strong>+28…+32°C</strong><br><br>
+
+🌆 Axşam: <strong>təxminən +26°C</strong><br><br>
+
+💧 Nisbi rütubət: <strong>60–70%</strong>
 
 </div>
 
-<h3 style="color:#f59e0b;">🇦🇿 Rayonlarda +35°C-dək isti</h3>
+<h3 style="color:#f97316;">💨 Gün ərzində güclü külək başlayacaq</h3>
 
 <p>
-Rayonlarda gecə <strong>+18…+21°C</strong>, gündüz
-<strong>+30…+35°C</strong> isti gözlənilir.
+Səhər və günün ilk yarısında mülayim cənub-qərb küləyi əsəcək.
+Gündüz isə külək istiqamətini dəyişərək
+<strong>güclü şimal-qərb küləyi</strong> ilə əvəz olunacaq.
 </p>
 
 <p>
-🏔️ Dağlarda gecə <strong>+12…+17°C</strong>,
-gündüz <strong>+20…+25°C</strong> olacaq.
+Sentyabrın 7-dən 8-i səhərədək Bakı, Abşeron və ölkənin bir sıra
+rayonları üzrə küləkli hava ilə bağlı sarı və narıncı xəbərdarlıq
+qüvvədədir. :contentReference[oaicite:1]{index=1}
 </p>
-
-<h3 style="color:#ef4444;">⛈️ Leysan, şimşək və dolu ehtimalı</h3>
-
-<p>
-Gecə və axşam bəzi dağlıq və dağətəyi rayonlarda arabir yağış,
-ayrı-ayrı yerlərdə <strong>qısamüddətli leysan, şimşək və dolu</strong>
-ehtimal olunur.
-</p>
-
-<p>🌫️ Gecə və səhər bəzi dağlıq ərazilərdə duman ola bilər.</p>
 
 <div style="
-background:rgba(239,68,68,0.06);
-border:1px solid rgba(239,68,68,0.30);
-padding:17px;
+background:rgba(249,115,22,0.05);
+border:1px solid rgba(249,115,22,0.32);
+padding:18px;
 border-radius:10px;
 font-size:19px;
 margin:18px 0;">
 
-<strong style="color:#f87171;">⚠️ 6 SENTYABR — DİQQƏT</strong><br><br>
+<strong style="color:#fb923c;">⚠️ GÜCLÜ KÜLƏK XƏBƏRDARLIĞI</strong><br><br>
 
-🌧️ Bakı və Abşeron: <strong>lokal yağış</strong><br><br>
-⛈️ Dağlıq rayonlar: <strong>leysan və şimşək</strong><br><br>
-🌨️ Lokal olaraq: <strong>dolu mümkündür</strong><br><br>
-🌫️ Dağlarda: <strong>duman</strong><br><br>
-🌡️ Maksimum temperatur: <strong>+35°C</strong>
+📅 Dövr: <strong>7 sentyabr – 8 sentyabr səhər</strong><br><br>
+
+💨 Külək: <strong>güclü şimal-qərb</strong><br><br>
+
+🏙️ Bakı və Abşeron:
+<strong>narıncı xəbərdarlıq zonasındadır</strong><br><br>
+
+⚠️ Açıq ərazilərdə və sahilboyu zonalarda ehtiyatlı olmaq tövsiyə olunur.
 
 </div>
+
+<h3 style="color:#38bdf8;">📈 Atmosfer təzyiqi yüksələcək</h3>
+
+<p>
+Bakıda və Abşeronda atmosfer təzyiqinin gün ərzində
+<strong>753 mm civə sütunundan 758 mm civə sütununa</strong>
+yüksələcəyi gözlənilir.
+</p>
+
+<div style="
+background:rgba(14,165,233,0.05);
+border:1px solid rgba(56,189,248,0.25);
+padding:17px;
+border-radius:10px;
+margin:18px 0;">
+
+🔵 Səhər: <strong>753 mmHg ≈ 1004 hPa</strong><br><br>
+
+🔵 Günün sonuna doğru: <strong>758 mmHg ≈ 1011 hPa</strong>
+
+</div>
+
+<h3 style="color:#a78bfa;">🇦🇿 Rayonlarda leysan, şimşək və dolu</h3>
+
+<p>
+Azərbaycanın rayonlarında bəzi yerlərdə arabir yağış yağacağı,
+ayrı-ayrı ərazilərdə yağıntıların
+<strong>intensiv leysan xarakterli</strong> olacağı gözlənilir.
+</p>
+
+<p>
+⛈️ Bəzi rayonlarda şimşək çaxacağı və
+<strong>dolu düşəcəyi</strong> ehtimal olunur.
+</p>
+
+<div style="
+background:rgba(139,92,246,0.05);
+border:1px solid rgba(167,139,250,0.28);
+padding:18px;
+border-radius:10px;
+font-size:19px;
+margin:18px 0;">
+
+<strong style="color:#c4b5fd;">🌧️ RAYONLARDA GÖZLƏNİLƏN VƏZİYYƏT</strong><br><br>
+
+🌧️ Arabir yağış<br><br>
+
+⛈️ Lokal intensiv leysan<br><br>
+
+⚡ Şimşək<br><br>
+
+🌨️ Dolu ehtimalı<br><br>
+
+🌫️ Gecə və səhər bəzi yerlərdə duman
+
+</div>
+
+<h3 style="color:#e2e8f0;">🏔️ Yüksək dağlarda qar yağa bilər</h3>
+
+<p>
+Proqnozun ən diqqətçəkən məqamlarından biri yüksək dağlıq
+ərazilərdə <strong>qar yağması ehtimalıdır.</strong>
+</p>
+
+<p>
+Sentyabrın əvvəlində aran rayonlarında temperatur hələ
+<strong>+30°C-dən yüksək</strong> olsa da, yüksək dağlıq ərazilərdə
+temperaturun aşağı düşməsi yağıntının qar şəklinə keçməsinə şərait
+yarada bilər.
+</p>
+
+<div style="
+background:rgba(226,232,240,0.04);
+border:1px solid rgba(226,232,240,0.28);
+padding:18px;
+border-radius:10px;
+font-size:19px;
+margin:18px 0;">
+
+<strong style="color:#e2e8f0;">❄️ DAĞLIQ ƏRAZİLƏR</strong><br><br>
+
+🌙 Gecə: <strong>+12…+17°C</strong><br><br>
+
+🌤️ Gündüz: <strong>+18…+23°C</strong><br><br>
+
+🏔️ Yüksək dağlarda: <strong>qar yağması mümkündür</strong><br><br>
+
+🌫️ Gecə və səhər: <strong>duman ehtimalı var</strong>
+
+</div>
+
+<h3 style="color:#f59e0b;">🌡️ Rayonlarda temperatur +34°C-dək yüksələcək</h3>
+
+<p>
+Aran və düzənlik rayonlarında havanın temperaturu gecə
+<strong>+18…+23°C</strong>, gündüz isə
+<strong>+30…+34°C</strong> olacaq.
+</p>
+
+<p>
+Dağlıq ərazilərdə hava xeyli sərin keçəcək:
+gecə <strong>+12…+17°C</strong>, gündüz
+<strong>+18…+23°C</strong> gözlənilir.
+</p>
+
+<div style="
+background:rgba(239,68,68,0.05);
+border:1px solid rgba(239,68,68,0.32);
+padding:18px;
+border-radius:10px;
+font-size:19px;
+margin:18px 0;">
+
+<strong style="color:#f87171;">⚠️ 7 SENTYABR — ƏSAS RİSKLƏR</strong><br><br>
+
+💨 <strong>Güclü şimal-qərb küləyi</strong><br><br>
+
+🌧️ <strong>İntensiv leysan</strong><br><br>
+
+⛈️ <strong>Şimşək</strong><br><br>
+
+🌨️ <strong>Dolu</strong><br><br>
+
+🏔️ <strong>Yüksək dağlarda qar</strong><br><br>
+
+🌫️ <strong>Duman</strong>
+
+</div>
+
+<h3 style="color:#22c55e;">📊 Qısa xülasə</h3>
+
+<div style="
+background:rgba(34,197,94,0.05);
+border:1px solid rgba(34,197,94,0.28);
+padding:18px;
+border-radius:10px;
+font-size:18px;
+margin:18px 0;">
+
+📅 <strong>7 sentyabr 2026</strong><br><br>
+
+🏙️ Bakı və Abşeron:
+<strong>+20…+23°C / +28…+32°C</strong><br><br>
+
+🌧️ Bakı:
+<strong>gündüz lokal yağış və leysan mümkündür</strong><br><br>
+
+💨 Külək:
+<strong>cənub-qərbdən güclü şimal-qərbə keçəcək</strong><br><br>
+
+🇦🇿 Rayonlar:
+<strong>+18…+23°C / +30…+34°C</strong><br><br>
+
+🏔️ Dağlar:
+<strong>+12…+17°C / +18…+23°C</strong><br><br>
+
+❄️ Yüksək dağlıq ərazilər:
+<strong>qar ehtimalı</strong>
+
+</div>
+
+<p style="
+background:rgba(59,130,246,0.05);
+border:1px solid rgba(96,165,250,0.25);
+padding:17px;
+border-radius:10px;
+font-size:18px;">
+
+📡 <strong>META proqnozu:</strong> 7 sentyabrda əsas diqqət güclü külək,
+lokal leysan və şimşək ehtimalına yönəlir. Dağlıq ərazilərdə hava
+şəraiti daha kəskin dəyişə bilər.
+
+</p>
 
 <p style="color:#60a5fa;font-size:20px;font-weight:bold;">
-📡 META Meteorologiya Mərkəzi hava, təbiət, ekologiya və kosmik
-hadisələrlə bağlı məlumatları izləməyə davam edir.
+🌦️📡 META Meteorologiya Mərkəzi Azərbaycanda hava şəraitini və
+təhlükəli meteoroloji hadisələri izləməyə davam edir.
 </p>
 
 <p style="color:#25D366;font-size:20px;font-weight:bold;">
-📲 Operativ məlumatlar üçün WhatsApp kanalımıza qoşulun:
+📲 Operativ hava proqnozları və xəbərdarlıqlar üçün WhatsApp kanalımıza qoşulun:
 <br><br>
 
 <a href="https://whatsapp.com/channel/0029VbCkDAC8vd1V5F16aa0z"
